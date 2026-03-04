@@ -65,6 +65,21 @@ CREATE TABLE IF NOT EXISTS trade_proposals (
   created_at         TIMESTAMPTZ DEFAULT NOW()
 );
 
+CREATE TABLE IF NOT EXISTS fpl_draft_picks (
+  id              BIGSERIAL PRIMARY KEY,
+  pick_number     INT  NOT NULL,
+  round           INT,
+  pick_in_round   INT,
+  manager_name    TEXT,
+  team_name       TEXT,
+  player_id       INT,
+  player_web_name TEXT,
+  player_position TEXT,
+  player_team     TEXT,
+  total_points    INT DEFAULT 0,
+  UNIQUE(pick_number)
+);
+
 -- ============================================================
 -- Row Level Security — permissive for private league use
 -- ============================================================
@@ -73,9 +88,11 @@ ALTER TABLE fpl_standings        ENABLE ROW LEVEL SECURITY;
 ALTER TABLE fpl_starting_lineups ENABLE ROW LEVEL SECURITY;
 ALTER TABLE trade_block          ENABLE ROW LEVEL SECURITY;
 ALTER TABLE trade_proposals      ENABLE ROW LEVEL SECURITY;
+ALTER TABLE fpl_draft_picks      ENABLE ROW LEVEL SECURITY;
 
 CREATE POLICY "public_all" ON fpl_current_squads   FOR ALL USING (true) WITH CHECK (true);
 CREATE POLICY "public_all" ON fpl_standings        FOR ALL USING (true) WITH CHECK (true);
 CREATE POLICY "public_all" ON fpl_starting_lineups FOR ALL USING (true) WITH CHECK (true);
 CREATE POLICY "public_all" ON trade_block          FOR ALL USING (true) WITH CHECK (true);
 CREATE POLICY "public_all" ON trade_proposals      FOR ALL USING (true) WITH CHECK (true);
+CREATE POLICY "public_all" ON fpl_draft_picks      FOR ALL USING (true) WITH CHECK (true);

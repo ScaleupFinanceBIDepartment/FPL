@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>VM 2026 Fantasy · SuF</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --purple:#601C98; --purple2:#7a22bc; --teal:#60DEC8; --mint:#D0FFF7;
+    --text:#252525; --muted:#8B89B4; --bg:#FAFAFA; --card:#FFFFFF;
+    --border:#DEDEDE; --green:#27C966; --yellow:#FCDF4A; --red:#FF460C;
+    --pitch1:#2d6a4f; --pitch2:#1a4731;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:Inter,system-ui,sans-serif;color:var(--text);background:var(--bg);line-height:1.45}
+  a{color:var(--purple)}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 18px 64px}
+  header{background:linear-gradient(110deg,var(--purple),var(--purple2));color:#fff;padding:26px 0 30px}
+  header .wrap{padding-bottom:0}
+  .brand{display:flex;align-items:center;gap:12px;font-weight:800;letter-spacing:.3px;font-size:14px;opacity:.9}
+  .dot{width:10px;height:10px;border-radius:50%;background:var(--teal)}
+  h1{margin:.35em 0 .15em;font-size:30px;font-weight:800}
+  .sub{opacity:.85;font-size:14px}
+  .pills{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+  .pill{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.25);padding:5px 11px;border-radius:999px;font-size:12.5px;font-weight:500}
+  .pill b{font-weight:700}
+  section{margin-top:30px}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:20px;box-shadow:0 1px 2px rgba(0,0,0,.03)}
+  h2{font-size:19px;margin:0 0 4px;font-weight:700}
+  .h-note{color:var(--muted);font-size:13px;margin:0 0 16px}
+  .row{display:flex;gap:18px;flex-wrap:wrap}
+  .grow{flex:1 1 340px}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--border)}
+  th{font-size:11.5px;text-transform:uppercase;letter-spacing:.4px;color:var(--muted);font-weight:600}
+  td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+  tbody tr:hover{background:#faf8fd}
+  .tag{display:inline-block;font-size:10.5px;font-weight:700;padding:2px 7px;border-radius:6px;line-height:1.3}
+  .pos-GK{background:#FFF3D6;color:#8a6d00}
+  .pos-DEF{background:#E2F0FF;color:#0b5cad}
+  .pos-MID{background:#E7F9EF;color:#0f7a3d}
+  .pos-FWD{background:#FFE6DE;color:#b5310d}
+  .injury{color:var(--red);font-weight:600}
+  .scout{color:var(--purple);font-weight:700}
+  .muted{color:var(--muted)}
+  /* toggle */
+  .toggle{display:inline-flex;background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:3px}
+  .toggle button{border:0;background:none;padding:7px 16px;border-radius:8px;font:inherit;font-weight:600;font-size:13.5px;cursor:pointer;color:var(--muted)}
+  .toggle button.on{background:var(--purple);color:#fff}
+  /* pitch */
+  .pitch{background:repeating-linear-gradient(var(--pitch1),var(--pitch1) 56px,var(--pitch2) 56px,var(--pitch2) 112px);
+    border-radius:14px;padding:22px 10px;display:flex;flex-direction:column;gap:20px;min-height:430px;position:relative}
+  .line{display:flex;justify-content:center;gap:14px;flex-wrap:wrap}
+  .chip{background:rgba(255,255,255,.97);border-radius:10px;width:108px;padding:8px 6px 7px;text-align:center;box-shadow:0 2px 6px rgba(0,0,0,.18);position:relative}
+  .chip .nm{font-weight:700;font-size:12.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .chip .meta{font-size:11px;color:var(--muted);margin-top:1px}
+  .chip .xp{font-size:11.5px;font-weight:700;color:var(--purple);margin-top:2px}
+  .badge{position:absolute;top:-7px;right:-7px;width:22px;height:22px;border-radius:50%;color:#fff;font-size:11px;font-weight:800;display:flex;align-items:center;justify-content:center;box-shadow:0 1px 3px rgba(0,0,0,.3)}
+  .badge.c{background:var(--purple)} .badge.v{background:var(--teal);color:#06443a}
+  .chip .fit{position:absolute;top:-6px;left:-6px;font-size:11px}
+  .teamstats{display:flex;gap:22px;flex-wrap:wrap;margin-top:14px}
+  .stat{font-size:13px}.stat b{display:block;font-size:20px;font-weight:800;color:var(--purple)}
+  .controls{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:14px}
+  input[type=search]{padding:8px 11px;border:1px solid var(--border);border-radius:9px;font:inherit;font-size:13.5px;min-width:180px}
+  select{padding:8px 11px;border:1px solid var(--border);border-radius:9px;font:inherit;font-size:13.5px;background:#fff}
+  .bv-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+  .empty{padding:22px;text-align:center;color:var(--muted);font-size:14px;background:var(--bg);border-radius:10px}
+  .err{color:var(--red)}
+  footer{margin-top:40px;color:var(--muted);font-size:12.5px;text-align:center}
+  .skel{color:var(--muted);font-size:14px;padding:16px}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="brand"><span class="dot"></span> SCALEUP FINANCE · FANTASY</div>
+    <h1>FIFA World Cup 2026 — Fantasy</h1>
+    <div class="sub" id="leagueLine">Indlæser liga…</div>
+    <div class="pills" id="pills"></div>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <!-- STANDINGS -->
+  <section>
+    <div class="card">
+      <h2>Ligastilling — <span id="leagueName">SuF</span></h2>
+      <p class="h-note" id="standingsNote">Hentes automatisk fra FIFA af bot-kontoen.</p>
+      <div id="standings"><div class="skel">Indlæser stilling…</div></div>
+    </div>
+  </section>
+
+  <!-- RECOMMENDED TEAM -->
+  <section>
+    <div class="card">
+      <div class="controls" style="justify-content:space-between">
+        <div><h2 style="display:inline">Anbefalet hold</h2>
+          <span class="h-note" style="margin-left:8px" id="recFormation"></span></div>
+        <div class="toggle" id="toggle">
+          <button data-v="yamalFit" class="on">Yamal FIT</button>
+          <button data-v="yamalOut">Yamal UDE</button>
+        </div>
+      </div>
+      <div class="pitch" id="pitch"></div>
+      <div class="teamstats" id="teamstats"></div>
+      <p class="h-note" id="recNote" style="margin-top:14px"></p>
+    </div>
+  </section>
+
+  <!-- BEST VALUE -->
+  <section>
+    <div class="card">
+      <h2>Bedste værdi pr. position</h2>
+      <p class="h-note">Forventede point pr. mio. (xPts ÷ pris) blandt sandsynlige startere.</p>
+      <div class="bv-grid" id="bestValue"></div>
+    </div>
+  </section>
+
+  <!-- ALL PLAYERS -->
+  <section>
+    <div class="card">
+      <h2>Spillermodel — top 120 efter xPts</h2>
+      <div class="controls">
+        <input type="search" id="search" placeholder="Søg navn eller nation…" />
+        <select id="posFilter">
+          <option value="">Alle positioner</option>
+          <option value="GK">Målmænd</option>
+          <option value="DEF">Forsvar</option>
+          <option value="MID">Midtbane</option>
+          <option value="FWD">Angreb</option>
+        </select>
+        <span class="muted" id="rowCount"></span>
+      </div>
+      <div style="overflow:auto">
+        <table id="playersTable">
+          <thead><tr>
+            <th>#</th><th>Spiller</th><th>Pos</th><th>Nation</th>
+            <th class="num">Pris</th><th class="num">Ejer%</th>
+            <th class="num">xPts</th><th class="num">Værdi</th><th>Note</th>
+          </tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <footer id="footer"></footer>
+</div>
+
+<script>
+const POS_ORDER = {GK:0,DEF:1,MID:2,FWD:3};
+const esc = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const posTag = p => `<span class="tag pos-${p}">${p}</span>`;
+const availIcon = f => f===0?'⛔':f<0.7?'🔴':f<0.95?'🟠':'';
+
+let MODEL=null, STAND=null, currentVariant='yamalFit';
+
+async function loadJSON(path){
+  const r = await fetch(path + '?t=' + Date.now());
+  if(!r.ok) throw new Error(path+': HTTP '+r.status);
+  return r.json();
+}
+
+function fmtDate(iso){ if(!iso) return '—'; try{return new Date(iso).toLocaleString('da-DK',{dateStyle:'medium',timeStyle:'short'});}catch{return iso;} }
+
+/* ---------- header ---------- */
+function renderHeader(){
+  const m = MODEL.meta;
+  document.getElementById('leagueName').textContent = m.league.name;
+  document.getElementById('leagueLine').textContent =
+    `Liga "${m.league.name}" · ID ${m.league.id} · join-kode ${m.league.joinCode}`;
+  const p = document.getElementById('pills');
+  p.innerHTML = [
+    `Budget <b>$${m.budget}M</b>`,
+    `Trup <b>${m.squadRules.size}</b> (2-5-5-3)`,
+    `Max <b>${m.squadRules.maxPerNation}</b>/nation`,
+    `${m.playerCount} spillere modelleret`,
+    `Elo pr. <b>${m.eloAsOf}</b>`,
+    `Skadesflag pr. <b>${m.availabilityAsOf}</b>`,
+  ].map(t=>`<span class="pill">${t}</span>`).join('');
+}
+
+/* ---------- standings ---------- */
+function renderStandings(){
+  const el = document.getElementById('standings');
+  const note = document.getElementById('standingsNote');
+  if(!STAND){
+    el.innerHTML = `<div class="empty">Ingen <code>standings.json</code> fundet endnu. Workflowet skriver den efter første kørsel.</div>`;
+    return;
+  }
+  note.textContent = `Status: ${STAND.status||'?'} · senest hentet ${fmtDate(STAND.fetchedAt)}`
+    + (STAND.message? ` · ${STAND.message}`:'');
+  const rows = STAND.entries||[];
+  if(!rows.length){
+    el.innerHTML = `<div class="empty">Stillingen er tom (turneringen starter 11. juni 2026).<br>
+      Når bot-kontoen er meldt ind og kampene begynder, vises holdene her automatisk.</div>`;
+    return;
+  }
+  el.innerHTML = `<div style="overflow:auto"><table><thead><tr>
+      <th>#</th><th>Manager</th><th>Hold</th>
+      <th class="num">Runde</th><th class="num">Total</th></tr></thead><tbody>`
+    + rows.map(e=>`<tr>
+        <td>${esc(e.rank)}</td>
+        <td>${esc(e.managerName)}</td>
+        <td class="muted">${esc(e.teamName)}</td>
+        <td class="num">${e.lastRoundPoints??'—'}</td>
+        <td class="num"><b>${e.points??'—'}</b></td></tr>`).join('')
+    + `</tbody></table></div>`;
+}
+
+/* ---------- recommended team ---------- */
+function renderRecommended(){
+  const rec = MODEL.recommended;
+  document.getElementById('recFormation').textContent =
+    `${rec.formation} · kaptajn ${rec.captain} (×2) · vice ${rec.vice}`;
+  document.getElementById('recNote').textContent = rec.note;
+  const v = rec.variants[currentVariant];
+  const pitch = document.getElementById('pitch');
+  const byPos = {GK:[],DEF:[],MID:[],FWD:[]};
+  v.players.forEach(p=>byPos[p.pos].push(p));
+  pitch.innerHTML = ['FWD','MID','DEF','GK'].map(pos=>
+    `<div class="line">`+ byPos[pos].map(p=>{
+      const ic = availIcon(p.availFactor);
+      return `<div class="chip" title="${esc(p.injuryNote||'')}">
+        ${p.isCaptain?'<span class="badge c">C</span>':p.isVice?'<span class="badge v">V</span>':''}
+        ${ic?`<span class="fit">${ic}</span>`:''}
+        <div class="nm">${esc(p.name)}</div>
+        <div class="meta">${esc(p.nationAbbr||p.nation)} · $${p.price}M</div>
+        <div class="xp">${p.xPts} xPts${p.isCaptain?' ×2':''}</div>
+      </div>`;}).join('') + `</div>`).join('');
+  document.getElementById('teamstats').innerHTML = [
+    ['Forventede point (XI)', v.xPts],
+    ['Kostpris', '$'+v.cost+'M'],
+    ['Budget tilbage', '$'+(MODEL.meta.budget - v.cost).toFixed(1)+'M'],
+    ['Max pr. nation', v.maxPerNation],
+  ].map(([k,val])=>`<div class="stat">${k}<b>${val}</b></div>`).join('');
+}
+
+/* ---------- best value ---------- */
+function renderBestValue(){
+  const labels={GK:'Målmænd',DEF:'Forsvar',MID:'Midtbane',FWD:'Angreb'};
+  document.getElementById('bestValue').innerHTML =
+    ['GK','DEF','MID','FWD'].map(pos=>{
+      const list=(MODEL.bestValue[pos]||[]).slice(0,6);
+      return `<div><h3 style="margin:0 0 8px;font-size:14px">${posTag(pos)} ${labels[pos]}</h3>
+        <table><thead><tr><th>Spiller</th><th class="num">$</th><th class="num">xPts</th><th class="num">Værdi</th></tr></thead><tbody>`
+        + list.map(p=>`<tr><td>${esc(p.name)}<div class="meta muted" style="font-size:11px">${esc(p.nationAbbr||p.nation)}${p.scouting?' <span class="scout">★scout</span>':''}</div></td>
+            <td class="num">${p.price}</td><td class="num">${p.xPts}</td><td class="num"><b>${p.value}</b></td></tr>`).join('')
+        + `</tbody></table></div>`;
+    }).join('');
+}
+
+/* ---------- players table ---------- */
+function renderPlayers(){
+  const q=(document.getElementById('search').value||'').toLowerCase();
+  const pf=document.getElementById('posFilter').value;
+  const rows=MODEL.players.filter(p=>
+    (!pf||p.pos===pf) &&
+    (!q || (p.name+' '+p.nation).toLowerCase().includes(q)));
+  document.getElementById('rowCount').textContent = `${rows.length} spillere`;
+  document.querySelector('#playersTable tbody').innerHTML = rows.map((p,i)=>{
+    const note = p.injuryNote
+      ? `<span class="injury">${availIcon(p.availFactor)} ${esc(p.injuryNote)}</span>`
+      : (p.scouting?'<span class="scout">★ scouting-pick</span>':'');
+    return `<tr>
+      <td class="muted">${i+1}</td>
+      <td><b>${esc(p.name)}</b></td>
+      <td>${posTag(p.pos)}</td>
+      <td>${esc(p.nation)} <span class="muted">${p.group?'· '+p.group:''}</span></td>
+      <td class="num">$${p.price}</td>
+      <td class="num">${p.ownPct}%</td>
+      <td class="num"><b>${p.xPts}</b></td>
+      <td class="num">${p.value}</td>
+      <td>${note}</td></tr>`;}).join('');
+}
+
+/* ---------- init ---------- */
+function wire(){
+  document.querySelectorAll('#toggle button').forEach(b=>b.onclick=()=>{
+    document.querySelectorAll('#toggle button').forEach(x=>x.classList.remove('on'));
+    b.classList.add('on'); currentVariant=b.dataset.v; renderRecommended();
+  });
+  document.getElementById('search').oninput=renderPlayers;
+  document.getElementById('posFilter').onchange=renderPlayers;
+}
+
+(async function(){
+  try{
+    MODEL = await loadJSON('model.json');
+  }catch(e){
+    document.querySelector('.wrap').insertAdjacentHTML('afterbegin',
+      `<section><div class="card err">Kunne ikke indlæse model.json: ${esc(e.message)}</div></section>`);
+    return;
+  }
+  try{ STAND = await loadJSON('standings.json'); }catch{ STAND=null; }
+  renderHeader(); renderStandings(); renderRecommended();
+  renderBestValue(); renderPlayers(); wire();
+  document.getElementById('footer').innerHTML =
+    `Model genereret ${fmtDate(MODEL.meta.generatedAt)} · data: `
+    + `<a href="${MODEL.meta.dataSource}">play.fifa.com</a> · `
+    + `xPts er et estimat (Elo + skadesjustering), ikke en garanti.`;
+})();
+</script>
+</body>
+</html>

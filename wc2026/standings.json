@@ -1,0 +1,10 @@
+{
+  "league": {
+    "id": 128462,
+    "name": "SuF"
+  },
+  "fetchedAt": null,
+  "status": "pending",
+  "message": "Ingen credentials sat (FIFA_COOKIE eller FIFA_EMAIL/FIFA_PASSWORD). Botten skal meldes ind i ligaen (kode 2SPXEBAF) før der er data.",
+  "entries": []
+}

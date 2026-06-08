@@ -1,0 +1,4 @@
+# cached FIFA feeds (re-fetched live by build_model.py; offline fallback only)
+data/
+__pycache__/
+*.pyc

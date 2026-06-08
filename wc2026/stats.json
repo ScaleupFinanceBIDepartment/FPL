@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "league": {
+      "id": 128462,
+      "name": "SuF",
+      "joinCode": "2SPXEBAF"
+    },
+    "generatedAt": "2026-06-08T14:58:00+00:00",
+    "dataSource": "https://play.fifa.com/json/fantasy/*",
+    "playerCount": 1243,
+    "tournamentStart": "2026-06-11",
+    "statsJoin": {
+      "available": false,
+      "matched": 0,
+      "note": "Mål/assist/clean sheets afventer FIFAs kampdata (fifaId ikke udfyldt endnu). Point og mest valgte er live."
+    }
+  },
+  "leaderboards": {
+    "topScorers": [],
+    "topAssists": [],
+    "topPoints": [],
+    "topCleanSheets": [],
+    "mostSelected": [
+      {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "ownPct": 50.5,
+        "points": 0
+      },
+      {
+        "id": 939,
+        "name": "Bruno Fernandes",
+        "nation": "Portugal",
+        "nationAbbr": "POR",
+        "group": "K",
+        "pos": "MID",
+        "ownPct": 50.3,
+        "points": 0
+      },
+      {
+        "id": 1092,
+        "name": "Lamine Yamal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "ownPct": 45.3,
+        "points": 0
+      },
+      {
+        "id": 916,
+        "name": "Nuno Mendes",
+        "nation": "Portugal",
+        "nationAbbr": "POR",
+        "group": "K",
+        "pos": "DEF",
+        "ownPct": 43.1,
+        "points": 0
+      },
+      {
+        "id": 468,
+        "name": "Harry Kane",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "FWD",
+        "ownPct": 37.6,
+        "points": 0
+      },
+      {
+        "id": 855,
+        "name": "Erling Haaland",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "FWD",
+        "ownPct": 33.5,
+        "points": 0
+      },
+      {
+        "id": 542,
+        "name": "Joshua Kimmich",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "DEF",
+        "ownPct": 30.3,
+        "points": 0
+      },
+      {
+        "id": 1088,
+        "name": "Marc Cucurella",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 23.6,
+        "points": 0
+      },
+      {
+        "id": 164,
+        "name": "Gabriel Magalhães",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "DEF",
+        "ownPct": 23,
+        "points": 0
+      },
+      {
+        "id": 517,
+        "name": "Michael Olise",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "ownPct": 22.9,
+        "points": 0
+      },
+      {
+        "id": 543,
+        "name": "Florian Wirtz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
+        "ownPct": 22.9,
+        "points": 0
+      },
+      {
+        "id": 45,
+        "name": "Emiliano Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "GK",
+        "ownPct": 22.1,
+        "points": 0
+      },
+      {
+        "id": 2012,
+        "name": "Achraf Hakimi",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "DEF",
+        "ownPct": 21.6,
+        "points": 0
+      },
+      {
+        "id": 1366,
+        "name": "Raphinha",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 21.4,
+        "points": 0
+      },
+      {
+        "id": 796,
+        "name": "Virgil van Dijk",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "DEF",
+        "ownPct": 20.2,
+        "points": 0
+      },
+      {
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "ownPct": 19,
+        "points": 0
+      },
+      {
+        "id": 256,
+        "name": "Luis Díaz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "MID",
+        "ownPct": 18.7,
+        "points": 0
+      },
+      {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "ownPct": 17.5,
+        "points": 0
+      },
+      {
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "FWD",
+        "ownPct": 17,
+        "points": 0
+      },
+      {
+        "id": 39,
+        "name": "Julián Alvarez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "ownPct": 16,
+        "points": 0
+      },
+      {
+        "id": 795,
+        "name": "Denzel Dumfries",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "DEF",
+        "ownPct": 15.7,
+        "points": 0
+      },
+      {
+        "id": 1429,
+        "name": "William Saliba",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 15.4,
+        "points": 0
+      },
+      {
+        "id": 1098,
+        "name": "David Raya",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "GK",
+        "ownPct": 15.3,
+        "points": 0
+      },
+      {
+        "id": 477,
+        "name": "Jordan Pickford",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "GK",
+        "ownPct": 14.9,
+        "points": 0
+      },
+      {
+        "id": 173,
+        "name": "Vinícius Júnior",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 13.9,
+        "points": 0
+      }
+    ]
+  }
+}

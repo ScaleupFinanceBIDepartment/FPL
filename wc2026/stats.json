@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-15T13:34:43+00:00",
+    "generatedAt": "2026-06-15T19:07:30+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 12,
-    "note": "12 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 14,
+    "note": "14 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -651,6 +651,17 @@
         "form": 3.7
       },
       {
+        "id": 214,
+        "name": "Vozinha",
+        "nation": "Cabo Verde",
+        "nationAbbr": "CPV",
+        "group": "H",
+        "pos": "GK",
+        "points": 11,
+        "avg": 11,
+        "form": 3.7
+      },
+      {
         "id": 526,
         "name": "Nico Schlotterbeck",
         "nation": "Germany",
@@ -781,17 +792,6 @@
         "points": 9,
         "avg": 9,
         "form": 3
-      },
-      {
-        "id": 61,
-        "name": "Cameron Burgess",
-        "nation": "Australia",
-        "nationAbbr": "AUS",
-        "group": "D",
-        "pos": "DEF",
-        "points": 9,
-        "avg": 9,
-        "form": 3
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 49.9,
+        "ownPct": 49.8,
         "points": 0
       },
       {
@@ -832,8 +832,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 39,
-        "points": 0
+        "ownPct": 38.9,
+        "points": 1
       },
       {
         "id": 468,
@@ -842,7 +842,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 36.1,
+        "ownPct": 36,
         "points": 0
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 33.8,
+        "ownPct": 33.7,
         "points": 8
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 33,
+        "ownPct": 32.9,
         "points": 0
       },
       {
@@ -883,7 +883,7 @@
         "group": "H",
         "pos": "DEF",
         "ownPct": 24.9,
-        "points": 0
+        "points": 7
       },
       {
         "id": 2012,
@@ -902,7 +902,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 22.7,
+        "ownPct": 22.6,
         "points": 5
       },
       {
@@ -953,7 +953,7 @@
         "group": "H",
         "pos": "FWD",
         "ownPct": 19.9,
-        "points": 0
+        "points": 2
       },
       {
         "id": 38,
@@ -1042,7 +1042,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 13.8,
+        "ownPct": 13.6,
         "points": 0
       }
     ]

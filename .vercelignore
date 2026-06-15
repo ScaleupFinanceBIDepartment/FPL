@@ -1,7 +1,0 @@
-# Static deploy serves only the wc2026 dashboard.
-fpl-dashboard
-wc2026/data
-**/__pycache__
-*.py
-supabase_setup.sql
-.env.example

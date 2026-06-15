@@ -36,7 +36,7 @@ jobs:
           find _site \( -name '*.py' -o -name 'README.md' -o -name '.gitignore' \) -delete
           rm -rf _site/wc2026/data _site/terminal/data 2>/dev/null || true
           cat > _site/index.html <<'HTML'
-          <!DOCTYPE html><html lang="da"><head><meta charset="UTF-8">
+          <!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
           <meta name="viewport" content="width=device-width,initial-scale=1">
           <title>Scaleup Finance · Fantasy</title>
           <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
@@ -57,12 +57,12 @@ jobs:
               padding:2px 8px;border-radius:999px;margin-bottom:10px}
           </style></head><body><div class="wrap">
             <div class="brand">● SCALEUP FINANCE · FANTASY</div>
-            <h1>Fantasy-dashboards</h1><p>Live data — vælg et dashboard</p>
+            <h1>Fantasy dashboards</h1><p>Live data — pick a dashboard</p>
             <div class="cards">
-              <a class="card" href="wc2026/"><div class="tag">VM 2026</div>
-                <h2>World Cup Fantasy →</h2><span>SuF-ligaens stilling + topscorere, assists og point (live fra FIFA).</span></a>
+              <a class="card" href="wc2026/"><div class="tag">WORLD CUP</div>
+                <h2>World Cup Fantasy →</h2><span>SuF league standings + top scorers, assists and points (live from FIFA).</span></a>
               <a class="card" href="terminal/"><div class="tag">FPL DRAFT</div>
-                <h2>Draft Terminal →</h2><span>Bloomberg-agtigt data-desk: stilling, spillere og trupper for draft-ligaen.</span></a>
+                <h2>Draft Terminal →</h2><span>Bloomberg-style data desk: standings, players and squads for the draft league.</span></a>
             </div></div></body></html>
           HTML
 

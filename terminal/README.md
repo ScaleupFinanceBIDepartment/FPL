@@ -22,15 +22,28 @@ Click any player → a detail drawer (KPIs, last-6-GW form chart, season splits)
 cd terminal && python3 -m http.server 8000   # open http://localhost:8000/
 ```
 
-## Data
-The prototype ships with a **deterministically generated** sample universe
-(`data.js`): 6 managers, ~116 Premier League players, a snake draft, standings and
-8-GW history — so every view is fully populated and stable. This is sample data,
-not the league's real Supabase data.
+## Data — real FPL Draft league (56144)
 
-> Next step (optional): wire `data.js` to the real `fpl_standings` /
-> `fpl_current_squads` / `fpl_draft_picks` tables (Supabase) so the terminal shows
-> live league data instead of the generated sample.
+`build_data.py` pulls the **public FPL Draft API** (`draft.premierleague.com/api`,
+league **56144**, no auth) and bakes `data.json` in the `window.TD` shape:
+real standings, rosters/lineups, draft ownership and per-player stats
+(points, goals, assists, xG, xA, BPS, last-6-GW form). The FPL API has no CORS
+headers, so the browser can't call it directly — we fetch server-side and the
+static page reads the baked `data.json` (same-origin, no auth).
+
+```bash
+cd terminal
+python3 build_data.py          # fetch FPL Draft API → write data.json
+python3 -m http.server 8000    # open http://localhost:8000/
+```
+
+`data.js` loads `data.json` first (same-origin) and **falls back to a generated
+sample universe** if it's missing — so the page always renders, even opened
+standalone. Refreshed by `../.github/workflows/terminal-data.yml` (weekly + manual).
+
+> Note: the 25/26 season is complete (GW38), so the data is final until a new
+> season starts. Set `FPL_LEAGUE_ID` to point at a different draft league.
 
 Files: `index.html` (shell + fonts), `term.css` (theme), `app.jsx` (views/drawer),
-`data.js` (data layer → `window.TD`).
+`data.js` (loader + sample fallback → `window.TD`), `build_data.py` (FPL → `data.json`),
+`data.json` (baked real league data).

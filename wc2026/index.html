@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="da">
+<html lang="en">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -81,7 +81,6 @@
   .tbl td.l{text-align:left}
   .tbl tbody tr{transition:background .1s}
   .tbl tbody tr:hover{background:rgba(96,222,200,0.06)}
-  .tbl tbody tr.me{box-shadow:inset 2px 0 0 var(--amber)}
   .c-rk{color:var(--amber)} .c-nm{color:var(--txt-hi)} .c-dim{color:var(--dim)}
   .c-tot{color:var(--teal);font-weight:600;font-size:14px} .c-amber{color:var(--amber)}
   .pos{display:inline-block;padding:1px 6px;font-size:10px;letter-spacing:.06em;border:1px solid}
@@ -89,15 +88,22 @@
   .pos.DEF{color:var(--green);border-color:rgba(61,224,138,.4)}
   .pos.MID{color:var(--teal);border-color:rgba(96,222,200,.4)}
   .pos.FWD{color:var(--red);border-color:rgba(255,107,91,.4)}
-  .scout{color:var(--violet);font-size:10px;margin-left:5px}
-  .inj{color:var(--red);font-size:11px}
+
+  /* team (nation) picker */
+  .natpick{display:flex;flex-direction:column;gap:7px;margin-bottom:16px}
+  .grp{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+  .grp-l{color:var(--dim-2);font-size:10px;letter-spacing:.14em;width:78px;flex:none}
+  .natchip{padding:4px 9px;border:1px solid var(--line);color:var(--dim);cursor:pointer;font-size:12px;transition:.12s;user-select:none}
+  .natchip:hover{color:var(--txt);border-color:var(--teal-dk)}
+  .natchip.on{background:var(--panel-2);color:var(--teal);border-color:var(--teal)}
+  .natchip.elim{text-decoration:line-through;opacity:.45}
 
   .empty{padding:22px;text-align:center;color:var(--dim);font-size:13px;background:var(--bg-2);border:1px solid var(--line)}
   .err{color:var(--red);padding:16px}
   .skel{color:var(--dim);font-size:13px;padding:16px}
 
   /* footer cmd bar */
-  .cmdbar{display:flex;align-items:center;gap:16px;padding:0 16px;height:30px;background:#040A08;border-top:1px solid var(--line);color:var(--dim-2);font-size:11px}
+  .cmdbar{display:flex;align-items:center;gap:16px;padding:0 16px;height:30px;background:#040A08;border-top:1px solid var(--line);color:var(--dim-2);font-size:11px;overflow:hidden;white-space:nowrap}
   .cmdbar .key{color:var(--dim)} .cmdbar .key b{color:var(--teal);font-weight:500}
   .cmdbar .right{margin-left:auto;color:var(--dim-2)}
 </style>
@@ -106,9 +112,9 @@
 <div class="app">
   <div class="statusbar">
     <span class="sb-brand">WC2026://<b>FANTASY.TERMINAL</b></span>
-    <span class="sb-seg">LIGA <b id="sbLeague">SuF</b></span>
+    <span class="sb-seg">LEAGUE <b id="sbLeague">SuF</b></span>
     <span class="sb-live"><span class="dotpulse"></span>LIVE</span>
-    <span class="sb-seg"><b id="sbMatches">—</b> kampe</span>
+    <span class="sb-seg"><b id="sbMatches">—</b> matches</span>
     <span class="sb-ticker" id="ticker"></span>
     <span class="sb-clock" id="clock"></span>
   </div>
@@ -118,14 +124,15 @@
       <div id="nav"></div>
       <div class="rail-stat" id="railStat"></div>
     </div>
-    <div class="view" id="view"><div class="skel">Indlæser…</div></div>
+    <div class="view" id="view"><div class="skel">Loading…</div></div>
   </div>
   <div class="cmdbar">
-    <span class="key"><b>1</b> stilling</span>
-    <span class="key"><b>2</b> topscorere</span>
+    <span class="key"><b>1</b> standings</span>
+    <span class="key"><b>2</b> scorers</span>
     <span class="key"><b>3</b> assists</span>
-    <span class="key"><b>4</b> point</span>
-    <span class="key"><b>5</b> mest valgte</span>
+    <span class="key"><b>4</b> points</span>
+    <span class="key"><b>5</b> selected</span>
+    <span class="key"><b>6</b> teams</span>
     <span class="right" id="cmdRight">WC2026 FANTASY TERMINAL · SuF</span>
   </div>
 </div>
@@ -133,17 +140,18 @@
 <script>
 const esc = s => String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const posTag = p => p?`<span class="pos ${p}">${p}</span>`:'';
-function fmtDate(iso){ if(!iso) return '—'; try{return new Date(iso).toLocaleString('da-DK',{dateStyle:'short',timeStyle:'short'});}catch{return iso;} }
+function fmtDate(iso){ if(!iso) return '—'; try{return new Date(iso).toLocaleString('en-GB',{dateStyle:'short',timeStyle:'short'});}catch{return iso;} }
 
 const VIEWS = [
-  {id:'stilling',     k:'1', label:'STILLING'},
-  {id:'topScorers',   k:'2', label:'TOPSCORERE', cols:[['goals','Mål'],['assists','Assists']]},
-  {id:'topAssists',   k:'3', label:'ASSISTS',    cols:[['assists','Assists'],['goals','Mål']]},
-  {id:'topPoints',    k:'4', label:'FLEST POINT',cols:[['points','Point'],['avg','Snit'],['form','Form']]},
-  {id:'mostSelected', k:'5', label:'MEST VALGTE',cols:[['ownPct','Ejer%'],['points','Point']]},
+  {id:'standings',    k:'1', label:'STANDINGS'},
+  {id:'topScorers',   k:'2', label:'TOP SCORERS',   cols:[['goals','Goals'],['assists','Assists']]},
+  {id:'topAssists',   k:'3', label:'ASSISTS',       cols:[['assists','Assists'],['goals','Goals']]},
+  {id:'topPoints',    k:'4', label:'POINTS',        cols:[['points','Pts'],['avg','Avg'],['form','Form']]},
+  {id:'mostSelected', k:'5', label:'MOST SELECTED', cols:[['ownPct','Own%'],['points','Pts']]},
+  {id:'teams',        k:'6', label:'TEAMS'},
 ];
 
-let STATS=null, STAND=null, view='stilling';
+let STATS=null, STAND=null, view='standings', selNation=null;
 
 async function loadJSON(path){
   const r = await fetch(path + '?t=' + Date.now());
@@ -151,7 +159,7 @@ async function loadJSON(path){
   return r.json();
 }
 
-/* ---------- live stats from FIFA's public feeds (unchanged data layer) ---------- */
+/* ---------- live stats from FIFA's public feeds ---------- */
 const FIFA_FEEDS='https://play.fifa.com/json/fantasy/';
 const TOP_N=25;
 const pname=p=>p.knownName||`${p.firstName||''} ${p.lastName||''}`.trim();
@@ -176,18 +184,21 @@ async function buildStatsLive(){
   }));
   const rows=players.filter(p=>p.status==='playing').map(p=>{
     const s=sq[p.squadId]||{},st=p.stats||{};
-    return{id:p.id,name:pname(p),nation:s.name,nationAbbr:s.abbr,group:(s.group||'').toUpperCase(),pos:p.position,
-      points:st.totalPoints||0,avg:st.avgPoints||0,form:st.form||0,
+    return{id:p.id,squadId:p.squadId,name:pname(p),nation:s.name,nationAbbr:s.abbr,group:(s.group||'').toUpperCase(),
+      pos:p.position,price:p.price,points:st.totalPoints||0,avg:st.avgPoints||0,form:st.form||0,
       ownPct:Math.round((p.percentSelected||0)*10)/10,goals:goals[p.id]||0,assists:assists[p.id]||0};
   });
+  const nations=squads.map(s=>({id:s.id,name:s.name,abbr:s.abbr,group:(s.group||'').toUpperCase(),
+    eliminated:!!s.isEliminated})).sort((a,b)=>(a.group+a.name).localeCompare(b.group+b.name));
   return{meta:{league:{id:128462,name:'SuF',joinCode:'2SPXEBAF'},generatedAt:new Date().toISOString(),
       dataSource:FIFA_FEEDS+'*',playerCount:rows.length,matchesPlayed:played,
-      note:played?`${played} kampe spillet — live fra FIFA.`:'Turneringen er ikke startet endnu.'},
+      note:played?`${played} matches played — live from FIFA.`:'Tournament has not started yet.'},
     leaderboards:{
       topScorers:topBy(rows,'goals','assists',['goals','assists']),
       topAssists:topBy(rows,'assists','goals',['assists','goals']),
       topPoints:topBy(rows,'points','avg',['points','avg','form']),
-      mostSelected:topBy(rows,'ownPct','points',['ownPct','points'])}};
+      mostSelected:topBy(rows,'ownPct','points',['ownPct','points'])},
+    players:rows, nations};
 }
 
 /* ---------- render ---------- */
@@ -196,35 +207,36 @@ function renderChrome(){
   document.getElementById('sbLeague').textContent=m.league.name;
   document.getElementById('sbMatches').textContent=m.matchesPlayed??0;
   document.getElementById('cmdRight').textContent=
-    `WC2026 FANTASY TERMINAL · ${m.league.name} · ${m.playerCount} spillere · opdateret ${fmtDate(m.generatedAt)}`;
-  // ticker: top 4 scorers
-  const ts=(STATS.leaderboards.topScorers||[]).slice(0,4)
-    .map(p=>`${p.name.toUpperCase()} ${p.goals}⚽`);
+    `WC2026 FANTASY TERMINAL · ${m.league.name} · ${m.playerCount} players · updated ${fmtDate(m.generatedAt)}`;
+  const ts=(STATS.leaderboards.topScorers||[]).slice(0,4).map(p=>`${p.name.toUpperCase()} ${p.goals}⚽`);
   document.getElementById('ticker').innerHTML = ts.length
     ? ts.map(t=>`<span>${esc(t)}</span>`).join('<span class="sep">·</span>') : '';
 }
 function renderNav(){
   document.getElementById('nav').innerHTML = VIEWS.map(v=>{
-    const cnt = v.id==='stilling' ? (STAND?.entries?.length||'') : (STATS.leaderboards[v.id]?.length||'');
+    const cnt = v.id==='standings' ? (STAND?.entries?.length||'')
+      : v.id==='teams' ? (STATS.nations?.length||'')
+      : (STATS.leaderboards[v.id]?.length||'');
     return `<div class="navitem${v.id===view?' on':''}" data-id="${v.id}">
       <span class="k">${v.k}</span><span class="lbl">${v.label}</span><span class="cnt">${cnt}</span></div>`;
   }).join('');
   document.querySelectorAll('#nav .navitem').forEach(n=>n.onclick=()=>setView(n.dataset.id));
   const m=STATS.meta;
   document.getElementById('railStat').innerHTML = [
-    ['liga', m.league.name], ['liga-id', m.league.id], ['join', m.league.joinCode],
-    ['kampe spillet', m.matchesPlayed??0], ['spillere', m.playerCount],
+    ['league', m.league.name], ['league id', m.league.id], ['join code', m.league.joinCode],
+    ['matches played', m.matchesPlayed??0], ['players', m.playerCount],
   ].map(([k,v])=>`<div class="row"><span>${k}</span><b>${esc(v)}</b></div>`).join('');
 }
 function setView(id){ view=id; renderNav(); renderMain(); }
 
 function renderMain(){
   const el=document.getElementById('view');
-  if(view==='stilling') return renderStandings(el);
+  if(view==='standings') return renderStandings(el);
+  if(view==='teams') return renderTeams(el);
   const cfg=VIEWS.find(v=>v.id===view);
   const rows=STATS.leaderboards[cfg.id]||[];
-  if(!rows.length){ el.innerHTML=`<div class="empty">Ingen data endnu — ${esc(STATS.meta.note)}</div>`; return; }
-  const head=`<th class="l">#</th><th class="l">Spiller</th><th class="l">Pos</th><th class="l">Nation</th>`
+  if(!rows.length){ el.innerHTML=`<div class="empty">No data yet — ${esc(STATS.meta.note)}</div>`; return; }
+  const head=`<th class="l">#</th><th class="l">Player</th><th class="l">Pos</th><th class="l">Nation</th>`
     + cfg.cols.map(c=>`<th>${c[1]}</th>`).join('');
   el.innerHTML=`<div class="panel"><div class="panel-h"><span class="t">${cfg.label}</span>
       <span class="tag">${cfg.cols[0][1]} ▼ · top ${rows.length}</span></div>
@@ -240,28 +252,51 @@ function renderMain(){
       }).join('') + `</tbody></table></div>`;
 }
 
+function renderTeams(el){
+  const nations=STATS.nations||[];
+  if(!nations.length || !STATS.players){ el.innerHTML=`<div class="empty">Team data unavailable (offline snapshot — open online for live FIFA data).</div>`; return; }
+  if(!selNation || !nations.some(n=>n.id===selNation)) selNation=nations[0].id;
+  const byGroup={}; nations.forEach(n=>{(byGroup[n.group]=byGroup[n.group]||[]).push(n);});
+  const chips=Object.keys(byGroup).sort().map(g=>`<div class="grp"><span class="grp-l">GROUP ${g||'—'}</span>`
+    + byGroup[g].map(n=>`<span class="natchip${n.id===selNation?' on':''}${n.eliminated?' elim':''}" data-id="${n.id}" title="${esc(n.name)}">${esc(n.abbr||n.name)}</span>`).join('')
+    + `</div>`).join('');
+  const nat=nations.find(n=>n.id===selNation);
+  const squad=STATS.players.filter(p=>p.squadId===nat.id).sort((a,b)=>(b.points-a.points)||(b.price-a.price));
+  const totalPts=squad.reduce((s,p)=>s+(p.points||0),0);
+  el.innerHTML=`<div class="natpick">${chips}</div>
+    <div class="panel"><div class="panel-h"><span class="t">${esc(nat.name)} · Group ${nat.group}${nat.eliminated?' · ELIMINATED':''}</span>
+      <span class="tag">${squad.length} players · ${totalPts} pts</span></div>
+    <table class="tbl"><thead><tr><th class="l">Player</th><th class="l">Pos</th><th>Price</th><th>Own%</th><th>Pts</th><th>G</th><th>A</th></tr></thead><tbody>`
+    + (squad.length?squad.map(p=>`<tr><td class="l c-nm">${esc(p.name)}</td><td class="l">${posTag(p.pos)}</td>
+        <td class="c-dim">${p.price?('$'+p.price+'M'):'—'}</td><td class="c-dim">${p.ownPct}%</td>
+        <td class="c-tot">${p.points}</td><td>${p.goals||0}</td><td>${p.assists||0}</td></tr>`).join('')
+       :`<tr><td class="l c-dim" colspan="7">No players listed.</td></tr>`)
+    + `</tbody></table></div>`;
+  el.querySelectorAll('.natchip').forEach(c=>c.onclick=()=>{selNation=+c.dataset.id;renderTeams(el);});
+}
+
 function renderStandings(el){
   if(!STAND || !(STAND.entries||[]).length){
-    const msg = !STAND ? 'Ingen standings.json fundet endnu.'
-      : (STAND.message || 'Stillingen er tom indtil kampene begynder.');
-    el.innerHTML=`<div class="panel"><div class="panel-h"><span class="t">Ligastilling</span>
+    const msg = !STAND ? 'No standings.json found yet.'
+      : (STAND.message || 'Standings are empty until matches begin.');
+    el.innerHTML=`<div class="panel"><div class="panel-h"><span class="t">League standings</span>
       <span class="tag">status: ${esc(STAND?STAND.status:'n/a')}</span></div>
       <div class="empty">${esc(msg)}</div></div>`;
     return;
   }
   const E=STAND.entries, lead=E[0], second=E[1];
   const lead_html=`<div class="leadstrip">
-    <div class="leadcell"><div class="lab">Fører</div><div class="nm">${esc(lead.managerName)}</div>
+    <div class="leadcell"><div class="lab">Leader</div><div class="nm">${esc(lead.managerName)}</div>
       <div class="sub">${esc(lead.teamName||'')}</div></div>
     <div class="leadcell"><div class="lab">Total</div><div class="big">${lead.points??'—'}</div></div>
     ${second?`<div class="leadcell"><div class="lab">Margin</div><div class="big up">+${(lead.points||0)-(second.points||0)}</div><div class="sub">vs #2</div></div>`:''}
-    <div class="leadcell"><div class="lab">Sidste runde</div><div class="big" style="color:var(--amber)">${lead.lastRoundPoints??'—'}</div></div>
+    <div class="leadcell"><div class="lab">Last round</div><div class="big" style="color:var(--amber)">${lead.lastRoundPoints??'—'}</div></div>
   </div>`;
   el.innerHTML = lead_html + `<div class="panel">
-    <div class="panel-h"><span class="t">Ligastilling — ${esc(STAND.entries.length)} hold</span>
-      <span class="tag">hentet ${fmtDate(STAND.fetchedAt)}</span></div>
-    <table class="tbl"><thead><tr><th class="l">#</th><th class="l">Manager</th><th class="l">Hold</th>
-      <th>Runde</th><th>Total</th></tr></thead><tbody>`
+    <div class="panel-h"><span class="t">League standings — ${esc(E.length)} teams</span>
+      <span class="tag">fetched ${fmtDate(STAND.fetchedAt)}</span></div>
+    <table class="tbl"><thead><tr><th class="l">#</th><th class="l">Manager</th><th class="l">Team</th>
+      <th>Round</th><th>Total</th></tr></thead><tbody>`
     + E.map(e=>`<tr><td class="l c-rk">${String(e.rank).padStart(2,'0')}</td>
         <td class="l c-nm">${esc(e.managerName)}</td>
         <td class="l c-dim">${esc(e.teamName||'')}</td>
@@ -278,7 +313,7 @@ function startClock(){
 (async function(){
   try{ STATS = await buildStatsLive(); }
   catch(e){ try{ STATS = await loadJSON('stats.json'); }
-    catch(e2){ document.getElementById('view').innerHTML=`<div class="err">Kunne ikke hente data: ${esc(e.message)}</div>`; return; } }
+    catch(e2){ document.getElementById('view').innerHTML=`<div class="err">Could not load data: ${esc(e.message)}</div>`; return; } }
   try{ STAND = await loadJSON('standings.json'); }catch{ STAND=null; }
   renderChrome(); renderNav(); renderMain(); startClock();
   window.addEventListener('keydown', ev=>{

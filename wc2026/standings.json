@@ -5,206 +5,112 @@
   },
   "fetchedAt": "2026-06-15T13:34:43+00:00",
   "status": "ok",
-  "message": "200 OK men ingen rækker endnu (turneringen er ikke startet).",
-  "entries": [],
-  "raw": {
-    "success": {
-      "ranks": [
-        {
-          "userId": 4630467,
-          "userName": "Don-O",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 1,
-          "roundPoints": 38,
-          "overallRank": 1,
-          "overallPoints": 38,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        },
-        {
-          "userId": 4917130,
-          "userName": "Doktor Svin",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 2,
-          "roundPoints": 29,
-          "overallRank": 2,
-          "overallPoints": 29,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        },
-        {
-          "userId": 3759838,
-          "userName": "Testtesttest",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 3,
-          "roundPoints": 28,
-          "overallRank": 3,
-          "overallPoints": 28,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        },
-        {
-          "userId": 3764140,
-          "userName": "HC WIN",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 4,
-          "roundPoints": 27,
-          "overallRank": 4,
-          "overallPoints": 27,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        },
-        {
-          "userId": 3764555,
-          "userName": "Sec United",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 5,
-          "roundPoints": 24,
-          "overallRank": 5,
-          "overallPoints": 24,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        },
-        {
-          "userId": 4634655,
-          "userName": "DanishNorseman",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 6,
-          "roundPoints": 21,
-          "overallRank": 6,
-          "overallPoints": 21,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        },
-        {
-          "userId": 3764338,
-          "userName": "rehpotsirhc",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 7,
-          "roundPoints": 19,
-          "overallRank": 7,
-          "overallPoints": 19,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        },
-        {
-          "userId": 4083678,
-          "userName": "Anders Zaar",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 8,
-          "roundPoints": 16,
-          "overallRank": 8,
-          "overallPoints": 16,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        },
-        {
-          "userId": 3765501,
-          "userName": "Aaquist",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 9,
-          "roundPoints": 12,
-          "overallRank": 9,
-          "overallPoints": 12,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        },
-        {
-          "userId": 3967163,
-          "userName": "Lukasworm",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 10,
-          "roundPoints": 11,
-          "overallRank": 10,
-          "overallPoints": 11,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        },
-        {
-          "userId": 3759575,
-          "userName": "ESI1994",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 11,
-          "roundPoints": 10,
-          "overallRank": 11,
-          "overallPoints": 10,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        },
-        {
-          "userId": 4890232,
-          "userName": "HvemkanAnnika",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 12,
-          "roundPoints": 7,
-          "overallRank": 12,
-          "overallPoints": 7,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        },
-        {
-          "userId": 4918566,
-          "userName": "irs97",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 13,
-          "roundPoints": 3,
-          "overallRank": 13,
-          "overallPoints": 3,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        },
-        {
-          "userId": 3764194,
-          "userName": "VikingPlaymaker",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 14,
-          "roundPoints": 0,
-          "overallRank": 14,
-          "overallPoints": 0,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        },
-        {
-          "userId": 3767232,
-          "userName": "Hedge Fund Hooligans",
-          "leagueId": 128462,
-          "roundId": 1,
-          "roundRank": 15,
-          "roundPoints": 0,
-          "overallRank": 15,
-          "overallPoints": 0,
-          "level": 0,
-          "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-        }
-      ],
-      "user": {
-        "userId": 3764140,
-        "userName": "HC WIN",
-        "leagueId": 128462,
-        "roundId": 1,
-        "roundRank": 4,
-        "roundPoints": 27,
-        "overallRank": 4,
-        "overallPoints": 27,
-        "level": 0,
-        "avatar": "https://play.fifa.com/media/image/gamezone/avatars/WC_2026/0.svg"
-      },
-      "nextPage": false
+  "message": "Stilling hentet — 15 hold.",
+  "entries": [
+    {
+      "rank": 1,
+      "managerName": "Don-O",
+      "teamName": "",
+      "points": 38,
+      "lastRoundPoints": 38
     },
-    "errors": []
-  }
+    {
+      "rank": 2,
+      "managerName": "Doktor Svin",
+      "teamName": "",
+      "points": 29,
+      "lastRoundPoints": 29
+    },
+    {
+      "rank": 3,
+      "managerName": "Testtesttest",
+      "teamName": "",
+      "points": 28,
+      "lastRoundPoints": 28
+    },
+    {
+      "rank": 4,
+      "managerName": "HC WIN",
+      "teamName": "",
+      "points": 27,
+      "lastRoundPoints": 27
+    },
+    {
+      "rank": 5,
+      "managerName": "Sec United",
+      "teamName": "",
+      "points": 24,
+      "lastRoundPoints": 24
+    },
+    {
+      "rank": 6,
+      "managerName": "DanishNorseman",
+      "teamName": "",
+      "points": 21,
+      "lastRoundPoints": 21
+    },
+    {
+      "rank": 7,
+      "managerName": "rehpotsirhc",
+      "teamName": "",
+      "points": 19,
+      "lastRoundPoints": 19
+    },
+    {
+      "rank": 8,
+      "managerName": "Anders Zaar",
+      "teamName": "",
+      "points": 16,
+      "lastRoundPoints": 16
+    },
+    {
+      "rank": 9,
+      "managerName": "Aaquist",
+      "teamName": "",
+      "points": 12,
+      "lastRoundPoints": 12
+    },
+    {
+      "rank": 10,
+      "managerName": "Lukasworm",
+      "teamName": "",
+      "points": 11,
+      "lastRoundPoints": 11
+    },
+    {
+      "rank": 11,
+      "managerName": "ESI1994",
+      "teamName": "",
+      "points": 10,
+      "lastRoundPoints": 10
+    },
+    {
+      "rank": 12,
+      "managerName": "HvemkanAnnika",
+      "teamName": "",
+      "points": 7,
+      "lastRoundPoints": 7
+    },
+    {
+      "rank": 13,
+      "managerName": "irs97",
+      "teamName": "",
+      "points": 3,
+      "lastRoundPoints": 3
+    },
+    {
+      "rank": 14,
+      "managerName": "VikingPlaymaker",
+      "teamName": "",
+      "points": 0,
+      "lastRoundPoints": 0
+    },
+    {
+      "rank": 15,
+      "managerName": "Hedge Fund Hooligans",
+      "teamName": "",
+      "points": 0,
+      "lastRoundPoints": 0
+    }
+  ]
 }

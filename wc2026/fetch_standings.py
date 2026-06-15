@@ -74,40 +74,51 @@ def _pick(d, *keys, default=None):
     return default
 
 
-def normalize(payload):
-    """Best-effort mapping of FIFA's ranking payload into a flat list.
+def _find_rows(payload):
+    """Locate the list of ranking rows in FIFA's payload.
 
-    The exact shape is unknown until we get a 200 from the bot account, so we
-    search common container keys and field aliases, and keep the raw payload.
+    Confirmed shape: {"success": {"ranks": [...], "user": {...},
+    "nextPage": bool}, "errors": []}. We also tolerate a few other common
+    wrappers/keys in case FIFA tweaks the response.
     """
-    container = payload
-    if isinstance(payload, dict):
-        for key in ("rankings", "ranking", "entries", "results", "members",
-                    "standings", "data", "items", "leaderboard"):
-            v = payload.get(key)
-            if isinstance(v, list):
-                container = v
-                break
-            if isinstance(v, dict):
-                for k2 in ("entries", "results", "items", "members"):
-                    if isinstance(v.get(k2), list):
-                        container = v[k2]
-                        break
-    if not isinstance(container, list):
+    LIST_KEYS = ("ranks", "rankings", "ranking", "entries", "results",
+                 "members", "standings", "items", "leaderboard", "players")
+    WRAPPERS = ("success", "data", "result", "response", "payload")
+    if isinstance(payload, list):
+        return payload
+    if not isinstance(payload, dict):
         return []
+    for k in LIST_KEYS:
+        if isinstance(payload.get(k), list):
+            return payload[k]
+    for w in WRAPPERS:
+        v = payload.get(w)
+        if isinstance(v, list):
+            return v
+        if isinstance(v, dict):
+            for k in LIST_KEYS:
+                if isinstance(v.get(k), list):
+                    return v[k]
+    return []
+
+
+def normalize(payload):
+    """Map FIFA's ranking payload into a flat, ordered list of entries."""
+    rows = _find_rows(payload)
     out = []
-    for i, e in enumerate(container, 1):
+    for i, e in enumerate(rows, 1):
         if not isinstance(e, dict):
             continue
         out.append({
-            "rank": _pick(e, "rank", "position", "rankCurrent", "currentRank", default=i),
-            "managerName": _pick(e, "managerName", "userName", "fullName",
+            "rank": _pick(e, "overallRank", "rank", "position", "rankCurrent",
+                          "currentRank", "roundRank", default=i),
+            "managerName": _pick(e, "userName", "managerName", "fullName",
                                  "displayName", "name", "user", default="—"),
             "teamName": _pick(e, "teamName", "entryName", "squadName",
                               "fantasyTeamName", "team", default=""),
-            "points": _pick(e, "points", "totalPoints", "score", "totalScore",
-                            "overallPoints"),
-            "lastRoundPoints": _pick(e, "lastRoundPoints", "roundPoints",
+            "points": _pick(e, "overallPoints", "points", "totalPoints",
+                            "score", "totalScore"),
+            "lastRoundPoints": _pick(e, "roundPoints", "lastRoundPoints",
                                      "eventPoints", "gameweekPoints"),
         })
     out.sort(key=lambda r: (r["rank"] if isinstance(r["rank"], int) else 1e9))

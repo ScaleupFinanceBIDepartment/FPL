@@ -91,11 +91,10 @@ const posTag = p => p?`<span class="tag pos-${p}">${p}</span>`:'';
 
 // tab config: key in stats.leaderboards -> {label, metric column(s)}
 const BOARDS = [
-  {key:'topScorers',    label:'Topscorere',   cols:[['goals','Mål'],['assists','Assists'],['games','Kampe']], metric:'goals'},
-  {key:'topAssists',    label:'Assists',      cols:[['assists','Assists'],['goals','Mål'],['games','Kampe']], metric:'assists'},
-  {key:'topPoints',     label:'Flest point',  cols:[['points','Point'],['avg','Snit'],['form','Form']], metric:'points'},
-  {key:'topCleanSheets',label:'Clean sheets', cols:[['cleanSheets','CS'],['games','Kampe']], metric:'cleanSheets'},
-  {key:'mostSelected',  label:'Mest valgte',  cols:[['ownPct','Ejer%'],['points','Point']], metric:'ownPct'},
+  {key:'topScorers',  label:'Topscorere',  cols:[['goals','Mål'],['assists','Assists']]},
+  {key:'topAssists',  label:'Assists',     cols:[['assists','Assists'],['goals','Mål']]},
+  {key:'topPoints',   label:'Flest point', cols:[['points','Point'],['avg','Snit'],['form','Form']]},
+  {key:'mostSelected',label:'Mest valgte', cols:[['ownPct','Ejer%'],['points','Point']]},
 ];
 
 let STATS=null, STAND=null, currentBoard='topScorers';
@@ -114,10 +113,10 @@ function renderHeader(){
     `Liga "${m.league.name}" · ID ${m.league.id} · join-kode ${m.league.joinCode}`;
   document.getElementById('pills').innerHTML = [
     `${m.playerCount} spillere`,
-    `Turneringsstart <b>${m.tournamentStart}</b>`,
+    `<b>${m.matchesPlayed ?? 0}</b> kampe spillet`,
     `Opdateret <b>${fmtDate(m.generatedAt)}</b>`,
   ].map(t=>`<span class="pill">${t}</span>`).join('');
-  document.getElementById('statsNote').textContent = m.statsJoin?.note || '';
+  document.getElementById('statsNote').textContent = m.note || '';
 }
 
 function renderStandings(){

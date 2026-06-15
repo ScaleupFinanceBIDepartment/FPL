@@ -2,17 +2,18 @@
 """Build stats.json for the WC2026 Fantasy dashboard.
 
 Pulls FIFA's public, CORS-open fantasy feeds and produces leaderboards
-(top scorers, assists, points, clean sheets, most selected) for the dashboard.
-No authentication required for this step.
+(top scorers, assists, points, most selected) for the dashboard. No auth.
 
 Data sources & join:
-  * players.json      -> names, nation, position, ownership, fantasy points
-                         (stats.totalPoints / avgPoints / form). Always joined.
-  * player_stats.json -> goals, assists, clean_sheets, etc., keyed by FIFA
-                         person id. Joined to players via players.json `fifaId`.
-                         NOTE: pre-tournament `fifaId` is null for everyone, so
-                         goal/assist boards stay empty until FIFA populates it
-                         once matches begin. The join is reported in meta.
+  * players.json -> names, nation, position, ownership, fantasy points
+                    (stats.totalPoints / avgPoints / form).
+  * squads.json  -> nation name / abbr / group.
+  * rounds.json  -> match results incl. homeGoalScorersAssists /
+                    awayGoalScorersAssists, each {playerId, assistId} using the
+                    fantasy player id. Goals & assists are tallied from here.
+
+  (player_stats.json also exists but is keyed by FIFA person id with no usable
+   join to the fantasy ids, so it is NOT used.)
 
 Usage:  python3 build_stats.py            # fetch live feeds, write stats.json
         python3 build_stats.py --offline  # use cached copies in ./data/
@@ -22,13 +23,14 @@ import sys
 import json
 import datetime
 import urllib.request
+from collections import Counter
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data")
 FEEDS = {
     "players": "https://play.fifa.com/json/fantasy/players.json",
     "squads": "https://play.fifa.com/json/fantasy/squads.json",
-    "player_stats": "https://play.fifa.com/json/fantasy/player_stats.json",
+    "rounds": "https://play.fifa.com/json/fantasy/rounds.json",
 }
 LEAGUE = {"id": 128462, "name": "SuF", "joinCode": "2SPXEBAF"}
 TOURNAMENT_START = "2026-06-11"
@@ -59,23 +61,27 @@ def player_name(p):
     return f"{p.get('firstName') or ''} {p.get('lastName') or ''}".strip()
 
 
-def base_row(p, sq):
-    s = sq.get(p["squadId"], {})
-    return {
-        "id": p["id"],
-        "name": player_name(p),
-        "nation": s.get("name"),
-        "nationAbbr": s.get("abbr"),
-        "group": (s.get("group") or "").upper(),
-        "pos": p["position"],
-    }
+def tally_matches(rounds):
+    """Return (goals, assists, matches_played) from rounds.json match data."""
+    goals, assists = Counter(), Counter()
+    played = 0
+    for rnd in rounds:
+        for m in rnd.get("tournaments", []):
+            if m.get("homeScore") is None and m.get("awayScore") is None:
+                continue
+            played += 1
+            for side in ("homeGoalScorersAssists", "awayGoalScorersAssists"):
+                for ev in (m.get(side) or []):
+                    if ev.get("playerId"):
+                        goals[ev["playerId"]] += 1
+                    if ev.get("assistId"):
+                        assists[ev["assistId"]] += 1
+    return goals, assists, played
 
 
-def top_by(rows, key, extra_keys, n=TOP_N, positions=None):
-    """Return the n rows with the highest `key` (>0), with `extra_keys` kept."""
-    cand = [r for r in rows if (r.get(key) or 0) > 0
-            and (positions is None or r["pos"] in positions)]
-    cand.sort(key=lambda r: (r[key], r.get("points", 0)), reverse=True)
+def top_by(rows, key, tiebreak, extra_keys, n=TOP_N):
+    cand = [r for r in rows if (r.get(key) or 0) > 0]
+    cand.sort(key=lambda r: (r[key], r.get(tiebreak, 0)), reverse=True)
     out = []
     for r in cand[:n]:
         out.append({**{k: r[k] for k in ("id", "name", "nation", "nationAbbr",
@@ -88,43 +94,42 @@ def build():
     print("Loading feeds...", file=sys.stderr)
     players = load_feed("players")
     squads = load_feed("squads")
-    pstats = load_feed("player_stats")
+    rounds = load_feed("rounds")
     sq = {s["id"]: s for s in squads}
 
-    pool = [p for p in players if p.get("status") == "playing"]
+    goals, assists, matches_played = tally_matches(rounds)
 
-    matched = 0
+    pool = [p for p in players if p.get("status") == "playing"]
     rows = []
     for p in pool:
-        r = base_row(p, sq)
+        s = sq.get(p["squadId"], {})
         st = p.get("stats") or {}
-        r["points"] = st.get("totalPoints", 0) or 0
-        r["avg"] = st.get("avgPoints", 0) or 0
-        r["form"] = st.get("form", 0) or 0
-        r["ownPct"] = round(p.get("percentSelected") or 0.0, 1)
-        # detailed stats via fifaId join (goals/assists/clean sheets)
-        fid = p.get("fifaId")
-        det = pstats.get(str(fid)) if fid is not None else None
-        if det:
-            matched += 1
-            r["goals"] = det.get("goals", 0)
-            r["assists"] = det.get("assists", 0)
-            r["cleanSheets"] = det.get("clean_sheets", 0)
-            r["games"] = det.get("games_played", 0)
-        else:
-            r["goals"] = r["assists"] = r["cleanSheets"] = r["games"] = 0
-        rows.append(r)
+        rows.append({
+            "id": p["id"],
+            "name": player_name(p),
+            "nation": s.get("name"),
+            "nationAbbr": s.get("abbr"),
+            "group": (s.get("group") or "").upper(),
+            "pos": p["position"],
+            "points": st.get("totalPoints", 0) or 0,
+            "avg": st.get("avgPoints", 0) or 0,
+            "form": st.get("form", 0) or 0,
+            "ownPct": round(p.get("percentSelected") or 0.0, 1),
+            "goals": goals.get(p["id"], 0),
+            "assists": assists.get(p["id"], 0),
+        })
 
     leaderboards = {
-        "topScorers": top_by(rows, "goals", ["goals", "assists", "games"]),
-        "topAssists": top_by(rows, "assists", ["assists", "goals", "games"]),
-        "topPoints": top_by(rows, "points", ["points", "avg", "form"]),
-        "topCleanSheets": top_by(rows, "cleanSheets", ["cleanSheets", "games"],
-                                 positions=("GK", "DEF")),
-        "mostSelected": top_by(rows, "ownPct", ["ownPct", "points"]),
+        "topScorers": top_by(rows, "goals", "assists", ["goals", "assists"]),
+        "topAssists": top_by(rows, "assists", "goals", ["assists", "goals"]),
+        "topPoints": top_by(rows, "points", "avg", ["points", "avg", "form"]),
+        "mostSelected": top_by(rows, "ownPct", "points", ["ownPct", "points"]),
     }
 
-    join_ok = matched > 0
+    note = (f"{matches_played} kampe spillet — mål, assists og point er live."
+            if matches_played else
+            "Turneringen er ikke startet endnu — leaderboards udfyldes når "
+            "kampene begynder.")
     model = {
         "meta": {
             "league": LEAGUE,
@@ -133,20 +138,15 @@ def build():
             "dataSource": "https://play.fifa.com/json/fantasy/*",
             "playerCount": len(rows),
             "tournamentStart": TOURNAMENT_START,
-            "statsJoin": {
-                "available": join_ok,
-                "matched": matched,
-                "note": ("Mål/assist/clean sheets er aktive." if join_ok else
-                         "Mål/assist/clean sheets afventer FIFAs kampdata "
-                         "(fifaId ikke udfyldt endnu). Point og mest valgte er live."),
-            },
+            "matchesPlayed": matches_played,
+            "note": note,
         },
         "leaderboards": leaderboards,
     }
     out = os.path.join(HERE, "stats.json")
     with open(out, "w") as f:
         json.dump(model, f, ensure_ascii=False, indent=2)
-    print(f"Wrote {out}: {len(rows)} players, stat-join matched {matched}.",
+    print(f"Wrote {out}: {len(rows)} players, {matches_played} matches played.",
           file=sys.stderr)
     for k, v in leaderboards.items():
         print(f"  {k}: {len(v)} rows", file=sys.stderr)

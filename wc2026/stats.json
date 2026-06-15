@@ -5,32 +5,796 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-08T14:58:00+00:00",
+    "generatedAt": "2026-06-15T12:44:21+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 1243,
+    "playerCount": 1245,
     "tournamentStart": "2026-06-11",
-    "statsJoin": {
-      "available": false,
-      "matched": 0,
-      "note": "Mål/assist/clean sheets afventer FIFAs kampdata (fifaId ikke udfyldt endnu). Point og mest valgte er live."
-    }
+    "matchesPlayed": 12,
+    "note": "12 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
-    "topScorers": [],
-    "topAssists": [],
-    "topPoints": [],
-    "topCleanSheets": [],
-    "mostSelected": [
+    "topScorers": [
       {
-        "id": 500,
-        "name": "Kylian Mbappé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
+        "id": 528,
+        "name": "Kai Havertz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
         "pos": "FWD",
-        "ownPct": 50.5,
-        "points": 0
+        "goals": 2,
+        "assists": 0
       },
+      {
+        "id": 1114,
+        "name": "Yasin Ayari",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "MID",
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "id": 1267,
+        "name": "Folarin Balogun",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "FWD",
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "id": 531,
+        "name": "Deniz Undav",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "id": 1520,
+        "name": "Alexander Isak",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "id": 525,
+        "name": "Nathaniel Brown",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "DEF",
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "id": 1124,
+        "name": "Viktor Gyökeres",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "id": 1549,
+        "name": "Hwang In-Beom",
+        "nation": "Korea Republic",
+        "nationAbbr": "KOR",
+        "group": "A",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "id": 68,
+        "name": "Nestory Irankunda",
+        "nation": "Australia",
+        "nationAbbr": "AUS",
+        "group": "D",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 80,
+        "name": "Connor Metcalfe",
+        "nation": "Australia",
+        "nationAbbr": "AUS",
+        "group": "D",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 148,
+        "name": "Jovo Lukic",
+        "nation": "Bosnia and Herzegovina",
+        "nationAbbr": "BIH",
+        "group": "B",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 173,
+        "name": "Vinícius Júnior",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 227,
+        "name": "Cyle Larin",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 310,
+        "name": "Amad Diallo",
+        "nation": "Côte d'Ivoire",
+        "nationAbbr": "CIV",
+        "group": "E",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 360,
+        "name": "Livano Comenencia",
+        "nation": "Curaçao",
+        "nationAbbr": "CUW",
+        "group": "E",
+        "pos": "DEF",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 374,
+        "name": "Ladislav Krejcí",
+        "nation": "Czechia",
+        "nationAbbr": "CZE",
+        "group": "A",
+        "pos": "DEF",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 526,
+        "name": "Nico Schlotterbeck",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "DEF",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 671,
+        "name": "Keito Nakamura",
+        "nation": "Japan",
+        "nationAbbr": "JPN",
+        "group": "F",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 682,
+        "name": "Daichi Kamada",
+        "nation": "Japan",
+        "nationAbbr": "JPN",
+        "group": "F",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 726,
+        "name": "Oh Hyeon-Gyu",
+        "nation": "Korea Republic",
+        "nationAbbr": "KOR",
+        "group": "A",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 748,
+        "name": "Raúl Jiménez",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 750,
+        "name": "Julián Quiñones",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 792,
+        "name": "Ismael Saibari",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 796,
+        "name": "Virgil van Dijk",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "DEF",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 888,
+        "name": "Maurício Magalhães Prado",
+        "nation": "Paraguay",
+        "nationAbbr": "PAR",
+        "group": "D",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      }
+    ],
+    "topAssists": [
+      {
+        "id": 531,
+        "name": "Deniz Undav",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "FWD",
+        "assists": 2,
+        "goals": 1
+      },
+      {
+        "id": 1520,
+        "name": "Alexander Isak",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "FWD",
+        "assists": 2,
+        "goals": 1
+      },
+      {
+        "id": 542,
+        "name": "Joshua Kimmich",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "DEF",
+        "assists": 2,
+        "goals": 0
+      },
+      {
+        "id": 812,
+        "name": "Ryan Gravenberch",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "MID",
+        "assists": 2,
+        "goals": 0
+      },
+      {
+        "id": 525,
+        "name": "Nathaniel Brown",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "DEF",
+        "assists": 1,
+        "goals": 1
+      },
+      {
+        "id": 1124,
+        "name": "Viktor Gyökeres",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 1
+      },
+      {
+        "id": 1549,
+        "name": "Hwang In-Beom",
+        "nation": "Korea Republic",
+        "nationAbbr": "KOR",
+        "group": "A",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 1
+      },
+      {
+        "id": 77,
+        "name": "Paul Okon",
+        "nation": "Australia",
+        "nationAbbr": "AUS",
+        "group": "D",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 139,
+        "name": "Sead Kolasinac",
+        "nation": "Bosnia and Herzegovina",
+        "nationAbbr": "BIH",
+        "group": "B",
+        "pos": "DEF",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 300,
+        "name": "Wilfried Singo",
+        "nation": "Côte d'Ivoire",
+        "nationAbbr": "CIV",
+        "group": "E",
+        "pos": "DEF",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 380,
+        "name": "Vladimír Coufal",
+        "nation": "Czechia",
+        "nationAbbr": "CZE",
+        "group": "A",
+        "pos": "DEF",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 543,
+        "name": "Florian Wirtz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 673,
+        "name": "Koki Ogawa",
+        "nation": "Japan",
+        "nationAbbr": "JPN",
+        "group": "F",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 736,
+        "name": "Lee Kang-In",
+        "nation": "Korea Republic",
+        "nationAbbr": "KOR",
+        "group": "A",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 752,
+        "name": "Roberto Alvarado",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 759,
+        "name": "Érik Lira",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 912,
+        "name": "Julio Enciso",
+        "nation": "Paraguay",
+        "nationAbbr": "PAR",
+        "group": "D",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 1113,
+        "name": "Lucas Bergvall",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 1254,
+        "name": "Malik Tillman",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 1264,
+        "name": "Alexander Freeman",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "DEF",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 1274,
+        "name": "Christian Pulisic",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 1361,
+        "name": "Bruno Guimarães",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 1458,
+        "name": "Takefusa Kubo",
+        "nation": "Japan",
+        "nationAbbr": "JPN",
+        "group": "F",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 1555,
+        "name": "Hannibal Mejbri",
+        "nation": "Tunisia",
+        "nationAbbr": "TUN",
+        "group": "F",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 1970,
+        "name": "Promise David",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 0
+      }
+    ],
+    "topPoints": [
+      {
+        "id": 1114,
+        "name": "Yasin Ayari",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "MID",
+        "points": 17,
+        "avg": 17,
+        "form": 5.7
+      },
+      {
+        "id": 1520,
+        "name": "Alexander Isak",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "FWD",
+        "points": 16,
+        "avg": 16,
+        "form": 5.3
+      },
+      {
+        "id": 1267,
+        "name": "Folarin Balogun",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "FWD",
+        "points": 15,
+        "avg": 15,
+        "form": 5
+      },
+      {
+        "id": 525,
+        "name": "Nathaniel Brown",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "DEF",
+        "points": 14,
+        "avg": 14,
+        "form": 4.7
+      },
+      {
+        "id": 531,
+        "name": "Deniz Undav",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "FWD",
+        "points": 14,
+        "avg": 14,
+        "form": 4.7
+      },
+      {
+        "id": 1124,
+        "name": "Viktor Gyökeres",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "FWD",
+        "points": 14,
+        "avg": 14,
+        "form": 4.7
+      },
+      {
+        "id": 528,
+        "name": "Kai Havertz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "FWD",
+        "points": 13,
+        "avg": 13,
+        "form": 4.3
+      },
+      {
+        "id": 1549,
+        "name": "Hwang In-Beom",
+        "nation": "Korea Republic",
+        "nationAbbr": "KOR",
+        "group": "A",
+        "pos": "MID",
+        "points": 13,
+        "avg": 13,
+        "form": 4.3
+      },
+      {
+        "id": 1601,
+        "name": "Felix Nmecha",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
+        "points": 13,
+        "avg": 13,
+        "form": 4.3
+      },
+      {
+        "id": 300,
+        "name": "Wilfried Singo",
+        "nation": "Côte d'Ivoire",
+        "nationAbbr": "CIV",
+        "group": "E",
+        "pos": "DEF",
+        "points": 12,
+        "avg": 12,
+        "form": 4
+      },
+      {
+        "id": 76,
+        "name": "Patrick Beach",
+        "nation": "Australia",
+        "nationAbbr": "AUS",
+        "group": "D",
+        "pos": "GK",
+        "points": 11,
+        "avg": 11,
+        "form": 3.7
+      },
+      {
+        "id": 80,
+        "name": "Connor Metcalfe",
+        "nation": "Australia",
+        "nationAbbr": "AUS",
+        "group": "D",
+        "pos": "MID",
+        "points": 11,
+        "avg": 11,
+        "form": 3.7
+      },
+      {
+        "id": 526,
+        "name": "Nico Schlotterbeck",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "DEF",
+        "points": 11,
+        "avg": 11,
+        "form": 3.7
+      },
+      {
+        "id": 682,
+        "name": "Daichi Kamada",
+        "nation": "Japan",
+        "nationAbbr": "JPN",
+        "group": "F",
+        "pos": "MID",
+        "points": 11,
+        "avg": 11,
+        "form": 3.7
+      },
+      {
+        "id": 1003,
+        "name": "John McGinn",
+        "nation": "Scotland",
+        "nationAbbr": "SCO",
+        "group": "C",
+        "pos": "MID",
+        "points": 11,
+        "avg": 11,
+        "form": 3.7
+      },
+      {
+        "id": 68,
+        "name": "Nestory Irankunda",
+        "nation": "Australia",
+        "nationAbbr": "AUS",
+        "group": "D",
+        "pos": "FWD",
+        "points": 10,
+        "avg": 10,
+        "form": 3.3
+      },
+      {
+        "id": 374,
+        "name": "Ladislav Krejcí",
+        "nation": "Czechia",
+        "nationAbbr": "CZE",
+        "group": "A",
+        "pos": "DEF",
+        "points": 10,
+        "avg": 10,
+        "form": 3.3
+      },
+      {
+        "id": 671,
+        "name": "Keito Nakamura",
+        "nation": "Japan",
+        "nationAbbr": "JPN",
+        "group": "F",
+        "pos": "MID",
+        "points": 10,
+        "avg": 10,
+        "form": 3.3
+      },
+      {
+        "id": 748,
+        "name": "Raúl Jiménez",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "FWD",
+        "points": 10,
+        "avg": 10,
+        "form": 3.3
+      },
+      {
+        "id": 750,
+        "name": "Julián Quiñones",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "FWD",
+        "points": 10,
+        "avg": 10,
+        "form": 3.3
+      },
+      {
+        "id": 792,
+        "name": "Ismael Saibari",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "points": 10,
+        "avg": 10,
+        "form": 3.3
+      },
+      {
+        "id": 812,
+        "name": "Ryan Gravenberch",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "MID",
+        "points": 10,
+        "avg": 10,
+        "form": 3.3
+      },
+      {
+        "id": 58,
+        "name": "Jordan Bos",
+        "nation": "Australia",
+        "nationAbbr": "AUS",
+        "group": "D",
+        "pos": "DEF",
+        "points": 9,
+        "avg": 9,
+        "form": 3
+      },
+      {
+        "id": 60,
+        "name": "Alessandro Circati",
+        "nation": "Australia",
+        "nationAbbr": "AUS",
+        "group": "D",
+        "pos": "DEF",
+        "points": 9,
+        "avg": 9,
+        "form": 3
+      },
+      {
+        "id": 61,
+        "name": "Cameron Burgess",
+        "nation": "Australia",
+        "nationAbbr": "AUS",
+        "group": "D",
+        "pos": "DEF",
+        "points": 9,
+        "avg": 9,
+        "form": 3
+      }
+    ],
+    "mostSelected": [
       {
         "id": 939,
         "name": "Bruno Fernandes",
@@ -38,17 +802,17 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 50.3,
+        "ownPct": 49.9,
         "points": 0
       },
       {
-        "id": 1092,
-        "name": "Lamine Yamal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "MID",
-        "ownPct": 45.3,
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "ownPct": 49.3,
         "points": 0
       },
       {
@@ -58,7 +822,17 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 43.1,
+        "ownPct": 41.1,
+        "points": 0
+      },
+      {
+        "id": 1092,
+        "name": "Lamine Yamal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "ownPct": 39,
         "points": 0
       },
       {
@@ -68,47 +842,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 37.6,
-        "points": 0
-      },
-      {
-        "id": 855,
-        "name": "Erling Haaland",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "FWD",
-        "ownPct": 33.5,
-        "points": 0
-      },
-      {
-        "id": 542,
-        "name": "Joshua Kimmich",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "DEF",
-        "ownPct": 30.3,
-        "points": 0
-      },
-      {
-        "id": 1088,
-        "name": "Marc Cucurella",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 23.6,
-        "points": 0
-      },
-      {
-        "id": 164,
-        "name": "Gabriel Magalhães",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "DEF",
-        "ownPct": 23,
+        "ownPct": 36.1,
         "points": 0
       },
       {
@@ -118,27 +852,37 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 22.9,
+        "ownPct": 34.2,
         "points": 0
       },
       {
-        "id": 543,
-        "name": "Florian Wirtz",
+        "id": 542,
+        "name": "Joshua Kimmich",
         "nation": "Germany",
         "nationAbbr": "GER",
         "group": "E",
-        "pos": "MID",
-        "ownPct": 22.9,
+        "pos": "DEF",
+        "ownPct": 33.8,
+        "points": 8
+      },
+      {
+        "id": 855,
+        "name": "Erling Haaland",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "FWD",
+        "ownPct": 33,
         "points": 0
       },
       {
-        "id": 45,
-        "name": "Emiliano Martínez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "GK",
-        "ownPct": 22.1,
+        "id": 1088,
+        "name": "Marc Cucurella",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 24.9,
         "points": 0
       },
       {
@@ -148,7 +892,27 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 21.6,
+        "ownPct": 22.9,
+        "points": 2
+      },
+      {
+        "id": 543,
+        "name": "Florian Wirtz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
+        "ownPct": 22.7,
+        "points": 5
+      },
+      {
+        "id": 45,
+        "name": "Emiliano Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "GK",
+        "ownPct": 22.3,
         "points": 0
       },
       {
@@ -158,8 +922,8 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 21.4,
-        "points": 0
+        "ownPct": 22,
+        "points": 2
       },
       {
         "id": 796,
@@ -168,27 +932,27 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 20.2,
-        "points": 0
+        "ownPct": 20.5,
+        "points": 8
       },
       {
-        "id": 501,
-        "name": "Ousmane Dembélé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "ownPct": 19,
-        "points": 0
+        "id": 164,
+        "name": "Gabriel Magalhães",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "DEF",
+        "ownPct": 19.9,
+        "points": 2
       },
       {
-        "id": 256,
-        "name": "Luis Díaz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "MID",
-        "ownPct": 18.7,
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "FWD",
+        "ownPct": 19.9,
         "points": 0
       },
       {
@@ -198,17 +962,27 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 17.5,
+        "ownPct": 18.7,
         "points": 0
       },
       {
-        "id": 1094,
-        "name": "Mikel Oyarzabal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "FWD",
-        "ownPct": 17,
+        "id": 256,
+        "name": "Luis Díaz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "MID",
+        "ownPct": 18.3,
+        "points": 0
+      },
+      {
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "ownPct": 16.9,
         "points": 0
       },
       {
@@ -218,8 +992,18 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 16,
+        "ownPct": 15.9,
         "points": 0
+      },
+      {
+        "id": 528,
+        "name": "Kai Havertz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "FWD",
+        "ownPct": 15.3,
+        "points": 13
       },
       {
         "id": 795,
@@ -228,7 +1012,17 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 15.7,
+        "ownPct": 15.1,
+        "points": 1
+      },
+      {
+        "id": 477,
+        "name": "Jordan Pickford",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "GK",
+        "ownPct": 14.8,
         "points": 0
       },
       {
@@ -238,7 +1032,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 15.4,
+        "ownPct": 14.7,
         "points": 0
       },
       {
@@ -248,27 +1042,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 15.3,
-        "points": 0
-      },
-      {
-        "id": 477,
-        "name": "Jordan Pickford",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "GK",
-        "ownPct": 14.9,
-        "points": 0
-      },
-      {
-        "id": 173,
-        "name": "Vinícius Júnior",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 13.9,
+        "ownPct": 13.8,
         "points": 0
       }
     ]

@@ -1,0 +1,83 @@
+name: Deploy dashboards to Pages
+
+# Publishes the static dashboards (wc2026 + terminal) to GitHub Pages.
+# actions/configure-pages enables Pages on first run, so no manual setup needed.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "wc2026/**"
+      - "terminal/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Assemble site
+        run: |
+          mkdir -p _site/wc2026 _site/terminal
+          cp -r wc2026/. _site/wc2026/
+          cp -r terminal/. _site/terminal/
+          # drop dev-only files from the published site
+          find _site \( -name '*.py' -o -name 'README.md' -o -name '.gitignore' \) -delete
+          rm -rf _site/wc2026/data _site/terminal/data 2>/dev/null || true
+          cat > _site/index.html <<'HTML'
+          <!DOCTYPE html><html lang="da"><head><meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width,initial-scale=1">
+          <title>Scaleup Finance · Fantasy</title>
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+          <style>
+            body{margin:0;font-family:Inter,system-ui,sans-serif;background:#FAFAFA;color:#252525;
+              display:flex;min-height:100vh;align-items:center;justify-content:center}
+            .wrap{max-width:720px;padding:40px 24px;text-align:center}
+            .brand{font-weight:800;letter-spacing:.3px;color:#601C98;font-size:14px;margin-bottom:8px}
+            h1{font-size:30px;font-weight:800;margin:.2em 0 .5em}
+            p{color:#8B89B4;margin:0 0 28px}
+            .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;text-align:left}
+            a.card{display:block;text-decoration:none;color:inherit;background:#fff;border:1px solid #DEDEDE;
+              border-radius:14px;padding:20px;transition:.15s;box-shadow:0 1px 2px rgba(0,0,0,.03)}
+            a.card:hover{border-color:#601C98;transform:translateY(-2px)}
+            .card h2{margin:0 0 6px;font-size:18px}
+            .card span{color:#8B89B4;font-size:13.5px}
+            .tag{display:inline-block;background:#60DEC8;color:#06443a;font-weight:700;font-size:11px;
+              padding:2px 8px;border-radius:999px;margin-bottom:10px}
+          </style></head><body><div class="wrap">
+            <div class="brand">● SCALEUP FINANCE · FANTASY</div>
+            <h1>Fantasy-dashboards</h1><p>Live data — vælg et dashboard</p>
+            <div class="cards">
+              <a class="card" href="wc2026/"><div class="tag">VM 2026</div>
+                <h2>World Cup Fantasy →</h2><span>SuF-ligaens stilling + topscorere, assists og point (live fra FIFA).</span></a>
+              <a class="card" href="terminal/"><div class="tag">FPL DRAFT</div>
+                <h2>Draft Terminal →</h2><span>Bloomberg-agtigt data-desk: stilling, spillere og trupper for draft-ligaen.</span></a>
+            </div></div></body></html>
+          HTML
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

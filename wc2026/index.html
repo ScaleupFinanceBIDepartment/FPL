@@ -182,13 +182,55 @@ function renderBoard(){
     + `</tbody></table></div>`;
 }
 
+// ---- live stats: compute leaderboards directly from FIFA's public feeds ----
+const FIFA_FEEDS='https://play.fifa.com/json/fantasy/';
+const TOP_N=25;
+const pname=p=>p.knownName||`${p.firstName||''} ${p.lastName||''}`.trim();
+async function feed(n){const r=await fetch(FIFA_FEEDS+n+'.json');if(!r.ok)throw new Error(n+' HTTP '+r.status);return r.json();}
+function topBy(rows,key,tiebreak,extra){
+  return rows.filter(r=>(r[key]||0)>0)
+    .sort((a,b)=>(b[key]-a[key])||((b[tiebreak]||0)-(a[tiebreak]||0)))
+    .slice(0,TOP_N)
+    .map(r=>{const o={id:r.id,name:r.name,nation:r.nation,nationAbbr:r.nationAbbr,group:r.group,pos:r.pos};
+      extra.forEach(k=>o[k]=r[k]);return o;});
+}
+async function buildStatsLive(){
+  const [players,squads,rounds]=await Promise.all([feed('players'),feed('squads'),feed('rounds')]);
+  const sq={};squads.forEach(s=>sq[s.id]=s);
+  const goals={},assists={};let played=0;
+  rounds.forEach(rnd=>(rnd.tournaments||[]).forEach(m=>{
+    if(m.homeScore==null&&m.awayScore==null)return;played++;
+    ['homeGoalScorersAssists','awayGoalScorersAssists'].forEach(side=>(m[side]||[]).forEach(ev=>{
+      if(ev.playerId)goals[ev.playerId]=(goals[ev.playerId]||0)+1;
+      if(ev.assistId)assists[ev.assistId]=(assists[ev.assistId]||0)+1;
+    }));
+  }));
+  const rows=players.filter(p=>p.status==='playing').map(p=>{
+    const s=sq[p.squadId]||{},st=p.stats||{};
+    return{id:p.id,name:pname(p),nation:s.name,nationAbbr:s.abbr,group:(s.group||'').toUpperCase(),pos:p.position,
+      points:st.totalPoints||0,avg:st.avgPoints||0,form:st.form||0,
+      ownPct:Math.round((p.percentSelected||0)*10)/10,goals:goals[p.id]||0,assists:assists[p.id]||0};
+  });
+  return{meta:{league:{id:128462,name:'SuF',joinCode:'2SPXEBAF'},generatedAt:new Date().toISOString(),
+      dataSource:FIFA_FEEDS+'*',playerCount:rows.length,matchesPlayed:played,
+      note:played?`${played} kampe spillet — live fra FIFA.`:'Turneringen er ikke startet endnu.'},
+    leaderboards:{
+      topScorers:topBy(rows,'goals','assists',['goals','assists']),
+      topAssists:topBy(rows,'assists','goals',['assists','goals']),
+      topPoints:topBy(rows,'points','avg',['points','avg','form']),
+      mostSelected:topBy(rows,'ownPct','points',['ownPct','points'])}};
+}
+
 (async function(){
   try{
-    STATS = await loadJSON('stats.json');
+    STATS = await buildStatsLive();                 // live fra FIFAs offentlige feeds
   }catch(e){
-    document.querySelector('.wrap').insertAdjacentHTML('afterbegin',
-      `<section><div class="card err">Kunne ikke indlæse stats.json: ${esc(e.message)}</div></section>`);
-    return;
+    try{ STATS = await loadJSON('stats.json'); }     // fallback: committet snapshot
+    catch(e2){
+      document.querySelector('.wrap').insertAdjacentHTML('afterbegin',
+        `<section><div class="card err">Kunne ikke hente data: ${esc(e.message)}</div></section>`);
+      return;
+    }
   }
   try{ STAND = await loadJSON('standings.json'); }catch{ STAND=null; }
   renderHeader(); renderStandings(); renderTabs(); renderBoard();

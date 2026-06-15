@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-15T12:44:21+00:00",
+    "generatedAt": "2026-06-15T13:05:38+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
@@ -972,7 +972,7 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 18.3,
+        "ownPct": 18.2,
         "points": 0
       },
       {

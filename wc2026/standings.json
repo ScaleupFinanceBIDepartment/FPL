@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-06-15T19:07:31+00:00",
+  "fetchedAt": "2026-06-15T23:07:23+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -16,45 +16,45 @@
     },
     {
       "rank": 2,
+      "managerName": "Sec United",
+      "teamName": "",
+      "points": 41,
+      "lastRoundPoints": 41
+    },
+    {
+      "rank": 3,
+      "managerName": "Doktor Svin",
+      "teamName": "",
+      "points": 40,
+      "lastRoundPoints": 40
+    },
+    {
+      "rank": 4,
       "managerName": "Testtesttest",
       "teamName": "",
       "points": 39,
       "lastRoundPoints": 39
     },
     {
-      "rank": 3,
-      "managerName": "Sec United",
-      "teamName": "",
-      "points": 32,
-      "lastRoundPoints": 32
-    },
-    {
-      "rank": 4,
-      "managerName": "Doktor Svin",
-      "teamName": "",
-      "points": 31,
-      "lastRoundPoints": 31
-    },
-    {
       "rank": 5,
-      "managerName": "DanishNorseman",
+      "managerName": "HC WIN",
       "teamName": "",
-      "points": 30,
-      "lastRoundPoints": 30
+      "points": 29,
+      "lastRoundPoints": 29
     },
     {
       "rank": 6,
-      "managerName": "HC WIN",
+      "managerName": "Anders Zaar",
       "teamName": "",
-      "points": 28,
-      "lastRoundPoints": 28
+      "points": 29,
+      "lastRoundPoints": 29
     },
     {
       "rank": 7,
-      "managerName": "Anders Zaar",
+      "managerName": "DanishNorseman",
       "teamName": "",
-      "points": 27,
-      "lastRoundPoints": 27
+      "points": 28,
+      "lastRoundPoints": 28
     },
     {
       "rank": 8,
@@ -95,8 +95,8 @@
       "rank": 13,
       "managerName": "ESI1994",
       "teamName": "",
-      "points": 11,
-      "lastRoundPoints": 11
+      "points": 14,
+      "lastRoundPoints": 14
     },
     {
       "rank": 14,

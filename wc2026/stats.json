@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-15T19:07:30+00:00",
+    "generatedAt": "2026-06-15T23:07:22+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 14,
-    "note": "14 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 15,
+    "note": "15 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -175,6 +175,26 @@
         "assists": 0
       },
       {
+        "id": 435,
+        "name": "Emam Ashour",
+        "nation": "Egypt",
+        "nationAbbr": "EGY",
+        "group": "G",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 439,
+        "name": "Mohamed Hany",
+        "nation": "Egypt",
+        "nationAbbr": "EGY",
+        "group": "G",
+        "pos": "DEF",
+        "goals": 1,
+        "assists": 0
+      },
+      {
         "id": 526,
         "name": "Nico Schlotterbeck",
         "nation": "Germany",
@@ -240,26 +260,6 @@
         "nation": "Morocco",
         "nationAbbr": "MAR",
         "group": "C",
-        "pos": "MID",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 796,
-        "name": "Virgil van Dijk",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "DEF",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 888,
-        "name": "Maurício Magalhães Prado",
-        "nation": "Paraguay",
-        "nationAbbr": "PAR",
-        "group": "D",
         "pos": "MID",
         "goals": 1,
         "assists": 0
@@ -507,12 +507,12 @@
         "goals": 0
       },
       {
-        "id": 1970,
-        "name": "Promise David",
-        "nation": "Canada",
-        "nationAbbr": "CAN",
-        "group": "B",
-        "pos": "FWD",
+        "id": 1597,
+        "name": "Mohamed Salah",
+        "nation": "Egypt",
+        "nationAbbr": "EGY",
+        "group": "G",
+        "pos": "MID",
         "assists": 1,
         "goals": 0
       }
@@ -717,6 +717,17 @@
         "form": 3.3
       },
       {
+        "id": 435,
+        "name": "Emam Ashour",
+        "nation": "Egypt",
+        "nationAbbr": "EGY",
+        "group": "G",
+        "pos": "MID",
+        "points": 10,
+        "avg": 10,
+        "form": 3.3
+      },
+      {
         "id": 671,
         "name": "Keito Nakamura",
         "nation": "Japan",
@@ -781,17 +792,6 @@
         "points": 9,
         "avg": 9,
         "form": 3
-      },
-      {
-        "id": 60,
-        "name": "Alessandro Circati",
-        "nation": "Australia",
-        "nationAbbr": "AUS",
-        "group": "D",
-        "pos": "DEF",
-        "points": 9,
-        "avg": 9,
-        "form": 3
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 49.8,
+        "ownPct": 49.7,
         "points": 0
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 41.1,
+        "ownPct": 41,
         "points": 0
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.2,
+        "ownPct": 34.1,
         "points": 0
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 22,
+        "ownPct": 21.9,
         "points": 2
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 20.5,
+        "ownPct": 20.6,
         "points": 8
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 19.9,
+        "ownPct": 19.8,
         "points": 2
       },
       {
@@ -1002,7 +1002,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "FWD",
-        "ownPct": 15.3,
+        "ownPct": 15.4,
         "points": 13
       },
       {
@@ -1042,7 +1042,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 13.6,
+        "ownPct": 13.5,
         "points": 0
       }
     ]

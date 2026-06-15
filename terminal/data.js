@@ -10,6 +10,31 @@
   }
   const ri = (r, a, b) => Math.floor(a + r() * (b - a + 1))
 
+  /* shared helpers (used by both the live + generated data paths) */
+  const fmtSign = n => (n > 0 ? '+' + n : '' + n)
+  function spark(data, w, h) {
+    const max = Math.max(...data), min = Math.min(...data), rngv = max - min || 1
+    const step = w / (data.length - 1)
+    const pts = data.map((v, i) => [i * step, h - ((v - min) / rngv) * (h - 3) - 1.5])
+    return { line: pts.map((p, i) => (i ? 'L' : 'M') + p[0].toFixed(1) + ' ' + p[1].toFixed(1)).join(' '), pts, max, min }
+  }
+
+  /* Prefer the real baked league data (terminal/data.json, same-origin so no
+     CORS) produced by build_data.py from the FPL Draft API. Fall back to the
+     generated sample universe below if it's missing (e.g. opened standalone). */
+  try {
+    const xhr = new XMLHttpRequest()
+    xhr.open('GET', 'data.json?t=' + Date.now(), false)
+    xhr.send()
+    if (xhr.status === 200) {
+      const live = JSON.parse(xhr.responseText)
+      if (live && Array.isArray(live.players) && live.players.length) {
+        window.TD = Object.assign(live, { fmtSign, spark })
+        return
+      }
+    }
+  } catch (e) { /* fall back to generated universe */ }
+
   const MANAGERS = [
     { team: 'Penalty Box',     mgr: 'Maria Lund' },
     { team: 'Hand of God',     mgr: 'Emil Vinther' },
@@ -143,12 +168,6 @@
   window.TD = {
     gw: 8, players, managers: MANAGERS, standings, risers, fallers,
     clubs: [...new Set(players.map(p => p.club))].sort(),
-    fmtSign: n => (n > 0 ? '+' + n : '' + n),
-    spark(data, w, h) {
-      const max = Math.max(...data), min = Math.min(...data), rngv = max - min || 1
-      const step = w / (data.length - 1)
-      const pts = data.map((v, i) => [i * step, h - ((v - min) / rngv) * (h - 3) - 1.5])
-      return { line: pts.map((p, i) => (i ? 'L' : 'M') + p[0].toFixed(1) + ' ' + p[1].toFixed(1)).join(' '), pts, max, min }
-    },
+    fmtSign, spark,
   }
 })()

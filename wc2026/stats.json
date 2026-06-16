@@ -5,15 +5,25 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-16T17:18:00+00:00",
+    "generatedAt": "2026-06-16T21:15:18+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 16,
-    "note": "16 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 17,
+    "note": "17 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
+      {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "goals": 2,
+        "assists": 0
+      },
       {
         "id": 528,
         "name": "Kai Havertz",
@@ -253,16 +263,6 @@
         "pos": "MID",
         "goals": 1,
         "assists": 0
-      },
-      {
-        "id": 726,
-        "name": "Oh Hyeon-Gyu",
-        "nation": "Korea Republic",
-        "nationAbbr": "KOR",
-        "group": "A",
-        "pos": "FWD",
-        "goals": 1,
-        "assists": 0
       }
     ],
     "topAssists": [
@@ -397,6 +397,26 @@
         "goals": 0
       },
       {
+        "id": 510,
+        "name": "Adrien Rabiot",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 517,
+        "name": "Michael Olise",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
         "id": 543,
         "name": "Florian Wirtz",
         "nation": "Germany",
@@ -457,6 +477,16 @@
         "goals": 0
       },
       {
+        "id": 1042,
+        "name": "Iliman Ndiaye",
+        "nation": "Senegal",
+        "nationAbbr": "SEN",
+        "group": "I",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 0
+      },
+      {
         "id": 1113,
         "name": "Lucas Bergvall",
         "nation": "Sweden",
@@ -483,36 +513,6 @@
         "nationAbbr": "USA",
         "group": "D",
         "pos": "DEF",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 1274,
-        "name": "Christian Pulisic",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 1361,
-        "name": "Bruno Guimarães",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 1458,
-        "name": "Takefusa Kubo",
-        "nation": "Japan",
-        "nationAbbr": "JPN",
-        "group": "F",
-        "pos": "MID",
         "assists": 1,
         "goals": 0
       }
@@ -561,6 +561,17 @@
         "points": 15,
         "avg": 15,
         "form": 5
+      },
+      {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "points": 14,
+        "avg": 14,
+        "form": 4.7
       },
       {
         "id": 525,
@@ -781,17 +792,6 @@
         "points": 10,
         "avg": 10,
         "form": 3.3
-      },
-      {
-        "id": 748,
-        "name": "Raúl Jiménez",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "FWD",
-        "points": 10,
-        "avg": 10,
-        "form": 3.3
       }
     ],
     "mostSelected": [
@@ -812,8 +812,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 49.3,
-        "points": 0
+        "ownPct": 49.4,
+        "points": 14
       },
       {
         "id": 916,
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 38.8,
+        "ownPct": 38.7,
         "points": 1
       },
       {
@@ -852,8 +852,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.1,
-        "points": 0
+        "ownPct": 34.2,
+        "points": 6
       },
       {
         "id": 542,
@@ -932,7 +932,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 20.6,
+        "ownPct": 20.7,
         "points": 8
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 19.7,
+        "ownPct": 19.6,
         "points": 2
       },
       {
@@ -983,7 +983,7 @@
         "group": "I",
         "pos": "MID",
         "ownPct": 16.9,
-        "points": 0
+        "points": 3
       },
       {
         "id": 39,
@@ -1002,7 +1002,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "FWD",
-        "ownPct": 15.4,
+        "ownPct": 15.5,
         "points": 13
       },
       {
@@ -1033,7 +1033,7 @@
         "group": "I",
         "pos": "DEF",
         "ownPct": 14.7,
-        "points": 0
+        "points": 2
       },
       {
         "id": 173,

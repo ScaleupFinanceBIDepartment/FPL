@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-06-15T23:07:23+00:00",
+  "fetchedAt": "2026-06-16T05:25:40+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -39,8 +39,8 @@
       "rank": 5,
       "managerName": "HC WIN",
       "teamName": "",
-      "points": 29,
-      "lastRoundPoints": 29
+      "points": 30,
+      "lastRoundPoints": 30
     },
     {
       "rank": 6,

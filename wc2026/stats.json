@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-15T23:07:22+00:00",
+    "generatedAt": "2026-06-16T05:25:39+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 15,
-    "note": "15 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 16,
+    "note": "16 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -21,6 +21,16 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "FWD",
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "id": 832,
+        "name": "Elijah Just",
+        "nation": "New Zealand",
+        "nationAbbr": "NZL",
+        "group": "G",
+        "pos": "MID",
         "goals": 2,
         "assists": 0
       },
@@ -70,6 +80,16 @@
         "nation": "Germany",
         "nationAbbr": "GER",
         "group": "E",
+        "pos": "DEF",
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "id": 597,
+        "name": "Ramin Rezaeian",
+        "nation": "IR Iran",
+        "nationAbbr": "IRN",
+        "group": "G",
         "pos": "DEF",
         "goals": 1,
         "assists": 1
@@ -205,6 +225,16 @@
         "assists": 0
       },
       {
+        "id": 627,
+        "name": "Mohammad Mohebi",
+        "nation": "IR Iran",
+        "nationAbbr": "IRN",
+        "group": "G",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      },
+      {
         "id": 671,
         "name": "Keito Nakamura",
         "nation": "Japan",
@@ -231,36 +261,6 @@
         "nationAbbr": "KOR",
         "group": "A",
         "pos": "FWD",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 748,
-        "name": "Raúl Jiménez",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "FWD",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 750,
-        "name": "Julián Quiñones",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "FWD",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 792,
-        "name": "Ismael Saibari",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
         "goals": 1,
         "assists": 0
       }
@@ -307,11 +307,31 @@
         "goals": 0
       },
       {
+        "id": 1493,
+        "name": "Chris Wood",
+        "nation": "New Zealand",
+        "nationAbbr": "NZL",
+        "group": "G",
+        "pos": "FWD",
+        "assists": 2,
+        "goals": 0
+      },
+      {
         "id": 525,
         "name": "Nathaniel Brown",
         "nation": "Germany",
         "nationAbbr": "GER",
         "group": "E",
+        "pos": "DEF",
+        "assists": 1,
+        "goals": 1
+      },
+      {
+        "id": 597,
+        "name": "Ramin Rezaeian",
+        "nation": "IR Iran",
+        "nationAbbr": "IRN",
+        "group": "G",
         "pos": "DEF",
         "assists": 1,
         "goals": 1
@@ -495,26 +515,6 @@
         "pos": "MID",
         "assists": 1,
         "goals": 0
-      },
-      {
-        "id": 1555,
-        "name": "Hannibal Mejbri",
-        "nation": "Tunisia",
-        "nationAbbr": "TUN",
-        "group": "F",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 1597,
-        "name": "Mohamed Salah",
-        "nation": "Egypt",
-        "nationAbbr": "EGY",
-        "group": "G",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
       }
     ],
     "topPoints": [
@@ -528,6 +528,17 @@
         "points": 17,
         "avg": 17,
         "form": 5.7
+      },
+      {
+        "id": 832,
+        "name": "Elijah Just",
+        "nation": "New Zealand",
+        "nationAbbr": "NZL",
+        "group": "G",
+        "pos": "MID",
+        "points": 16,
+        "avg": 16,
+        "form": 5.3
       },
       {
         "id": 1520,
@@ -591,6 +602,17 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "FWD",
+        "points": 13,
+        "avg": 13,
+        "form": 4.3
+      },
+      {
+        "id": 597,
+        "name": "Ramin Rezaeian",
+        "nation": "IR Iran",
+        "nationAbbr": "IRN",
+        "group": "G",
+        "pos": "DEF",
         "points": 13,
         "avg": 13,
         "form": 4.3
@@ -695,6 +717,17 @@
         "form": 3.7
       },
       {
+        "id": 1493,
+        "name": "Chris Wood",
+        "nation": "New Zealand",
+        "nationAbbr": "NZL",
+        "group": "G",
+        "pos": "FWD",
+        "points": 11,
+        "avg": 11,
+        "form": 3.7
+      },
+      {
         "id": 68,
         "name": "Nestory Irankunda",
         "nation": "Australia",
@@ -728,6 +761,17 @@
         "form": 3.3
       },
       {
+        "id": 627,
+        "name": "Mohammad Mohebi",
+        "nation": "IR Iran",
+        "nationAbbr": "IRN",
+        "group": "G",
+        "pos": "MID",
+        "points": 10,
+        "avg": 10,
+        "form": 3.3
+      },
+      {
         "id": 671,
         "name": "Keito Nakamura",
         "nation": "Japan",
@@ -748,50 +792,6 @@
         "points": 10,
         "avg": 10,
         "form": 3.3
-      },
-      {
-        "id": 750,
-        "name": "Julián Quiñones",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "FWD",
-        "points": 10,
-        "avg": 10,
-        "form": 3.3
-      },
-      {
-        "id": 792,
-        "name": "Ismael Saibari",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "points": 10,
-        "avg": 10,
-        "form": 3.3
-      },
-      {
-        "id": 812,
-        "name": "Ryan Gravenberch",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "MID",
-        "points": 10,
-        "avg": 10,
-        "form": 3.3
-      },
-      {
-        "id": 58,
-        "name": "Jordan Bos",
-        "nation": "Australia",
-        "nationAbbr": "AUS",
-        "group": "D",
-        "pos": "DEF",
-        "points": 9,
-        "avg": 9,
-        "form": 3
       }
     ],
     "mostSelected": [
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 38.9,
+        "ownPct": 38.8,
         "points": 1
       },
       {
@@ -1036,14 +1036,14 @@
         "points": 0
       },
       {
-        "id": 1098,
-        "name": "David Raya",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "GK",
+        "id": 173,
+        "name": "Vinícius Júnior",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
         "ownPct": 13.5,
-        "points": 0
+        "points": 8
       }
     ]
   }

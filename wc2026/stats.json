@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-17T05:05:41+00:00",
+    "generatedAt": "2026-06-17T11:14:23+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
@@ -185,6 +185,16 @@
         "assists": 0
       },
       {
+        "id": 95,
+        "name": "Marko Arnautovic",
+        "nation": "Austria",
+        "nationAbbr": "AUT",
+        "group": "J",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 0
+      },
+      {
         "id": 108,
         "name": "Romano Schmid",
         "nation": "Austria",
@@ -251,16 +261,6 @@
         "nationAbbr": "CZE",
         "group": "A",
         "pos": "DEF",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 435,
-        "name": "Emam Ashour",
-        "nation": "Egypt",
-        "nationAbbr": "EGY",
-        "group": "G",
-        "pos": "MID",
         "goals": 1,
         "assists": 0
       }
@@ -487,6 +487,16 @@
         "goals": 0
       },
       {
+        "id": 688,
+        "name": "Noor Al Rawabdeh",
+        "nation": "Jordan",
+        "nationAbbr": "JOR",
+        "group": "J",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
         "id": 736,
         "name": "Lee Kang-In",
         "nation": "Korea Republic",
@@ -503,16 +513,6 @@
         "nationAbbr": "MEX",
         "group": "A",
         "pos": "FWD",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 759,
-        "name": "Érik Lira",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "MID",
         "assists": 1,
         "goals": 0
       }
@@ -772,23 +772,23 @@
         "form": 3.3
       },
       {
+        "id": 108,
+        "name": "Romano Schmid",
+        "nation": "Austria",
+        "nationAbbr": "AUT",
+        "group": "J",
+        "pos": "MID",
+        "points": 10,
+        "avg": 10,
+        "form": 3.3
+      },
+      {
         "id": 374,
         "name": "Ladislav Krejcí",
         "nation": "Czechia",
         "nationAbbr": "CZE",
         "group": "A",
         "pos": "DEF",
-        "points": 10,
-        "avg": 10,
-        "form": 3.3
-      },
-      {
-        "id": 435,
-        "name": "Emam Ashour",
-        "nation": "Egypt",
-        "nationAbbr": "EGY",
-        "group": "G",
-        "pos": "MID",
         "points": 10,
         "avg": 10,
         "form": 3.3
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 49.9,
+        "ownPct": 50.3,
         "points": 14
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 49.6,
+        "ownPct": 49.5,
         "points": 0
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 38.5,
+        "ownPct": 38.3,
         "points": 1
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 35.9,
+        "ownPct": 35.8,
         "points": 0
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.3,
+        "ownPct": 34.4,
         "points": 6
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 24.9,
+        "ownPct": 25,
         "points": 7
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 22.4,
+        "ownPct": 22.5,
         "points": 7
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 21.8,
+        "ownPct": 21.7,
         "points": 2
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 20.7,
+        "ownPct": 20.8,
         "points": 8
       },
       {
@@ -942,17 +942,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 19.9,
-        "points": 2
-      },
-      {
-        "id": 1094,
-        "name": "Mikel Oyarzabal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "FWD",
-        "ownPct": 19.4,
+        "ownPct": 19.8,
         "points": 2
       },
       {
@@ -962,8 +952,18 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 19.1,
+        "ownPct": 19.6,
         "points": 19
+      },
+      {
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "FWD",
+        "ownPct": 19.1,
+        "points": 2
       },
       {
         "id": 256,
@@ -972,7 +972,7 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 18.1,
+        "ownPct": 18,
         "points": 0
       },
       {
@@ -982,18 +982,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 16.7,
+        "ownPct": 16.6,
         "points": 3
-      },
-      {
-        "id": 39,
-        "name": "Julián Alvarez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "ownPct": 15.7,
-        "points": 1
       },
       {
         "id": 528,
@@ -1002,8 +992,18 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "FWD",
-        "ownPct": 15.5,
+        "ownPct": 15.6,
         "points": 13
+      },
+      {
+        "id": 39,
+        "name": "Julián Alvarez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "ownPct": 15.3,
+        "points": 1
       },
       {
         "id": 795,
@@ -1012,7 +1012,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 14.9,
+        "ownPct": 14.8,
         "points": 1
       },
       {
@@ -1042,7 +1042,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 13.8,
+        "ownPct": 14,
         "points": 8
       }
     ]

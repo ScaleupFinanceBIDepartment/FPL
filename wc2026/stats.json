@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-17T11:14:23+00:00",
+    "generatedAt": "2026-06-17T15:58:34+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 50.3,
+        "ownPct": 50.4,
         "points": 14
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 38.3,
+        "ownPct": 38.2,
         "points": 1
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 22.4,
+        "ownPct": 22.3,
         "points": 5
       },
       {
@@ -936,6 +936,16 @@
         "points": 8
       },
       {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "ownPct": 19.9,
+        "points": 19
+      },
+      {
         "id": 164,
         "name": "Gabriel Magalhães",
         "nation": "Brazil",
@@ -946,23 +956,13 @@
         "points": 2
       },
       {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "ownPct": 19.6,
-        "points": 19
-      },
-      {
         "id": 1094,
         "name": "Mikel Oyarzabal",
         "nation": "Spain",
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 19.1,
+        "ownPct": 19,
         "points": 2
       },
       {
@@ -1002,7 +1002,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 15.3,
+        "ownPct": 15.2,
         "points": 1
       },
       {
@@ -1042,7 +1042,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 14,
+        "ownPct": 14.1,
         "points": 8
       }
     ]

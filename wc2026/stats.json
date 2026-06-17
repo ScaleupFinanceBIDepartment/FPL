@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-17T15:58:34+00:00",
+    "generatedAt": "2026-06-17T20:27:19+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 20,
-    "note": "20 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 22,
+    "note": "22 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -235,6 +235,16 @@
         "assists": 0
       },
       {
+        "id": 281,
+        "name": "Yoane Wissa",
+        "nation": "Congo DR",
+        "nationAbbr": "COD",
+        "group": "K",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 0
+      },
+      {
         "id": 310,
         "name": "Amad Diallo",
         "nation": "Côte d'Ivoire",
@@ -250,16 +260,6 @@
         "nation": "Curaçao",
         "nationAbbr": "CUW",
         "group": "E",
-        "pos": "DEF",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 374,
-        "name": "Ladislav Krejcí",
-        "nation": "Czechia",
-        "nationAbbr": "CZE",
-        "group": "A",
         "pos": "DEF",
         "goals": 1,
         "assists": 0
@@ -417,6 +417,16 @@
         "goals": 0
       },
       {
+        "id": 273,
+        "name": "Arthur Masuaku",
+        "nation": "Congo DR",
+        "nationAbbr": "COD",
+        "group": "K",
+        "pos": "DEF",
+        "assists": 1,
+        "goals": 0
+      },
+      {
         "id": 300,
         "name": "Wilfried Singo",
         "nation": "Côte d'Ivoire",
@@ -503,16 +513,6 @@
         "nationAbbr": "KOR",
         "group": "A",
         "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 752,
-        "name": "Roberto Alvarado",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "FWD",
         "assists": 1,
         "goals": 0
       }
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 50.4,
+        "ownPct": 50.7,
         "points": 14
       },
       {
@@ -812,8 +812,8 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 49.5,
-        "points": 0
+        "ownPct": 49.3,
+        "points": 3
       },
       {
         "id": 916,
@@ -822,8 +822,8 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 40.9,
-        "points": 0
+        "ownPct": 40.7,
+        "points": 2
       },
       {
         "id": 1092,
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 38.2,
+        "ownPct": 38.1,
         "points": 1
       },
       {
@@ -842,8 +842,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 35.8,
-        "points": 0
+        "ownPct": 35.7,
+        "points": 6
       },
       {
         "id": 517,
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.4,
+        "ownPct": 34.5,
         "points": 6
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 33.7,
+        "ownPct": 33.6,
         "points": 8
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 22.5,
+        "ownPct": 22.6,
         "points": 7
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 22.3,
+        "ownPct": 22.2,
         "points": 5
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 19.9,
+        "ownPct": 20.3,
         "points": 19
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 19,
+        "ownPct": 18.9,
         "points": 2
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 18,
+        "ownPct": 17.9,
         "points": 0
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 16.6,
+        "ownPct": 16.5,
         "points": 3
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "FWD",
-        "ownPct": 15.6,
+        "ownPct": 15.7,
         "points": 13
       },
       {
@@ -1002,28 +1002,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 15.2,
+        "ownPct": 14.9,
         "points": 1
-      },
-      {
-        "id": 795,
-        "name": "Denzel Dumfries",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "DEF",
-        "ownPct": 14.8,
-        "points": 1
-      },
-      {
-        "id": 1429,
-        "name": "William Saliba",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 14.7,
-        "points": 2
       },
       {
         "id": 477,
@@ -1033,7 +1013,27 @@
         "group": "L",
         "pos": "GK",
         "ownPct": 14.7,
-        "points": 0
+        "points": 1
+      },
+      {
+        "id": 795,
+        "name": "Denzel Dumfries",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "DEF",
+        "ownPct": 14.7,
+        "points": 1
+      },
+      {
+        "id": 1429,
+        "name": "William Saliba",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 14.6,
+        "points": 2
       },
       {
         "id": 173,
@@ -1042,7 +1042,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 14.1,
+        "ownPct": 14.3,
         "points": 8
       }
     ]

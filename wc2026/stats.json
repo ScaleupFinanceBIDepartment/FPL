@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-17T20:27:19+00:00",
+    "generatedAt": "2026-06-17T22:50:20+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
@@ -22,6 +22,16 @@
         "group": "J",
         "pos": "FWD",
         "goals": 3,
+        "assists": 0
+      },
+      {
+        "id": 468,
+        "name": "Harry Kane",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "FWD",
+        "goals": 2,
         "assists": 0
       },
       {
@@ -253,16 +263,6 @@
         "pos": "FWD",
         "goals": 1,
         "assists": 0
-      },
-      {
-        "id": 360,
-        "name": "Livano Comenencia",
-        "nation": "Curaçao",
-        "nationAbbr": "CUW",
-        "group": "E",
-        "pos": "DEF",
-        "goals": 1,
-        "assists": 0
       }
     ],
     "topAssists": [
@@ -437,12 +437,62 @@
         "goals": 0
       },
       {
+        "id": 324,
+        "name": "Petar Sucic",
+        "nation": "Croatia",
+        "nationAbbr": "CRO",
+        "group": "L",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 334,
+        "name": "Ivan Perisic",
+        "nation": "Croatia",
+        "nationAbbr": "CRO",
+        "group": "L",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 0
+      },
+      {
         "id": 380,
         "name": "Vladimír Coufal",
         "nation": "Czechia",
         "nationAbbr": "CZE",
         "group": "A",
         "pos": "DEF",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 469,
+        "name": "Bukayo Saka",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 486,
+        "name": "Elliot Anderson",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 488,
+        "name": "Declan Rice",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
         "assists": 1,
         "goals": 0
       },
@@ -462,56 +512,6 @@
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 543,
-        "name": "Florian Wirtz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 635,
-        "name": "Amir Al Ammari",
-        "nation": "Iraq",
-        "nationAbbr": "IRQ",
-        "group": "I",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 673,
-        "name": "Koki Ogawa",
-        "nation": "Japan",
-        "nationAbbr": "JPN",
-        "group": "F",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 688,
-        "name": "Noor Al Rawabdeh",
-        "nation": "Jordan",
-        "nationAbbr": "JOR",
-        "group": "J",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 736,
-        "name": "Lee Kang-In",
-        "nation": "Korea Republic",
-        "nationAbbr": "KOR",
-        "group": "A",
         "pos": "MID",
         "assists": 1,
         "goals": 0
@@ -627,6 +627,17 @@
         "points": 14,
         "avg": 14,
         "form": 4.7
+      },
+      {
+        "id": 468,
+        "name": "Harry Kane",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "FWD",
+        "points": 13,
+        "avg": 13,
+        "form": 4.3
       },
       {
         "id": 528,
@@ -781,17 +792,6 @@
         "points": 10,
         "avg": 10,
         "form": 3.3
-      },
-      {
-        "id": 374,
-        "name": "Ladislav Krejcí",
-        "nation": "Czechia",
-        "nationAbbr": "CZE",
-        "group": "A",
-        "pos": "DEF",
-        "points": 10,
-        "avg": 10,
-        "form": 3.3
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 50.7,
+        "ownPct": 51,
         "points": 14
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 49.3,
+        "ownPct": 49.1,
         "points": 3
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 40.7,
+        "ownPct": 40.6,
         "points": 2
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 38.1,
+        "ownPct": 38,
         "points": 1
       },
       {
@@ -842,8 +842,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 35.7,
-        "points": 6
+        "ownPct": 35.9,
+        "points": 13
       },
       {
         "id": 517,
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.5,
+        "ownPct": 34.7,
         "points": 6
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 25,
+        "ownPct": 25.1,
         "points": 7
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 23,
+        "ownPct": 22.9,
         "points": 2
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 22.6,
+        "ownPct": 22.7,
         "points": 7
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 21.7,
+        "ownPct": 21.6,
         "points": 2
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 20.8,
+        "ownPct": 20.9,
         "points": 8
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 20.3,
+        "ownPct": 20.6,
         "points": 19
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 18.9,
+        "ownPct": 18.7,
         "points": 2
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 16.5,
+        "ownPct": 16.4,
         "points": 3
       },
       {
@@ -996,22 +996,22 @@
         "points": 13
       },
       {
-        "id": 39,
-        "name": "Julián Alvarez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "ownPct": 14.9,
-        "points": 1
-      },
-      {
         "id": 477,
         "name": "Jordan Pickford",
         "nation": "England",
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
+        "ownPct": 14.7,
+        "points": 2
+      },
+      {
+        "id": 39,
+        "name": "Julián Alvarez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
         "ownPct": 14.7,
         "points": 1
       },
@@ -1042,7 +1042,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 14.3,
+        "ownPct": 14.4,
         "points": 8
       }
     ]

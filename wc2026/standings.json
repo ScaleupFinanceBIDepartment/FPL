@@ -3,86 +3,86 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-06-17T20:27:19+00:00",
+  "fetchedAt": "2026-06-17T22:50:21+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
     {
       "rank": 1,
+      "managerName": "HC WIN",
+      "teamName": "",
+      "points": 96,
+      "lastRoundPoints": 96
+    },
+    {
+      "rank": 2,
       "managerName": "Sec United",
       "teamName": "",
       "points": 89,
       "lastRoundPoints": 89
     },
     {
-      "rank": 2,
+      "rank": 3,
       "managerName": "Don-O",
       "teamName": "",
       "points": 83,
       "lastRoundPoints": 83
     },
     {
-      "rank": 3,
+      "rank": 4,
       "managerName": "Anders Zaar",
       "teamName": "",
       "points": 82,
       "lastRoundPoints": 82
     },
     {
-      "rank": 4,
+      "rank": 5,
       "managerName": "Doktor Svin",
       "teamName": "",
       "points": 80,
       "lastRoundPoints": 80
     },
     {
-      "rank": 5,
+      "rank": 6,
       "managerName": "DanishNorseman",
       "teamName": "",
       "points": 75,
       "lastRoundPoints": 75
     },
     {
-      "rank": 6,
+      "rank": 7,
       "managerName": "VikingPlaymaker",
       "teamName": "",
       "points": 74,
       "lastRoundPoints": 74
     },
     {
-      "rank": 7,
-      "managerName": "HC WIN",
+      "rank": 8,
+      "managerName": "Testtesttest",
       "teamName": "",
-      "points": 70,
-      "lastRoundPoints": 70
+      "points": 69,
+      "lastRoundPoints": 69
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "managerName": "HvemkanAnnika",
+      "teamName": "",
+      "points": 65,
+      "lastRoundPoints": 65
+    },
+    {
+      "rank": 10,
       "managerName": "Hedge Fund Hooligans",
       "teamName": "",
       "points": 62,
       "lastRoundPoints": 62
     },
     {
-      "rank": 9,
+      "rank": 11,
       "managerName": "ESI1994",
       "teamName": "",
       "points": 60,
       "lastRoundPoints": 60
-    },
-    {
-      "rank": 10,
-      "managerName": "HvemkanAnnika",
-      "teamName": "",
-      "points": 59,
-      "lastRoundPoints": 59
-    },
-    {
-      "rank": 11,
-      "managerName": "Testtesttest",
-      "teamName": "",
-      "points": 55,
-      "lastRoundPoints": 55
     },
     {
       "rank": 12,

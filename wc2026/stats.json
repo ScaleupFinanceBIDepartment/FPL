@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-18T15:49:01+00:00",
+    "generatedAt": "2026-06-18T20:36:30+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 24,
-    "note": "24 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 26,
+    "note": "26 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -530,6 +530,17 @@
         "form": 6.3
       },
       {
+        "id": 1142,
+        "name": "Ricardo Rodríguez",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "DEF",
+        "points": 18,
+        "avg": 9,
+        "form": 6
+      },
+      {
         "id": 855,
         "name": "Erling Haaland",
         "nation": "Norway",
@@ -695,6 +706,17 @@
         "form": 4
       },
       {
+        "id": 395,
+        "name": "Michal Sadílek",
+        "nation": "Czechia",
+        "nationAbbr": "CZE",
+        "group": "A",
+        "pos": "MID",
+        "points": 12,
+        "avg": 6,
+        "form": 4
+      },
+      {
         "id": 76,
         "name": "Patrick Beach",
         "nation": "Australia",
@@ -770,28 +792,6 @@
         "points": 11,
         "avg": 11,
         "form": 3.7
-      },
-      {
-        "id": 1493,
-        "name": "Chris Wood",
-        "nation": "New Zealand",
-        "nationAbbr": "NZL",
-        "group": "G",
-        "pos": "FWD",
-        "points": 11,
-        "avg": 11,
-        "form": 3.7
-      },
-      {
-        "id": 68,
-        "name": "Nestory Irankunda",
-        "nation": "Australia",
-        "nationAbbr": "AUS",
-        "group": "D",
-        "pos": "FWD",
-        "points": 10,
-        "avg": 10,
-        "form": 3.3
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 54.8,
+        "ownPct": 55.5,
         "points": 14
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 47,
+        "ownPct": 46.4,
         "points": 3
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 39.6,
+        "ownPct": 39.3,
         "points": 2
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 37.7,
+        "ownPct": 38.1,
         "points": 13
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 37,
+        "ownPct": 36.8,
         "points": 1
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 36.1,
+        "ownPct": 36.4,
         "points": 6
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 33.5,
+        "ownPct": 33.3,
         "points": 8
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 31.5,
+        "ownPct": 31,
         "points": 17
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 25.8,
+        "ownPct": 25.9,
         "points": 7
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 23.7,
+        "ownPct": 24.4,
         "points": 19
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 23.5,
+        "ownPct": 23.6,
         "points": 7
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 22.9,
+        "ownPct": 23,
         "points": 2
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 21,
+        "ownPct": 20.5,
         "points": 5
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 20,
+        "ownPct": 20.1,
         "points": 2
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 18.5,
+        "ownPct": 18.6,
         "points": 11
       },
       {
@@ -972,18 +972,8 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 16.9,
+        "ownPct": 17.6,
         "points": 8
-      },
-      {
-        "id": 1094,
-        "name": "Mikel Oyarzabal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "FWD",
-        "ownPct": 16.3,
-        "points": 2
       },
       {
         "id": 528,
@@ -992,8 +982,18 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "FWD",
-        "ownPct": 15.9,
+        "ownPct": 15.8,
         "points": 13
+      },
+      {
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "FWD",
+        "ownPct": 15.7,
+        "points": 2
       },
       {
         "id": 501,
@@ -1002,7 +1002,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 15.7,
+        "ownPct": 15.6,
         "points": 3
       },
       {
@@ -1032,7 +1032,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 13.9,
+        "ownPct": 13.8,
         "points": 1
       },
       {
@@ -1042,7 +1042,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 12.6,
+        "ownPct": 12.5,
         "points": 9
       }
     ]

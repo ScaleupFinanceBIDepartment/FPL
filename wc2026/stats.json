@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-18T10:44:05+00:00",
+    "generatedAt": "2026-06-18T15:49:01+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 53.1,
+        "ownPct": 54.8,
         "points": 14
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 47.9,
+        "ownPct": 47,
         "points": 3
       },
       {
@@ -822,18 +822,8 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 40,
+        "ownPct": 39.6,
         "points": 2
-      },
-      {
-        "id": 1092,
-        "name": "Lamine Yamal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "MID",
-        "ownPct": 37.4,
-        "points": 1
       },
       {
         "id": 468,
@@ -842,8 +832,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 36.9,
+        "ownPct": 37.7,
         "points": 13
+      },
+      {
+        "id": 1092,
+        "name": "Lamine Yamal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "ownPct": 37,
+        "points": 1
       },
       {
         "id": 517,
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 35.4,
+        "ownPct": 36.1,
         "points": 6
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 33.6,
+        "ownPct": 33.5,
         "points": 8
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 32.3,
+        "ownPct": 31.5,
         "points": 17
       },
       {
@@ -882,8 +882,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 25.5,
+        "ownPct": 25.8,
         "points": 7
+      },
+      {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "ownPct": 23.7,
+        "points": 19
       },
       {
         "id": 45,
@@ -892,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 23.2,
+        "ownPct": 23.5,
         "points": 7
       },
       {
@@ -904,26 +914,6 @@
         "pos": "DEF",
         "ownPct": 22.9,
         "points": 2
-      },
-      {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "ownPct": 22.4,
-        "points": 19
-      },
-      {
-        "id": 543,
-        "name": "Florian Wirtz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "MID",
-        "ownPct": 21.6,
-        "points": 5
       },
       {
         "id": 1366,
@@ -942,8 +932,18 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 21,
+        "ownPct": 21.1,
         "points": 8
+      },
+      {
+        "id": 543,
+        "name": "Florian Wirtz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
+        "ownPct": 21,
+        "points": 5
       },
       {
         "id": 164,
@@ -952,7 +952,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 19.9,
+        "ownPct": 20,
         "points": 2
       },
       {
@@ -962,8 +962,18 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 18.2,
+        "ownPct": 18.5,
         "points": 11
+      },
+      {
+        "id": 173,
+        "name": "Vinícius Júnior",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 16.9,
+        "points": 8
       },
       {
         "id": 1094,
@@ -972,18 +982,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 17.4,
+        "ownPct": 16.3,
         "points": 2
-      },
-      {
-        "id": 501,
-        "name": "Ousmane Dembélé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "ownPct": 16,
-        "points": 3
       },
       {
         "id": 528,
@@ -996,14 +996,14 @@
         "points": 13
       },
       {
-        "id": 173,
-        "name": "Vinícius Júnior",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
         "pos": "MID",
-        "ownPct": 15.6,
-        "points": 8
+        "ownPct": 15.7,
+        "points": 3
       },
       {
         "id": 477,
@@ -1032,18 +1032,18 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 14.2,
+        "ownPct": 13.9,
         "points": 1
       },
       {
-        "id": 39,
-        "name": "Julián Alvarez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "ownPct": 13.4,
-        "points": 1
+        "id": 1600,
+        "name": "Jamal Musiala",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
+        "ownPct": 12.6,
+        "points": 9
       }
     ]
   }

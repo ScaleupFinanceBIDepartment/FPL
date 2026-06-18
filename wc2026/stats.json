@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-18T04:55:42+00:00",
+    "generatedAt": "2026-06-18T10:44:05+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 51.6,
+        "ownPct": 53.1,
         "points": 14
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 48.7,
+        "ownPct": 47.9,
         "points": 3
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 40.4,
+        "ownPct": 40,
         "points": 2
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 37.8,
+        "ownPct": 37.4,
         "points": 1
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 36.2,
+        "ownPct": 36.9,
         "points": 13
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.9,
+        "ownPct": 35.4,
         "points": 6
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 32.7,
+        "ownPct": 32.3,
         "points": 17
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 25.2,
+        "ownPct": 25.5,
         "points": 7
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 22.9,
+        "ownPct": 23.2,
         "points": 7
       },
       {
@@ -906,13 +906,23 @@
         "points": 2
       },
       {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "ownPct": 22.4,
+        "points": 19
+      },
+      {
         "id": 543,
         "name": "Florian Wirtz",
         "nation": "Germany",
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 22,
+        "ownPct": 21.6,
         "points": 5
       },
       {
@@ -926,23 +936,13 @@
         "points": 2
       },
       {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "ownPct": 21.2,
-        "points": 19
-      },
-      {
         "id": 796,
         "name": "Virgil van Dijk",
         "nation": "Netherlands",
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 20.9,
+        "ownPct": 21,
         "points": 8
       },
       {
@@ -956,24 +956,24 @@
         "points": 2
       },
       {
-        "id": 1094,
-        "name": "Mikel Oyarzabal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "FWD",
-        "ownPct": 18.3,
-        "points": 2
-      },
-      {
         "id": 256,
         "name": "Luis Díaz",
         "nation": "Colombia",
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 17.8,
+        "ownPct": 18.2,
         "points": 11
+      },
+      {
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "FWD",
+        "ownPct": 17.4,
+        "points": 2
       },
       {
         "id": 501,
@@ -982,7 +982,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 16.3,
+        "ownPct": 16,
         "points": 3
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "FWD",
-        "ownPct": 15.7,
+        "ownPct": 15.9,
         "points": 13
       },
       {
@@ -1002,7 +1002,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 14.8,
+        "ownPct": 15.6,
         "points": 8
       },
       {
@@ -1012,7 +1012,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 14.7,
+        "ownPct": 14.6,
         "points": 2
       },
       {
@@ -1032,7 +1032,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 14.5,
+        "ownPct": 14.2,
         "points": 1
       },
       {
@@ -1042,7 +1042,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 14.3,
+        "ownPct": 13.4,
         "points": 1
       }
     ]

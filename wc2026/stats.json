@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-18T20:36:30+00:00",
+    "generatedAt": "2026-06-18T23:00:18+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 26,
-    "note": "26 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 27,
+    "note": "27 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -22,6 +22,26 @@
         "group": "J",
         "pos": "FWD",
         "goals": 3,
+        "assists": 0
+      },
+      {
+        "id": 226,
+        "name": "Jonathan David",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "FWD",
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "id": 227,
+        "name": "Cyle Larin",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "FWD",
+        "goals": 2,
         "assists": 0
       },
       {
@@ -90,6 +110,16 @@
         "nation": "Sweden",
         "nationAbbr": "SWE",
         "group": "F",
+        "pos": "MID",
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "id": 1133,
+        "name": "Johan Manzambi",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
         "pos": "MID",
         "goals": 2,
         "assists": 0
@@ -165,6 +195,26 @@
         "assists": 1
       },
       {
+        "id": 1149,
+        "name": "Breel Embolo",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "id": 1158,
+        "name": "Rubén Vargas",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 1
+      },
+      {
         "id": 1549,
         "name": "Hwang In-Beom",
         "nation": "Korea Republic",
@@ -211,56 +261,6 @@
         "nationAbbr": "AUT",
         "group": "J",
         "pos": "FWD",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 108,
-        "name": "Romano Schmid",
-        "nation": "Austria",
-        "nationAbbr": "AUT",
-        "group": "J",
-        "pos": "MID",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 148,
-        "name": "Jovo Lukic",
-        "nation": "Bosnia and Herzegovina",
-        "nationAbbr": "BIH",
-        "group": "B",
-        "pos": "FWD",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 173,
-        "name": "Vinícius Júnior",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "MID",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 227,
-        "name": "Cyle Larin",
-        "nation": "Canada",
-        "nationAbbr": "CAN",
-        "group": "B",
-        "pos": "FWD",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 248,
-        "name": "Daniel Muñoz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "DEF",
         "goals": 1,
         "assists": 0
       }
@@ -353,6 +353,26 @@
         "nationAbbr": "SWE",
         "group": "F",
         "pos": "FWD",
+        "assists": 1,
+        "goals": 1
+      },
+      {
+        "id": 1149,
+        "name": "Breel Embolo",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 1
+      },
+      {
+        "id": 1158,
+        "name": "Rubén Vargas",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
         "assists": 1,
         "goals": 1
       },
@@ -495,29 +515,31 @@
         "pos": "MID",
         "assists": 1,
         "goals": 0
-      },
-      {
-        "id": 486,
-        "name": "Elliot Anderson",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 488,
-        "name": "Declan Rice",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
       }
     ],
     "topPoints": [
+      {
+        "id": 226,
+        "name": "Jonathan David",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "FWD",
+        "points": 20,
+        "avg": 10,
+        "form": 6.7
+      },
+      {
+        "id": 227,
+        "name": "Cyle Larin",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "FWD",
+        "points": 20,
+        "avg": 10,
+        "form": 6.7
+      },
       {
         "id": 38,
         "name": "Lionel Messi",
@@ -530,12 +552,12 @@
         "form": 6.3
       },
       {
-        "id": 1142,
-        "name": "Ricardo Rodríguez",
+        "id": 1158,
+        "name": "Rubén Vargas",
         "nation": "Switzerland",
         "nationAbbr": "SUI",
         "group": "B",
-        "pos": "DEF",
+        "pos": "MID",
         "points": 18,
         "avg": 9,
         "form": 6
@@ -582,6 +604,28 @@
         "pos": "FWD",
         "points": 16,
         "avg": 16,
+        "form": 5.3
+      },
+      {
+        "id": 1133,
+        "name": "Johan Manzambi",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "points": 16,
+        "avg": 8,
+        "form": 5.3
+      },
+      {
+        "id": 1149,
+        "name": "Breel Embolo",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "FWD",
+        "points": 16,
+        "avg": 8,
         "form": 5.3
       },
       {
@@ -717,6 +761,17 @@
         "form": 4
       },
       {
+        "id": 1135,
+        "name": "Granit Xhaka",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "points": 12,
+        "avg": 6,
+        "form": 4
+      },
+      {
         "id": 76,
         "name": "Patrick Beach",
         "nation": "Australia",
@@ -733,61 +788,6 @@
         "nation": "Australia",
         "nationAbbr": "AUS",
         "group": "D",
-        "pos": "MID",
-        "points": 11,
-        "avg": 11,
-        "form": 3.7
-      },
-      {
-        "id": 214,
-        "name": "Vozinha",
-        "nation": "Cabo Verde",
-        "nationAbbr": "CPV",
-        "group": "H",
-        "pos": "GK",
-        "points": 11,
-        "avg": 11,
-        "form": 3.7
-      },
-      {
-        "id": 256,
-        "name": "Luis Díaz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "MID",
-        "points": 11,
-        "avg": 11,
-        "form": 3.7
-      },
-      {
-        "id": 526,
-        "name": "Nico Schlotterbeck",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "DEF",
-        "points": 11,
-        "avg": 11,
-        "form": 3.7
-      },
-      {
-        "id": 682,
-        "name": "Daichi Kamada",
-        "nation": "Japan",
-        "nationAbbr": "JPN",
-        "group": "F",
-        "pos": "MID",
-        "points": 11,
-        "avg": 11,
-        "form": 3.7
-      },
-      {
-        "id": 1003,
-        "name": "John McGinn",
-        "nation": "Scotland",
-        "nationAbbr": "SCO",
-        "group": "C",
         "pos": "MID",
         "points": 11,
         "avg": 11,
@@ -1022,7 +1022,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14.6,
+        "ownPct": 14.5,
         "points": 2
       },
       {

@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-17T22:50:20+00:00",
+    "generatedAt": "2026-06-18T04:55:42+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 22,
-    "note": "22 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 24,
+    "note": "24 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -123,6 +123,16 @@
         "pos": "FWD",
         "goals": 1,
         "assists": 2
+      },
+      {
+        "id": 256,
+        "name": "Luis Díaz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 1
       },
       {
         "id": 525,
@@ -245,22 +255,12 @@
         "assists": 0
       },
       {
-        "id": 281,
-        "name": "Yoane Wissa",
-        "nation": "Congo DR",
-        "nationAbbr": "COD",
+        "id": 248,
+        "name": "Daniel Muñoz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
         "group": "K",
-        "pos": "FWD",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 310,
-        "name": "Amad Diallo",
-        "nation": "Côte d'Ivoire",
-        "nationAbbr": "CIV",
-        "group": "E",
-        "pos": "FWD",
+        "pos": "DEF",
         "goals": 1,
         "assists": 0
       }
@@ -315,6 +315,16 @@
         "pos": "FWD",
         "assists": 2,
         "goals": 0
+      },
+      {
+        "id": 256,
+        "name": "Luis Díaz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 1
       },
       {
         "id": 525,
@@ -417,6 +427,16 @@
         "goals": 0
       },
       {
+        "id": 266,
+        "name": "Gustavo Puerta",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
         "id": 273,
         "name": "Arthur Masuaku",
         "nation": "Congo DR",
@@ -492,26 +512,6 @@
         "nation": "England",
         "nationAbbr": "ENG",
         "group": "L",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 510,
-        "name": "Adrien Rabiot",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 517,
-        "name": "Michael Olise",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
         "pos": "MID",
         "assists": 1,
         "goals": 0
@@ -728,6 +728,17 @@
         "form": 3.7
       },
       {
+        "id": 256,
+        "name": "Luis Díaz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "MID",
+        "points": 11,
+        "avg": 11,
+        "form": 3.7
+      },
+      {
         "id": 526,
         "name": "Nico Schlotterbeck",
         "nation": "Germany",
@@ -781,17 +792,6 @@
         "points": 10,
         "avg": 10,
         "form": 3.3
-      },
-      {
-        "id": 108,
-        "name": "Romano Schmid",
-        "nation": "Austria",
-        "nationAbbr": "AUT",
-        "group": "J",
-        "pos": "MID",
-        "points": 10,
-        "avg": 10,
-        "form": 3.3
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 51,
+        "ownPct": 51.6,
         "points": 14
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 49.1,
+        "ownPct": 48.7,
         "points": 3
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 40.6,
+        "ownPct": 40.4,
         "points": 2
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 38,
+        "ownPct": 37.8,
         "points": 1
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 35.9,
+        "ownPct": 36.2,
         "points": 13
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.7,
+        "ownPct": 34.9,
         "points": 6
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 32.8,
+        "ownPct": 32.7,
         "points": 17
       },
       {
@@ -882,7 +882,17 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 25.1,
+        "ownPct": 25.2,
+        "points": 7
+      },
+      {
+        "id": 45,
+        "name": "Emiliano Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "GK",
+        "ownPct": 22.9,
         "points": 7
       },
       {
@@ -896,23 +906,13 @@
         "points": 2
       },
       {
-        "id": 45,
-        "name": "Emiliano Martínez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "GK",
-        "ownPct": 22.7,
-        "points": 7
-      },
-      {
         "id": 543,
         "name": "Florian Wirtz",
         "nation": "Germany",
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 22.2,
+        "ownPct": 22,
         "points": 5
       },
       {
@@ -926,6 +926,16 @@
         "points": 2
       },
       {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "ownPct": 21.2,
+        "points": 19
+      },
+      {
         "id": 796,
         "name": "Virgil van Dijk",
         "nation": "Netherlands",
@@ -936,23 +946,13 @@
         "points": 8
       },
       {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "ownPct": 20.6,
-        "points": 19
-      },
-      {
         "id": 164,
         "name": "Gabriel Magalhães",
         "nation": "Brazil",
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 19.8,
+        "ownPct": 19.9,
         "points": 2
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 18.7,
+        "ownPct": 18.3,
         "points": 2
       },
       {
@@ -972,8 +972,8 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 17.9,
-        "points": 0
+        "ownPct": 17.8,
+        "points": 11
       },
       {
         "id": 501,
@@ -982,7 +982,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 16.4,
+        "ownPct": 16.3,
         "points": 3
       },
       {
@@ -996,6 +996,16 @@
         "points": 13
       },
       {
+        "id": 173,
+        "name": "Vinícius Júnior",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 14.8,
+        "points": 8
+      },
+      {
         "id": 477,
         "name": "Jordan Pickford",
         "nation": "England",
@@ -1004,26 +1014,6 @@
         "pos": "GK",
         "ownPct": 14.7,
         "points": 2
-      },
-      {
-        "id": 39,
-        "name": "Julián Alvarez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "ownPct": 14.7,
-        "points": 1
-      },
-      {
-        "id": 795,
-        "name": "Denzel Dumfries",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "DEF",
-        "ownPct": 14.7,
-        "points": 1
       },
       {
         "id": 1429,
@@ -1036,14 +1026,24 @@
         "points": 2
       },
       {
-        "id": 173,
-        "name": "Vinícius Júnior",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 14.4,
-        "points": 8
+        "id": 795,
+        "name": "Denzel Dumfries",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "DEF",
+        "ownPct": 14.5,
+        "points": 1
+      },
+      {
+        "id": 39,
+        "name": "Julián Alvarez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "ownPct": 14.3,
+        "points": 1
       }
     ]
   }

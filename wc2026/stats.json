@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-18T23:00:18+00:00",
+    "generatedAt": "2026-06-19T05:18:41+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1245,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 27,
-    "note": "27 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 28,
+    "note": "28 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -31,7 +31,7 @@
         "nationAbbr": "CAN",
         "group": "B",
         "pos": "FWD",
-        "goals": 2,
+        "goals": 3,
         "assists": 0
       },
       {
@@ -155,6 +155,16 @@
         "assists": 2
       },
       {
+        "id": 241,
+        "name": "Nathan Saliba",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 1
+      },
+      {
         "id": 256,
         "name": "Luis Díaz",
         "nation": "Colombia",
@@ -253,16 +263,6 @@
         "pos": "MID",
         "goals": 1,
         "assists": 0
-      },
-      {
-        "id": 95,
-        "name": "Marko Arnautovic",
-        "nation": "Austria",
-        "nationAbbr": "AUT",
-        "group": "J",
-        "pos": "FWD",
-        "goals": 1,
-        "assists": 0
       }
     ],
     "topAssists": [
@@ -315,6 +315,16 @@
         "pos": "FWD",
         "assists": 2,
         "goals": 0
+      },
+      {
+        "id": 241,
+        "name": "Nathan Saliba",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 1
       },
       {
         "id": 256,
@@ -505,16 +515,6 @@
         "pos": "DEF",
         "assists": 1,
         "goals": 0
-      },
-      {
-        "id": 469,
-        "name": "Bukayo Saka",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
       }
     ],
     "topPoints": [
@@ -525,9 +525,9 @@
         "nationAbbr": "CAN",
         "group": "B",
         "pos": "FWD",
-        "points": 20,
-        "avg": 10,
-        "form": 6.7
+        "points": 26,
+        "avg": 13,
+        "form": 8.7
       },
       {
         "id": 227,
@@ -536,9 +536,9 @@
         "nationAbbr": "CAN",
         "group": "B",
         "pos": "FWD",
-        "points": 20,
-        "avg": 10,
-        "form": 6.7
+        "points": 21,
+        "avg": 10.5,
+        "form": 7
       },
       {
         "id": 38,
@@ -550,6 +550,28 @@
         "points": 19,
         "avg": 19,
         "form": 6.3
+      },
+      {
+        "id": 740,
+        "name": "Johan Vásquez",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "DEF",
+        "points": 18,
+        "avg": 9,
+        "form": 6
+      },
+      {
+        "id": 742,
+        "name": "Jesús Gallardo",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "DEF",
+        "points": 18,
+        "avg": 9,
+        "form": 6
       },
       {
         "id": 1158,
@@ -640,6 +662,17 @@
         "form": 5
       },
       {
+        "id": 1549,
+        "name": "Hwang In-Beom",
+        "nation": "Korea Republic",
+        "nationAbbr": "KOR",
+        "group": "A",
+        "pos": "MID",
+        "points": 15,
+        "avg": 7.5,
+        "form": 5
+      },
+      {
         "id": 500,
         "name": "Kylian Mbappé",
         "nation": "France",
@@ -684,6 +717,28 @@
         "form": 4.7
       },
       {
+        "id": 757,
+        "name": "Raúl Rangel",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "GK",
+        "points": 14,
+        "avg": 7,
+        "form": 4.7
+      },
+      {
+        "id": 241,
+        "name": "Nathan Saliba",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "MID",
+        "points": 13,
+        "avg": 13,
+        "form": 4.3
+      },
+      {
         "id": 468,
         "name": "Harry Kane",
         "nation": "England",
@@ -717,17 +772,6 @@
         "form": 4.3
       },
       {
-        "id": 1549,
-        "name": "Hwang In-Beom",
-        "nation": "Korea Republic",
-        "nationAbbr": "KOR",
-        "group": "A",
-        "pos": "MID",
-        "points": 13,
-        "avg": 13,
-        "form": 4.3
-      },
-      {
         "id": 1601,
         "name": "Felix Nmecha",
         "nation": "Germany",
@@ -748,50 +792,6 @@
         "points": 12,
         "avg": 12,
         "form": 4
-      },
-      {
-        "id": 395,
-        "name": "Michal Sadílek",
-        "nation": "Czechia",
-        "nationAbbr": "CZE",
-        "group": "A",
-        "pos": "MID",
-        "points": 12,
-        "avg": 6,
-        "form": 4
-      },
-      {
-        "id": 1135,
-        "name": "Granit Xhaka",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "points": 12,
-        "avg": 6,
-        "form": 4
-      },
-      {
-        "id": 76,
-        "name": "Patrick Beach",
-        "nation": "Australia",
-        "nationAbbr": "AUS",
-        "group": "D",
-        "pos": "GK",
-        "points": 11,
-        "avg": 11,
-        "form": 3.7
-      },
-      {
-        "id": 80,
-        "name": "Connor Metcalfe",
-        "nation": "Australia",
-        "nationAbbr": "AUS",
-        "group": "D",
-        "pos": "MID",
-        "points": 11,
-        "avg": 11,
-        "form": 3.7
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55.5,
+        "ownPct": 55.6,
         "points": 14
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 46.4,
+        "ownPct": 46.3,
         "points": 3
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 39.3,
+        "ownPct": 39.2,
         "points": 2
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 38.1,
+        "ownPct": 38.2,
         "points": 13
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 24.4,
+        "ownPct": 24.6,
         "points": 19
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 23.6,
+        "ownPct": 23.7,
         "points": 7
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 21.6,
+        "ownPct": 21.5,
         "points": 2
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 21.1,
+        "ownPct": 21.2,
         "points": 8
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 15.7,
+        "ownPct": 15.6,
         "points": 2
       },
       {
@@ -1002,7 +1002,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 15.6,
+        "ownPct": 15.5,
         "points": 3
       },
       {

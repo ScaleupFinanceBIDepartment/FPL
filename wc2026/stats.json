@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-19T15:37:48+00:00",
+    "generatedAt": "2026-06-19T20:00:44+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1244,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 28,
-    "note": "28 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 29,
+    "note": "29 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -225,6 +225,16 @@
         "assists": 1
       },
       {
+        "id": 1264,
+        "name": "Alexander Freeman",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "DEF",
+        "goals": 1,
+        "assists": 1
+      },
+      {
         "id": 1549,
         "name": "Hwang In-Beom",
         "nation": "Korea Republic",
@@ -245,22 +255,12 @@
         "assists": 0
       },
       {
-        "id": 68,
-        "name": "Nestory Irankunda",
+        "id": 61,
+        "name": "Cameron Burgess",
         "nation": "Australia",
         "nationAbbr": "AUS",
         "group": "D",
-        "pos": "FWD",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 80,
-        "name": "Connor Metcalfe",
-        "nation": "Australia",
-        "nationAbbr": "AUS",
-        "group": "D",
-        "pos": "MID",
+        "pos": "DEF",
         "goals": 1,
         "assists": 0
       }
@@ -387,6 +387,16 @@
         "goals": 1
       },
       {
+        "id": 1264,
+        "name": "Alexander Freeman",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "DEF",
+        "assists": 1,
+        "goals": 1
+      },
+      {
         "id": 1549,
         "name": "Hwang In-Beom",
         "nation": "Korea Republic",
@@ -505,16 +515,6 @@
         "pos": "FWD",
         "assists": 1,
         "goals": 0
-      },
-      {
-        "id": 380,
-        "name": "Vladimír Coufal",
-        "nation": "Czechia",
-        "nationAbbr": "CZE",
-        "group": "A",
-        "pos": "DEF",
-        "assists": 1,
-        "goals": 0
       }
     ],
     "topPoints": [
@@ -549,6 +549,17 @@
         "pos": "FWD",
         "points": 19,
         "avg": 19,
+        "form": 6.3
+      },
+      {
+        "id": 1267,
+        "name": "Folarin Balogun",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "FWD",
+        "points": 19,
+        "avg": 9.5,
         "form": 6.3
       },
       {
@@ -607,6 +618,17 @@
         "form": 5.7
       },
       {
+        "id": 1264,
+        "name": "Alexander Freeman",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "DEF",
+        "points": 17,
+        "avg": 8.5,
+        "form": 5.7
+      },
+      {
         "id": 832,
         "name": "Elijah Just",
         "nation": "New Zealand",
@@ -649,17 +671,6 @@
         "points": 16,
         "avg": 8,
         "form": 5.3
-      },
-      {
-        "id": 1267,
-        "name": "Folarin Balogun",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "FWD",
-        "points": 15,
-        "avg": 15,
-        "form": 5
       },
       {
         "id": 1549,
@@ -781,17 +792,6 @@
         "points": 13,
         "avg": 13,
         "form": 4.3
-      },
-      {
-        "id": 300,
-        "name": "Wilfried Singo",
-        "nation": "Côte d'Ivoire",
-        "nationAbbr": "CIV",
-        "group": "E",
-        "pos": "DEF",
-        "points": 12,
-        "avg": 12,
-        "form": 4
       }
     ],
     "mostSelected": [
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 46.2,
+        "ownPct": 46.1,
         "points": 3
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 39.2,
+        "ownPct": 39.1,
         "points": 2
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 38.2,
+        "ownPct": 38.3,
         "points": 13
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 24.7,
+        "ownPct": 24.8,
         "points": 19
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 21.5,
+        "ownPct": 21.4,
         "points": 2
       },
       {
@@ -1042,7 +1042,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 12.5,
+        "ownPct": 12.6,
         "points": 9
       }
     ]

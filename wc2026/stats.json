@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-19T20:00:44+00:00",
+    "generatedAt": "2026-06-19T22:11:44+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1244,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 29,
-    "note": "29 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 30,
+    "note": "30 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -81,6 +81,16 @@
         "nationAbbr": "IRQ",
         "group": "I",
         "pos": "FWD",
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "id": 792,
+        "name": "Ismael Saibari",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
         "goals": 2,
         "assists": 0
       },
@@ -253,16 +263,6 @@
         "pos": "MID",
         "goals": 1,
         "assists": 0
-      },
-      {
-        "id": 61,
-        "name": "Cameron Burgess",
-        "nation": "Australia",
-        "nationAbbr": "AUS",
-        "group": "D",
-        "pos": "DEF",
-        "goals": 1,
-        "assists": 0
       }
     ],
     "topAssists": [
@@ -313,6 +313,16 @@
         "nationAbbr": "NZL",
         "group": "G",
         "pos": "FWD",
+        "assists": 2,
+        "goals": 0
+      },
+      {
+        "id": 2020,
+        "name": "Brahim Díaz",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
         "assists": 2,
         "goals": 0
       },
@@ -505,16 +515,6 @@
         "pos": "MID",
         "assists": 1,
         "goals": 0
-      },
-      {
-        "id": 334,
-        "name": "Ivan Perisic",
-        "nation": "Croatia",
-        "nationAbbr": "CRO",
-        "group": "L",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 0
       }
     ],
     "topPoints": [
@@ -530,12 +530,34 @@
         "form": 8.7
       },
       {
+        "id": 1264,
+        "name": "Alexander Freeman",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "DEF",
+        "points": 23,
+        "avg": 11.5,
+        "form": 7.7
+      },
+      {
         "id": 227,
         "name": "Cyle Larin",
         "nation": "Canada",
         "nationAbbr": "CAN",
         "group": "B",
         "pos": "FWD",
+        "points": 21,
+        "avg": 10.5,
+        "form": 7
+      },
+      {
+        "id": 2031,
+        "name": "Sergiño Dest",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "DEF",
         "points": 21,
         "avg": 10.5,
         "form": 7
@@ -549,6 +571,17 @@
         "pos": "FWD",
         "points": 19,
         "avg": 19,
+        "form": 6.3
+      },
+      {
+        "id": 792,
+        "name": "Ismael Saibari",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "points": 19,
+        "avg": 9.5,
         "form": 6.3
       },
       {
@@ -615,17 +648,6 @@
         "pos": "MID",
         "points": 17,
         "avg": 17,
-        "form": 5.7
-      },
-      {
-        "id": 1264,
-        "name": "Alexander Freeman",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "DEF",
-        "points": 17,
-        "avg": 8.5,
         "form": 5.7
       },
       {
@@ -770,28 +792,6 @@
         "points": 13,
         "avg": 13,
         "form": 4.3
-      },
-      {
-        "id": 597,
-        "name": "Ramin Rezaeian",
-        "nation": "IR Iran",
-        "nationAbbr": "IRN",
-        "group": "G",
-        "pos": "DEF",
-        "points": 13,
-        "avg": 13,
-        "form": 4.3
-      },
-      {
-        "id": 1601,
-        "name": "Felix Nmecha",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "MID",
-        "points": 13,
-        "avg": 13,
-        "form": 4.3
       }
     ],
     "mostSelected": [
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 23.7,
+        "ownPct": 23.8,
         "points": 7
       },
       {
@@ -913,7 +913,7 @@
         "group": "C",
         "pos": "DEF",
         "ownPct": 23.1,
-        "points": 2
+        "points": 3
       },
       {
         "id": 1366,
@@ -932,7 +932,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 21.2,
+        "ownPct": 21.3,
         "points": 8
       },
       {

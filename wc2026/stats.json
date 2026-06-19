@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-19T10:54:24+00:00",
+    "generatedAt": "2026-06-19T15:37:48+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 1245,
+    "playerCount": 1244,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 28,
     "note": "28 kampe spillet — mål, assists og point er live."
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 46.3,
+        "ownPct": 46.2,
         "points": 3
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 36.4,
+        "ownPct": 36.3,
         "points": 6
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 33.3,
+        "ownPct": 33.2,
         "points": 8
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 31,
+        "ownPct": 30.9,
         "points": 17
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 25.9,
+        "ownPct": 25.8,
         "points": 7
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 24.6,
+        "ownPct": 24.7,
         "points": 19
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 23,
+        "ownPct": 23.1,
         "points": 2
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 17.6,
+        "ownPct": 17.7,
         "points": 8
       },
       {
@@ -986,16 +986,6 @@
         "points": 13
       },
       {
-        "id": 1094,
-        "name": "Mikel Oyarzabal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "FWD",
-        "ownPct": 15.6,
-        "points": 2
-      },
-      {
         "id": 501,
         "name": "Ousmane Dembélé",
         "nation": "France",
@@ -1004,6 +994,16 @@
         "pos": "MID",
         "ownPct": 15.5,
         "points": 3
+      },
+      {
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "FWD",
+        "ownPct": 15.5,
+        "points": 2
       },
       {
         "id": 477,

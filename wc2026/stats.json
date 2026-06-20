@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-20T16:42:55+00:00",
+    "generatedAt": "2026-06-20T19:50:50+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1242,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 32,
-    "note": "32 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 33,
+    "note": "33 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -40,6 +40,26 @@
         "nation": "Brazil",
         "nationAbbr": "BRA",
         "group": "C",
+        "pos": "MID",
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "id": 804,
+        "name": "Cody Gakpo",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "FWD",
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "id": 2044,
+        "name": "Crysencio Summerville",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
         "pos": "MID",
         "goals": 2,
         "assists": 1
@@ -115,6 +135,16 @@
         "assists": 0
       },
       {
+        "id": 807,
+        "name": "Brian Brobbey",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "FWD",
+        "goals": 2,
+        "assists": 0
+      },
+      {
         "id": 832,
         "name": "Elijah Just",
         "nation": "New Zealand",
@@ -165,21 +195,21 @@
         "assists": 0
       },
       {
-        "id": 531,
-        "name": "Deniz Undav",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "FWD",
-        "goals": 1,
-        "assists": 2
-      },
-      {
         "id": 1520,
         "name": "Alexander Isak",
         "nation": "Sweden",
         "nationAbbr": "SWE",
         "group": "F",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 3
+      },
+      {
+        "id": 531,
+        "name": "Deniz Undav",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
         "pos": "FWD",
         "goals": 1,
         "assists": 2
@@ -233,39 +263,19 @@
         "pos": "FWD",
         "goals": 1,
         "assists": 1
-      },
-      {
-        "id": 1149,
-        "name": "Breel Embolo",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "FWD",
-        "goals": 1,
-        "assists": 1
-      },
-      {
-        "id": 1158,
-        "name": "Rubén Vargas",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "goals": 1,
-        "assists": 1
-      },
-      {
-        "id": 1264,
-        "name": "Alexander Freeman",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "DEF",
-        "goals": 1,
-        "assists": 1
       }
     ],
     "topAssists": [
+      {
+        "id": 1520,
+        "name": "Alexander Isak",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "FWD",
+        "assists": 3,
+        "goals": 1
+      },
       {
         "id": 531,
         "name": "Deniz Undav",
@@ -277,21 +287,21 @@
         "goals": 1
       },
       {
-        "id": 1520,
-        "name": "Alexander Isak",
-        "nation": "Sweden",
-        "nationAbbr": "SWE",
-        "group": "F",
-        "pos": "FWD",
-        "assists": 2,
-        "goals": 1
-      },
-      {
         "id": 542,
         "name": "Joshua Kimmich",
         "nation": "Germany",
         "nationAbbr": "GER",
         "group": "E",
+        "pos": "DEF",
+        "assists": 2,
+        "goals": 0
+      },
+      {
+        "id": 795,
+        "name": "Denzel Dumfries",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
         "pos": "DEF",
         "assists": 2,
         "goals": 0
@@ -342,6 +352,26 @@
         "nation": "Brazil",
         "nationAbbr": "BRA",
         "group": "C",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 2
+      },
+      {
+        "id": 804,
+        "name": "Cody Gakpo",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 2
+      },
+      {
+        "id": 2044,
+        "name": "Crysencio Summerville",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
         "pos": "MID",
         "assists": 1,
         "goals": 2
@@ -485,36 +515,6 @@
         "pos": "MID",
         "assists": 1,
         "goals": 0
-      },
-      {
-        "id": 139,
-        "name": "Sead Kolasinac",
-        "nation": "Bosnia and Herzegovina",
-        "nationAbbr": "BIH",
-        "group": "B",
-        "pos": "DEF",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 190,
-        "name": "Lucas Paquetá",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 266,
-        "name": "Gustavo Puerta",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
       }
     ],
     "topPoints": [
@@ -536,6 +536,17 @@
         "nationAbbr": "USA",
         "group": "D",
         "pos": "DEF",
+        "points": 23,
+        "avg": 11.5,
+        "form": 7.7
+      },
+      {
+        "id": 1520,
+        "name": "Alexander Isak",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "FWD",
         "points": 23,
         "avg": 11.5,
         "form": 7.7
@@ -563,12 +574,34 @@
         "form": 7
       },
       {
+        "id": 804,
+        "name": "Cody Gakpo",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "FWD",
+        "points": 21,
+        "avg": 10.5,
+        "form": 7
+      },
+      {
         "id": 2031,
         "name": "Sergiño Dest",
         "nation": "USA",
         "nationAbbr": "USA",
         "group": "D",
         "pos": "DEF",
+        "points": 21,
+        "avg": 10.5,
+        "form": 7
+      },
+      {
+        "id": 2044,
+        "name": "Crysencio Summerville",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "MID",
         "points": 21,
         "avg": 10.5,
         "form": 7
@@ -629,6 +662,17 @@
         "form": 6
       },
       {
+        "id": 1114,
+        "name": "Yasin Ayari",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "MID",
+        "points": 18,
+        "avg": 9,
+        "form": 6
+      },
+      {
         "id": 1158,
         "name": "Rubén Vargas",
         "nation": "Switzerland",
@@ -651,14 +695,14 @@
         "form": 5.7
       },
       {
-        "id": 1114,
-        "name": "Yasin Ayari",
+        "id": 1124,
+        "name": "Viktor Gyökeres",
         "nation": "Sweden",
         "nationAbbr": "SWE",
         "group": "F",
-        "pos": "MID",
+        "pos": "FWD",
         "points": 17,
-        "avg": 17,
+        "avg": 8.5,
         "form": 5.7
       },
       {
@@ -673,22 +717,22 @@
         "form": 5.3
       },
       {
-        "id": 1520,
-        "name": "Alexander Isak",
-        "nation": "Sweden",
-        "nationAbbr": "SWE",
-        "group": "F",
-        "pos": "FWD",
-        "points": 16,
-        "avg": 16,
-        "form": 5.3
-      },
-      {
         "id": 174,
         "name": "Matheus Cunha",
         "nation": "Brazil",
         "nationAbbr": "BRA",
         "group": "C",
+        "pos": "FWD",
+        "points": 16,
+        "avg": 8,
+        "form": 5.3
+      },
+      {
+        "id": 807,
+        "name": "Brian Brobbey",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
         "pos": "FWD",
         "points": 16,
         "avg": 8,
@@ -748,50 +792,6 @@
         "points": 15,
         "avg": 7.5,
         "form": 5
-      },
-      {
-        "id": 500,
-        "name": "Kylian Mbappé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "FWD",
-        "points": 14,
-        "avg": 14,
-        "form": 4.7
-      },
-      {
-        "id": 525,
-        "name": "Nathaniel Brown",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "DEF",
-        "points": 14,
-        "avg": 14,
-        "form": 4.7
-      },
-      {
-        "id": 531,
-        "name": "Deniz Undav",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "FWD",
-        "points": 14,
-        "avg": 14,
-        "form": 4.7
-      },
-      {
-        "id": 1124,
-        "name": "Viktor Gyökeres",
-        "nation": "Sweden",
-        "nationAbbr": "SWE",
-        "group": "F",
-        "pos": "FWD",
-        "points": 14,
-        "avg": 14,
-        "form": 4.7
       }
     ],
     "mostSelected": [
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 45.9,
+        "ownPct": 45.8,
         "points": 3
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 25.1,
+        "ownPct": 25.2,
         "points": 19
       },
       {
@@ -923,7 +923,7 @@
         "group": "F",
         "pos": "DEF",
         "ownPct": 21.3,
-        "points": 8
+        "points": 10
       },
       {
         "id": 1366,
@@ -932,7 +932,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 20.9,
+        "ownPct": 20.8,
         "points": 3
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 18,
+        "ownPct": 18.1,
         "points": 20
       },
       {
@@ -1032,8 +1032,8 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 13.8,
-        "points": 1
+        "ownPct": 13.9,
+        "points": 9
       },
       {
         "id": 1600,

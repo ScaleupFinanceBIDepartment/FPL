@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-06-20T16:42:55+00:00",
+  "fetchedAt": "2026-06-20T19:50:50+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -23,24 +23,24 @@
     },
     {
       "rank": 3,
+      "managerName": "DanishNorseman",
+      "teamName": "",
+      "points": 101,
+      "lastRoundPoints": 13
+    },
+    {
+      "rank": 4,
       "managerName": "Sec United",
       "teamName": "",
       "points": 99,
       "lastRoundPoints": 10
     },
     {
-      "rank": 4,
+      "rank": 5,
       "managerName": "Don-O",
       "teamName": "",
       "points": 90,
       "lastRoundPoints": 7
-    },
-    {
-      "rank": 5,
-      "managerName": "DanishNorseman",
-      "teamName": "",
-      "points": 89,
-      "lastRoundPoints": 1
     },
     {
       "rank": 6,
@@ -67,8 +67,8 @@
       "rank": 9,
       "managerName": "VikingPlaymaker",
       "teamName": "",
-      "points": 77,
-      "lastRoundPoints": 1
+      "points": 76,
+      "lastRoundPoints": 0
     },
     {
       "rank": 10,
@@ -81,8 +81,8 @@
       "rank": 11,
       "managerName": "ESI1994",
       "teamName": "",
-      "points": 67,
-      "lastRoundPoints": 7
+      "points": 69,
+      "lastRoundPoints": 9
     },
     {
       "rank": 12,
@@ -116,8 +116,8 @@
       "rank": 16,
       "managerName": "Carroev",
       "teamName": "",
-      "points": 8,
-      "lastRoundPoints": 8
+      "points": 16,
+      "lastRoundPoints": 16
     }
   ]
 }

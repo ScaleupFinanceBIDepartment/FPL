@@ -5,15 +5,25 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-20T19:50:50+00:00",
+    "generatedAt": "2026-06-20T22:18:38+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1242,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 33,
-    "note": "33 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 34,
+    "note": "34 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
+      {
+        "id": 531,
+        "name": "Deniz Undav",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "FWD",
+        "goals": 3,
+        "assists": 2
+      },
       {
         "id": 38,
         "name": "Lionel Messi",
@@ -205,16 +215,6 @@
         "assists": 3
       },
       {
-        "id": 531,
-        "name": "Deniz Undav",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "FWD",
-        "goals": 1,
-        "assists": 2
-      },
-      {
         "id": 241,
         "name": "Nathan Saliba",
         "nation": "Canada",
@@ -284,7 +284,7 @@
         "group": "E",
         "pos": "FWD",
         "assists": 2,
-        "goals": 1
+        "goals": 3
       },
       {
         "id": 542,
@@ -467,6 +467,16 @@
         "goals": 1
       },
       {
+        "id": 1601,
+        "name": "Felix Nmecha",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 1
+      },
+      {
         "id": 12,
         "name": "Ibrahim Maza",
         "nation": "Algeria",
@@ -505,19 +515,20 @@
         "pos": "MID",
         "assists": 1,
         "goals": 0
-      },
-      {
-        "id": 111,
-        "name": "Xaver Schlager",
-        "nation": "Austria",
-        "nationAbbr": "AUT",
-        "group": "J",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
       }
     ],
     "topPoints": [
+      {
+        "id": 531,
+        "name": "Deniz Undav",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "FWD",
+        "points": 28,
+        "avg": 14,
+        "form": 9.3
+      },
       {
         "id": 226,
         "name": "Jonathan David",
@@ -547,6 +558,17 @@
         "nationAbbr": "SWE",
         "group": "F",
         "pos": "FWD",
+        "points": 23,
+        "avg": 11.5,
+        "form": 7.7
+      },
+      {
+        "id": 1601,
+        "name": "Felix Nmecha",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
         "points": 23,
         "avg": 11.5,
         "form": 7.7
@@ -728,6 +750,28 @@
         "form": 5.3
       },
       {
+        "id": 310,
+        "name": "Amad Diallo",
+        "nation": "Côte d'Ivoire",
+        "nationAbbr": "CIV",
+        "group": "E",
+        "pos": "FWD",
+        "points": 16,
+        "avg": 8,
+        "form": 5.3
+      },
+      {
+        "id": 525,
+        "name": "Nathaniel Brown",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "DEF",
+        "points": 16,
+        "avg": 8,
+        "form": 5.3
+      },
+      {
         "id": 807,
         "name": "Brian Brobbey",
         "nation": "Netherlands",
@@ -748,50 +792,6 @@
         "points": 16,
         "avg": 8,
         "form": 5.3
-      },
-      {
-        "id": 1149,
-        "name": "Breel Embolo",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "FWD",
-        "points": 16,
-        "avg": 8,
-        "form": 5.3
-      },
-      {
-        "id": 912,
-        "name": "Julio Enciso",
-        "nation": "Paraguay",
-        "nationAbbr": "PAR",
-        "group": "D",
-        "pos": "MID",
-        "points": 15,
-        "avg": 7.5,
-        "form": 5
-      },
-      {
-        "id": 1549,
-        "name": "Hwang In-Beom",
-        "nation": "Korea Republic",
-        "nationAbbr": "KOR",
-        "group": "A",
-        "pos": "MID",
-        "points": 15,
-        "avg": 7.5,
-        "form": 5
-      },
-      {
-        "id": 2020,
-        "name": "Brahim Díaz",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "points": 15,
-        "avg": 7.5,
-        "form": 5
       }
     ],
     "mostSelected": [
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 45.8,
+        "ownPct": 45.7,
         "points": 3
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 39,
+        "ownPct": 38.9,
         "points": 2
       },
       {
@@ -862,8 +862,8 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 33.1,
-        "points": 8
+        "ownPct": 33,
+        "points": 10
       },
       {
         "id": 855,
@@ -872,7 +872,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 30.9,
+        "ownPct": 30.8,
         "points": 17
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 23.2,
+        "ownPct": 23.3,
         "points": 9
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 21.3,
+        "ownPct": 21.4,
         "points": 10
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 20.8,
+        "ownPct": 20.7,
         "points": 3
       },
       {
@@ -942,8 +942,8 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 20.3,
-        "points": 5
+        "ownPct": 20.2,
+        "points": 7
       },
       {
         "id": 164,
@@ -983,7 +983,7 @@
         "group": "E",
         "pos": "FWD",
         "ownPct": 15.7,
-        "points": 13
+        "points": 15
       },
       {
         "id": 501,
@@ -1043,7 +1043,7 @@
         "group": "E",
         "pos": "MID",
         "ownPct": 12.6,
-        "points": 9
+        "points": 11
       }
     ]
   }

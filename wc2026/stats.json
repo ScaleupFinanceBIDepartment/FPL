@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-19T22:11:44+00:00",
+    "generatedAt": "2026-06-20T04:36:27+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1244,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 30,
-    "note": "30 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 32,
+    "note": "32 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -32,6 +32,26 @@
         "group": "B",
         "pos": "FWD",
         "goals": 3,
+        "assists": 0
+      },
+      {
+        "id": 173,
+        "name": "Vinícius Júnior",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "id": 174,
+        "name": "Matheus Cunha",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "FWD",
+        "goals": 2,
         "assists": 0
       },
       {
@@ -243,26 +263,6 @@
         "pos": "DEF",
         "goals": 1,
         "assists": 1
-      },
-      {
-        "id": 1549,
-        "name": "Hwang In-Beom",
-        "nation": "Korea Republic",
-        "nationAbbr": "KOR",
-        "group": "A",
-        "pos": "MID",
-        "goals": 1,
-        "assists": 1
-      },
-      {
-        "id": 27,
-        "name": "Farès Chaïbi",
-        "nation": "Algeria",
-        "nationAbbr": "ALG",
-        "group": "J",
-        "pos": "MID",
-        "goals": 1,
-        "assists": 0
       }
     ],
     "topAssists": [
@@ -307,6 +307,16 @@
         "goals": 0
       },
       {
+        "id": 912,
+        "name": "Julio Enciso",
+        "nation": "Paraguay",
+        "nationAbbr": "PAR",
+        "group": "D",
+        "pos": "MID",
+        "assists": 2,
+        "goals": 0
+      },
+      {
         "id": 1493,
         "name": "Chris Wood",
         "nation": "New Zealand",
@@ -325,6 +335,16 @@
         "pos": "MID",
         "assists": 2,
         "goals": 0
+      },
+      {
+        "id": 173,
+        "name": "Vinícius Júnior",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 2
       },
       {
         "id": 241,
@@ -477,41 +497,21 @@
         "goals": 0
       },
       {
-        "id": 266,
-        "name": "Gustavo Puerta",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
+        "id": 190,
+        "name": "Lucas Paquetá",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
         "pos": "MID",
         "assists": 1,
         "goals": 0
       },
       {
-        "id": 273,
-        "name": "Arthur Masuaku",
-        "nation": "Congo DR",
-        "nationAbbr": "COD",
+        "id": 266,
+        "name": "Gustavo Puerta",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
         "group": "K",
-        "pos": "DEF",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 300,
-        "name": "Wilfried Singo",
-        "nation": "Côte d'Ivoire",
-        "nationAbbr": "CIV",
-        "group": "E",
-        "pos": "DEF",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 324,
-        "name": "Petar Sucic",
-        "nation": "Croatia",
-        "nationAbbr": "CRO",
-        "group": "L",
         "pos": "MID",
         "assists": 1,
         "goals": 0
@@ -552,6 +552,17 @@
         "form": 7
       },
       {
+        "id": 792,
+        "name": "Ismael Saibari",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "points": 21,
+        "avg": 10.5,
+        "form": 7
+      },
+      {
         "id": 2031,
         "name": "Sergiño Dest",
         "nation": "USA",
@@ -563,6 +574,17 @@
         "form": 7
       },
       {
+        "id": 173,
+        "name": "Vinícius Júnior",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "points": 20,
+        "avg": 10,
+        "form": 6.7
+      },
+      {
         "id": 38,
         "name": "Lionel Messi",
         "nation": "Argentina",
@@ -571,17 +593,6 @@
         "pos": "FWD",
         "points": 19,
         "avg": 19,
-        "form": 6.3
-      },
-      {
-        "id": 792,
-        "name": "Ismael Saibari",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "points": 19,
-        "avg": 9.5,
         "form": 6.3
       },
       {
@@ -673,6 +684,17 @@
         "form": 5.3
       },
       {
+        "id": 174,
+        "name": "Matheus Cunha",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "FWD",
+        "points": 16,
+        "avg": 8,
+        "form": 5.3
+      },
+      {
         "id": 1133,
         "name": "Johan Manzambi",
         "nation": "Switzerland",
@@ -695,11 +717,33 @@
         "form": 5.3
       },
       {
+        "id": 912,
+        "name": "Julio Enciso",
+        "nation": "Paraguay",
+        "nationAbbr": "PAR",
+        "group": "D",
+        "pos": "MID",
+        "points": 15,
+        "avg": 7.5,
+        "form": 5
+      },
+      {
         "id": 1549,
         "name": "Hwang In-Beom",
         "nation": "Korea Republic",
         "nationAbbr": "KOR",
         "group": "A",
+        "pos": "MID",
+        "points": 15,
+        "avg": 7.5,
+        "form": 5
+      },
+      {
+        "id": 2020,
+        "name": "Brahim Díaz",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
         "pos": "MID",
         "points": 15,
         "avg": 7.5,
@@ -748,50 +792,6 @@
         "points": 14,
         "avg": 14,
         "form": 4.7
-      },
-      {
-        "id": 757,
-        "name": "Raúl Rangel",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "GK",
-        "points": 14,
-        "avg": 7,
-        "form": 4.7
-      },
-      {
-        "id": 241,
-        "name": "Nathan Saliba",
-        "nation": "Canada",
-        "nationAbbr": "CAN",
-        "group": "B",
-        "pos": "MID",
-        "points": 13,
-        "avg": 13,
-        "form": 4.3
-      },
-      {
-        "id": 468,
-        "name": "Harry Kane",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "FWD",
-        "points": 13,
-        "avg": 13,
-        "form": 4.3
-      },
-      {
-        "id": 528,
-        "name": "Kai Havertz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "FWD",
-        "points": 13,
-        "avg": 13,
-        "form": 4.3
       }
     ],
     "mostSelected": [
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 46.1,
+        "ownPct": 46,
         "points": 3
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 24.8,
+        "ownPct": 24.9,
         "points": 19
       },
       {
@@ -913,17 +913,7 @@
         "group": "C",
         "pos": "DEF",
         "ownPct": 23.1,
-        "points": 3
-      },
-      {
-        "id": 1366,
-        "name": "Raphinha",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 21.4,
-        "points": 2
+        "points": 9
       },
       {
         "id": 796,
@@ -936,13 +926,23 @@
         "points": 8
       },
       {
+        "id": 1366,
+        "name": "Raphinha",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 21.3,
+        "points": 3
+      },
+      {
         "id": 543,
         "name": "Florian Wirtz",
         "nation": "Germany",
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 20.4,
+        "ownPct": 20.3,
         "points": 5
       },
       {
@@ -953,7 +953,7 @@
         "group": "C",
         "pos": "DEF",
         "ownPct": 20,
-        "points": 2
+        "points": 9
       },
       {
         "id": 256,
@@ -972,8 +972,8 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 17.7,
-        "points": 8
+        "ownPct": 17.8,
+        "points": 20
       },
       {
         "id": 528,

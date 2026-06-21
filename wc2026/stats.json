@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-21T14:29:12+00:00",
+    "generatedAt": "2026-06-21T16:52:13+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1241,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 36,
-    "note": "36 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 37,
+    "note": "37 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -70,6 +70,16 @@
         "nation": "Netherlands",
         "nationAbbr": "NED",
         "group": "F",
+        "pos": "FWD",
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
         "pos": "FWD",
         "goals": 2,
         "assists": 1
@@ -253,16 +263,6 @@
         "pos": "MID",
         "goals": 1,
         "assists": 1
-      },
-      {
-        "id": 525,
-        "name": "Nathaniel Brown",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "DEF",
-        "goals": 1,
-        "assists": 1
       }
     ],
     "topAssists": [
@@ -372,6 +372,16 @@
         "nation": "Netherlands",
         "nationAbbr": "NED",
         "group": "F",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 2
+      },
+      {
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
         "pos": "FWD",
         "assists": 1,
         "goals": 2
@@ -503,16 +513,6 @@
         "nationAbbr": "ALG",
         "group": "J",
         "pos": "FWD",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 42,
-        "name": "Nico González",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "MID",
         "assists": 1,
         "goals": 0
       }
@@ -750,6 +750,17 @@
         "form": 5.7
       },
       {
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "FWD",
+        "points": 17,
+        "avg": 8.5,
+        "form": 5.7
+      },
+      {
         "id": 1124,
         "name": "Viktor Gyökeres",
         "nation": "Sweden",
@@ -781,17 +792,6 @@
         "points": 16,
         "avg": 8,
         "form": 5.3
-      },
-      {
-        "id": 310,
-        "name": "Amad Diallo",
-        "nation": "Côte d'Ivoire",
-        "nationAbbr": "CIV",
-        "group": "E",
-        "pos": "FWD",
-        "points": 16,
-        "avg": 8,
-        "form": 5.3
       }
     ],
     "mostSelected": [
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 45.5,
+        "ownPct": 45.4,
         "points": 3
       },
       {
@@ -842,8 +842,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 36.5,
-        "points": 1
+        "ownPct": 36.6,
+        "points": 8
       },
       {
         "id": 517,
@@ -883,7 +883,7 @@
         "group": "H",
         "pos": "DEF",
         "ownPct": 25.6,
-        "points": 7
+        "points": 8
       },
       {
         "id": 38,
@@ -922,7 +922,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 21.4,
+        "ownPct": 21.5,
         "points": 10
       },
       {
@@ -956,16 +956,6 @@
         "points": 7
       },
       {
-        "id": 256,
-        "name": "Luis Díaz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "MID",
-        "ownPct": 18.5,
-        "points": 11
-      },
-      {
         "id": 173,
         "name": "Vinícius Júnior",
         "nation": "Brazil",
@@ -976,13 +966,23 @@
         "points": 20
       },
       {
+        "id": 256,
+        "name": "Luis Díaz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "MID",
+        "ownPct": 18.4,
+        "points": 11
+      },
+      {
         "id": 528,
         "name": "Kai Havertz",
         "nation": "Germany",
         "nationAbbr": "GER",
         "group": "E",
         "pos": "FWD",
-        "ownPct": 15.6,
+        "ownPct": 15.5,
         "points": 15
       },
       {
@@ -1003,7 +1003,7 @@
         "group": "H",
         "pos": "FWD",
         "ownPct": 15.1,
-        "points": 2
+        "points": 17
       },
       {
         "id": 477,

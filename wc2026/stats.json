@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-21T19:57:31+00:00",
+    "generatedAt": "2026-06-21T22:21:25+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1241,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 38,
-    "note": "38 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 39,
+    "note": "39 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -574,6 +574,17 @@
         "form": 7.7
       },
       {
+        "id": 597,
+        "name": "Ramin Rezaeian",
+        "nation": "IR Iran",
+        "nationAbbr": "IRN",
+        "group": "G",
+        "pos": "DEF",
+        "points": 22,
+        "avg": 11,
+        "form": 7.3
+      },
+      {
         "id": 682,
         "name": "Daichi Kamada",
         "nation": "Japan",
@@ -781,17 +792,6 @@
         "points": 17,
         "avg": 8.5,
         "form": 5.7
-      },
-      {
-        "id": 1124,
-        "name": "Viktor Gyökeres",
-        "nation": "Sweden",
-        "nationAbbr": "SWE",
-        "group": "F",
-        "pos": "FWD",
-        "points": 17,
-        "avg": 8.5,
-        "form": 5.7
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55.4,
+        "ownPct": 55.3,
         "points": 14
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 45.3,
+        "ownPct": 45.2,
         "points": 3
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 38.5,
+        "ownPct": 38.6,
         "points": 13
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 36.6,
+        "ownPct": 36.7,
         "points": 8
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 36.1,
+        "ownPct": 36,
         "points": 6
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 32.8,
+        "ownPct": 32.7,
         "points": 10
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 30.7,
+        "ownPct": 30.6,
         "points": 17
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 25.6,
+        "ownPct": 25.7,
         "points": 19
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 20.2,
+        "ownPct": 20.1,
         "points": 3
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "FWD",
-        "ownPct": 15.5,
+        "ownPct": 15.4,
         "points": 15
       },
       {
@@ -1032,7 +1032,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 14.2,
+        "ownPct": 14.3,
         "points": 9
       },
       {
@@ -1042,7 +1042,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 12.5,
+        "ownPct": 12.4,
         "points": 11
       }
     ]

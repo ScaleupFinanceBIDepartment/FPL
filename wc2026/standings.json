@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-06-21T19:57:32+00:00",
+  "fetchedAt": "2026-06-21T22:21:25+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -23,38 +23,38 @@
     },
     {
       "rank": 3,
-      "managerName": "DanishNorseman",
+      "managerName": "Sec United",
       "teamName": "",
-      "points": 129,
-      "lastRoundPoints": 41
+      "points": 128,
+      "lastRoundPoints": 39
     },
     {
       "rank": 4,
-      "managerName": "Sec United",
+      "managerName": "DanishNorseman",
       "teamName": "",
-      "points": 126,
+      "points": 125,
       "lastRoundPoints": 37
     },
     {
       "rank": 5,
       "managerName": "Anders Zaar",
       "teamName": "",
-      "points": 117,
-      "lastRoundPoints": 35
+      "points": 124,
+      "lastRoundPoints": 42
     },
     {
       "rank": 6,
+      "managerName": "Doktor Svin",
+      "teamName": "",
+      "points": 123,
+      "lastRoundPoints": 41
+    },
+    {
+      "rank": 7,
       "managerName": "Testtesttest",
       "teamName": "",
       "points": 116,
       "lastRoundPoints": 47
-    },
-    {
-      "rank": 7,
-      "managerName": "Doktor Svin",
-      "teamName": "",
-      "points": 116,
-      "lastRoundPoints": 34
     },
     {
       "rank": 8,
@@ -67,8 +67,8 @@
       "rank": 9,
       "managerName": "Don-O",
       "teamName": "",
-      "points": 104,
-      "lastRoundPoints": 21
+      "points": 105,
+      "lastRoundPoints": 22
     },
     {
       "rank": 10,
@@ -93,24 +93,24 @@
     },
     {
       "rank": 13,
+      "managerName": "Lukasworm",
+      "teamName": "",
+      "points": 91,
+      "lastRoundPoints": 39
+    },
+    {
+      "rank": 14,
       "managerName": "Hedge Fund Hooligans",
       "teamName": "",
       "points": 91,
       "lastRoundPoints": 29
     },
     {
-      "rank": 14,
-      "managerName": "Lukasworm",
-      "teamName": "",
-      "points": 85,
-      "lastRoundPoints": 33
-    },
-    {
       "rank": 15,
       "managerName": "ESI1994",
       "teamName": "",
-      "points": 82,
-      "lastRoundPoints": 22
+      "points": 84,
+      "lastRoundPoints": 24
     },
     {
       "rank": 16,

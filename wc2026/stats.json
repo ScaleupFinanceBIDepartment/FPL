@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-21T16:52:13+00:00",
+    "generatedAt": "2026-06-21T19:57:31+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1241,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 37,
-    "note": "37 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 38,
+    "note": "38 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -618,6 +618,17 @@
         "form": 7
       },
       {
+        "id": 1086,
+        "name": "Aymeric Laporte",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "points": 21,
+        "avg": 10.5,
+        "form": 7
+      },
+      {
         "id": 2031,
         "name": "Sergiño Dest",
         "nation": "USA",
@@ -750,6 +761,17 @@
         "form": 5.7
       },
       {
+        "id": 1088,
+        "name": "Marc Cucurella",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "points": 17,
+        "avg": 8.5,
+        "form": 5.7
+      },
+      {
         "id": 1094,
         "name": "Mikel Oyarzabal",
         "nation": "Spain",
@@ -770,28 +792,6 @@
         "points": 17,
         "avg": 8.5,
         "form": 5.7
-      },
-      {
-        "id": 832,
-        "name": "Elijah Just",
-        "nation": "New Zealand",
-        "nationAbbr": "NZL",
-        "group": "G",
-        "pos": "MID",
-        "points": 16,
-        "avg": 16,
-        "form": 5.3
-      },
-      {
-        "id": 174,
-        "name": "Matheus Cunha",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "FWD",
-        "points": 16,
-        "avg": 8,
-        "form": 5.3
       }
     ],
     "mostSelected": [
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 45.4,
+        "ownPct": 45.3,
         "points": 3
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 38.8,
+        "ownPct": 38.7,
         "points": 2
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 32.9,
+        "ownPct": 32.8,
         "points": 10
       },
       {
@@ -876,6 +876,16 @@
         "points": 17
       },
       {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "ownPct": 25.6,
+        "points": 19
+      },
+      {
         "id": 1088,
         "name": "Marc Cucurella",
         "nation": "Spain",
@@ -883,17 +893,7 @@
         "group": "H",
         "pos": "DEF",
         "ownPct": 25.6,
-        "points": 8
-      },
-      {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "ownPct": 25.5,
-        "points": 19
+        "points": 17
       },
       {
         "id": 45,
@@ -912,7 +912,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 23.4,
+        "ownPct": 23.5,
         "points": 9
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 20.4,
+        "ownPct": 20.2,
         "points": 3
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 20,
+        "ownPct": 19.9,
         "points": 7
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 18.4,
+        "ownPct": 18.6,
         "points": 20
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 15.4,
+        "ownPct": 15.3,
         "points": 3
       },
       {
@@ -1022,7 +1022,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14.5,
+        "ownPct": 14.4,
         "points": 2
       },
       {
@@ -1032,7 +1032,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 14.1,
+        "ownPct": 14.2,
         "points": 9
       },
       {

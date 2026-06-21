@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-21T10:02:41+00:00",
+    "generatedAt": "2026-06-21T14:29:12+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1241,
     "tournamentStart": "2026-06-11",
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 45.6,
+        "ownPct": 45.5,
         "points": 3
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 38.9,
+        "ownPct": 38.8,
         "points": 2
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 36.6,
+        "ownPct": 36.5,
         "points": 1
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 36.2,
+        "ownPct": 36.1,
         "points": 6
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 33,
+        "ownPct": 32.9,
         "points": 10
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 30.8,
+        "ownPct": 30.7,
         "points": 17
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 25.4,
+        "ownPct": 25.5,
         "points": 19
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 23.3,
+        "ownPct": 23.4,
         "points": 9
       },
       {
@@ -932,18 +932,8 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 20.5,
+        "ownPct": 20.4,
         "points": 3
-      },
-      {
-        "id": 543,
-        "name": "Florian Wirtz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "MID",
-        "ownPct": 20.1,
-        "points": 7
       },
       {
         "id": 164,
@@ -954,6 +944,16 @@
         "pos": "DEF",
         "ownPct": 20,
         "points": 9
+      },
+      {
+        "id": 543,
+        "name": "Florian Wirtz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
+        "ownPct": 20,
+        "points": 7
       },
       {
         "id": 256,
@@ -972,7 +972,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 18.3,
+        "ownPct": 18.4,
         "points": 20
       },
       {
@@ -1002,7 +1002,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 15.2,
+        "ownPct": 15.1,
         "points": 2
       },
       {
@@ -1032,7 +1032,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 14,
+        "ownPct": 14.1,
         "points": 9
       },
       {

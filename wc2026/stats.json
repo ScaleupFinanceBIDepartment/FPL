@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-20T22:18:38+00:00",
+    "generatedAt": "2026-06-21T05:10:47+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1242,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 34,
-    "note": "34 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 36,
+    "note": "36 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -135,6 +135,16 @@
         "assists": 0
       },
       {
+        "id": 682,
+        "name": "Daichi Kamada",
+        "nation": "Japan",
+        "nationAbbr": "JPN",
+        "group": "F",
+        "pos": "MID",
+        "goals": 2,
+        "assists": 0
+      },
+      {
         "id": 792,
         "name": "Ismael Saibari",
         "nation": "Morocco",
@@ -251,16 +261,6 @@
         "nationAbbr": "IRN",
         "group": "G",
         "pos": "DEF",
-        "goals": 1,
-        "assists": 1
-      },
-      {
-        "id": 1124,
-        "name": "Viktor Gyökeres",
-        "nation": "Sweden",
-        "nationAbbr": "SWE",
-        "group": "F",
-        "pos": "FWD",
         "goals": 1,
         "assists": 1
       }
@@ -417,6 +417,16 @@
         "goals": 1
       },
       {
+        "id": 671,
+        "name": "Keito Nakamura",
+        "nation": "Japan",
+        "nationAbbr": "JPN",
+        "group": "F",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 1
+      },
+      {
         "id": 1124,
         "name": "Viktor Gyökeres",
         "nation": "Sweden",
@@ -502,16 +512,6 @@
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 77,
-        "name": "Paul Okon",
-        "nation": "Australia",
-        "nationAbbr": "AUS",
-        "group": "D",
         "pos": "MID",
         "assists": 1,
         "goals": 0
@@ -634,6 +634,17 @@
         "nation": "Brazil",
         "nationAbbr": "BRA",
         "group": "C",
+        "pos": "MID",
+        "points": 20,
+        "avg": 10,
+        "form": 6.7
+      },
+      {
+        "id": 682,
+        "name": "Daichi Kamada",
+        "nation": "Japan",
+        "nationAbbr": "JPN",
+        "group": "F",
         "pos": "MID",
         "points": 20,
         "avg": 10,
@@ -781,17 +792,6 @@
         "points": 16,
         "avg": 8,
         "form": 5.3
-      },
-      {
-        "id": 1133,
-        "name": "Johan Manzambi",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "points": 16,
-        "avg": 8,
-        "form": 5.3
       }
     ],
     "mostSelected": [
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 45.7,
+        "ownPct": 45.6,
         "points": 3
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 25.2,
+        "ownPct": 25.3,
         "points": 19
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 20.7,
+        "ownPct": 20.6,
         "points": 3
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 18.1,
+        "ownPct": 18.2,
         "points": 20
       },
       {
@@ -1002,7 +1002,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 15.3,
+        "ownPct": 15.2,
         "points": 2
       },
       {
@@ -1032,7 +1032,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 13.9,
+        "ownPct": 14,
         "points": 9
       },
       {
@@ -1042,7 +1042,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 12.6,
+        "ownPct": 12.5,
         "points": 11
       }
     ]

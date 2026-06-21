@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-06-20T22:18:39+00:00",
+  "fetchedAt": "2026-06-21T05:10:48+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -30,31 +30,31 @@
     },
     {
       "rank": 4,
+      "managerName": "HvemkanAnnika",
+      "teamName": "",
+      "points": 103,
+      "lastRoundPoints": 27
+    },
+    {
+      "rank": 5,
       "managerName": "Sec United",
       "teamName": "",
       "points": 101,
       "lastRoundPoints": 12
     },
     {
-      "rank": 5,
+      "rank": 6,
       "managerName": "Don-O",
       "teamName": "",
       "points": 96,
       "lastRoundPoints": 13
     },
     {
-      "rank": 6,
+      "rank": 7,
       "managerName": "Anders Zaar",
       "teamName": "",
       "points": 88,
       "lastRoundPoints": 6
-    },
-    {
-      "rank": 7,
-      "managerName": "HvemkanAnnika",
-      "teamName": "",
-      "points": 85,
-      "lastRoundPoints": 9
     },
     {
       "rank": 8,

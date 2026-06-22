@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-22T05:23:46+00:00",
+    "generatedAt": "2026-06-22T12:22:40+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1241,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55.3,
+        "ownPct": 55.2,
         "points": 14
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 45.2,
+        "ownPct": 45,
         "points": 3
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 36,
+        "ownPct": 35.9,
         "points": 6
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 32.7,
+        "ownPct": 32.6,
         "points": 10
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 25.7,
+        "ownPct": 25.8,
         "points": 19
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 23.9,
+        "ownPct": 24,
         "points": 7
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 23.5,
+        "ownPct": 23.6,
         "points": 9
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 20,
+        "ownPct": 19.8,
         "points": 3
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 19.8,
+        "ownPct": 19.7,
         "points": 7
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 18.7,
+        "ownPct": 18.9,
         "points": 20
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 18.4,
+        "ownPct": 18.3,
         "points": 11
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "FWD",
-        "ownPct": 15.4,
+        "ownPct": 15.3,
         "points": 15
       },
       {
@@ -1016,6 +1016,16 @@
         "points": 2
       },
       {
+        "id": 795,
+        "name": "Denzel Dumfries",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "DEF",
+        "ownPct": 14.4,
+        "points": 9
+      },
+      {
         "id": 1429,
         "name": "William Saliba",
         "nation": "France",
@@ -1024,16 +1034,6 @@
         "pos": "DEF",
         "ownPct": 14.4,
         "points": 2
-      },
-      {
-        "id": 795,
-        "name": "Denzel Dumfries",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "DEF",
-        "ownPct": 14.3,
-        "points": 9
       },
       {
         "id": 1600,

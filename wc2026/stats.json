@@ -5,15 +5,25 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-22T12:22:40+00:00",
+    "generatedAt": "2026-06-22T18:51:56+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1241,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 40,
-    "note": "40 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 41,
+    "note": "41 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
+      {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "goals": 4,
+        "assists": 0
+      },
       {
         "id": 531,
         "name": "Deniz Undav",
@@ -23,16 +33,6 @@
         "pos": "FWD",
         "goals": 3,
         "assists": 2
-      },
-      {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "goals": 3,
-        "assists": 0
       },
       {
         "id": 226,
@@ -530,6 +530,17 @@
         "form": 9.3
       },
       {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "points": 27,
+        "avg": 13.5,
+        "form": 9
+      },
+      {
         "id": 226,
         "name": "Jonathan David",
         "nation": "Canada",
@@ -695,15 +706,15 @@
         "form": 6.7
       },
       {
-        "id": 38,
-        "name": "Lionel Messi",
+        "id": 1320,
+        "name": "Facundo Medina",
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
-        "pos": "FWD",
-        "points": 19,
-        "avg": 19,
-        "form": 6.3
+        "pos": "DEF",
+        "points": 20,
+        "avg": 10,
+        "form": 6.7
       },
       {
         "id": 1267,
@@ -781,17 +792,6 @@
         "points": 18,
         "avg": 9,
         "form": 6
-      },
-      {
-        "id": 1597,
-        "name": "Mohamed Salah",
-        "nation": "Egypt",
-        "nationAbbr": "EGY",
-        "group": "G",
-        "pos": "MID",
-        "points": 18,
-        "avg": 9,
-        "form": 6
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55.2,
+        "ownPct": 55.1,
         "points": 14
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 45,
+        "ownPct": 44.8,
         "points": 3
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 38.6,
+        "ownPct": 38.5,
         "points": 2
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 36.7,
+        "ownPct": 36.8,
         "points": 8
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 35.9,
+        "ownPct": 35.8,
         "points": 6
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 32.6,
+        "ownPct": 32.5,
         "points": 10
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 30.6,
+        "ownPct": 30.5,
         "points": 17
       },
       {
@@ -882,8 +882,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 25.8,
-        "points": 19
+        "ownPct": 26,
+        "points": 27
       },
       {
         "id": 1088,
@@ -903,7 +903,7 @@
         "group": "J",
         "pos": "GK",
         "ownPct": 24,
-        "points": 7
+        "points": 14
       },
       {
         "id": 2012,
@@ -912,7 +912,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 23.6,
+        "ownPct": 23.8,
         "points": 9
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 20,
+        "ownPct": 19.9,
         "points": 9
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 19.8,
+        "ownPct": 19.7,
         "points": 3
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 19.7,
+        "ownPct": 19.6,
         "points": 7
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 18.9,
+        "ownPct": 19.1,
         "points": 20
       },
       {
@@ -976,16 +976,6 @@
         "points": 11
       },
       {
-        "id": 528,
-        "name": "Kai Havertz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "FWD",
-        "ownPct": 15.3,
-        "points": 15
-      },
-      {
         "id": 501,
         "name": "Ousmane Dembélé",
         "nation": "France",
@@ -996,14 +986,34 @@
         "points": 3
       },
       {
+        "id": 528,
+        "name": "Kai Havertz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "FWD",
+        "ownPct": 15.2,
+        "points": 15
+      },
+      {
         "id": 1094,
         "name": "Mikel Oyarzabal",
         "nation": "Spain",
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 15.1,
+        "ownPct": 15,
         "points": 17
+      },
+      {
+        "id": 795,
+        "name": "Denzel Dumfries",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "DEF",
+        "ownPct": 14.6,
+        "points": 9
       },
       {
         "id": 477,
@@ -1014,16 +1024,6 @@
         "pos": "GK",
         "ownPct": 14.6,
         "points": 2
-      },
-      {
-        "id": 795,
-        "name": "Denzel Dumfries",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "DEF",
-        "ownPct": 14.4,
-        "points": 9
       },
       {
         "id": 1429,

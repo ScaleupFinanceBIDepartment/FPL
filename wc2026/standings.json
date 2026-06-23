@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-06-23T09:59:41+00:00",
+  "fetchedAt": "2026-06-23T15:20:42+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -53,8 +53,8 @@
       "rank": 7,
       "managerName": "VikingPlaymaker",
       "teamName": "",
-      "points": 160,
-      "lastRoundPoints": 84
+      "points": 158,
+      "lastRoundPoints": 82
     },
     {
       "rank": 8,
@@ -109,8 +109,8 @@
       "rank": 15,
       "managerName": "Lukasworm",
       "teamName": "",
-      "points": 106,
-      "lastRoundPoints": 54
+      "points": 105,
+      "lastRoundPoints": 53
     },
     {
       "rank": 16,

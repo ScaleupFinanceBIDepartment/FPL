@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-06-23T20:19:16+00:00",
+  "fetchedAt": "2026-06-23T22:20:19+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "managerName": "HC WIN",
       "teamName": "",
-      "points": 190,
-      "lastRoundPoints": 85
+      "points": 192,
+      "lastRoundPoints": 87
     },
     {
       "rank": 3,
@@ -39,8 +39,8 @@
       "rank": 5,
       "managerName": "Doktor Svin",
       "teamName": "",
-      "points": 177,
-      "lastRoundPoints": 95
+      "points": 178,
+      "lastRoundPoints": 96
     },
     {
       "rank": 6,
@@ -60,8 +60,8 @@
       "rank": 8,
       "managerName": "HvemkanAnnika",
       "teamName": "",
-      "points": 162,
-      "lastRoundPoints": 86
+      "points": 164,
+      "lastRoundPoints": 88
     },
     {
       "rank": 9,
@@ -79,17 +79,17 @@
     },
     {
       "rank": 11,
+      "managerName": "Testtesttest",
+      "teamName": "",
+      "points": 148,
+      "lastRoundPoints": 79
+    },
+    {
+      "rank": 12,
       "managerName": "irs97",
       "teamName": "",
       "points": 147,
       "lastRoundPoints": 74
-    },
-    {
-      "rank": 12,
-      "managerName": "Testtesttest",
-      "teamName": "",
-      "points": 139,
-      "lastRoundPoints": 70
     },
     {
       "rank": 13,
@@ -102,8 +102,8 @@
       "rank": 14,
       "managerName": "rehpotsirhc",
       "teamName": "",
-      "points": 132,
-      "lastRoundPoints": 80
+      "points": 135,
+      "lastRoundPoints": 83
     },
     {
       "rank": 15,
@@ -116,8 +116,8 @@
       "rank": 16,
       "managerName": "Carroev",
       "teamName": "",
-      "points": 63,
-      "lastRoundPoints": 63
+      "points": 67,
+      "lastRoundPoints": 67
     }
   ]
 }

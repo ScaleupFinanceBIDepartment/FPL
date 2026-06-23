@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-23T04:16:08+00:00",
+    "generatedAt": "2026-06-23T09:59:41+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 1241,
+    "playerCount": 1239,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 44,
     "note": "44 kampe spillet — mål, assists og point er live."
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55.2,
+        "ownPct": 55.3,
         "points": 27
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 44.4,
+        "ownPct": 44.2,
         "points": 3
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 38.3,
+        "ownPct": 38.2,
         "points": 2
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 35.8,
+        "ownPct": 35.7,
         "points": 15
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 32.2,
+        "ownPct": 32.1,
         "points": 10
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 30.3,
+        "ownPct": 30.2,
         "points": 30
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 26.8,
+        "ownPct": 27.2,
         "points": 33
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 24.2,
+        "ownPct": 24.4,
         "points": 14
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 24,
+        "ownPct": 24.1,
         "points": 9
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 21.7,
+        "ownPct": 21.8,
         "points": 10
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 19.5,
+        "ownPct": 19.7,
         "points": 20
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 19.3,
+        "ownPct": 19.2,
         "points": 7
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 19.2,
+        "ownPct": 18.9,
         "points": 3
       },
       {
@@ -996,24 +996,24 @@
         "points": 17
       },
       {
-        "id": 528,
-        "name": "Kai Havertz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "FWD",
-        "ownPct": 15,
-        "points": 15
-      },
-      {
         "id": 795,
         "name": "Denzel Dumfries",
         "nation": "Netherlands",
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 14.8,
+        "ownPct": 14.9,
         "points": 9
+      },
+      {
+        "id": 528,
+        "name": "Kai Havertz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "FWD",
+        "ownPct": 14.8,
+        "points": 15
       },
       {
         "id": 477,
@@ -1036,14 +1036,14 @@
         "points": 9
       },
       {
-        "id": 1600,
-        "name": "Jamal Musiala",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "MID",
+        "id": 1522,
+        "name": "Thibaut Courtois",
+        "nation": "Belgium",
+        "nationAbbr": "BEL",
+        "group": "G",
+        "pos": "GK",
         "ownPct": 12.3,
-        "points": 11
+        "points": 10
       }
     ]
   }

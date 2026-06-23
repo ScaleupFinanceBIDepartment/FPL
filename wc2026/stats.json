@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-22T22:52:21+00:00",
+    "generatedAt": "2026-06-23T04:16:08+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1241,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 42,
-    "note": "42 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 44,
+    "note": "44 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -22,6 +22,26 @@
         "group": "J",
         "pos": "FWD",
         "goals": 5,
+        "assists": 0
+      },
+      {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "goals": 4,
+        "assists": 0
+      },
+      {
+        "id": 855,
+        "name": "Erling Haaland",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "FWD",
+        "goals": 4,
         "assists": 0
       },
       {
@@ -40,16 +60,6 @@
         "nation": "Canada",
         "nationAbbr": "CAN",
         "group": "B",
-        "pos": "FWD",
-        "goals": 3,
-        "assists": 0
-      },
-      {
-        "id": 500,
-        "name": "Kylian Mbappé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
         "pos": "FWD",
         "goals": 3,
         "assists": 0
@@ -205,10 +215,10 @@
         "assists": 0
       },
       {
-        "id": 855,
-        "name": "Erling Haaland",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
+        "id": 1043,
+        "name": "Ismaïla Sarr",
+        "nation": "Senegal",
+        "nationAbbr": "SEN",
         "group": "I",
         "pos": "FWD",
         "goals": 2,
@@ -253,16 +263,6 @@
         "pos": "FWD",
         "goals": 1,
         "assists": 3
-      },
-      {
-        "id": 1597,
-        "name": "Mohamed Salah",
-        "nation": "Egypt",
-        "nationAbbr": "EGY",
-        "group": "G",
-        "pos": "MID",
-        "goals": 1,
-        "assists": 2
       }
     ],
     "topAssists": [
@@ -275,6 +275,16 @@
         "pos": "FWD",
         "assists": 3,
         "goals": 1
+      },
+      {
+        "id": 517,
+        "name": "Michael Olise",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "assists": 3,
+        "goals": 0
       },
       {
         "id": 531,
@@ -295,16 +305,6 @@
         "pos": "MID",
         "assists": 2,
         "goals": 1
-      },
-      {
-        "id": 517,
-        "name": "Michael Olise",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "assists": 2,
-        "goals": 0
       },
       {
         "id": 542,
@@ -353,6 +353,16 @@
         "nationAbbr": "NZL",
         "group": "G",
         "pos": "FWD",
+        "assists": 2,
+        "goals": 0
+      },
+      {
+        "id": 1684,
+        "name": "Martin Ødegaard",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "MID",
         "assists": 2,
         "goals": 0
       },
@@ -457,6 +467,16 @@
         "goals": 1
       },
       {
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 1
+      },
+      {
         "id": 525,
         "name": "Nathaniel Brown",
         "nation": "Germany",
@@ -495,26 +515,6 @@
         "pos": "FWD",
         "assists": 1,
         "goals": 1
-      },
-      {
-        "id": 1149,
-        "name": "Breel Embolo",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 1
-      },
-      {
-        "id": 1158,
-        "name": "Rubén Vargas",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 1
       }
     ],
     "topPoints": [
@@ -530,6 +530,17 @@
         "form": 11
       },
       {
+        "id": 855,
+        "name": "Erling Haaland",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "FWD",
+        "points": 30,
+        "avg": 15,
+        "form": 10
+      },
+      {
         "id": 531,
         "name": "Deniz Undav",
         "nation": "Germany",
@@ -539,6 +550,17 @@
         "points": 28,
         "avg": 14,
         "form": 9.3
+      },
+      {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "points": 27,
+        "avg": 13.5,
+        "form": 9
       },
       {
         "id": 226,
@@ -695,17 +717,6 @@
         "form": 6.7
       },
       {
-        "id": 500,
-        "name": "Kylian Mbappé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "FWD",
-        "points": 20,
-        "avg": 10,
-        "form": 6.7
-      },
-      {
         "id": 672,
         "name": "Ayase Ueda",
         "nation": "Japan",
@@ -781,17 +792,6 @@
         "points": 18,
         "avg": 9,
         "form": 6
-      },
-      {
-        "id": 1114,
-        "name": "Yasin Ayari",
-        "nation": "Sweden",
-        "nationAbbr": "SWE",
-        "group": "F",
-        "pos": "MID",
-        "points": 18,
-        "avg": 9,
-        "form": 6
       }
     ],
     "mostSelected": [
@@ -802,8 +802,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55.1,
-        "points": 20
+        "ownPct": 55.2,
+        "points": 27
       },
       {
         "id": 939,
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 44.6,
+        "ownPct": 44.4,
         "points": 3
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 38.4,
+        "ownPct": 38.3,
         "points": 2
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 36.8,
+        "ownPct": 36.9,
         "points": 8
       },
       {
@@ -853,7 +853,7 @@
         "group": "I",
         "pos": "MID",
         "ownPct": 35.8,
-        "points": 10
+        "points": 15
       },
       {
         "id": 542,
@@ -862,7 +862,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 32.3,
+        "ownPct": 32.2,
         "points": 10
       },
       {
@@ -872,8 +872,8 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 30.4,
-        "points": 17
+        "ownPct": 30.3,
+        "points": 30
       },
       {
         "id": 38,
@@ -882,7 +882,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 26.4,
+        "ownPct": 26.8,
         "points": 33
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 24.1,
+        "ownPct": 24.2,
         "points": 14
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 23.9,
+        "ownPct": 24,
         "points": 9
       },
       {
@@ -936,13 +936,23 @@
         "points": 9
       },
       {
+        "id": 173,
+        "name": "Vinícius Júnior",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 19.5,
+        "points": 20
+      },
+      {
         "id": 543,
         "name": "Florian Wirtz",
         "nation": "Germany",
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 19.5,
+        "ownPct": 19.3,
         "points": 7
       },
       {
@@ -952,18 +962,8 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 19.4,
+        "ownPct": 19.2,
         "points": 3
-      },
-      {
-        "id": 173,
-        "name": "Vinícius Júnior",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 19.3,
-        "points": 20
       },
       {
         "id": 256,
@@ -972,7 +972,7 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 18.2,
+        "ownPct": 18.1,
         "points": 11
       },
       {
@@ -983,16 +983,6 @@
         "group": "I",
         "pos": "MID",
         "ownPct": 15.2,
-        "points": 4
-      },
-      {
-        "id": 528,
-        "name": "Kai Havertz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "FWD",
-        "ownPct": 15.1,
         "points": 15
       },
       {
@@ -1006,13 +996,23 @@
         "points": 17
       },
       {
+        "id": 528,
+        "name": "Kai Havertz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "FWD",
+        "ownPct": 15,
+        "points": 15
+      },
+      {
         "id": 795,
         "name": "Denzel Dumfries",
         "nation": "Netherlands",
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 14.7,
+        "ownPct": 14.8,
         "points": 9
       },
       {
@@ -1032,8 +1032,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14.4,
-        "points": 3
+        "ownPct": 14.3,
+        "points": 9
       },
       {
         "id": 1600,

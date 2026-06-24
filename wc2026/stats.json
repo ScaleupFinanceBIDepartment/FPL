@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-24T09:48:18+00:00",
+    "generatedAt": "2026-06-24T14:50:27+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1239,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55.4,
+        "ownPct": 55.2,
         "points": 27
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 41.8,
+        "ownPct": 40.3,
         "points": 10
       },
       {
@@ -822,18 +822,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 39.4,
+        "ownPct": 40.1,
         "points": 15
-      },
-      {
-        "id": 916,
-        "name": "Nuno Mendes",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "DEF",
-        "ownPct": 37.6,
-        "points": 17
       },
       {
         "id": 1092,
@@ -842,8 +832,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 37.6,
+        "ownPct": 38.1,
         "points": 8
+      },
+      {
+        "id": 916,
+        "name": "Nuno Mendes",
+        "nation": "Portugal",
+        "nationAbbr": "POR",
+        "group": "K",
+        "pos": "DEF",
+        "ownPct": 37.1,
+        "points": 17
       },
       {
         "id": 517,
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 35,
+        "ownPct": 34.3,
         "points": 15
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 29.9,
+        "ownPct": 31.1,
         "points": 33
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 29.9,
+        "ownPct": 28.4,
         "points": 10
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 28.9,
+        "ownPct": 28,
         "points": 30
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 25.7,
+        "ownPct": 26.9,
         "points": 9
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 25.3,
+        "ownPct": 25.7,
         "points": 14
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 25.1,
+        "ownPct": 24.5,
         "points": 17
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 22.4,
+        "ownPct": 24.2,
         "points": 20
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 22.2,
+        "ownPct": 22.5,
         "points": 10
       },
       {
@@ -942,18 +942,8 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 19.6,
+        "ownPct": 19.4,
         "points": 9
-      },
-      {
-        "id": 543,
-        "name": "Florian Wirtz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "MID",
-        "ownPct": 17.2,
-        "points": 7
       },
       {
         "id": 795,
@@ -962,7 +952,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 17,
+        "ownPct": 18.5,
         "points": 9
       },
       {
@@ -972,18 +962,18 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 16.8,
+        "ownPct": 15.9,
         "points": 14
       },
       {
-        "id": 1366,
-        "name": "Raphinha",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
+        "id": 543,
+        "name": "Florian Wirtz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
         "pos": "MID",
-        "ownPct": 16.1,
-        "points": 3
+        "ownPct": 15.9,
+        "points": 7
       },
       {
         "id": 501,
@@ -992,7 +982,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 15.1,
+        "ownPct": 15,
         "points": 15
       },
       {
@@ -1002,7 +992,27 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 14.8,
+        "ownPct": 15,
+        "points": 9
+      },
+      {
+        "id": 1366,
+        "name": "Raphinha",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 14.4,
+        "points": 3
+      },
+      {
+        "id": 1429,
+        "name": "William Saliba",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 13.9,
         "points": 9
       },
       {
@@ -1012,28 +1022,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 14,
+        "ownPct": 13.2,
         "points": 17
-      },
-      {
-        "id": 1429,
-        "name": "William Saliba",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 14,
-        "points": 9
-      },
-      {
-        "id": 528,
-        "name": "Kai Havertz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "FWD",
-        "ownPct": 13.3,
-        "points": 15
       },
       {
         "id": 491,
@@ -1042,8 +1032,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 12.5,
+        "ownPct": 12.8,
         "points": 12
+      },
+      {
+        "id": 792,
+        "name": "Ismael Saibari",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 12.7,
+        "points": 21
       }
     ]
   }

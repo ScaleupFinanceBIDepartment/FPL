@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-06-23T22:20:19+00:00",
+  "fetchedAt": "2026-06-24T04:19:37+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -11,8 +11,8 @@
       "rank": 1,
       "managerName": "DanishNorseman",
       "teamName": "",
-      "points": 194,
-      "lastRoundPoints": 106
+      "points": 209,
+      "lastRoundPoints": 121
     },
     {
       "rank": 2,
@@ -53,64 +53,64 @@
       "rank": 7,
       "managerName": "Sec United",
       "teamName": "",
-      "points": 167,
-      "lastRoundPoints": 78
+      "points": 168,
+      "lastRoundPoints": 79
     },
     {
       "rank": 8,
       "managerName": "HvemkanAnnika",
       "teamName": "",
-      "points": 164,
-      "lastRoundPoints": 88
+      "points": 167,
+      "lastRoundPoints": 91
     },
     {
       "rank": 9,
+      "managerName": "irs97",
+      "teamName": "",
+      "points": 163,
+      "lastRoundPoints": 90
+    },
+    {
+      "rank": 10,
+      "managerName": "Don-O",
+      "teamName": "",
+      "points": 158,
+      "lastRoundPoints": 75
+    },
+    {
+      "rank": 11,
       "managerName": "ESI1994",
       "teamName": "",
       "points": 154,
       "lastRoundPoints": 94
     },
     {
-      "rank": 10,
-      "managerName": "Don-O",
-      "teamName": "",
-      "points": 149,
-      "lastRoundPoints": 66
-    },
-    {
-      "rank": 11,
+      "rank": 12,
       "managerName": "Testtesttest",
       "teamName": "",
       "points": 148,
       "lastRoundPoints": 79
     },
     {
-      "rank": 12,
-      "managerName": "irs97",
-      "teamName": "",
-      "points": 147,
-      "lastRoundPoints": 74
-    },
-    {
       "rank": 13,
-      "managerName": "Aaquist",
+      "managerName": "rehpotsirhc",
       "teamName": "",
-      "points": 136,
-      "lastRoundPoints": 88
+      "points": 138,
+      "lastRoundPoints": 86
     },
     {
       "rank": 14,
-      "managerName": "rehpotsirhc",
+      "managerName": "Aaquist",
       "teamName": "",
-      "points": 135,
-      "lastRoundPoints": 83
+      "points": 137,
+      "lastRoundPoints": 89
     },
     {
       "rank": 15,
       "managerName": "Lukasworm",
       "teamName": "",
-      "points": 127,
-      "lastRoundPoints": 75
+      "points": 137,
+      "lastRoundPoints": 85
     },
     {
       "rank": 16,

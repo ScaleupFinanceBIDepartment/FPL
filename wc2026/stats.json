@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-23T22:20:18+00:00",
+    "generatedAt": "2026-06-24T04:19:37+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1239,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 46,
-    "note": "46 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 48,
+    "note": "48 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -145,6 +145,16 @@
         "assists": 0
       },
       {
+        "id": 248,
+        "name": "Daniel Muñoz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
+        "goals": 2,
+        "assists": 0
+      },
+      {
         "id": 468,
         "name": "Harry Kane",
         "nation": "England",
@@ -250,16 +260,6 @@
         "nation": "USA",
         "nationAbbr": "USA",
         "group": "D",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 1573,
-        "name": "Cristiano Ronaldo",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
         "pos": "FWD",
         "goals": 2,
         "assists": 0
@@ -574,6 +574,17 @@
         "form": 8.7
       },
       {
+        "id": 248,
+        "name": "Daniel Muñoz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
+        "points": 23,
+        "avg": 11.5,
+        "form": 7.7
+      },
+      {
         "id": 1223,
         "name": "Maxi Araújo",
         "nation": "Uruguay",
@@ -781,17 +792,6 @@
         "points": 18,
         "avg": 9,
         "form": 6
-      },
-      {
-        "id": 832,
-        "name": "Elijah Just",
-        "nation": "New Zealand",
-        "nationAbbr": "NZL",
-        "group": "G",
-        "pos": "MID",
-        "points": 18,
-        "avg": 9,
-        "form": 6
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55.3,
+        "ownPct": 55.4,
         "points": 27
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 43.3,
+        "ownPct": 42.8,
         "points": 10
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 38.6,
+        "ownPct": 38.9,
         "points": 15
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 37.9,
+        "ownPct": 37.8,
         "points": 17
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 37.2,
+        "ownPct": 37.3,
         "points": 8
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 35.5,
+        "ownPct": 35.3,
         "points": 15
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 31.3,
+        "ownPct": 30.9,
         "points": 10
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 29.8,
+        "ownPct": 29.5,
         "points": 30
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 28.3,
+        "ownPct": 28.8,
         "points": 33
       },
       {
@@ -892,18 +892,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 25.5,
+        "ownPct": 25.4,
         "points": 17
-      },
-      {
-        "id": 45,
-        "name": "Emiliano Martínez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "GK",
-        "ownPct": 24.8,
-        "points": 14
       },
       {
         "id": 2012,
@@ -912,8 +902,18 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 24.6,
+        "ownPct": 25,
         "points": 9
+      },
+      {
+        "id": 45,
+        "name": "Emiliano Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "GK",
+        "ownPct": 24.9,
+        "points": 14
       },
       {
         "id": 796,
@@ -922,7 +922,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 21.9,
+        "ownPct": 22,
         "points": 10
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 20.6,
+        "ownPct": 21.2,
         "points": 20
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 19.8,
+        "ownPct": 19.7,
         "points": 9
       },
       {
@@ -952,18 +952,8 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 18.5,
+        "ownPct": 18.1,
         "points": 7
-      },
-      {
-        "id": 1366,
-        "name": "Raphinha",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 17.9,
-        "points": 3
       },
       {
         "id": 256,
@@ -972,8 +962,18 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 17.7,
-        "points": 11
+        "ownPct": 17.5,
+        "points": 14
+      },
+      {
+        "id": 1366,
+        "name": "Raphinha",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 17.3,
+        "points": 3
       },
       {
         "id": 795,
@@ -982,7 +982,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 15.6,
+        "ownPct": 16.1,
         "points": 9
       },
       {
@@ -992,18 +992,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 15.2,
+        "ownPct": 15.1,
         "points": 15
-      },
-      {
-        "id": 1094,
-        "name": "Mikel Oyarzabal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "FWD",
-        "ownPct": 14.7,
-        "points": 17
       },
       {
         "id": 477,
@@ -1016,14 +1006,14 @@
         "points": 9
       },
       {
-        "id": 528,
-        "name": "Kai Havertz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
         "pos": "FWD",
-        "ownPct": 14.3,
-        "points": 15
+        "ownPct": 14.4,
+        "points": 17
       },
       {
         "id": 1429,
@@ -1036,13 +1026,23 @@
         "points": 9
       },
       {
+        "id": 528,
+        "name": "Kai Havertz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "FWD",
+        "ownPct": 13.9,
+        "points": 15
+      },
+      {
         "id": 1522,
         "name": "Thibaut Courtois",
         "nation": "Belgium",
         "nationAbbr": "BEL",
         "group": "G",
         "pos": "GK",
-        "ownPct": 12.3,
+        "ownPct": 12.4,
         "points": 10
       }
     ]

@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-06-24T20:00:30+00:00",
+  "fetchedAt": "2026-06-24T22:25:07+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -23,17 +23,17 @@
     },
     {
       "rank": 3,
+      "managerName": "Doktor Svin",
+      "teamName": "",
+      "points": 186,
+      "lastRoundPoints": 8
+    },
+    {
+      "rank": 4,
       "managerName": "Anders Zaar",
       "teamName": "",
       "points": 185,
       "lastRoundPoints": 0
-    },
-    {
-      "rank": 4,
-      "managerName": "Doktor Svin",
-      "teamName": "",
-      "points": 180,
-      "lastRoundPoints": 2
     },
     {
       "rank": 5,

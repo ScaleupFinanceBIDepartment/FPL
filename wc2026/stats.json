@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-24T20:00:29+00:00",
+    "generatedAt": "2026-06-24T22:25:07+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 1239,
+    "playerCount": 1240,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 50,
-    "note": "50 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 52,
+    "note": "52 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -23,6 +23,16 @@
         "pos": "FWD",
         "goals": 5,
         "assists": 0
+      },
+      {
+        "id": 173,
+        "name": "Vinícius Júnior",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "goals": 4,
+        "assists": 1
       },
       {
         "id": 500,
@@ -55,6 +65,16 @@
         "assists": 2
       },
       {
+        "id": 1133,
+        "name": "Johan Manzambi",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "goals": 3,
+        "assists": 1
+      },
+      {
         "id": 226,
         "name": "Jonathan David",
         "nation": "Canada",
@@ -63,16 +83,6 @@
         "pos": "FWD",
         "goals": 3,
         "assists": 0
-      },
-      {
-        "id": 173,
-        "name": "Vinícius Júnior",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "MID",
-        "goals": 2,
-        "assists": 1
       },
       {
         "id": 672,
@@ -101,6 +111,16 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "id": 1158,
+        "name": "Rubén Vargas",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
         "goals": 2,
         "assists": 1
       },
@@ -243,26 +263,6 @@
         "pos": "MID",
         "goals": 2,
         "assists": 0
-      },
-      {
-        "id": 1133,
-        "name": "Johan Manzambi",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 1267,
-        "name": "Folarin Balogun",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
       }
     ],
     "topAssists": [
@@ -295,6 +295,26 @@
         "pos": "FWD",
         "assists": 2,
         "goals": 3
+      },
+      {
+        "id": 241,
+        "name": "Nathan Saliba",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "MID",
+        "assists": 2,
+        "goals": 1
+      },
+      {
+        "id": 1149,
+        "name": "Breel Embolo",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "FWD",
+        "assists": 2,
+        "goals": 1
       },
       {
         "id": 1597,
@@ -384,7 +404,17 @@
         "group": "C",
         "pos": "MID",
         "assists": 1,
-        "goals": 2
+        "goals": 4
+      },
+      {
+        "id": 1133,
+        "name": "Johan Manzambi",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 3
       },
       {
         "id": 672,
@@ -417,6 +447,16 @@
         "goals": 2
       },
       {
+        "id": 1158,
+        "name": "Rubén Vargas",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 2
+      },
+      {
         "id": 1223,
         "name": "Maxi Araújo",
         "nation": "Uruguay",
@@ -435,16 +475,6 @@
         "pos": "MID",
         "assists": 1,
         "goals": 2
-      },
-      {
-        "id": 241,
-        "name": "Nathan Saliba",
-        "nation": "Canada",
-        "nationAbbr": "CAN",
-        "group": "B",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 1
       },
       {
         "id": 256,
@@ -485,36 +515,6 @@
         "pos": "DEF",
         "assists": 1,
         "goals": 1
-      },
-      {
-        "id": 597,
-        "name": "Ramin Rezaeian",
-        "nation": "IR Iran",
-        "nationAbbr": "IRN",
-        "group": "G",
-        "pos": "DEF",
-        "assists": 1,
-        "goals": 1
-      },
-      {
-        "id": 671,
-        "name": "Keito Nakamura",
-        "nation": "Japan",
-        "nationAbbr": "JPN",
-        "group": "F",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 1
-      },
-      {
-        "id": 1124,
-        "name": "Viktor Gyökeres",
-        "nation": "Sweden",
-        "nationAbbr": "SWE",
-        "group": "F",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 1
       }
     ],
     "topPoints": [
@@ -530,6 +530,17 @@
         "form": 11
       },
       {
+        "id": 173,
+        "name": "Vinícius Júnior",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "points": 33,
+        "avg": 11,
+        "form": 11
+      },
+      {
         "id": 855,
         "name": "Erling Haaland",
         "nation": "Norway",
@@ -541,6 +552,17 @@
         "form": 10
       },
       {
+        "id": 1133,
+        "name": "Johan Manzambi",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "points": 29,
+        "avg": 9.7,
+        "form": 9.7
+      },
+      {
         "id": 531,
         "name": "Deniz Undav",
         "nation": "Germany",
@@ -549,6 +571,28 @@
         "pos": "FWD",
         "points": 28,
         "avg": 14,
+        "form": 9.3
+      },
+      {
+        "id": 226,
+        "name": "Jonathan David",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "FWD",
+        "points": 28,
+        "avg": 9.3,
+        "form": 9.3
+      },
+      {
+        "id": 1158,
+        "name": "Rubén Vargas",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "points": 28,
+        "avg": 9.3,
         "form": 9.3
       },
       {
@@ -563,15 +607,15 @@
         "form": 9
       },
       {
-        "id": 226,
-        "name": "Jonathan David",
-        "nation": "Canada",
-        "nationAbbr": "CAN",
+        "id": 1149,
+        "name": "Breel Embolo",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
         "group": "B",
         "pos": "FWD",
-        "points": 27,
-        "avg": 9,
-        "form": 9
+        "points": 24,
+        "avg": 8,
+        "form": 8
       },
       {
         "id": 248,
@@ -657,9 +701,9 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "points": 21,
-        "avg": 10.5,
-        "form": 7
+        "points": 22,
+        "avg": 7.3,
+        "form": 7.3
       },
       {
         "id": 804,
@@ -717,11 +761,11 @@
         "form": 7
       },
       {
-        "id": 173,
-        "name": "Vinícius Júnior",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
+        "id": 241,
+        "name": "Nathan Saliba",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
         "pos": "MID",
         "points": 20,
         "avg": 10,
@@ -748,50 +792,6 @@
         "points": 20,
         "avg": 10,
         "form": 6.7
-      },
-      {
-        "id": 1267,
-        "name": "Folarin Balogun",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "FWD",
-        "points": 19,
-        "avg": 9.5,
-        "form": 6.3
-      },
-      {
-        "id": 1158,
-        "name": "Rubén Vargas",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "points": 19,
-        "avg": 6.3,
-        "form": 6.3
-      },
-      {
-        "id": 671,
-        "name": "Keito Nakamura",
-        "nation": "Japan",
-        "nationAbbr": "JPN",
-        "group": "F",
-        "pos": "MID",
-        "points": 18,
-        "avg": 9,
-        "form": 6
-      },
-      {
-        "id": 740,
-        "name": "Johan Vásquez",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "DEF",
-        "points": 18,
-        "avg": 9,
-        "form": 6
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 54.8,
+        "ownPct": 54.9,
         "points": 27
       },
       {
@@ -846,24 +846,24 @@
         "points": 17
       },
       {
-        "id": 517,
-        "name": "Michael Olise",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "ownPct": 33,
-        "points": 15
-      },
-      {
         "id": 38,
         "name": "Lionel Messi",
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 32.9,
+        "ownPct": 33.1,
         "points": 33
+      },
+      {
+        "id": 517,
+        "name": "Michael Olise",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "ownPct": 33.1,
+        "points": 15
       },
       {
         "id": 2012,
@@ -872,8 +872,8 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 29.4,
-        "points": 9
+        "ownPct": 29.3,
+        "points": 10
       },
       {
         "id": 173,
@@ -882,8 +882,8 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 27.2,
-        "points": 20
+        "ownPct": 27.3,
+        "points": 33
       },
       {
         "id": 855,
@@ -892,7 +892,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 26.3,
+        "ownPct": 26.4,
         "points": 30
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 26.3,
+        "ownPct": 26.4,
         "points": 14
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 25.8,
+        "ownPct": 25.7,
         "points": 10
       },
       {
@@ -953,7 +953,7 @@
         "group": "C",
         "pos": "DEF",
         "ownPct": 19.2,
-        "points": 9
+        "points": 10
       },
       {
         "id": 792,
@@ -963,7 +963,7 @@
         "group": "C",
         "pos": "MID",
         "ownPct": 17.3,
-        "points": 21
+        "points": 22
       },
       {
         "id": 477,
@@ -1002,7 +1002,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "MID",
-        "ownPct": 13.6,
+        "ownPct": 13.7,
         "points": 21
       },
       {

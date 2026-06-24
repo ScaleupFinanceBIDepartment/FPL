@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-24T17:13:10+00:00",
+    "generatedAt": "2026-06-24T20:00:29+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1239,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 48,
-    "note": "48 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 50,
+    "note": "50 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -569,9 +569,9 @@
         "nationAbbr": "CAN",
         "group": "B",
         "pos": "FWD",
-        "points": 26,
-        "avg": 13,
-        "form": 8.7
+        "points": 27,
+        "avg": 9,
+        "form": 9
       },
       {
         "id": 248,
@@ -651,17 +651,6 @@
         "form": 7.3
       },
       {
-        "id": 227,
-        "name": "Cyle Larin",
-        "nation": "Canada",
-        "nationAbbr": "CAN",
-        "group": "B",
-        "pos": "FWD",
-        "points": 21,
-        "avg": 10.5,
-        "form": 7
-      },
-      {
         "id": 792,
         "name": "Ismael Saibari",
         "nation": "Morocco",
@@ -717,6 +706,17 @@
         "form": 7
       },
       {
+        "id": 227,
+        "name": "Cyle Larin",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "FWD",
+        "points": 21,
+        "avg": 7,
+        "form": 7
+      },
+      {
         "id": 173,
         "name": "Vinícius Júnior",
         "nation": "Brazil",
@@ -761,6 +761,17 @@
         "form": 6.3
       },
       {
+        "id": 1158,
+        "name": "Rubén Vargas",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "points": 19,
+        "avg": 6.3,
+        "form": 6.3
+      },
+      {
         "id": 671,
         "name": "Keito Nakamura",
         "nation": "Japan",
@@ -781,17 +792,6 @@
         "points": 18,
         "avg": 9,
         "form": 6
-      },
-      {
-        "id": 742,
-        "name": "Jesús Gallardo",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "DEF",
-        "points": 18,
-        "avg": 9,
-        "form": 6
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55,
+        "ownPct": 54.8,
         "points": 27
       },
       {
@@ -812,18 +812,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 40.9,
+        "ownPct": 41.8,
         "points": 15
-      },
-      {
-        "id": 939,
-        "name": "Bruno Fernandes",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "MID",
-        "ownPct": 38.9,
-        "points": 10
       },
       {
         "id": 1092,
@@ -832,8 +822,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 38.4,
+        "ownPct": 38.9,
         "points": 8
+      },
+      {
+        "id": 939,
+        "name": "Bruno Fernandes",
+        "nation": "Portugal",
+        "nationAbbr": "POR",
+        "group": "K",
+        "pos": "MID",
+        "ownPct": 37.5,
+        "points": 10
       },
       {
         "id": 916,
@@ -842,7 +842,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 36.7,
+        "ownPct": 36.2,
         "points": 17
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 33.7,
+        "ownPct": 33,
         "points": 15
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 32.1,
+        "ownPct": 32.9,
         "points": 33
       },
       {
@@ -872,38 +872,8 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 28.1,
+        "ownPct": 29.4,
         "points": 9
-      },
-      {
-        "id": 855,
-        "name": "Erling Haaland",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "FWD",
-        "ownPct": 27.2,
-        "points": 30
-      },
-      {
-        "id": 542,
-        "name": "Joshua Kimmich",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "DEF",
-        "ownPct": 27.1,
-        "points": 10
-      },
-      {
-        "id": 45,
-        "name": "Emiliano Martínez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "GK",
-        "ownPct": 26,
-        "points": 14
       },
       {
         "id": 173,
@@ -912,8 +882,38 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 25.7,
+        "ownPct": 27.2,
         "points": 20
+      },
+      {
+        "id": 855,
+        "name": "Erling Haaland",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "FWD",
+        "ownPct": 26.3,
+        "points": 30
+      },
+      {
+        "id": 45,
+        "name": "Emiliano Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "GK",
+        "ownPct": 26.3,
+        "points": 14
+      },
+      {
+        "id": 542,
+        "name": "Joshua Kimmich",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "DEF",
+        "ownPct": 25.8,
+        "points": 10
       },
       {
         "id": 1088,
@@ -922,7 +922,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 24,
+        "ownPct": 23.3,
         "points": 17
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 22.7,
+        "ownPct": 23,
         "points": 10
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 19.7,
+        "ownPct": 21.1,
         "points": 9
       },
       {
@@ -952,27 +952,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 19.3,
-        "points": 9
-      },
-      {
-        "id": 256,
-        "name": "Luis Díaz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "MID",
-        "ownPct": 15.1,
-        "points": 14
-      },
-      {
-        "id": 477,
-        "name": "Jordan Pickford",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "GK",
-        "ownPct": 15.1,
+        "ownPct": 19.2,
         "points": 9
       },
       {
@@ -982,8 +962,18 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 15,
+        "ownPct": 17.3,
         "points": 21
+      },
+      {
+        "id": 477,
+        "name": "Jordan Pickford",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "GK",
+        "ownPct": 15.3,
+        "points": 9
       },
       {
         "id": 501,
@@ -992,18 +982,28 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 14.9,
+        "ownPct": 14.8,
         "points": 15
       },
       {
-        "id": 543,
-        "name": "Florian Wirtz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
+        "id": 256,
+        "name": "Luis Díaz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
         "pos": "MID",
-        "ownPct": 14.7,
-        "points": 7
+        "ownPct": 14.3,
+        "points": 14
+      },
+      {
+        "id": 2044,
+        "name": "Crysencio Summerville",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "MID",
+        "ownPct": 13.6,
+        "points": 21
       },
       {
         "id": 1429,
@@ -1012,8 +1012,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.7,
+        "ownPct": 13.6,
         "points": 9
+      },
+      {
+        "id": 543,
+        "name": "Florian Wirtz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
+        "ownPct": 13.5,
+        "points": 7
       },
       {
         "id": 491,
@@ -1022,28 +1032,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 13,
+        "ownPct": 13.2,
         "points": 12
       },
       {
-        "id": 1366,
-        "name": "Raphinha",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 12.9,
-        "points": 3
-      },
-      {
-        "id": 1094,
-        "name": "Mikel Oyarzabal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
+        "id": 804,
+        "name": "Cody Gakpo",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
         "pos": "FWD",
         "ownPct": 12.5,
-        "points": 17
+        "points": 21
       }
     ]
   }

@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-25T17:20:47+00:00",
+    "generatedAt": "2026-06-25T20:18:41+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1240,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 54,
-    "note": "54 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 56,
+    "note": "56 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -347,6 +347,16 @@
         "goals": 0
       },
       {
+        "id": 543,
+        "name": "Florian Wirtz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
+        "assists": 2,
+        "goals": 0
+      },
+      {
         "id": 752,
         "name": "Roberto Alvarado",
         "nation": "Mexico",
@@ -505,16 +515,6 @@
         "pos": "MID",
         "assists": 1,
         "goals": 1
-      },
-      {
-        "id": 439,
-        "name": "Mohamed Hany",
-        "nation": "Egypt",
-        "nationAbbr": "EGY",
-        "group": "G",
-        "pos": "DEF",
-        "assists": 1,
-        "goals": 1
       }
     ],
     "topPoints": [
@@ -651,6 +651,17 @@
         "form": 8
       },
       {
+        "id": 1601,
+        "name": "Felix Nmecha",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
+        "points": 24,
+        "avg": 8,
+        "form": 8
+      },
+      {
         "id": 248,
         "name": "Daniel Muñoz",
         "nation": "Colombia",
@@ -690,17 +701,6 @@
         "nationAbbr": "SWE",
         "group": "F",
         "pos": "FWD",
-        "points": 23,
-        "avg": 11.5,
-        "form": 7.7
-      },
-      {
-        "id": 1601,
-        "name": "Felix Nmecha",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "MID",
         "points": 23,
         "avg": 11.5,
         "form": 7.7
@@ -812,7 +812,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 41.6,
+        "ownPct": 41.5,
         "points": 15
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 37.4,
+        "ownPct": 37.3,
         "points": 10
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 33.8,
+        "ownPct": 33.9,
         "points": 33
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 33.4,
+        "ownPct": 33.5,
         "points": 15
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 28.3,
+        "ownPct": 28.4,
         "points": 35
       },
       {
@@ -913,7 +913,7 @@
         "group": "E",
         "pos": "DEF",
         "ownPct": 25.7,
-        "points": 10
+        "points": 11
       },
       {
         "id": 1088,
@@ -922,7 +922,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 23.5,
+        "ownPct": 23.6,
         "points": 17
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 21,
+        "ownPct": 20.9,
         "points": 9
       },
       {
@@ -1023,7 +1023,7 @@
         "group": "E",
         "pos": "MID",
         "ownPct": 13.4,
-        "points": 7
+        "points": 11
       },
       {
         "id": 491,
@@ -1042,7 +1042,7 @@
         "nationAbbr": "BEL",
         "group": "G",
         "pos": "GK",
-        "ownPct": 12.5,
+        "ownPct": 12.4,
         "points": 10
       }
     ]

@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-25T04:19:00+00:00",
+    "generatedAt": "2026-06-25T09:38:19+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1240,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55,
+        "ownPct": 55.1,
         "points": 27
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 41.7,
+        "ownPct": 41.6,
         "points": 15
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 33.4,
+        "ownPct": 33.5,
         "points": 33
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 33.2,
+        "ownPct": 33.3,
         "points": 15
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 29.4,
+        "ownPct": 29.5,
         "points": 20
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 27.8,
+        "ownPct": 28,
         "points": 35
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 26.5,
+        "ownPct": 26.6,
         "points": 30
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 26.5,
+        "ownPct": 26.6,
         "points": 14
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 23.4,
+        "ownPct": 23.5,
         "points": 17
       },
       {
@@ -1022,7 +1022,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 13.5,
+        "ownPct": 13.4,
         "points": 7
       },
       {

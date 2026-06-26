@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-25T22:40:15+00:00",
+    "generatedAt": "2026-06-26T04:25:46+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1240,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 56,
-    "note": "56 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 60,
+    "note": "60 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -101,6 +101,16 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "id": 807,
+        "name": "Brian Brobbey",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "FWD",
         "goals": 3,
         "assists": 0
       },
@@ -245,16 +255,6 @@
         "assists": 0
       },
       {
-        "id": 807,
-        "name": "Brian Brobbey",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
         "id": 832,
         "name": "Elijah Just",
         "nation": "New Zealand",
@@ -313,6 +313,16 @@
         "nationAbbr": "CAN",
         "group": "B",
         "pos": "MID",
+        "assists": 2,
+        "goals": 1
+      },
+      {
+        "id": 1124,
+        "name": "Viktor Gyökeres",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "FWD",
         "assists": 2,
         "goals": 1
       },
@@ -407,6 +417,16 @@
         "goals": 0
       },
       {
+        "id": 1555,
+        "name": "Hannibal Mejbri",
+        "nation": "Tunisia",
+        "nationAbbr": "TUN",
+        "group": "F",
+        "pos": "MID",
+        "assists": 2,
+        "goals": 0
+      },
+      {
         "id": 1684,
         "name": "Martin Ødegaard",
         "nation": "Norway",
@@ -495,26 +515,6 @@
         "pos": "MID",
         "assists": 1,
         "goals": 2
-      },
-      {
-        "id": 2044,
-        "name": "Crysencio Summerville",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 2
-      },
-      {
-        "id": 256,
-        "name": "Luis Díaz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 1
       }
     ],
     "topPoints": [
@@ -629,6 +629,28 @@
         "form": 8.7
       },
       {
+        "id": 1520,
+        "name": "Alexander Isak",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "FWD",
+        "points": 26,
+        "avg": 8.7,
+        "form": 8.7
+      },
+      {
+        "id": 807,
+        "name": "Brian Brobbey",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "FWD",
+        "points": 25,
+        "avg": 8.3,
+        "form": 8.3
+      },
+      {
         "id": 1601,
         "name": "Felix Nmecha",
         "nation": "Germany",
@@ -640,12 +662,34 @@
         "form": 8.3
       },
       {
+        "id": 682,
+        "name": "Daichi Kamada",
+        "nation": "Japan",
+        "nationAbbr": "JPN",
+        "group": "F",
+        "pos": "MID",
+        "points": 24,
+        "avg": 8,
+        "form": 8
+      },
+      {
         "id": 1149,
         "name": "Breel Embolo",
         "nation": "Switzerland",
         "nationAbbr": "SUI",
         "group": "B",
         "pos": "FWD",
+        "points": 24,
+        "avg": 8,
+        "form": 8
+      },
+      {
+        "id": 1264,
+        "name": "Alexander Freeman",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "DEF",
         "points": 24,
         "avg": 8,
         "form": 8
@@ -684,25 +728,14 @@
         "form": 7.7
       },
       {
-        "id": 1264,
-        "name": "Alexander Freeman",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "DEF",
-        "points": 23,
-        "avg": 11.5,
-        "form": 7.7
-      },
-      {
-        "id": 1520,
-        "name": "Alexander Isak",
-        "nation": "Sweden",
-        "nationAbbr": "SWE",
+        "id": 804,
+        "name": "Cody Gakpo",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
         "group": "F",
         "pos": "FWD",
         "points": 23,
-        "avg": 11.5,
+        "avg": 7.7,
         "form": 7.7
       },
       {
@@ -717,14 +750,36 @@
         "form": 7.3
       },
       {
-        "id": 682,
-        "name": "Daichi Kamada",
+        "id": 672,
+        "name": "Ayase Ueda",
         "nation": "Japan",
         "nationAbbr": "JPN",
         "group": "F",
+        "pos": "FWD",
+        "points": 22,
+        "avg": 7.3,
+        "form": 7.3
+      },
+      {
+        "id": 2031,
+        "name": "Sergiño Dest",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "DEF",
+        "points": 22,
+        "avg": 7.3,
+        "form": 7.3
+      },
+      {
+        "id": 2044,
+        "name": "Crysencio Summerville",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
         "pos": "MID",
         "points": 22,
-        "avg": 11,
+        "avg": 7.3,
         "form": 7.3
       },
       {
@@ -737,61 +792,6 @@
         "points": 21,
         "avg": 10.5,
         "form": 7
-      },
-      {
-        "id": 804,
-        "name": "Cody Gakpo",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "FWD",
-        "points": 21,
-        "avg": 10.5,
-        "form": 7
-      },
-      {
-        "id": 1086,
-        "name": "Aymeric Laporte",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "points": 21,
-        "avg": 10.5,
-        "form": 7
-      },
-      {
-        "id": 2031,
-        "name": "Sergiño Dest",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "DEF",
-        "points": 21,
-        "avg": 10.5,
-        "form": 7
-      },
-      {
-        "id": 2044,
-        "name": "Crysencio Summerville",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "MID",
-        "points": 21,
-        "avg": 10.5,
-        "form": 7
-      },
-      {
-        "id": 227,
-        "name": "Cyle Larin",
-        "nation": "Canada",
-        "nationAbbr": "CAN",
-        "group": "B",
-        "pos": "FWD",
-        "points": 21,
-        "avg": 7,
-        "form": 7
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55.3,
+        "ownPct": 55.4,
         "points": 27
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 36.4,
+        "ownPct": 36.5,
         "points": 17
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 34,
+        "ownPct": 34.1,
         "points": 33
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 33.5,
+        "ownPct": 33.6,
         "points": 15
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 28.6,
+        "ownPct": 28.8,
         "points": 35
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 26.7,
+        "ownPct": 26.8,
         "points": 30
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 26.7,
+        "ownPct": 26.8,
         "points": 14
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 25.7,
+        "ownPct": 25.6,
         "points": 12
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 23.6,
+        "ownPct": 23.7,
         "points": 17
       },
       {
@@ -933,7 +933,7 @@
         "group": "F",
         "pos": "DEF",
         "ownPct": 22.9,
-        "points": 10
+        "points": 15
       },
       {
         "id": 795,
@@ -943,7 +943,7 @@
         "group": "F",
         "pos": "DEF",
         "ownPct": 20.9,
-        "points": 9
+        "points": 14
       },
       {
         "id": 164,
@@ -1002,8 +1002,8 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "MID",
-        "ownPct": 13.7,
-        "points": 21
+        "ownPct": 13.6,
+        "points": 22
       },
       {
         "id": 1429,
@@ -1012,7 +1012,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.6,
+        "ownPct": 13.5,
         "points": 9
       },
       {

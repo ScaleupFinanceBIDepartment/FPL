@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-26T09:47:26+00:00",
+    "generatedAt": "2026-06-26T14:42:14+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1089,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55.5,
+        "ownPct": 55.6,
         "points": 27
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 36.5,
+        "ownPct": 36.6,
         "points": 17
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 34.3,
+        "ownPct": 34.4,
         "points": 33
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 33.6,
+        "ownPct": 33.8,
         "points": 15
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 29,
+        "ownPct": 29.2,
         "points": 35
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 26.8,
+        "ownPct": 26.9,
         "points": 14
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 23.7,
+        "ownPct": 23.8,
         "points": 17
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 20.9,
+        "ownPct": 20.8,
         "points": 14
       },
       {
@@ -1002,7 +1002,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "MID",
-        "ownPct": 13.6,
+        "ownPct": 13.5,
         "points": 22
       },
       {

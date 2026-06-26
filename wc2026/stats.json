@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-26T17:05:13+00:00",
+    "generatedAt": "2026-06-26T20:03:46+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1089,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 60,
-    "note": "60 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 62,
+    "note": "62 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -25,6 +25,16 @@
         "assists": 0
       },
       {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "goals": 4,
+        "assists": 2
+      },
+      {
         "id": 173,
         "name": "Vinícius Júnior",
         "nation": "Brazil",
@@ -35,14 +45,14 @@
         "assists": 1
       },
       {
-        "id": 500,
-        "name": "Kylian Mbappé",
+        "id": 501,
+        "name": "Ousmane Dembélé",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
-        "pos": "FWD",
+        "pos": "MID",
         "goals": 4,
-        "assists": 0
+        "assists": 1
       },
       {
         "id": 855,
@@ -253,16 +263,6 @@
         "pos": "FWD",
         "goals": 2,
         "assists": 0
-      },
-      {
-        "id": 832,
-        "name": "Elijah Just",
-        "nation": "New Zealand",
-        "nationAbbr": "NZL",
-        "group": "G",
-        "pos": "MID",
-        "goals": 2,
-        "assists": 0
       }
     ],
     "topAssists": [
@@ -295,6 +295,16 @@
         "pos": "MID",
         "assists": 3,
         "goals": 0
+      },
+      {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "assists": 2,
+        "goals": 4
       },
       {
         "id": 531,
@@ -447,6 +457,16 @@
         "goals": 4
       },
       {
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 4
+      },
+      {
         "id": 1133,
         "name": "Johan Manzambi",
         "nation": "Switzerland",
@@ -495,26 +515,6 @@
         "pos": "MID",
         "assists": 1,
         "goals": 2
-      },
-      {
-        "id": 1223,
-        "name": "Maxi Araújo",
-        "nation": "Uruguay",
-        "nationAbbr": "URU",
-        "group": "H",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 2
-      },
-      {
-        "id": 2044,
-        "name": "Crysencio Summerville",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 2
       }
     ],
     "topPoints": [
@@ -528,6 +528,28 @@
         "points": 35,
         "avg": 11.7,
         "form": 11.7
+      },
+      {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "points": 35,
+        "avg": 11.7,
+        "form": 11.7
+      },
+      {
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "points": 34,
+        "avg": 11.3,
+        "form": 11.3
       },
       {
         "id": 38,
@@ -605,17 +627,6 @@
         "points": 28,
         "avg": 9.3,
         "form": 9.3
-      },
-      {
-        "id": 500,
-        "name": "Kylian Mbappé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "FWD",
-        "points": 27,
-        "avg": 13.5,
-        "form": 9
       },
       {
         "id": 174,
@@ -781,17 +792,6 @@
         "points": 22,
         "avg": 7.3,
         "form": 7.3
-      },
-      {
-        "id": 743,
-        "name": "Jorge Sánchez",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "DEF",
-        "points": 21,
-        "avg": 10.5,
-        "form": 7
       }
     ],
     "mostSelected": [
@@ -802,8 +802,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55.6,
-        "points": 27
+        "ownPct": 55.7,
+        "points": 35
       },
       {
         "id": 468,
@@ -822,7 +822,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 39.1,
+        "ownPct": 39.2,
         "points": 8
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 34.5,
+        "ownPct": 34.6,
         "points": 33
       },
       {
@@ -863,7 +863,7 @@
         "group": "I",
         "pos": "MID",
         "ownPct": 33.8,
-        "points": 15
+        "points": 16
       },
       {
         "id": 2012,
@@ -983,7 +983,7 @@
         "group": "I",
         "pos": "MID",
         "ownPct": 15.1,
-        "points": 15
+        "points": 34
       },
       {
         "id": 256,

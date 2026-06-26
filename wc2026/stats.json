@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-26T20:03:46+00:00",
+    "generatedAt": "2026-06-26T22:20:58+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 1089,
+    "playerCount": 1063,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 62,
     "note": "62 kampe spillet — mål, assists og point er live."
@@ -73,6 +73,16 @@
         "pos": "FWD",
         "goals": 3,
         "assists": 2
+      },
+      {
+        "id": 1043,
+        "name": "Ismaïla Sarr",
+        "nation": "Senegal",
+        "nationAbbr": "SEN",
+        "group": "I",
+        "pos": "FWD",
+        "goals": 3,
+        "assists": 1
       },
       {
         "id": 1133,
@@ -141,6 +151,16 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "FWD",
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "id": 1032,
+        "name": "Pape Gueye",
+        "nation": "Senegal",
+        "nationAbbr": "SEN",
+        "group": "I",
+        "pos": "MID",
         "goals": 2,
         "assists": 1
       },
@@ -235,32 +255,12 @@
         "assists": 0
       },
       {
-        "id": 646,
-        "name": "Aymen Hussein",
-        "nation": "Iraq",
-        "nationAbbr": "IRQ",
-        "group": "I",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
         "id": 682,
         "name": "Daichi Kamada",
         "nation": "Japan",
         "nationAbbr": "JPN",
         "group": "F",
         "pos": "MID",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 750,
-        "name": "Julián Quiñones",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "FWD",
         "goals": 2,
         "assists": 0
       }
@@ -323,6 +323,16 @@
         "nationAbbr": "CAN",
         "group": "B",
         "pos": "MID",
+        "assists": 2,
+        "goals": 1
+      },
+      {
+        "id": 1042,
+        "name": "Iliman Ndiaye",
+        "nation": "Senegal",
+        "nationAbbr": "SEN",
+        "group": "I",
+        "pos": "FWD",
         "assists": 2,
         "goals": 1
       },
@@ -467,6 +477,16 @@
         "goals": 4
       },
       {
+        "id": 1043,
+        "name": "Ismaïla Sarr",
+        "nation": "Senegal",
+        "nationAbbr": "SEN",
+        "group": "I",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 3
+      },
+      {
         "id": 1133,
         "name": "Johan Manzambi",
         "nation": "Switzerland",
@@ -495,29 +515,20 @@
         "pos": "FWD",
         "assists": 1,
         "goals": 2
-      },
-      {
-        "id": 1094,
-        "name": "Mikel Oyarzabal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 2
-      },
-      {
-        "id": 1158,
-        "name": "Rubén Vargas",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 2
       }
     ],
     "topPoints": [
+      {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "points": 36,
+        "avg": 12,
+        "form": 12
+      },
       {
         "id": 173,
         "name": "Vinícius Júnior",
@@ -530,26 +541,15 @@
         "form": 11.7
       },
       {
-        "id": 500,
-        "name": "Kylian Mbappé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "FWD",
-        "points": 35,
-        "avg": 11.7,
-        "form": 11.7
-      },
-      {
         "id": 501,
         "name": "Ousmane Dembélé",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "points": 34,
-        "avg": 11.3,
-        "form": 11.3
+        "points": 35,
+        "avg": 11.7,
+        "form": 11.7
       },
       {
         "id": 38,
@@ -571,6 +571,17 @@
         "pos": "FWD",
         "points": 30,
         "avg": 15,
+        "form": 10
+      },
+      {
+        "id": 1043,
+        "name": "Ismaïla Sarr",
+        "nation": "Senegal",
+        "nationAbbr": "SEN",
+        "group": "I",
+        "pos": "FWD",
+        "points": 30,
+        "avg": 10,
         "form": 10
       },
       {
@@ -781,17 +792,6 @@
         "points": 22,
         "avg": 7.3,
         "form": 7.3
-      },
-      {
-        "id": 2044,
-        "name": "Crysencio Summerville",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "MID",
-        "points": 22,
-        "avg": 7.3,
-        "form": 7.3
       }
     ],
     "mostSelected": [
@@ -802,8 +802,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55.7,
-        "points": 35
+        "ownPct": 55.9,
+        "points": 36
       },
       {
         "id": 468,
@@ -812,7 +812,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 41.4,
+        "ownPct": 41.3,
         "points": 15
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 36.6,
+        "ownPct": 36.7,
         "points": 17
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 34.6,
+        "ownPct": 34.8,
         "points": 33
       },
       {
@@ -862,8 +862,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 33.8,
-        "points": 16
+        "ownPct": 33.7,
+        "points": 17
+      },
+      {
+        "id": 173,
+        "name": "Vinícius Júnior",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 29.7,
+        "points": 35
       },
       {
         "id": 2012,
@@ -874,16 +884,6 @@
         "pos": "DEF",
         "ownPct": 29.6,
         "points": 20
-      },
-      {
-        "id": 173,
-        "name": "Vinícius Júnior",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 29.3,
-        "points": 35
       },
       {
         "id": 855,
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 26.9,
+        "ownPct": 27,
         "points": 14
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 23.8,
+        "ownPct": 23.9,
         "points": 17
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 20.8,
+        "ownPct": 20.7,
         "points": 14
       },
       {
@@ -962,8 +962,18 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 17.3,
+        "ownPct": 17.2,
         "points": 29
+      },
+      {
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "ownPct": 15.7,
+        "points": 35
       },
       {
         "id": 477,
@@ -976,16 +986,6 @@
         "points": 9
       },
       {
-        "id": 501,
-        "name": "Ousmane Dembélé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "ownPct": 15.1,
-        "points": 34
-      },
-      {
         "id": 256,
         "name": "Luis Díaz",
         "nation": "Colombia",
@@ -994,16 +994,6 @@
         "pos": "MID",
         "ownPct": 14.3,
         "points": 14
-      },
-      {
-        "id": 2044,
-        "name": "Crysencio Summerville",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "MID",
-        "ownPct": 13.5,
-        "points": 22
       },
       {
         "id": 1429,
@@ -1016,14 +1006,14 @@
         "points": 9
       },
       {
-        "id": 543,
-        "name": "Florian Wirtz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
+        "id": 2044,
+        "name": "Crysencio Summerville",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
         "pos": "MID",
         "ownPct": 13.4,
-        "points": 12
+        "points": 22
       },
       {
         "id": 491,
@@ -1031,6 +1021,16 @@
         "nation": "England",
         "nationAbbr": "ENG",
         "group": "L",
+        "pos": "MID",
+        "ownPct": 13.3,
+        "points": 12
+      },
+      {
+        "id": 543,
+        "name": "Florian Wirtz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
         "pos": "MID",
         "ownPct": 13.3,
         "points": 12

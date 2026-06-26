@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-26T04:25:46+00:00",
+    "generatedAt": "2026-06-26T09:47:26+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 1240,
+    "playerCount": 1089,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 60,
     "note": "60 kampe spillet — mål, assists og point er live."
@@ -417,16 +417,6 @@
         "goals": 0
       },
       {
-        "id": 1555,
-        "name": "Hannibal Mejbri",
-        "nation": "Tunisia",
-        "nationAbbr": "TUN",
-        "group": "F",
-        "pos": "MID",
-        "assists": 2,
-        "goals": 0
-      },
-      {
         "id": 1684,
         "name": "Martin Ødegaard",
         "nation": "Norway",
@@ -512,6 +502,16 @@
         "nation": "Uruguay",
         "nationAbbr": "URU",
         "group": "H",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 2
+      },
+      {
+        "id": 2044,
+        "name": "Crysencio Summerville",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
         "pos": "MID",
         "assists": 1,
         "goals": 2
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55.4,
+        "ownPct": 55.5,
         "points": 27
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 41.5,
+        "ownPct": 41.4,
         "points": 15
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 39,
+        "ownPct": 39.1,
         "points": 8
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 34.1,
+        "ownPct": 34.3,
         "points": 33
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 28.8,
+        "ownPct": 29,
         "points": 35
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 26.8,
+        "ownPct": 26.9,
         "points": 30
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 17.4,
+        "ownPct": 17.3,
         "points": 29
       },
       {

@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-26T22:20:58+00:00",
+    "generatedAt": "2026-06-27T04:11:41+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 1063,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 62,
-    "note": "62 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 66,
+    "note": "66 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -135,6 +135,16 @@
         "assists": 0
       },
       {
+        "id": 597,
+        "name": "Ramin Rezaeian",
+        "nation": "IR Iran",
+        "nationAbbr": "IRN",
+        "group": "G",
+        "pos": "DEF",
+        "goals": 2,
+        "assists": 1
+      },
+      {
         "id": 672,
         "name": "Ayase Ueda",
         "nation": "Japan",
@@ -251,16 +261,6 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 682,
-        "name": "Daichi Kamada",
-        "nation": "Japan",
-        "nationAbbr": "JPN",
-        "group": "F",
-        "pos": "MID",
         "goals": 2,
         "assists": 0
       }
@@ -497,20 +497,20 @@
         "goals": 3
       },
       {
-        "id": 672,
-        "name": "Ayase Ueda",
-        "nation": "Japan",
-        "nationAbbr": "JPN",
-        "group": "F",
-        "pos": "FWD",
+        "id": 597,
+        "name": "Ramin Rezaeian",
+        "nation": "IR Iran",
+        "nationAbbr": "IRN",
+        "group": "G",
+        "pos": "DEF",
         "assists": 1,
         "goals": 2
       },
       {
-        "id": 804,
-        "name": "Cody Gakpo",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
+        "id": 672,
+        "name": "Ayase Ueda",
+        "nation": "Japan",
+        "nationAbbr": "JPN",
         "group": "F",
         "pos": "FWD",
         "assists": 1,
@@ -561,6 +561,17 @@
         "points": 33,
         "avg": 16.5,
         "form": 11
+      },
+      {
+        "id": 597,
+        "name": "Ramin Rezaeian",
+        "nation": "IR Iran",
+        "nationAbbr": "IRN",
+        "group": "G",
+        "pos": "DEF",
+        "points": 32,
+        "avg": 10.7,
+        "form": 10.7
       },
       {
         "id": 855,
@@ -629,6 +640,17 @@
         "form": 9.3
       },
       {
+        "id": 1086,
+        "name": "Aymeric Laporte",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "points": 28,
+        "avg": 9.3,
+        "form": 9.3
+      },
+      {
         "id": 1158,
         "name": "Rubén Vargas",
         "nation": "Switzerland",
@@ -673,6 +695,17 @@
         "form": 8.3
       },
       {
+        "id": 1223,
+        "name": "Maxi Araújo",
+        "nation": "Uruguay",
+        "nationAbbr": "URU",
+        "group": "H",
+        "pos": "MID",
+        "points": 25,
+        "avg": 8.3,
+        "form": 8.3
+      },
+      {
         "id": 1601,
         "name": "Felix Nmecha",
         "nation": "Germany",
@@ -690,6 +723,17 @@
         "nationAbbr": "JPN",
         "group": "F",
         "pos": "MID",
+        "points": 24,
+        "avg": 8,
+        "form": 8
+      },
+      {
+        "id": 1088,
+        "name": "Marc Cucurella",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
         "points": 24,
         "avg": 8,
         "form": 8
@@ -739,17 +783,6 @@
         "form": 7.7
       },
       {
-        "id": 1223,
-        "name": "Maxi Araújo",
-        "nation": "Uruguay",
-        "nationAbbr": "URU",
-        "group": "H",
-        "pos": "MID",
-        "points": 23,
-        "avg": 11.5,
-        "form": 7.7
-      },
-      {
         "id": 804,
         "name": "Cody Gakpo",
         "nation": "Netherlands",
@@ -759,39 +792,6 @@
         "points": 23,
         "avg": 7.7,
         "form": 7.7
-      },
-      {
-        "id": 597,
-        "name": "Ramin Rezaeian",
-        "nation": "IR Iran",
-        "nationAbbr": "IRN",
-        "group": "G",
-        "pos": "DEF",
-        "points": 22,
-        "avg": 11,
-        "form": 7.3
-      },
-      {
-        "id": 672,
-        "name": "Ayase Ueda",
-        "nation": "Japan",
-        "nationAbbr": "JPN",
-        "group": "F",
-        "pos": "FWD",
-        "points": 22,
-        "avg": 7.3,
-        "form": 7.3
-      },
-      {
-        "id": 2031,
-        "name": "Sergiño Dest",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "DEF",
-        "points": 22,
-        "avg": 7.3,
-        "form": 7.3
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 55.9,
+        "ownPct": 56,
         "points": 36
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 41.3,
+        "ownPct": 41.2,
         "points": 15
       },
       {
@@ -823,7 +823,7 @@
         "group": "H",
         "pos": "MID",
         "ownPct": 39.2,
-        "points": 8
+        "points": 11
       },
       {
         "id": 939,
@@ -832,7 +832,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 37.2,
+        "ownPct": 37.1,
         "points": 10
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 34.8,
+        "ownPct": 35,
         "points": 33
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 29.7,
+        "ownPct": 29.9,
         "points": 35
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 27,
+        "ownPct": 27.1,
         "points": 30
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 27,
+        "ownPct": 27.1,
         "points": 14
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "DEF",
-        "ownPct": 25.6,
+        "ownPct": 25.5,
         "points": 12
       },
       {
@@ -922,8 +922,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 23.9,
-        "points": 17
+        "ownPct": 24,
+        "points": 24
       },
       {
         "id": 796,
@@ -942,7 +942,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 20.7,
+        "ownPct": 20.6,
         "points": 14
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 15.7,
+        "ownPct": 16.1,
         "points": 35
       },
       {
@@ -1012,7 +1012,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "MID",
-        "ownPct": 13.4,
+        "ownPct": 13.3,
         "points": 22
       },
       {
@@ -1042,8 +1042,8 @@
         "nationAbbr": "BEL",
         "group": "G",
         "pos": "GK",
-        "ownPct": 12.4,
-        "points": 10
+        "ownPct": 12.3,
+        "points": 11
       }
     ]
   }

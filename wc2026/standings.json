@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-06-27T19:41:27+00:00",
+  "fetchedAt": "2026-06-27T22:12:41+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -23,17 +23,17 @@
     },
     {
       "rank": 3,
+      "managerName": "HC WIN",
+      "teamName": "",
+      "points": 237,
+      "lastRoundPoints": 45
+    },
+    {
+      "rank": 4,
       "managerName": "Anders Zaar",
       "teamName": "",
       "points": 236,
       "lastRoundPoints": 51
-    },
-    {
-      "rank": 4,
-      "managerName": "HC WIN",
-      "teamName": "",
-      "points": 233,
-      "lastRoundPoints": 41
     },
     {
       "rank": 5,
@@ -53,8 +53,8 @@
       "rank": 7,
       "managerName": "Don-O",
       "teamName": "",
-      "points": 204,
-      "lastRoundPoints": 46
+      "points": 206,
+      "lastRoundPoints": 48
     },
     {
       "rank": 8,
@@ -67,43 +67,43 @@
       "rank": 9,
       "managerName": "HvemkanAnnika",
       "teamName": "",
-      "points": 200,
-      "lastRoundPoints": 33
+      "points": 201,
+      "lastRoundPoints": 34
     },
     {
       "rank": 10,
+      "managerName": "Testtesttest",
+      "teamName": "",
+      "points": 178,
+      "lastRoundPoints": 30
+    },
+    {
+      "rank": 11,
       "managerName": "irs97",
       "teamName": "",
       "points": 177,
       "lastRoundPoints": 14
     },
     {
-      "rank": 11,
+      "rank": 12,
       "managerName": "Hedge Fund Hooligans",
       "teamName": "",
       "points": 177,
       "lastRoundPoints": 7
     },
     {
-      "rank": 12,
-      "managerName": "Testtesttest",
-      "teamName": "",
-      "points": 176,
-      "lastRoundPoints": 28
-    },
-    {
       "rank": 13,
       "managerName": "rehpotsirhc",
       "teamName": "",
-      "points": 166,
-      "lastRoundPoints": 28
+      "points": 168,
+      "lastRoundPoints": 30
     },
     {
       "rank": 14,
       "managerName": "Lukasworm",
       "teamName": "",
-      "points": 165,
-      "lastRoundPoints": 28
+      "points": 167,
+      "lastRoundPoints": 30
     },
     {
       "rank": 15,
@@ -116,8 +116,8 @@
       "rank": 16,
       "managerName": "Carroev",
       "teamName": "",
-      "points": 90,
-      "lastRoundPoints": 23
+      "points": 92,
+      "lastRoundPoints": 25
     }
   ]
 }

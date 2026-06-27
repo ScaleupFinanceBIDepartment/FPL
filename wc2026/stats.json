@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-27T14:02:03+00:00",
+    "generatedAt": "2026-06-27T16:16:09+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 984,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 56.5,
+        "ownPct": 56.6,
         "points": 36
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 41.1,
+        "ownPct": 41,
         "points": 15
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 35.8,
+        "ownPct": 36.1,
         "points": 33
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 33.9,
+        "ownPct": 34,
         "points": 17
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 30.5,
+        "ownPct": 30.7,
         "points": 35
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 27.5,
+        "ownPct": 27.7,
         "points": 14
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 27.3,
+        "ownPct": 27.4,
         "points": 30
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 24.5,
+        "ownPct": 24.6,
         "points": 24
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 20.3,
+        "ownPct": 20.1,
         "points": 14
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 17.1,
+        "ownPct": 17.4,
         "points": 35
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 16.8,
+        "ownPct": 16.7,
         "points": 29
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 14.3,
+        "ownPct": 14.2,
         "points": 14
       },
       {
@@ -1032,7 +1032,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "MID",
-        "ownPct": 13,
+        "ownPct": 12.8,
         "points": 22
       },
       {

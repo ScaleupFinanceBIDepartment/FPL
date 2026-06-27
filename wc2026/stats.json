@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-27T08:47:59+00:00",
+    "generatedAt": "2026-06-27T11:02:11+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 984,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 56.2,
+        "ownPct": 56.3,
         "points": 36
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 35.3,
+        "ownPct": 35.6,
         "points": 33
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 30.1,
+        "ownPct": 30.3,
         "points": 35
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 29.5,
+        "ownPct": 29.4,
         "points": 20
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 27.3,
+        "ownPct": 27.4,
         "points": 14
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 24.2,
+        "ownPct": 24.3,
         "points": 24
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 20.5,
+        "ownPct": 20.4,
         "points": 14
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 17.1,
+        "ownPct": 17,
         "points": 29
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 16.5,
+        "ownPct": 16.8,
         "points": 35
       },
       {
@@ -996,6 +996,16 @@
         "points": 14
       },
       {
+        "id": 543,
+        "name": "Florian Wirtz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
+        "ownPct": 13.4,
+        "points": 12
+      },
+      {
         "id": 1429,
         "name": "William Saliba",
         "nation": "France",
@@ -1016,23 +1026,13 @@
         "points": 12
       },
       {
-        "id": 543,
-        "name": "Florian Wirtz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "MID",
-        "ownPct": 13.3,
-        "points": 12
-      },
-      {
         "id": 2044,
         "name": "Crysencio Summerville",
         "nation": "Netherlands",
         "nationAbbr": "NED",
         "group": "F",
         "pos": "MID",
-        "ownPct": 13.2,
+        "ownPct": 13.1,
         "points": 22
       },
       {

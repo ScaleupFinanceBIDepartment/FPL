@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-27T16:16:09+00:00",
+    "generatedAt": "2026-06-27T19:41:27+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 984,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 56.6,
+        "ownPct": 56.8,
         "points": 36
       },
       {
@@ -826,24 +826,24 @@
         "points": 11
       },
       {
-        "id": 939,
-        "name": "Bruno Fernandes",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "MID",
-        "ownPct": 37,
-        "points": 10
-      },
-      {
         "id": 916,
         "name": "Nuno Mendes",
         "nation": "Portugal",
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 36.8,
+        "ownPct": 36.9,
         "points": 17
+      },
+      {
+        "id": 939,
+        "name": "Bruno Fernandes",
+        "nation": "Portugal",
+        "nationAbbr": "POR",
+        "group": "K",
+        "pos": "MID",
+        "ownPct": 36.9,
+        "points": 10
       },
       {
         "id": 38,
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 36.1,
+        "ownPct": 36.3,
         "points": 33
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 30.7,
+        "ownPct": 30.8,
         "points": 35
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 29.3,
+        "ownPct": 29.2,
         "points": 20
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 27.7,
+        "ownPct": 27.8,
         "points": 14
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 27.4,
+        "ownPct": 27.5,
         "points": 30
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 24.6,
+        "ownPct": 24.8,
         "points": 24
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 20.1,
+        "ownPct": 20,
         "points": 14
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 17.4,
+        "ownPct": 17.7,
         "points": 35
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 16.7,
+        "ownPct": 16.6,
         "points": 29
       },
       {
@@ -1006,16 +1006,6 @@
         "points": 12
       },
       {
-        "id": 1429,
-        "name": "William Saliba",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 13.4,
-        "points": 9
-      },
-      {
         "id": 491,
         "name": "Jude Bellingham",
         "nation": "England",
@@ -1026,13 +1016,23 @@
         "points": 12
       },
       {
+        "id": 1429,
+        "name": "William Saliba",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 13.3,
+        "points": 9
+      },
+      {
         "id": 2044,
         "name": "Crysencio Summerville",
         "nation": "Netherlands",
         "nationAbbr": "NED",
         "group": "F",
         "pos": "MID",
-        "ownPct": 12.8,
+        "ownPct": 12.7,
         "points": 22
       },
       {

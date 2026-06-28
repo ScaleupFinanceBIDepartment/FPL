@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-27T22:12:41+00:00",
+    "generatedAt": "2026-06-28T04:45:41+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 984,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 68,
-    "note": "68 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 72,
+    "note": "72 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -21,7 +21,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "goals": 5,
+        "goals": 6,
         "assists": 0
       },
       {
@@ -115,6 +115,26 @@
         "assists": 0
       },
       {
+        "id": 281,
+        "name": "Yoane Wissa",
+        "nation": "Congo DR",
+        "nationAbbr": "COD",
+        "group": "K",
+        "pos": "FWD",
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "id": 468,
+        "name": "Harry Kane",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "FWD",
+        "goals": 3,
+        "assists": 0
+      },
+      {
         "id": 792,
         "name": "Ismael Saibari",
         "nation": "Morocco",
@@ -133,6 +153,26 @@
         "pos": "FWD",
         "goals": 3,
         "assists": 0
+      },
+      {
+        "id": 11,
+        "name": "Riyad Mahrez",
+        "nation": "Algeria",
+        "nationAbbr": "ALG",
+        "group": "J",
+        "pos": "MID",
+        "goals": 2,
+        "assists": 1
+      },
+      {
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "goals": 2,
+        "assists": 1
       },
       {
         "id": 597,
@@ -205,62 +245,22 @@
         "assists": 1
       },
       {
+        "id": 95,
+        "name": "Marko Arnautovic",
+        "nation": "Austria",
+        "nationAbbr": "AUT",
+        "group": "J",
+        "pos": "FWD",
+        "goals": 2,
+        "assists": 0
+      },
+      {
         "id": 227,
         "name": "Cyle Larin",
         "nation": "Canada",
         "nationAbbr": "CAN",
         "group": "B",
         "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 248,
-        "name": "Daniel Muñoz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "DEF",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 308,
-        "name": "Nicolas Pépé",
-        "nation": "Côte d'Ivoire",
-        "nationAbbr": "CIV",
-        "group": "E",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 468,
-        "name": "Harry Kane",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 528,
-        "name": "Kai Havertz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 682,
-        "name": "Daichi Kamada",
-        "nation": "Japan",
-        "nationAbbr": "JPN",
-        "group": "F",
-        "pos": "MID",
         "goals": 2,
         "assists": 0
       }
@@ -365,6 +365,26 @@
         "pos": "MID",
         "assists": 2,
         "goals": 1
+      },
+      {
+        "id": 26,
+        "name": "Houssem Aouar",
+        "nation": "Algeria",
+        "nationAbbr": "ALG",
+        "group": "J",
+        "pos": "MID",
+        "assists": 2,
+        "goals": 0
+      },
+      {
+        "id": 469,
+        "name": "Bukayo Saka",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "assists": 2,
+        "goals": 0
       },
       {
         "id": 542,
@@ -487,37 +507,28 @@
         "goals": 3
       },
       {
-        "id": 597,
-        "name": "Ramin Rezaeian",
-        "nation": "IR Iran",
-        "nationAbbr": "IRN",
-        "group": "G",
-        "pos": "DEF",
-        "assists": 1,
-        "goals": 2
-      },
-      {
-        "id": 672,
-        "name": "Ayase Ueda",
-        "nation": "Japan",
-        "nationAbbr": "JPN",
-        "group": "F",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 2
-      },
-      {
-        "id": 804,
-        "name": "Cody Gakpo",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "FWD",
+        "id": 11,
+        "name": "Riyad Mahrez",
+        "nation": "Algeria",
+        "nationAbbr": "ALG",
+        "group": "J",
+        "pos": "MID",
         "assists": 1,
         "goals": 2
       }
     ],
     "topPoints": [
+      {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "points": 40,
+        "avg": 13.3,
+        "form": 13.3
+      },
       {
         "id": 500,
         "name": "Kylian Mbappé",
@@ -550,17 +561,6 @@
         "points": 35,
         "avg": 11.7,
         "form": 11.7
-      },
-      {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "points": 33,
-        "avg": 16.5,
-        "form": 11
       },
       {
         "id": 597,
@@ -640,6 +640,17 @@
         "form": 9.3
       },
       {
+        "id": 281,
+        "name": "Yoane Wissa",
+        "nation": "Congo DR",
+        "nationAbbr": "COD",
+        "group": "K",
+        "pos": "FWD",
+        "points": 28,
+        "avg": 9.3,
+        "form": 9.3
+      },
+      {
         "id": 1086,
         "name": "Aymeric Laporte",
         "nation": "Spain",
@@ -668,6 +679,17 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "FWD",
+        "points": 26,
+        "avg": 8.7,
+        "form": 8.7
+      },
+      {
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
         "points": 26,
         "avg": 8.7,
         "form": 8.7
@@ -706,12 +728,45 @@
         "form": 8.3
       },
       {
+        "id": 11,
+        "name": "Riyad Mahrez",
+        "nation": "Algeria",
+        "nationAbbr": "ALG",
+        "group": "J",
+        "pos": "MID",
+        "points": 24,
+        "avg": 8,
+        "form": 8
+      },
+      {
+        "id": 248,
+        "name": "Daniel Muñoz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
+        "points": 24,
+        "avg": 8,
+        "form": 8
+      },
+      {
         "id": 682,
         "name": "Daichi Kamada",
         "nation": "Japan",
         "nationAbbr": "JPN",
         "group": "F",
         "pos": "MID",
+        "points": 24,
+        "avg": 8,
+        "form": 8
+      },
+      {
+        "id": 916,
+        "name": "Nuno Mendes",
+        "nation": "Portugal",
+        "nationAbbr": "POR",
+        "group": "K",
+        "pos": "DEF",
         "points": 24,
         "avg": 8,
         "form": 8
@@ -737,61 +792,6 @@
         "points": 24,
         "avg": 8,
         "form": 8
-      },
-      {
-        "id": 1264,
-        "name": "Alexander Freeman",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "DEF",
-        "points": 24,
-        "avg": 8,
-        "form": 8
-      },
-      {
-        "id": 1361,
-        "name": "Bruno Guimarães",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "MID",
-        "points": 24,
-        "avg": 8,
-        "form": 8
-      },
-      {
-        "id": 248,
-        "name": "Daniel Muñoz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "DEF",
-        "points": 23,
-        "avg": 11.5,
-        "form": 7.7
-      },
-      {
-        "id": 804,
-        "name": "Cody Gakpo",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "FWD",
-        "points": 23,
-        "avg": 7.7,
-        "form": 7.7
-      },
-      {
-        "id": 214,
-        "name": "Vozinha",
-        "nation": "Cabo Verde",
-        "nationAbbr": "CPV",
-        "group": "H",
-        "pos": "GK",
-        "points": 22,
-        "avg": 7.3,
-        "form": 7.3
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 56.9,
+        "ownPct": 57.4,
         "points": 36
       },
       {
@@ -812,8 +812,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 40.9,
-        "points": 16
+        "ownPct": 40.7,
+        "points": 23
       },
       {
         "id": 1092,
@@ -826,6 +826,16 @@
         "points": 11
       },
       {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "ownPct": 37.4,
+        "points": 40
+      },
+      {
         "id": 916,
         "name": "Nuno Mendes",
         "nation": "Portugal",
@@ -833,7 +843,7 @@
         "group": "K",
         "pos": "DEF",
         "ownPct": 36.9,
-        "points": 17
+        "points": 24
       },
       {
         "id": 939,
@@ -842,18 +852,8 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 36.9,
-        "points": 10
-      },
-      {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "ownPct": 36.6,
-        "points": 33
+        "ownPct": 36.5,
+        "points": 13
       },
       {
         "id": 517,
@@ -862,7 +862,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34,
+        "ownPct": 34.1,
         "points": 17
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 31,
+        "ownPct": 31.8,
         "points": 35
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 29.1,
+        "ownPct": 28.9,
         "points": 20
       },
       {
@@ -892,8 +892,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 27.9,
-        "points": 14
+        "ownPct": 28.4,
+        "points": 16
       },
       {
         "id": 855,
@@ -902,7 +902,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 27.6,
+        "ownPct": 27.8,
         "points": 30
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 24.9,
+        "ownPct": 25.4,
         "points": 24
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 22.8,
+        "ownPct": 22.7,
         "points": 15
       },
       {
@@ -942,18 +942,8 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 19.9,
+        "ownPct": 19.6,
         "points": 14
-      },
-      {
-        "id": 164,
-        "name": "Gabriel Magalhães",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "DEF",
-        "ownPct": 19.1,
-        "points": 16
       },
       {
         "id": 501,
@@ -962,8 +952,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 18,
+        "ownPct": 19.1,
         "points": 35
+      },
+      {
+        "id": 164,
+        "name": "Gabriel Magalhães",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "DEF",
+        "ownPct": 19,
+        "points": 16
       },
       {
         "id": 792,
@@ -972,7 +972,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 16.5,
+        "ownPct": 16.2,
         "points": 29
       },
       {
@@ -983,7 +983,7 @@
         "group": "L",
         "pos": "GK",
         "ownPct": 15.4,
-        "points": 10
+        "points": 16
       },
       {
         "id": 256,
@@ -992,18 +992,8 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 14.2,
-        "points": 14
-      },
-      {
-        "id": 543,
-        "name": "Florian Wirtz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "MID",
-        "ownPct": 13.4,
-        "points": 12
+        "ownPct": 14.3,
+        "points": 17
       },
       {
         "id": 491,
@@ -1012,8 +1002,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
+        "ownPct": 14.2,
+        "points": 26
+      },
+      {
+        "id": 543,
+        "name": "Florian Wirtz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
         "ownPct": 13.3,
-        "points": 14
+        "points": 12
       },
       {
         "id": 1429,
@@ -1022,7 +1022,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.3,
+        "ownPct": 13.2,
         "points": 9
       },
       {
@@ -1032,7 +1032,7 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "MID",
-        "ownPct": 12.6,
+        "ownPct": 12.3,
         "points": 22
       },
       {
@@ -1042,7 +1042,7 @@
         "nationAbbr": "BEL",
         "group": "G",
         "pos": "GK",
-        "ownPct": 12.2,
+        "ownPct": 12,
         "points": 12
       }
     ]

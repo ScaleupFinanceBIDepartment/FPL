@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-28T04:45:41+00:00",
+    "generatedAt": "2026-06-28T09:27:20+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 984,
+    "playerCount": 828,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 72,
     "note": "72 kampe spillet — mål, assists og point er live."
@@ -175,16 +175,6 @@
         "assists": 1
       },
       {
-        "id": 597,
-        "name": "Ramin Rezaeian",
-        "nation": "IR Iran",
-        "nationAbbr": "IRN",
-        "group": "G",
-        "pos": "DEF",
-        "goals": 2,
-        "assists": 1
-      },
-      {
         "id": 672,
         "name": "Ayase Ueda",
         "nation": "Japan",
@@ -261,6 +251,16 @@
         "nationAbbr": "CAN",
         "group": "B",
         "pos": "FWD",
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "id": 248,
+        "name": "Daniel Muñoz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
         "goals": 2,
         "assists": 0
       }
@@ -563,17 +563,6 @@
         "form": 11.7
       },
       {
-        "id": 597,
-        "name": "Ramin Rezaeian",
-        "nation": "IR Iran",
-        "nationAbbr": "IRN",
-        "group": "G",
-        "pos": "DEF",
-        "points": 33,
-        "avg": 11,
-        "form": 11
-      },
-      {
         "id": 855,
         "name": "Erling Haaland",
         "nation": "Norway",
@@ -792,6 +781,17 @@
         "points": 24,
         "avg": 8,
         "form": 8
+      },
+      {
+        "id": 1264,
+        "name": "Alexander Freeman",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "DEF",
+        "points": 24,
+        "avg": 8,
+        "form": 8
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 57.4,
+        "ownPct": 59.2,
         "points": 36
       },
       {
@@ -812,18 +812,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 40.7,
+        "ownPct": 40.6,
         "points": 23
-      },
-      {
-        "id": 1092,
-        "name": "Lamine Yamal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "MID",
-        "ownPct": 39.2,
-        "points": 11
       },
       {
         "id": 38,
@@ -832,8 +822,18 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 37.4,
+        "ownPct": 40.4,
         "points": 40
+      },
+      {
+        "id": 1092,
+        "name": "Lamine Yamal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "ownPct": 39.3,
+        "points": 11
       },
       {
         "id": 916,
@@ -842,7 +842,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 36.9,
+        "ownPct": 37.1,
         "points": 24
       },
       {
@@ -852,8 +852,18 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 36.5,
+        "ownPct": 34.9,
         "points": 13
+      },
+      {
+        "id": 173,
+        "name": "Vinícius Júnior",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 34.5,
+        "points": 35
       },
       {
         "id": 517,
@@ -866,33 +876,13 @@
         "points": 17
       },
       {
-        "id": 173,
-        "name": "Vinícius Júnior",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 31.8,
-        "points": 35
-      },
-      {
-        "id": 2012,
-        "name": "Achraf Hakimi",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "DEF",
-        "ownPct": 28.9,
-        "points": 20
-      },
-      {
         "id": 45,
         "name": "Emiliano Martínez",
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 28.4,
+        "ownPct": 30,
         "points": 16
       },
       {
@@ -902,8 +892,28 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 27.8,
+        "ownPct": 28.6,
         "points": 30
+      },
+      {
+        "id": 2012,
+        "name": "Achraf Hakimi",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "DEF",
+        "ownPct": 28,
+        "points": 20
+      },
+      {
+        "id": 1088,
+        "name": "Marc Cucurella",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 27,
+        "points": 24
       },
       {
         "id": 542,
@@ -916,14 +926,14 @@
         "points": 12
       },
       {
-        "id": 1088,
-        "name": "Marc Cucurella",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 25.4,
-        "points": 24
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "ownPct": 22.9,
+        "points": 35
       },
       {
         "id": 796,
@@ -932,28 +942,8 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 22.7,
+        "ownPct": 22.2,
         "points": 15
-      },
-      {
-        "id": 795,
-        "name": "Denzel Dumfries",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "DEF",
-        "ownPct": 19.6,
-        "points": 14
-      },
-      {
-        "id": 501,
-        "name": "Ousmane Dembélé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "ownPct": 19.1,
-        "points": 35
       },
       {
         "id": 164,
@@ -962,7 +952,37 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 19,
+        "ownPct": 18.8,
+        "points": 16
+      },
+      {
+        "id": 795,
+        "name": "Denzel Dumfries",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "DEF",
+        "ownPct": 18.5,
+        "points": 14
+      },
+      {
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "ownPct": 17,
+        "points": 26
+      },
+      {
+        "id": 477,
+        "name": "Jordan Pickford",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "GK",
+        "ownPct": 15.9,
         "points": 16
       },
       {
@@ -972,18 +992,8 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 16.2,
+        "ownPct": 14.9,
         "points": 29
-      },
-      {
-        "id": 477,
-        "name": "Jordan Pickford",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "GK",
-        "ownPct": 15.4,
-        "points": 16
       },
       {
         "id": 256,
@@ -992,18 +1002,8 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 14.3,
+        "ownPct": 14.6,
         "points": 17
-      },
-      {
-        "id": 491,
-        "name": "Jude Bellingham",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "ownPct": 14.2,
-        "points": 26
       },
       {
         "id": 543,
@@ -1012,7 +1012,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 13.3,
+        "ownPct": 13.2,
         "points": 12
       },
       {
@@ -1022,18 +1022,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.2,
+        "ownPct": 13,
         "points": 9
-      },
-      {
-        "id": 2044,
-        "name": "Crysencio Summerville",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "MID",
-        "ownPct": 12.3,
-        "points": 22
       },
       {
         "id": 1522,
@@ -1042,8 +1032,18 @@
         "nationAbbr": "BEL",
         "group": "G",
         "pos": "GK",
-        "ownPct": 12,
+        "ownPct": 11.5,
         "points": 12
+      },
+      {
+        "id": 2044,
+        "name": "Crysencio Summerville",
+        "nation": "Netherlands",
+        "nationAbbr": "NED",
+        "group": "F",
+        "pos": "MID",
+        "ownPct": 10.9,
+        "points": 22
       }
     ]
   }

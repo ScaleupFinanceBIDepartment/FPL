@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-28T09:27:20+00:00",
+    "generatedAt": "2026-06-28T14:08:55+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 828,
     "tournamentStart": "2026-06-11",
@@ -802,8 +802,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 59.2,
+        "ownPct": 61.4,
         "points": 36
+      },
+      {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "ownPct": 44.4,
+        "points": 40
       },
       {
         "id": 468,
@@ -816,24 +826,24 @@
         "points": 23
       },
       {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "ownPct": 40.4,
-        "points": 40
-      },
-      {
         "id": 1092,
         "name": "Lamine Yamal",
         "nation": "Spain",
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 39.3,
+        "ownPct": 39.7,
         "points": 11
+      },
+      {
+        "id": 173,
+        "name": "Vinícius Júnior",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 37.8,
+        "points": 35
       },
       {
         "id": 916,
@@ -846,34 +856,24 @@
         "points": 24
       },
       {
-        "id": 939,
-        "name": "Bruno Fernandes",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "MID",
-        "ownPct": 34.9,
-        "points": 13
-      },
-      {
-        "id": 173,
-        "name": "Vinícius Júnior",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 34.5,
-        "points": 35
-      },
-      {
         "id": 517,
         "name": "Michael Olise",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.1,
+        "ownPct": 34.4,
         "points": 17
+      },
+      {
+        "id": 939,
+        "name": "Bruno Fernandes",
+        "nation": "Portugal",
+        "nationAbbr": "POR",
+        "group": "K",
+        "pos": "MID",
+        "ownPct": 33,
+        "points": 13
       },
       {
         "id": 45,
@@ -882,7 +882,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 30,
+        "ownPct": 32.1,
         "points": 16
       },
       {
@@ -892,18 +892,8 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 28.6,
+        "ownPct": 29.4,
         "points": 30
-      },
-      {
-        "id": 2012,
-        "name": "Achraf Hakimi",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "DEF",
-        "ownPct": 28,
-        "points": 20
       },
       {
         "id": 1088,
@@ -912,18 +902,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 27,
+        "ownPct": 29.2,
         "points": 24
-      },
-      {
-        "id": 542,
-        "name": "Joshua Kimmich",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "DEF",
-        "ownPct": 25.7,
-        "points": 12
       },
       {
         "id": 501,
@@ -932,8 +912,28 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 22.9,
+        "ownPct": 27.3,
         "points": 35
+      },
+      {
+        "id": 2012,
+        "name": "Achraf Hakimi",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "DEF",
+        "ownPct": 26.7,
+        "points": 20
+      },
+      {
+        "id": 542,
+        "name": "Joshua Kimmich",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "DEF",
+        "ownPct": 25.9,
+        "points": 12
       },
       {
         "id": 796,
@@ -942,8 +942,18 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 22.2,
+        "ownPct": 21.5,
         "points": 15
+      },
+      {
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "ownPct": 20.2,
+        "points": 26
       },
       {
         "id": 164,
@@ -952,7 +962,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 18.8,
+        "ownPct": 18.4,
         "points": 16
       },
       {
@@ -962,18 +972,8 @@
         "nationAbbr": "NED",
         "group": "F",
         "pos": "DEF",
-        "ownPct": 18.5,
+        "ownPct": 16.7,
         "points": 14
-      },
-      {
-        "id": 491,
-        "name": "Jude Bellingham",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "ownPct": 17,
-        "points": 26
       },
       {
         "id": 477,
@@ -982,18 +982,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 15.9,
+        "ownPct": 16.4,
         "points": 16
-      },
-      {
-        "id": 792,
-        "name": "Ismael Saibari",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 14.9,
-        "points": 29
       },
       {
         "id": 256,
@@ -1002,8 +992,28 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 14.6,
+        "ownPct": 15,
         "points": 17
+      },
+      {
+        "id": 792,
+        "name": "Ismael Saibari",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 13.1,
+        "points": 29
+      },
+      {
+        "id": 248,
+        "name": "Daniel Muñoz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
+        "ownPct": 13,
+        "points": 24
       },
       {
         "id": 543,
@@ -1012,7 +1022,7 @@
         "nationAbbr": "GER",
         "group": "E",
         "pos": "MID",
-        "ownPct": 13.2,
+        "ownPct": 13,
         "points": 12
       },
       {
@@ -1022,28 +1032,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13,
+        "ownPct": 12.7,
         "points": 9
       },
       {
-        "id": 1522,
-        "name": "Thibaut Courtois",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "GK",
-        "ownPct": 11.5,
-        "points": 12
-      },
-      {
-        "id": 2044,
-        "name": "Crysencio Summerville",
-        "nation": "Netherlands",
-        "nationAbbr": "NED",
-        "group": "F",
-        "pos": "MID",
-        "ownPct": 10.9,
-        "points": 22
+        "id": 1320,
+        "name": "Facundo Medina",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
+        "ownPct": 11.7,
+        "points": 20
       }
     ]
   }

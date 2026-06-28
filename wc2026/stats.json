@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-28T19:41:52+00:00",
+    "generatedAt": "2026-06-28T22:10:58+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 830,
     "tournamentStart": "2026-06-11",
@@ -585,6 +585,17 @@
         "form": 10
       },
       {
+        "id": 226,
+        "name": "Jonathan David",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "FWD",
+        "points": 30,
+        "avg": 7.5,
+        "form": 9.3
+      },
+      {
         "id": 531,
         "name": "Deniz Undav",
         "nation": "Germany",
@@ -616,17 +627,6 @@
         "points": 29,
         "avg": 9.7,
         "form": 9.7
-      },
-      {
-        "id": 226,
-        "name": "Jonathan David",
-        "nation": "Canada",
-        "nationAbbr": "CAN",
-        "group": "B",
-        "pos": "FWD",
-        "points": 29,
-        "avg": 7.3,
-        "form": 9
       },
       {
         "id": 281,
@@ -852,7 +852,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 36.9,
+        "ownPct": 37,
         "points": 24
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 33.5,
+        "ownPct": 33.6,
         "points": 35
       },
       {
@@ -926,6 +926,16 @@
         "points": 12
       },
       {
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "ownPct": 24.5,
+        "points": 26
+      },
+      {
         "id": 2012,
         "name": "Achraf Hakimi",
         "nation": "Morocco",
@@ -934,16 +944,6 @@
         "pos": "DEF",
         "ownPct": 24.5,
         "points": 20
-      },
-      {
-        "id": 491,
-        "name": "Jude Bellingham",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "ownPct": 24.4,
-        "points": 26
       },
       {
         "id": 796,
@@ -982,7 +982,7 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 16.5,
+        "ownPct": 16.6,
         "points": 24
       },
       {

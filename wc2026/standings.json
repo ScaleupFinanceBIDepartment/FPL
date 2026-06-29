@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-06-29T16:05:16+00:00",
+  "fetchedAt": "2026-06-29T20:09:40+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -11,22 +11,22 @@
       "rank": 1,
       "managerName": "DanishNorseman",
       "teamName": "",
-      "points": 275,
-      "lastRoundPoints": 0
+      "points": 283,
+      "lastRoundPoints": 8
     },
     {
       "rank": 2,
-      "managerName": "HC WIN",
+      "managerName": "VikingPlaymaker",
       "teamName": "",
-      "points": 265,
-      "lastRoundPoints": 0
+      "points": 269,
+      "lastRoundPoints": 9
     },
     {
       "rank": 3,
-      "managerName": "VikingPlaymaker",
+      "managerName": "HC WIN",
       "teamName": "",
-      "points": 260,
-      "lastRoundPoints": 0
+      "points": 269,
+      "lastRoundPoints": 4
     },
     {
       "rank": 4,
@@ -39,15 +39,15 @@
       "rank": 5,
       "managerName": "Doktor Svin",
       "teamName": "",
-      "points": 241,
-      "lastRoundPoints": 0
+      "points": 248,
+      "lastRoundPoints": 7
     },
     {
       "rank": 6,
       "managerName": "irs97",
       "teamName": "",
-      "points": 237,
-      "lastRoundPoints": 0
+      "points": 238,
+      "lastRoundPoints": 1
     },
     {
       "rank": 7,
@@ -60,15 +60,15 @@
       "rank": 8,
       "managerName": "HvemkanAnnika",
       "teamName": "",
-      "points": 226,
-      "lastRoundPoints": 0
+      "points": 228,
+      "lastRoundPoints": 2
     },
     {
       "rank": 9,
       "managerName": "Don-O",
       "teamName": "",
-      "points": 220,
-      "lastRoundPoints": 0
+      "points": 222,
+      "lastRoundPoints": 2
     },
     {
       "rank": 10,
@@ -88,8 +88,8 @@
       "rank": 12,
       "managerName": "rehpotsirhc",
       "teamName": "",
-      "points": 196,
-      "lastRoundPoints": 0
+      "points": 202,
+      "lastRoundPoints": 6
     },
     {
       "rank": 13,
@@ -109,15 +109,15 @@
       "rank": 15,
       "managerName": "Aaquist",
       "teamName": "",
-      "points": 164,
-      "lastRoundPoints": 0
+      "points": 165,
+      "lastRoundPoints": 1
     },
     {
       "rank": 16,
       "managerName": "Carroev",
       "teamName": "",
-      "points": 128,
-      "lastRoundPoints": 0
+      "points": 133,
+      "lastRoundPoints": 5
     }
   ]
 }

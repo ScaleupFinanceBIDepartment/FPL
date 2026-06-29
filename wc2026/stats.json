@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-29T20:09:40+00:00",
+    "generatedAt": "2026-06-29T22:16:39+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 830,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 74,
-    "note": "74 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 75,
+    "note": "75 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -135,6 +135,16 @@
         "assists": 0
       },
       {
+        "id": 528,
+        "name": "Kai Havertz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "FWD",
+        "goals": 3,
+        "assists": 0
+      },
+      {
         "id": 792,
         "name": "Ismael Saibari",
         "nation": "Morocco",
@@ -253,16 +263,6 @@
         "pos": "FWD",
         "goals": 2,
         "assists": 0
-      },
-      {
-        "id": 248,
-        "name": "Daniel Muñoz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "DEF",
-        "goals": 2,
-        "assists": 0
       }
     ],
     "topAssists": [
@@ -297,6 +297,16 @@
         "goals": 0
       },
       {
+        "id": 543,
+        "name": "Florian Wirtz",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
+        "assists": 3,
+        "goals": 0
+      },
+      {
         "id": 500,
         "name": "Kylian Mbappé",
         "nation": "France",
@@ -322,6 +332,16 @@
         "nation": "Canada",
         "nationAbbr": "CAN",
         "group": "B",
+        "pos": "MID",
+        "assists": 2,
+        "goals": 1
+      },
+      {
+        "id": 912,
+        "name": "Julio Enciso",
+        "nation": "Paraguay",
+        "nationAbbr": "PAR",
+        "group": "D",
         "pos": "MID",
         "assists": 2,
         "goals": 1
@@ -397,16 +417,6 @@
         "goals": 0
       },
       {
-        "id": 543,
-        "name": "Florian Wirtz",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "MID",
-        "assists": 2,
-        "goals": 0
-      },
-      {
         "id": 752,
         "name": "Roberto Alvarado",
         "nation": "Mexico",
@@ -432,16 +442,6 @@
         "nation": "Netherlands",
         "nationAbbr": "NED",
         "group": "F",
-        "pos": "MID",
-        "assists": 2,
-        "goals": 0
-      },
-      {
-        "id": 912,
-        "name": "Julio Enciso",
-        "nation": "Paraguay",
-        "nationAbbr": "PAR",
-        "group": "D",
         "pos": "MID",
         "assists": 2,
         "goals": 0
@@ -563,6 +563,17 @@
         "form": 11.7
       },
       {
+        "id": 531,
+        "name": "Deniz Undav",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "FWD",
+        "points": 31,
+        "avg": 7.8,
+        "form": 5.7
+      },
+      {
         "id": 1361,
         "name": "Bruno Guimarães",
         "nation": "Brazil",
@@ -605,17 +616,6 @@
         "points": 30,
         "avg": 7.5,
         "form": 9.3
-      },
-      {
-        "id": 531,
-        "name": "Deniz Undav",
-        "nation": "Germany",
-        "nationAbbr": "GER",
-        "group": "E",
-        "pos": "FWD",
-        "points": 29,
-        "avg": 9.7,
-        "form": 9.7
       },
       {
         "id": 792,
@@ -684,11 +684,33 @@
         "form": 9
       },
       {
+        "id": 912,
+        "name": "Julio Enciso",
+        "nation": "Paraguay",
+        "nationAbbr": "PAR",
+        "group": "D",
+        "pos": "MID",
+        "points": 27,
+        "avg": 6.8,
+        "form": 6.7
+      },
+      {
         "id": 491,
         "name": "Jude Bellingham",
         "nation": "England",
         "nationAbbr": "ENG",
         "group": "L",
+        "pos": "MID",
+        "points": 26,
+        "avg": 8.7,
+        "form": 8.7
+      },
+      {
+        "id": 890,
+        "name": "Matías Galarza",
+        "nation": "Paraguay",
+        "nationAbbr": "PAR",
+        "group": "D",
         "pos": "MID",
         "points": 26,
         "avg": 8.7,
@@ -706,6 +728,17 @@
         "form": 8.7
       },
       {
+        "id": 1601,
+        "name": "Felix Nmecha",
+        "nation": "Germany",
+        "nationAbbr": "GER",
+        "group": "E",
+        "pos": "MID",
+        "points": 26,
+        "avg": 6.5,
+        "form": 4.3
+      },
+      {
         "id": 807,
         "name": "Brian Brobbey",
         "nation": "Netherlands",
@@ -717,15 +750,15 @@
         "form": 8.3
       },
       {
-        "id": 1601,
-        "name": "Felix Nmecha",
+        "id": 528,
+        "name": "Kai Havertz",
         "nation": "Germany",
         "nationAbbr": "GER",
         "group": "E",
-        "pos": "MID",
+        "pos": "FWD",
         "points": 25,
-        "avg": 8.3,
-        "form": 8.3
+        "avg": 6.3,
+        "form": 4
       },
       {
         "id": 682,
@@ -756,39 +789,6 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "DEF",
-        "points": 24,
-        "avg": 8,
-        "form": 8
-      },
-      {
-        "id": 916,
-        "name": "Nuno Mendes",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "DEF",
-        "points": 24,
-        "avg": 8,
-        "form": 8
-      },
-      {
-        "id": 1088,
-        "name": "Marc Cucurella",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "points": 24,
-        "avg": 8,
-        "form": 8
-      },
-      {
-        "id": 1149,
-        "name": "Breel Embolo",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "FWD",
         "points": 24,
         "avg": 8,
         "form": 8
@@ -896,16 +896,6 @@
         "points": 24
       },
       {
-        "id": 939,
-        "name": "Bruno Fernandes",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "MID",
-        "ownPct": 30.4,
-        "points": 13
-      },
-      {
         "id": 855,
         "name": "Erling Haaland",
         "nation": "Norway",
@@ -916,6 +906,16 @@
         "points": 30
       },
       {
+        "id": 939,
+        "name": "Bruno Fernandes",
+        "nation": "Portugal",
+        "nationAbbr": "POR",
+        "group": "K",
+        "pos": "MID",
+        "ownPct": 30.3,
+        "points": 13
+      },
+      {
         "id": 542,
         "name": "Joshua Kimmich",
         "nation": "Germany",
@@ -923,7 +923,7 @@
         "group": "E",
         "pos": "DEF",
         "ownPct": 26,
-        "points": 12
+        "points": 14
       },
       {
         "id": 491,
@@ -1022,7 +1022,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 12.7,
+        "ownPct": 12.8,
         "points": 28
       },
       {
@@ -1033,7 +1033,7 @@
         "group": "E",
         "pos": "MID",
         "ownPct": 12.7,
-        "points": 12
+        "points": 17
       },
       {
         "id": 1429,

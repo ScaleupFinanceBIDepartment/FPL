@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-29T04:54:28+00:00",
+    "generatedAt": "2026-06-29T11:20:43+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 830,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 64.3,
+        "ownPct": 64.4,
         "points": 36
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 49.7,
+        "ownPct": 49.8,
         "points": 40
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.8,
+        "ownPct": 34.7,
         "points": 17
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 33.6,
+        "ownPct": 33.7,
         "points": 35
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 24.5,
+        "ownPct": 24.6,
         "points": 26
       },
       {
@@ -1016,6 +1016,16 @@
         "points": 14
       },
       {
+        "id": 1086,
+        "name": "Aymeric Laporte",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 12.7,
+        "points": 28
+      },
+      {
         "id": 543,
         "name": "Florian Wirtz",
         "nation": "Germany",
@@ -1024,16 +1034,6 @@
         "pos": "MID",
         "ownPct": 12.7,
         "points": 12
-      },
-      {
-        "id": 1086,
-        "name": "Aymeric Laporte",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 12.6,
-        "points": 28
       },
       {
         "id": 1429,

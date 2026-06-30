@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-06-29T22:16:39+00:00",
+  "fetchedAt": "2026-06-30T04:20:24+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -18,8 +18,8 @@
       "rank": 2,
       "managerName": "VikingPlaymaker",
       "teamName": "",
-      "points": 272,
-      "lastRoundPoints": 12
+      "points": 271,
+      "lastRoundPoints": 11
     },
     {
       "rank": 3,
@@ -46,8 +46,8 @@
       "rank": 6,
       "managerName": "irs97",
       "teamName": "",
-      "points": 238,
-      "lastRoundPoints": 1
+      "points": 240,
+      "lastRoundPoints": 3
     },
     {
       "rank": 7,
@@ -58,31 +58,31 @@
     },
     {
       "rank": 8,
-      "managerName": "Don-O",
+      "managerName": "ESI1994",
       "teamName": "",
-      "points": 230,
-      "lastRoundPoints": 10
+      "points": 231,
+      "lastRoundPoints": 15
     },
     {
       "rank": 9,
+      "managerName": "Don-O",
+      "teamName": "",
+      "points": 231,
+      "lastRoundPoints": 11
+    },
+    {
+      "rank": 10,
       "managerName": "HvemkanAnnika",
       "teamName": "",
       "points": 228,
       "lastRoundPoints": 2
     },
     {
-      "rank": 10,
-      "managerName": "ESI1994",
-      "teamName": "",
-      "points": 223,
-      "lastRoundPoints": 7
-    },
-    {
       "rank": 11,
       "managerName": "Testtesttest",
       "teamName": "",
-      "points": 210,
-      "lastRoundPoints": 7
+      "points": 212,
+      "lastRoundPoints": 9
     },
     {
       "rank": 12,
@@ -95,8 +95,8 @@
       "rank": 13,
       "managerName": "Lukasworm",
       "teamName": "",
-      "points": 201,
-      "lastRoundPoints": 13
+      "points": 203,
+      "lastRoundPoints": 15
     },
     {
       "rank": 14,
@@ -109,15 +109,15 @@
       "rank": 15,
       "managerName": "Aaquist",
       "teamName": "",
-      "points": 172,
-      "lastRoundPoints": 8
+      "points": 171,
+      "lastRoundPoints": 7
     },
     {
       "rank": 16,
       "managerName": "Carroev",
       "teamName": "",
-      "points": 145,
-      "lastRoundPoints": 17
+      "points": 147,
+      "lastRoundPoints": 19
     }
   ]
 }

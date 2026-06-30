@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-30T17:10:44+00:00",
+    "generatedAt": "2026-06-30T20:11:40+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 727,
     "tournamentStart": "2026-06-11",
@@ -22,6 +22,16 @@
         "group": "J",
         "pos": "FWD",
         "goals": 6,
+        "assists": 0
+      },
+      {
+        "id": 855,
+        "name": "Erling Haaland",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "FWD",
+        "goals": 5,
         "assists": 0
       },
       {
@@ -53,16 +63,6 @@
         "pos": "MID",
         "goals": 4,
         "assists": 1
-      },
-      {
-        "id": 855,
-        "name": "Erling Haaland",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "FWD",
-        "goals": 4,
-        "assists": 0
       },
       {
         "id": 1043,
@@ -145,6 +145,16 @@
         "assists": 1
       },
       {
+        "id": 308,
+        "name": "Nicolas Pépé",
+        "nation": "Côte d'Ivoire",
+        "nationAbbr": "CIV",
+        "group": "E",
+        "pos": "FWD",
+        "goals": 2,
+        "assists": 1
+      },
+      {
         "id": 491,
         "name": "Jude Bellingham",
         "nation": "England",
@@ -215,8 +225,8 @@
         "assists": 0
       },
       {
-        "id": 308,
-        "name": "Nicolas Pépé",
+        "id": 310,
+        "name": "Amad Diallo",
         "nation": "Côte d'Ivoire",
         "nationAbbr": "CIV",
         "group": "E",
@@ -253,16 +263,6 @@
         "pos": "FWD",
         "goals": 2,
         "assists": 0
-      },
-      {
-        "id": 1267,
-        "name": "Folarin Balogun",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
       }
     ],
     "topAssists": [
@@ -291,6 +291,16 @@
         "name": "Michael Olise",
         "nation": "France",
         "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "assists": 3,
+        "goals": 0
+      },
+      {
+        "id": 1684,
+        "name": "Martin Ødegaard",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
         "group": "I",
         "pos": "MID",
         "assists": 3,
@@ -397,8 +407,8 @@
         "goals": 0
       },
       {
-        "id": 1684,
-        "name": "Martin Ødegaard",
+        "id": 845,
+        "name": "Patrick Berg",
         "nation": "Norway",
         "nationAbbr": "NOR",
         "group": "I",
@@ -467,6 +477,16 @@
         "goals": 2
       },
       {
+        "id": 308,
+        "name": "Nicolas Pépé",
+        "nation": "Côte d'Ivoire",
+        "nationAbbr": "CIV",
+        "group": "E",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 2
+      },
+      {
         "id": 491,
         "name": "Jude Bellingham",
         "nation": "England",
@@ -495,26 +515,6 @@
         "pos": "FWD",
         "assists": 1,
         "goals": 2
-      },
-      {
-        "id": 1158,
-        "name": "Rubén Vargas",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 2
-      },
-      {
-        "id": 124,
-        "name": "Romelu Lukaku",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 1
       }
     ],
     "topPoints": [
@@ -528,6 +528,17 @@
         "points": 40,
         "avg": 13.3,
         "form": 13.3
+      },
+      {
+        "id": 855,
+        "name": "Erling Haaland",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "FWD",
+        "points": 38,
+        "avg": 12.7,
+        "form": 12.7
       },
       {
         "id": 173,
@@ -561,17 +572,6 @@
         "points": 35,
         "avg": 11.7,
         "form": 11.7
-      },
-      {
-        "id": 855,
-        "name": "Erling Haaland",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "FWD",
-        "points": 31,
-        "avg": 10.3,
-        "form": 10.3
       },
       {
         "id": 792,
@@ -706,6 +706,17 @@
         "form": 8.7
       },
       {
+        "id": 310,
+        "name": "Amad Diallo",
+        "nation": "Côte d'Ivoire",
+        "nationAbbr": "CIV",
+        "group": "E",
+        "pos": "FWD",
+        "points": 26,
+        "avg": 6.5,
+        "form": 5.7
+      },
+      {
         "id": 890,
         "name": "Matías Galarza",
         "nation": "Paraguay",
@@ -781,17 +792,6 @@
         "points": 24,
         "avg": 8,
         "form": 8
-      },
-      {
-        "id": 910,
-        "name": "Orlando Gill",
-        "nation": "Paraguay",
-        "nationAbbr": "PAR",
-        "group": "D",
-        "pos": "GK",
-        "points": 24,
-        "avg": 6,
-        "form": 8
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 64.5,
+        "ownPct": 64.6,
         "points": 36
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 50.1,
+        "ownPct": 50.2,
         "points": 40
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.1,
+        "ownPct": 34.2,
         "points": 35
       },
       {
@@ -903,7 +903,7 @@
         "group": "I",
         "pos": "FWD",
         "ownPct": 30.3,
-        "points": 31
+        "points": 38
       },
       {
         "id": 939,
@@ -916,6 +916,16 @@
         "points": 13
       },
       {
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "ownPct": 24.9,
+        "points": 26
+      },
+      {
         "id": 2012,
         "name": "Achraf Hakimi",
         "nation": "Morocco",
@@ -926,23 +936,13 @@
         "points": 22
       },
       {
-        "id": 491,
-        "name": "Jude Bellingham",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "ownPct": 24.8,
-        "points": 26
-      },
-      {
         "id": 164,
         "name": "Gabriel Magalhães",
         "nation": "Brazil",
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 18,
+        "ownPct": 18.1,
         "points": 21
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 16.7,
+        "ownPct": 16.8,
         "points": 24
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 14.9,
+        "ownPct": 15,
         "points": 20
       },
       {
@@ -1032,7 +1032,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 10.5,
+        "ownPct": 10.6,
         "points": 31
       },
       {

@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-30T09:56:50+00:00",
+    "generatedAt": "2026-06-30T14:38:43+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 727,
     "tournamentStart": "2026-06-11",
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 50,
+        "ownPct": 50.1,
         "points": 40
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 35.3,
+        "ownPct": 35.4,
         "points": 16
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34,
+        "ownPct": 34.1,
         "points": 35
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 24.7,
+        "ownPct": 24.8,
         "points": 22
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 12.9,
+        "ownPct": 13,
         "points": 28
       },
       {
@@ -1026,6 +1026,16 @@
         "points": 22
       },
       {
+        "id": 792,
+        "name": "Ismael Saibari",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 10.5,
+        "points": 31
+      },
+      {
         "id": 1099,
         "name": "Unai Simón",
         "nation": "Spain",
@@ -1034,16 +1044,6 @@
         "pos": "GK",
         "ownPct": 10.5,
         "points": 21
-      },
-      {
-        "id": 792,
-        "name": "Ismael Saibari",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 10.4,
-        "points": 31
       }
     ]
   }

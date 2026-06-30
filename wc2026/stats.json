@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-30T20:11:40+00:00",
+    "generatedAt": "2026-06-30T22:21:34+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 727,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 77,
-    "note": "77 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 78,
+    "note": "78 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -25,6 +25,16 @@
         "assists": 0
       },
       {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "goals": 5,
+        "assists": 2
+      },
+      {
         "id": 855,
         "name": "Erling Haaland",
         "nation": "Norway",
@@ -35,12 +45,12 @@
         "assists": 0
       },
       {
-        "id": 500,
-        "name": "Kylian Mbappé",
+        "id": 501,
+        "name": "Ousmane Dembélé",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
-        "pos": "FWD",
+        "pos": "MID",
         "goals": 4,
         "assists": 2
       },
@@ -50,16 +60,6 @@
         "nation": "Brazil",
         "nationAbbr": "BRA",
         "group": "C",
-        "pos": "MID",
-        "goals": 4,
-        "assists": 1
-      },
-      {
-        "id": 501,
-        "name": "Ousmane Dembélé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
         "pos": "MID",
         "goals": 4,
         "assists": 1
@@ -195,6 +195,16 @@
         "assists": 1
       },
       {
+        "id": 1431,
+        "name": "Bradley Barcola",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "goals": 2,
+        "assists": 1
+      },
+      {
         "id": 95,
         "name": "Marko Arnautovic",
         "nation": "Austria",
@@ -253,19 +263,19 @@
         "pos": "MID",
         "goals": 2,
         "assists": 0
-      },
-      {
-        "id": 1125,
-        "name": "Anthony Elanga",
-        "nation": "Sweden",
-        "nationAbbr": "SWE",
-        "group": "F",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
       }
     ],
     "topAssists": [
+      {
+        "id": 517,
+        "name": "Michael Olise",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "assists": 4,
+        "goals": 0
+      },
       {
         "id": 1361,
         "name": "Bruno Guimarães",
@@ -287,16 +297,6 @@
         "goals": 1
       },
       {
-        "id": 517,
-        "name": "Michael Olise",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "assists": 3,
-        "goals": 0
-      },
-      {
         "id": 1684,
         "name": "Martin Ødegaard",
         "nation": "Norway",
@@ -313,6 +313,16 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
+        "assists": 2,
+        "goals": 5
+      },
+      {
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
         "assists": 2,
         "goals": 4
       },
@@ -437,16 +447,6 @@
         "goals": 4
       },
       {
-        "id": 501,
-        "name": "Ousmane Dembélé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 4
-      },
-      {
         "id": 1043,
         "name": "Ismaïla Sarr",
         "nation": "Senegal",
@@ -519,6 +519,28 @@
     ],
     "topPoints": [
       {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "points": 44,
+        "avg": 11,
+        "form": 10
+      },
+      {
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "points": 41,
+        "avg": 10.3,
+        "form": 12.7
+      },
+      {
         "id": 38,
         "name": "Lionel Messi",
         "nation": "Argentina",
@@ -550,28 +572,6 @@
         "points": 37,
         "avg": 9.3,
         "form": 9.7
-      },
-      {
-        "id": 500,
-        "name": "Kylian Mbappé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "FWD",
-        "points": 36,
-        "avg": 12,
-        "form": 12
-      },
-      {
-        "id": 501,
-        "name": "Ousmane Dembélé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "points": 35,
-        "avg": 11.7,
-        "form": 11.7
       },
       {
         "id": 792,
@@ -673,6 +673,17 @@
         "form": 9
       },
       {
+        "id": 1520,
+        "name": "Alexander Isak",
+        "nation": "Sweden",
+        "nationAbbr": "SWE",
+        "group": "F",
+        "pos": "FWD",
+        "points": 28,
+        "avg": 7,
+        "form": 4
+      },
+      {
         "id": 912,
         "name": "Julio Enciso",
         "nation": "Paraguay",
@@ -684,23 +695,23 @@
         "form": 6.7
       },
       {
+        "id": 1431,
+        "name": "Bradley Barcola",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "points": 27,
+        "avg": 6.8,
+        "form": 6
+      },
+      {
         "id": 491,
         "name": "Jude Bellingham",
         "nation": "England",
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "points": 26,
-        "avg": 8.7,
-        "form": 8.7
-      },
-      {
-        "id": 1520,
-        "name": "Alexander Isak",
-        "nation": "Sweden",
-        "nationAbbr": "SWE",
-        "group": "F",
-        "pos": "FWD",
         "points": 26,
         "avg": 8.7,
         "form": 8.7
@@ -781,17 +792,6 @@
         "points": 24,
         "avg": 8,
         "form": 8
-      },
-      {
-        "id": 1264,
-        "name": "Alexander Freeman",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "DEF",
-        "points": 24,
-        "avg": 8,
-        "form": 8
       }
     ],
     "mostSelected": [
@@ -803,7 +803,7 @@
         "group": "I",
         "pos": "FWD",
         "ownPct": 64.6,
-        "points": 36
+        "points": 44
       },
       {
         "id": 38,
@@ -873,7 +873,7 @@
         "group": "I",
         "pos": "MID",
         "ownPct": 34.8,
-        "points": 17
+        "points": 23
       },
       {
         "id": 501,
@@ -883,7 +883,7 @@
         "group": "I",
         "pos": "MID",
         "ownPct": 34.2,
-        "points": 35
+        "points": 41
       },
       {
         "id": 1088,
@@ -916,6 +916,16 @@
         "points": 13
       },
       {
+        "id": 2012,
+        "name": "Achraf Hakimi",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "DEF",
+        "ownPct": 25,
+        "points": 22
+      },
+      {
         "id": 491,
         "name": "Jude Bellingham",
         "nation": "England",
@@ -924,16 +934,6 @@
         "pos": "MID",
         "ownPct": 24.9,
         "points": 26
-      },
-      {
-        "id": 2012,
-        "name": "Achraf Hakimi",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "DEF",
-        "ownPct": 24.9,
-        "points": 22
       },
       {
         "id": 164,
@@ -992,7 +992,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 13.1,
+        "ownPct": 13.2,
         "points": 28
       },
       {
@@ -1003,7 +1003,7 @@
         "group": "I",
         "pos": "DEF",
         "ownPct": 12.3,
-        "points": 9
+        "points": 16
       },
       {
         "id": 457,

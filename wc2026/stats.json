@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-01T17:21:43+00:00",
+    "generatedAt": "2026-07-01T20:07:15+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 649,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 80,
-    "note": "80 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 81,
+    "note": "81 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -32,6 +32,16 @@
         "group": "J",
         "pos": "FWD",
         "goals": 6,
+        "assists": 0
+      },
+      {
+        "id": 468,
+        "name": "Harry Kane",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "FWD",
+        "goals": 5,
         "assists": 0
       },
       {
@@ -120,16 +130,6 @@
         "nation": "Congo DR",
         "nationAbbr": "COD",
         "group": "K",
-        "pos": "FWD",
-        "goals": 3,
-        "assists": 0
-      },
-      {
-        "id": 468,
-        "name": "Harry Kane",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
         "pos": "FWD",
         "goals": 3,
         "assists": 0
@@ -397,6 +397,16 @@
         "goals": 0
       },
       {
+        "id": 474,
+        "name": "Anthony Gordon",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "assists": 2,
+        "goals": 0
+      },
+      {
         "id": 845,
         "name": "Patrick Berg",
         "nation": "Norway",
@@ -505,16 +515,6 @@
         "pos": "MID",
         "assists": 1,
         "goals": 2
-      },
-      {
-        "id": 1431,
-        "name": "Bradley Barcola",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 2
       }
     ],
     "topPoints": [
@@ -574,6 +574,17 @@
         "form": 9.7
       },
       {
+        "id": 468,
+        "name": "Harry Kane",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "FWD",
+        "points": 36,
+        "avg": 9,
+        "form": 7.7
+      },
+      {
         "id": 750,
         "name": "Julián Quiñones",
         "nation": "Mexico",
@@ -594,6 +605,17 @@
         "points": 31,
         "avg": 7.8,
         "form": 7
+      },
+      {
+        "id": 1043,
+        "name": "Ismaïla Sarr",
+        "nation": "Senegal",
+        "nationAbbr": "SEN",
+        "group": "I",
+        "pos": "FWD",
+        "points": 31,
+        "avg": 7.8,
+        "form": 9.7
       },
       {
         "id": 1361,
@@ -618,17 +640,6 @@
         "form": 10
       },
       {
-        "id": 1043,
-        "name": "Ismaïla Sarr",
-        "nation": "Senegal",
-        "nationAbbr": "SEN",
-        "group": "I",
-        "pos": "FWD",
-        "points": 30,
-        "avg": 10,
-        "form": 10
-      },
-      {
         "id": 226,
         "name": "Jonathan David",
         "nation": "Canada",
@@ -640,6 +651,17 @@
         "form": 9.3
       },
       {
+        "id": 281,
+        "name": "Yoane Wissa",
+        "nation": "Congo DR",
+        "nationAbbr": "COD",
+        "group": "K",
+        "pos": "FWD",
+        "points": 30,
+        "avg": 7.5,
+        "form": 7
+      },
+      {
         "id": 1133,
         "name": "Johan Manzambi",
         "nation": "Switzerland",
@@ -649,17 +671,6 @@
         "points": 29,
         "avg": 9.7,
         "form": 9.7
-      },
-      {
-        "id": 281,
-        "name": "Yoane Wissa",
-        "nation": "Congo DR",
-        "nationAbbr": "COD",
-        "group": "K",
-        "pos": "FWD",
-        "points": 29,
-        "avg": 7.3,
-        "form": 6.7
       },
       {
         "id": 1086,
@@ -728,6 +739,17 @@
         "form": 9
       },
       {
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "points": 27,
+        "avg": 6.8,
+        "form": 6
+      },
+      {
         "id": 517,
         "name": "Michael Olise",
         "nation": "France",
@@ -761,34 +783,12 @@
         "form": 6
       },
       {
-        "id": 491,
-        "name": "Jude Bellingham",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "points": 26,
-        "avg": 6.5,
-        "form": 5.7
-      },
-      {
         "id": 741,
         "name": "César Montes",
         "nation": "Mexico",
         "nationAbbr": "MEX",
         "group": "A",
         "pos": "DEF",
-        "points": 25,
-        "avg": 8.3,
-        "form": 8.3
-      },
-      {
-        "id": 890,
-        "name": "Matías Galarza",
-        "nation": "Paraguay",
-        "nationAbbr": "PAR",
-        "group": "D",
-        "pos": "MID",
         "points": 25,
         "avg": 8.3,
         "form": 8.3
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 64.9,
+        "ownPct": 65,
         "points": 50
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 50.4,
+        "ownPct": 50.5,
         "points": 40
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 42.7,
+        "ownPct": 42.8,
         "points": 37
       },
       {
@@ -832,8 +832,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 40.4,
-        "points": 24
+        "ownPct": 40.5,
+        "points": 36
       },
       {
         "id": 1092,
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 40.4,
+        "ownPct": 40.3,
         "points": 11
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 35.1,
+        "ownPct": 35.2,
         "points": 27
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.6,
+        "ownPct": 34.7,
         "points": 41
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 25.4,
+        "ownPct": 25.5,
         "points": 22
       },
       {
@@ -933,7 +933,7 @@
         "group": "L",
         "pos": "MID",
         "ownPct": 25,
-        "points": 26
+        "points": 27
       },
       {
         "id": 164,
@@ -953,7 +953,7 @@
         "group": "L",
         "pos": "GK",
         "ownPct": 17.1,
-        "points": 17
+        "points": 18
       },
       {
         "id": 248,
@@ -1012,8 +1012,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 11.8,
-        "points": 10
+        "ownPct": 11.7,
+        "points": 11
       },
       {
         "id": 2031,
@@ -1032,7 +1032,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 11,
+        "ownPct": 11.1,
         "points": 31
       },
       {

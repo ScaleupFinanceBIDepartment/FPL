@@ -5,15 +5,25 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-06-30T22:21:34+00:00",
+    "generatedAt": "2026-07-01T04:48:10+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 727,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 78,
-    "note": "78 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 79,
+    "note": "79 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
+      {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "goals": 6,
+        "assists": 2
+      },
       {
         "id": 38,
         "name": "Lionel Messi",
@@ -23,16 +33,6 @@
         "pos": "FWD",
         "goals": 6,
         "assists": 0
-      },
-      {
-        "id": 500,
-        "name": "Kylian Mbappé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "FWD",
-        "goals": 5,
-        "assists": 2
       },
       {
         "id": 855,
@@ -62,6 +62,16 @@
         "group": "C",
         "pos": "MID",
         "goals": 4,
+        "assists": 1
+      },
+      {
+        "id": 750,
+        "name": "Julián Quiñones",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "FWD",
+        "goals": 3,
         "assists": 1
       },
       {
@@ -245,22 +255,12 @@
         "assists": 0
       },
       {
-        "id": 750,
-        "name": "Julián Quiñones",
+        "id": 748,
+        "name": "Raúl Jiménez",
         "nation": "Mexico",
         "nationAbbr": "MEX",
         "group": "A",
         "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 1114,
-        "name": "Yasin Ayari",
-        "nation": "Sweden",
-        "nationAbbr": "SWE",
-        "group": "F",
-        "pos": "MID",
         "goals": 2,
         "assists": 0
       }
@@ -273,7 +273,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "assists": 4,
+        "assists": 5,
         "goals": 0
       },
       {
@@ -297,6 +297,16 @@
         "goals": 1
       },
       {
+        "id": 752,
+        "name": "Roberto Alvarado",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "FWD",
+        "assists": 3,
+        "goals": 0
+      },
+      {
         "id": 1684,
         "name": "Martin Ødegaard",
         "nation": "Norway",
@@ -314,7 +324,7 @@
         "group": "I",
         "pos": "FWD",
         "assists": 2,
-        "goals": 5
+        "goals": 6
       },
       {
         "id": 501,
@@ -407,16 +417,6 @@
         "goals": 0
       },
       {
-        "id": 752,
-        "name": "Roberto Alvarado",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "FWD",
-        "assists": 2,
-        "goals": 0
-      },
-      {
         "id": 845,
         "name": "Patrick Berg",
         "nation": "Norway",
@@ -445,6 +445,16 @@
         "pos": "MID",
         "assists": 1,
         "goals": 4
+      },
+      {
+        "id": 750,
+        "name": "Julián Quiñones",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 3
       },
       {
         "id": 1043,
@@ -505,16 +515,6 @@
         "pos": "MID",
         "assists": 1,
         "goals": 2
-      },
-      {
-        "id": 1094,
-        "name": "Mikel Oyarzabal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 2
       }
     ],
     "topPoints": [
@@ -525,9 +525,9 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "points": 44,
-        "avg": 11,
-        "form": 10
+        "points": 50,
+        "avg": 12.5,
+        "form": 12
       },
       {
         "id": 501,
@@ -574,6 +574,17 @@
         "form": 9.7
       },
       {
+        "id": 750,
+        "name": "Julián Quiñones",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "FWD",
+        "points": 33,
+        "avg": 8.3,
+        "form": 7.7
+      },
+      {
         "id": 792,
         "name": "Ismael Saibari",
         "nation": "Morocco",
@@ -594,6 +605,17 @@
         "points": 31,
         "avg": 7.8,
         "form": 7.7
+      },
+      {
+        "id": 743,
+        "name": "Jorge Sánchez",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "DEF",
+        "points": 30,
+        "avg": 10,
+        "form": 10
       },
       {
         "id": 1043,
@@ -673,6 +695,28 @@
         "form": 9
       },
       {
+        "id": 742,
+        "name": "Jesús Gallardo",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "DEF",
+        "points": 28,
+        "avg": 7,
+        "form": 6.3
+      },
+      {
+        "id": 757,
+        "name": "Raúl Rangel",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "GK",
+        "points": 28,
+        "avg": 7,
+        "form": 7
+      },
+      {
         "id": 1520,
         "name": "Alexander Isak",
         "nation": "Sweden",
@@ -682,6 +726,28 @@
         "points": 28,
         "avg": 7,
         "form": 4
+      },
+      {
+        "id": 740,
+        "name": "Johan Vásquez",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "DEF",
+        "points": 27,
+        "avg": 9,
+        "form": 9
+      },
+      {
+        "id": 517,
+        "name": "Michael Olise",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "points": 27,
+        "avg": 6.8,
+        "form": 7
       },
       {
         "id": 912,
@@ -726,72 +792,6 @@
         "points": 26,
         "avg": 6.5,
         "form": 5.7
-      },
-      {
-        "id": 890,
-        "name": "Matías Galarza",
-        "nation": "Paraguay",
-        "nationAbbr": "PAR",
-        "group": "D",
-        "pos": "MID",
-        "points": 25,
-        "avg": 8.3,
-        "form": 8.3
-      },
-      {
-        "id": 11,
-        "name": "Riyad Mahrez",
-        "nation": "Algeria",
-        "nationAbbr": "ALG",
-        "group": "J",
-        "pos": "MID",
-        "points": 24,
-        "avg": 8,
-        "form": 8
-      },
-      {
-        "id": 248,
-        "name": "Daniel Muñoz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "DEF",
-        "points": 24,
-        "avg": 8,
-        "form": 8
-      },
-      {
-        "id": 916,
-        "name": "Nuno Mendes",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "DEF",
-        "points": 24,
-        "avg": 8,
-        "form": 8
-      },
-      {
-        "id": 1088,
-        "name": "Marc Cucurella",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "points": 24,
-        "avg": 8,
-        "form": 8
-      },
-      {
-        "id": 1149,
-        "name": "Breel Embolo",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "FWD",
-        "points": 24,
-        "avg": 8,
-        "form": 8
       }
     ],
     "mostSelected": [
@@ -802,8 +802,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 64.6,
-        "points": 44
+        "ownPct": 64.7,
+        "points": 50
       },
       {
         "id": 38,
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 50.2,
+        "ownPct": 50.3,
         "points": 40
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 42.5,
+        "ownPct": 42.6,
         "points": 37
       },
       {
@@ -872,8 +872,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.8,
-        "points": 23
+        "ownPct": 34.9,
+        "points": 27
       },
       {
         "id": 501,
@@ -882,7 +882,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.2,
+        "ownPct": 34.4,
         "points": 41
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 32.6,
+        "ownPct": 32.7,
         "points": 24
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 30.3,
+        "ownPct": 30.4,
         "points": 38
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 25,
+        "ownPct": 25.2,
         "points": 22
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 24.9,
+        "ownPct": 25,
         "points": 26
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 13.2,
+        "ownPct": 13.3,
         "points": 28
       },
       {
@@ -1002,7 +1002,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 12.3,
+        "ownPct": 12.4,
         "points": 16
       },
       {
@@ -1032,7 +1032,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 10.6,
+        "ownPct": 10.8,
         "points": 31
       },
       {

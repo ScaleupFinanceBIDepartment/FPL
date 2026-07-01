@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-01T04:48:10+00:00",
+    "generatedAt": "2026-07-01T10:07:21+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 727,
+    "playerCount": 649,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 79,
     "note": "79 kampe spillet — mål, assists og point er live."
@@ -155,16 +155,6 @@
         "assists": 1
       },
       {
-        "id": 308,
-        "name": "Nicolas Pépé",
-        "nation": "Côte d'Ivoire",
-        "nationAbbr": "CIV",
-        "group": "E",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 1
-      },
-      {
         "id": 491,
         "name": "Jude Bellingham",
         "nation": "England",
@@ -245,22 +235,32 @@
         "assists": 0
       },
       {
-        "id": 310,
-        "name": "Amad Diallo",
-        "nation": "Côte d'Ivoire",
-        "nationAbbr": "CIV",
-        "group": "E",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
         "id": 748,
         "name": "Raúl Jiménez",
         "nation": "Mexico",
         "nationAbbr": "MEX",
         "group": "A",
         "pos": "FWD",
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "id": 1267,
+        "name": "Folarin Balogun",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "FWD",
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "id": 1342,
+        "name": "Ermin Mahmic",
+        "nation": "Bosnia and Herzegovina",
+        "nationAbbr": "BIH",
+        "group": "B",
+        "pos": "MID",
         "goals": 2,
         "assists": 0
       }
@@ -285,16 +285,6 @@
         "pos": "MID",
         "assists": 4,
         "goals": 0
-      },
-      {
-        "id": 1520,
-        "name": "Alexander Isak",
-        "nation": "Sweden",
-        "nationAbbr": "SWE",
-        "group": "F",
-        "pos": "FWD",
-        "assists": 3,
-        "goals": 1
       },
       {
         "id": 752,
@@ -362,16 +352,6 @@
         "nation": "Senegal",
         "nationAbbr": "SEN",
         "group": "I",
-        "pos": "FWD",
-        "assists": 2,
-        "goals": 1
-      },
-      {
-        "id": 1124,
-        "name": "Viktor Gyökeres",
-        "nation": "Sweden",
-        "nationAbbr": "SWE",
-        "group": "F",
         "pos": "FWD",
         "assists": 2,
         "goals": 1
@@ -487,16 +467,6 @@
         "goals": 2
       },
       {
-        "id": 308,
-        "name": "Nicolas Pépé",
-        "nation": "Côte d'Ivoire",
-        "nationAbbr": "CIV",
-        "group": "E",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 2
-      },
-      {
         "id": 491,
         "name": "Jude Bellingham",
         "nation": "England",
@@ -511,6 +481,36 @@
         "name": "Pape Gueye",
         "nation": "Senegal",
         "nationAbbr": "SEN",
+        "group": "I",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 2
+      },
+      {
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 2
+      },
+      {
+        "id": 1158,
+        "name": "Rubén Vargas",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 2
+      },
+      {
+        "id": 1431,
+        "name": "Bradley Barcola",
+        "nation": "France",
+        "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
         "assists": 1,
@@ -717,17 +717,6 @@
         "form": 7
       },
       {
-        "id": 1520,
-        "name": "Alexander Isak",
-        "nation": "Sweden",
-        "nationAbbr": "SWE",
-        "group": "F",
-        "pos": "FWD",
-        "points": 28,
-        "avg": 7,
-        "form": 4
-      },
-      {
         "id": 740,
         "name": "Johan Vásquez",
         "nation": "Mexico",
@@ -783,15 +772,26 @@
         "form": 8.7
       },
       {
-        "id": 310,
-        "name": "Amad Diallo",
-        "nation": "Côte d'Ivoire",
-        "nationAbbr": "CIV",
-        "group": "E",
-        "pos": "FWD",
-        "points": 26,
-        "avg": 6.5,
-        "form": 5.7
+        "id": 741,
+        "name": "César Montes",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "DEF",
+        "points": 25,
+        "avg": 8.3,
+        "form": 8.3
+      },
+      {
+        "id": 890,
+        "name": "Matías Galarza",
+        "nation": "Paraguay",
+        "nationAbbr": "PAR",
+        "group": "D",
+        "pos": "MID",
+        "points": 25,
+        "avg": 8.3,
+        "form": 8.3
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 64.7,
+        "ownPct": 64.8,
         "points": 50
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 50.3,
+        "ownPct": 50.4,
         "points": 40
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 42.6,
+        "ownPct": 42.7,
         "points": 37
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 37.2,
+        "ownPct": 37.3,
         "points": 24
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.9,
+        "ownPct": 35.1,
         "points": 27
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.4,
+        "ownPct": 34.5,
         "points": 41
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 32.7,
+        "ownPct": 32.8,
         "points": 24
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 30.3,
+        "ownPct": 30.2,
         "points": 13
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 25.2,
+        "ownPct": 25.3,
         "points": 22
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 18.1,
+        "ownPct": 18.2,
         "points": 21
       },
       {
@@ -1032,7 +1032,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 10.8,
+        "ownPct": 10.9,
         "points": 31
       },
       {

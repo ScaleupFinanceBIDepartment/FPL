@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-07-01T20:07:15+00:00",
+  "fetchedAt": "2026-07-01T22:24:03+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -11,8 +11,8 @@
       "rank": 1,
       "managerName": "VikingPlaymaker",
       "teamName": "",
-      "points": 338,
-      "lastRoundPoints": 78
+      "points": 335,
+      "lastRoundPoints": 75
     },
     {
       "rank": 2,
@@ -32,43 +32,43 @@
       "rank": 4,
       "managerName": "Sec United",
       "teamName": "",
-      "points": 285,
-      "lastRoundPoints": 54
+      "points": 286,
+      "lastRoundPoints": 55
     },
     {
       "rank": 5,
       "managerName": "Anders Zaar",
       "teamName": "",
-      "points": 279,
-      "lastRoundPoints": 22
+      "points": 284,
+      "lastRoundPoints": 27
     },
     {
       "rank": 6,
-      "managerName": "ESI1994",
+      "managerName": "Don-O",
       "teamName": "",
-      "points": 276,
-      "lastRoundPoints": 60
+      "points": 281,
+      "lastRoundPoints": 61
     },
     {
       "rank": 7,
-      "managerName": "Don-O",
+      "managerName": "ESI1994",
       "teamName": "",
-      "points": 272,
-      "lastRoundPoints": 52
+      "points": 277,
+      "lastRoundPoints": 61
     },
     {
       "rank": 8,
       "managerName": "Doktor Svin",
       "teamName": "",
-      "points": 251,
-      "lastRoundPoints": 10
+      "points": 252,
+      "lastRoundPoints": 11
     },
     {
       "rank": 9,
       "managerName": "HvemkanAnnika",
       "teamName": "",
-      "points": 249,
-      "lastRoundPoints": 23
+      "points": 251,
+      "lastRoundPoints": 25
     },
     {
       "rank": 10,

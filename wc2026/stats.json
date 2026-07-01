@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-01T20:07:15+00:00",
+    "generatedAt": "2026-07-01T22:24:03+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 649,
     "tournamentStart": "2026-06-11",
@@ -75,21 +75,21 @@
         "assists": 1
       },
       {
-        "id": 750,
-        "name": "Julián Quiñones",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "FWD",
-        "goals": 3,
-        "assists": 1
-      },
-      {
         "id": 1043,
         "name": "Ismaïla Sarr",
         "nation": "Senegal",
         "nationAbbr": "SEN",
         "group": "I",
+        "pos": "FWD",
+        "goals": 4,
+        "assists": 1
+      },
+      {
+        "id": 750,
+        "name": "Julián Quiñones",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
         "pos": "FWD",
         "goals": 3,
         "assists": 1
@@ -155,6 +155,16 @@
         "assists": 1
       },
       {
+        "id": 124,
+        "name": "Romelu Lukaku",
+        "nation": "Belgium",
+        "nationAbbr": "BEL",
+        "group": "G",
+        "pos": "FWD",
+        "goals": 2,
+        "assists": 1
+      },
+      {
         "id": 491,
         "name": "Jude Bellingham",
         "nation": "England",
@@ -205,6 +215,16 @@
         "assists": 1
       },
       {
+        "id": 1526,
+        "name": "Leandro Trossard",
+        "nation": "Belgium",
+        "nationAbbr": "BEL",
+        "group": "G",
+        "pos": "MID",
+        "goals": 2,
+        "assists": 1
+      },
+      {
         "id": 95,
         "name": "Marko Arnautovic",
         "nation": "Austria",
@@ -241,26 +261,6 @@
         "nationAbbr": "MEX",
         "group": "A",
         "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 1267,
-        "name": "Folarin Balogun",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 1342,
-        "name": "Ermin Mahmic",
-        "nation": "Bosnia and Herzegovina",
-        "nationAbbr": "BIH",
-        "group": "B",
-        "pos": "MID",
         "goals": 2,
         "assists": 0
       }
@@ -437,21 +437,21 @@
         "goals": 4
       },
       {
-        "id": 750,
-        "name": "Julián Quiñones",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 3
-      },
-      {
         "id": 1043,
         "name": "Ismaïla Sarr",
         "nation": "Senegal",
         "nationAbbr": "SEN",
         "group": "I",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 4
+      },
+      {
+        "id": 750,
+        "name": "Julián Quiñones",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
         "pos": "FWD",
         "assists": 1,
         "goals": 3
@@ -473,6 +473,16 @@
         "nationAbbr": "ALG",
         "group": "J",
         "pos": "MID",
+        "assists": 1,
+        "goals": 2
+      },
+      {
+        "id": 124,
+        "name": "Romelu Lukaku",
+        "nation": "Belgium",
+        "nationAbbr": "BEL",
+        "group": "G",
+        "pos": "FWD",
         "assists": 1,
         "goals": 2
       },
@@ -505,16 +515,6 @@
         "pos": "FWD",
         "assists": 1,
         "goals": 2
-      },
-      {
-        "id": 1158,
-        "name": "Rubén Vargas",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 2
       }
     ],
     "topPoints": [
@@ -528,6 +528,17 @@
         "points": 50,
         "avg": 12.5,
         "form": 12
+      },
+      {
+        "id": 1043,
+        "name": "Ismaïla Sarr",
+        "nation": "Senegal",
+        "nationAbbr": "SEN",
+        "group": "I",
+        "pos": "FWD",
+        "points": 42,
+        "avg": 10.5,
+        "form": 13.3
       },
       {
         "id": 501,
@@ -607,17 +618,6 @@
         "form": 7
       },
       {
-        "id": 1043,
-        "name": "Ismaïla Sarr",
-        "nation": "Senegal",
-        "nationAbbr": "SEN",
-        "group": "I",
-        "pos": "FWD",
-        "points": 31,
-        "avg": 7.8,
-        "form": 9.7
-      },
-      {
         "id": 1361,
         "name": "Bruno Guimarães",
         "nation": "Brazil",
@@ -671,6 +671,17 @@
         "points": 29,
         "avg": 9.7,
         "form": 9.7
+      },
+      {
+        "id": 1526,
+        "name": "Leandro Trossard",
+        "nation": "Belgium",
+        "nationAbbr": "BEL",
+        "group": "G",
+        "pos": "MID",
+        "points": 29,
+        "avg": 7.3,
+        "form": 9
       },
       {
         "id": 1086,
@@ -781,17 +792,6 @@
         "points": 27,
         "avg": 6.8,
         "form": 6
-      },
-      {
-        "id": 741,
-        "name": "César Montes",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "DEF",
-        "points": 25,
-        "avg": 8.3,
-        "form": 8.3
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 65,
+        "ownPct": 65.1,
         "points": 50
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 35.2,
+        "ownPct": 35.3,
         "points": 27
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 34.7,
+        "ownPct": 34.8,
         "points": 41
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 32.8,
+        "ownPct": 32.9,
         "points": 24
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 30.4,
+        "ownPct": 30.3,
         "points": 38
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 13.4,
+        "ownPct": 13.5,
         "points": 28
       },
       {

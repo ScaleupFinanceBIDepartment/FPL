@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-01T14:53:59+00:00",
+    "generatedAt": "2026-07-01T17:21:43+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 649,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 79,
-    "note": "79 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 80,
+    "note": "80 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -657,9 +657,9 @@
         "nationAbbr": "COD",
         "group": "K",
         "pos": "FWD",
-        "points": 28,
-        "avg": 9.3,
-        "form": 9.3
+        "points": 29,
+        "avg": 7.3,
+        "form": 6.7
       },
       {
         "id": 1086,
@@ -768,8 +768,8 @@
         "group": "L",
         "pos": "MID",
         "points": 26,
-        "avg": 8.7,
-        "form": 8.7
+        "avg": 6.5,
+        "form": 5.7
       },
       {
         "id": 741,
@@ -833,7 +833,7 @@
         "group": "L",
         "pos": "FWD",
         "ownPct": 40.4,
-        "points": 23
+        "points": 24
       },
       {
         "id": 1092,
@@ -922,7 +922,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 25.3,
+        "ownPct": 25.4,
         "points": 22
       },
       {
@@ -953,7 +953,7 @@
         "group": "L",
         "pos": "GK",
         "ownPct": 17.1,
-        "points": 16
+        "points": 17
       },
       {
         "id": 248,
@@ -962,7 +962,7 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 16.8,
+        "ownPct": 16.9,
         "points": 24
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 15,
+        "ownPct": 15.1,
         "points": 20
       },
       {
@@ -1013,7 +1013,7 @@
         "group": "L",
         "pos": "DEF",
         "ownPct": 11.8,
-        "points": 9
+        "points": 10
       },
       {
         "id": 2031,
@@ -1032,7 +1032,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 10.9,
+        "ownPct": 11,
         "points": 31
       },
       {

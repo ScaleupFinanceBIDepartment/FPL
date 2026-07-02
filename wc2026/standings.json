@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-07-01T22:24:03+00:00",
+  "fetchedAt": "2026-07-02T04:15:53+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -25,8 +25,8 @@
       "rank": 3,
       "managerName": "HC WIN",
       "teamName": "",
-      "points": 315,
-      "lastRoundPoints": 50
+      "points": 320,
+      "lastRoundPoints": 55
     },
     {
       "rank": 4,
@@ -39,15 +39,15 @@
       "rank": 5,
       "managerName": "Anders Zaar",
       "teamName": "",
-      "points": 284,
-      "lastRoundPoints": 27
+      "points": 285,
+      "lastRoundPoints": 28
     },
     {
       "rank": 6,
       "managerName": "Don-O",
       "teamName": "",
-      "points": 281,
-      "lastRoundPoints": 61
+      "points": 282,
+      "lastRoundPoints": 62
     },
     {
       "rank": 7,
@@ -60,15 +60,15 @@
       "rank": 8,
       "managerName": "Doktor Svin",
       "teamName": "",
-      "points": 252,
-      "lastRoundPoints": 11
+      "points": 253,
+      "lastRoundPoints": 12
     },
     {
       "rank": 9,
       "managerName": "HvemkanAnnika",
       "teamName": "",
-      "points": 251,
-      "lastRoundPoints": 25
+      "points": 252,
+      "lastRoundPoints": 26
     },
     {
       "rank": 10,

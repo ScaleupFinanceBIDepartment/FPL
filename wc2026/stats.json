@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-02T04:15:53+00:00",
+    "generatedAt": "2026-07-02T09:29:01+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 649,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 65.1,
+        "ownPct": 65.2,
         "points": 50
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 40.5,
+        "ownPct": 40.6,
         "points": 36
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 25.6,
+        "ownPct": 25.7,
         "points": 22
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 25,
+        "ownPct": 25.1,
         "points": 27
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 17.1,
+        "ownPct": 17,
         "points": 18
       },
       {
@@ -1032,7 +1032,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 11.2,
+        "ownPct": 11.3,
         "points": 31
       },
       {

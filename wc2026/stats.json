@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-02T16:58:53+00:00",
+    "generatedAt": "2026-07-02T19:45:22+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 569,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 82,
-    "note": "82 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 83,
+    "note": "83 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -85,6 +85,16 @@
         "assists": 1
       },
       {
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "FWD",
+        "goals": 3,
+        "assists": 1
+      },
+      {
         "id": 1133,
         "name": "Johan Manzambi",
         "nation": "Switzerland",
@@ -151,16 +161,6 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "goals": 2,
-        "assists": 1
-      },
-      {
-        "id": 1094,
-        "name": "Mikel Oyarzabal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "FWD",
         "goals": 2,
         "assists": 1
       },
@@ -437,6 +437,16 @@
         "goals": 3
       },
       {
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 3
+      },
+      {
         "id": 1133,
         "name": "Johan Manzambi",
         "nation": "Switzerland",
@@ -473,16 +483,6 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "assists": 1,
-        "goals": 2
-      },
-      {
-        "id": 1094,
-        "name": "Mikel Oyarzabal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "FWD",
         "assists": 1,
         "goals": 2
       },
@@ -673,6 +673,17 @@
         "form": 9.7
       },
       {
+        "id": 1086,
+        "name": "Aymeric Laporte",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "points": 29,
+        "avg": 7.3,
+        "form": 6.7
+      },
+      {
         "id": 1526,
         "name": "Leandro Trossard",
         "nation": "Belgium",
@@ -682,17 +693,6 @@
         "points": 29,
         "avg": 7.3,
         "form": 9
-      },
-      {
-        "id": 1086,
-        "name": "Aymeric Laporte",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "points": 28,
-        "avg": 9.3,
-        "form": 9.3
       },
       {
         "id": 1158,
@@ -734,6 +734,17 @@
         "nationAbbr": "MEX",
         "group": "A",
         "pos": "GK",
+        "points": 28,
+        "avg": 7,
+        "form": 7
+      },
+      {
+        "id": 1088,
+        "name": "Marc Cucurella",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
         "points": 28,
         "avg": 7,
         "form": 7
@@ -781,17 +792,6 @@
         "points": 27,
         "avg": 6.8,
         "form": 6.7
-      },
-      {
-        "id": 1431,
-        "name": "Bradley Barcola",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "points": 27,
-        "avg": 6.8,
-        "form": 6
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 65.2,
+        "ownPct": 65.3,
         "points": 50
       },
       {
@@ -843,7 +843,7 @@
         "group": "H",
         "pos": "MID",
         "ownPct": 40.3,
-        "points": 11
+        "points": 12
       },
       {
         "id": 916,
@@ -882,7 +882,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 35,
+        "ownPct": 35.1,
         "points": 41
       },
       {
@@ -893,7 +893,7 @@
         "group": "H",
         "pos": "DEF",
         "ownPct": 32.9,
-        "points": 24
+        "points": 28
       },
       {
         "id": 855,
@@ -993,7 +993,7 @@
         "group": "H",
         "pos": "DEF",
         "ownPct": 13.5,
-        "points": 28
+        "points": 29
       },
       {
         "id": 1429,
@@ -1043,7 +1043,7 @@
         "group": "H",
         "pos": "GK",
         "ownPct": 10.5,
-        "points": 21
+        "points": 22
       }
     ]
   }

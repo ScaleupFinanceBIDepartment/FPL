@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-02T14:24:54+00:00",
+    "generatedAt": "2026-07-02T16:58:53+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 570,
+    "playerCount": 569,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 82,
     "note": "82 kampe spillet — mål, assists og point er live."
@@ -121,16 +121,6 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "goals": 3,
-        "assists": 0
-      },
-      {
-        "id": 1267,
-        "name": "Folarin Balogun",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "FWD",
         "goals": 3,
         "assists": 0
       },
@@ -263,6 +253,16 @@
         "pos": "FWD",
         "goals": 2,
         "assists": 0
+      },
+      {
+        "id": 241,
+        "name": "Nathan Saliba",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 2
       }
     ],
     "topAssists": [
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 50.6,
+        "ownPct": 50.7,
         "points": 40
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 25.7,
+        "ownPct": 25.8,
         "points": 22
       },
       {
@@ -1032,7 +1032,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 11.3,
+        "ownPct": 11.4,
         "points": 31
       },
       {

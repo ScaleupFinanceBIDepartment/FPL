@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-02T22:15:15+00:00",
+    "generatedAt": "2026-07-03T04:02:18+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 569,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 83,
-    "note": "83 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 85,
+    "note": "85 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -85,22 +85,22 @@
         "assists": 1
       },
       {
-        "id": 750,
-        "name": "Julián Quiñones",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "FWD",
-        "goals": 3,
-        "assists": 1
-      },
-      {
         "id": 1133,
         "name": "Johan Manzambi",
         "nation": "Switzerland",
         "nationAbbr": "SUI",
         "group": "B",
         "pos": "MID",
+        "goals": 3,
+        "assists": 2
+      },
+      {
+        "id": 750,
+        "name": "Julián Quiñones",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "FWD",
         "goals": 3,
         "assists": 1
       },
@@ -133,6 +133,26 @@
         "pos": "MID",
         "goals": 3,
         "assists": 0
+      },
+      {
+        "id": 1573,
+        "name": "Cristiano Ronaldo",
+        "nation": "Portugal",
+        "nationAbbr": "POR",
+        "group": "K",
+        "pos": "FWD",
+        "goals": 3,
+        "assists": 0
+      },
+      {
+        "id": 1149,
+        "name": "Breel Embolo",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "FWD",
+        "goals": 2,
+        "assists": 2
       },
       {
         "id": 11,
@@ -243,26 +263,6 @@
         "pos": "FWD",
         "goals": 2,
         "assists": 0
-      },
-      {
-        "id": 1573,
-        "name": "Cristiano Ronaldo",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 241,
-        "name": "Nathan Saliba",
-        "nation": "Canada",
-        "nationAbbr": "CAN",
-        "group": "B",
-        "pos": "MID",
-        "goals": 1,
-        "assists": 2
       }
     ],
     "topAssists": [
@@ -327,6 +327,26 @@
         "goals": 4
       },
       {
+        "id": 1133,
+        "name": "Johan Manzambi",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "assists": 2,
+        "goals": 3
+      },
+      {
+        "id": 1149,
+        "name": "Breel Embolo",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "FWD",
+        "assists": 2,
+        "goals": 2
+      },
+      {
         "id": 241,
         "name": "Nathan Saliba",
         "nation": "Canada",
@@ -343,16 +363,6 @@
         "nationAbbr": "PAR",
         "group": "D",
         "pos": "MID",
-        "assists": 2,
-        "goals": 1
-      },
-      {
-        "id": 1149,
-        "name": "Breel Embolo",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "FWD",
         "assists": 2,
         "goals": 1
       },
@@ -453,16 +463,6 @@
         "nationAbbr": "MEX",
         "group": "A",
         "pos": "FWD",
-        "assists": 1,
-        "goals": 3
-      },
-      {
-        "id": 1133,
-        "name": "Johan Manzambi",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
         "assists": 1,
         "goals": 3
       },
@@ -629,6 +629,28 @@
         "form": 10.3
       },
       {
+        "id": 1133,
+        "name": "Johan Manzambi",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "points": 33,
+        "avg": 8.3,
+        "form": 10.7
+      },
+      {
+        "id": 1149,
+        "name": "Breel Embolo",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "FWD",
+        "points": 32,
+        "avg": 8,
+        "form": 7.7
+      },
+      {
         "id": 2031,
         "name": "Sergiño Dest",
         "nation": "USA",
@@ -695,15 +717,15 @@
         "form": 9.3
       },
       {
-        "id": 1133,
-        "name": "Johan Manzambi",
+        "id": 1158,
+        "name": "Rubén Vargas",
         "nation": "Switzerland",
         "nationAbbr": "SUI",
         "group": "B",
         "pos": "MID",
         "points": 29,
-        "avg": 9.7,
-        "form": 9.7
+        "avg": 7.3,
+        "form": 8.7
       },
       {
         "id": 1526,
@@ -715,17 +737,6 @@
         "points": 29,
         "avg": 7.3,
         "form": 9
-      },
-      {
-        "id": 1158,
-        "name": "Rubén Vargas",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "points": 28,
-        "avg": 9.3,
-        "form": 9.3
       },
       {
         "id": 174,
@@ -781,17 +792,6 @@
         "points": 28,
         "avg": 7,
         "form": 7
-      },
-      {
-        "id": 740,
-        "name": "Johan Vásquez",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "DEF",
-        "points": 27,
-        "avg": 9,
-        "form": 9
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 65.4,
+        "ownPct": 65.5,
         "points": 50
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 42.9,
+        "ownPct": 43,
         "points": 37
       },
       {
@@ -853,7 +853,7 @@
         "group": "K",
         "pos": "DEF",
         "ownPct": 37.3,
-        "points": 24
+        "points": 26
       },
       {
         "id": 517,
@@ -862,7 +862,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 35.7,
+        "ownPct": 35.8,
         "points": 27
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 35.4,
+        "ownPct": 35.5,
         "points": 16
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 35.2,
+        "ownPct": 35.3,
         "points": 41
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 33.1,
+        "ownPct": 33.3,
         "points": 37
       },
       {
@@ -912,8 +912,8 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 30.1,
-        "points": 13
+        "ownPct": 30,
+        "points": 15
       },
       {
         "id": 2012,
@@ -922,7 +922,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 25.9,
+        "ownPct": 26,
         "points": 22
       },
       {
@@ -1012,8 +1012,18 @@
         "nationAbbr": "USA",
         "group": "D",
         "pos": "DEF",
-        "ownPct": 11.8,
+        "ownPct": 11.9,
         "points": 32
+      },
+      {
+        "id": 792,
+        "name": "Ismael Saibari",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 11.7,
+        "points": 31
       },
       {
         "id": 457,
@@ -1026,23 +1036,13 @@
         "points": 11
       },
       {
-        "id": 792,
-        "name": "Ismael Saibari",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 11.6,
-        "points": 31
-      },
-      {
         "id": 1099,
         "name": "Unai Simón",
         "nation": "Spain",
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 10.5,
+        "ownPct": 10.6,
         "points": 28
       }
     ]

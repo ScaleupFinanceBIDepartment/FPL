@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-03T04:02:18+00:00",
+    "generatedAt": "2026-07-03T09:31:59+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 569,
+    "playerCount": 491,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 85,
     "note": "85 kampe spillet — mål, assists og point er live."
@@ -155,16 +155,6 @@
         "assists": 2
       },
       {
-        "id": 11,
-        "name": "Riyad Mahrez",
-        "nation": "Algeria",
-        "nationAbbr": "ALG",
-        "group": "J",
-        "pos": "MID",
-        "goals": 2,
-        "assists": 1
-      },
-      {
         "id": 124,
         "name": "Romelu Lukaku",
         "nation": "Belgium",
@@ -215,16 +205,6 @@
         "assists": 1
       },
       {
-        "id": 95,
-        "name": "Marko Arnautovic",
-        "nation": "Austria",
-        "nationAbbr": "AUT",
-        "group": "J",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
         "id": 137,
         "name": "Youri Tielemans",
         "nation": "Belgium",
@@ -263,6 +243,26 @@
         "pos": "FWD",
         "goals": 2,
         "assists": 0
+      },
+      {
+        "id": 241,
+        "name": "Nathan Saliba",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "id": 912,
+        "name": "Julio Enciso",
+        "nation": "Paraguay",
+        "nationAbbr": "PAR",
+        "group": "D",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 2
       }
     ],
     "topAssists": [
@@ -377,16 +377,6 @@
         "goals": 1
       },
       {
-        "id": 26,
-        "name": "Houssem Aouar",
-        "nation": "Algeria",
-        "nationAbbr": "ALG",
-        "group": "J",
-        "pos": "MID",
-        "assists": 2,
-        "goals": 0
-      },
-      {
         "id": 469,
         "name": "Bukayo Saka",
         "nation": "England",
@@ -467,16 +457,6 @@
         "goals": 3
       },
       {
-        "id": 11,
-        "name": "Riyad Mahrez",
-        "nation": "Algeria",
-        "nationAbbr": "ALG",
-        "group": "J",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 2
-      },
-      {
         "id": 124,
         "name": "Romelu Lukaku",
         "nation": "Belgium",
@@ -515,6 +495,26 @@
         "pos": "MID",
         "assists": 1,
         "goals": 2
+      },
+      {
+        "id": 1526,
+        "name": "Leandro Trossard",
+        "nation": "Belgium",
+        "nationAbbr": "BEL",
+        "group": "G",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 2
+      },
+      {
+        "id": 256,
+        "name": "Luis Díaz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 1
       }
     ],
     "topPoints": [
@@ -607,6 +607,17 @@
         "form": 8.7
       },
       {
+        "id": 1133,
+        "name": "Johan Manzambi",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "points": 35,
+        "avg": 8.8,
+        "form": 11.3
+      },
+      {
         "id": 750,
         "name": "Julián Quiñones",
         "nation": "Mexico",
@@ -629,26 +640,15 @@
         "form": 10.3
       },
       {
-        "id": 1133,
-        "name": "Johan Manzambi",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "points": 33,
-        "avg": 8.3,
-        "form": 10.7
-      },
-      {
         "id": 1149,
         "name": "Breel Embolo",
         "nation": "Switzerland",
         "nationAbbr": "SUI",
         "group": "B",
         "pos": "FWD",
-        "points": 32,
-        "avg": 8,
-        "form": 7.7
+        "points": 33,
+        "avg": 8.3,
+        "form": 8
       },
       {
         "id": 2031,
@@ -671,6 +671,17 @@
         "points": 31,
         "avg": 7.8,
         "form": 7
+      },
+      {
+        "id": 1158,
+        "name": "Rubén Vargas",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "points": 31,
+        "avg": 7.8,
+        "form": 9.3
       },
       {
         "id": 1264,
@@ -715,17 +726,6 @@
         "points": 30,
         "avg": 7.5,
         "form": 9.3
-      },
-      {
-        "id": 1158,
-        "name": "Rubén Vargas",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "points": 29,
-        "avg": 7.3,
-        "form": 8.7
       },
       {
         "id": 1526,
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 65.5,
+        "ownPct": 65.6,
         "points": 50
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 50.8,
+        "ownPct": 50.9,
         "points": 40
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 40.7,
+        "ownPct": 40.8,
         "points": 36
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 40.2,
+        "ownPct": 40.1,
         "points": 14
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 37.3,
+        "ownPct": 37.2,
         "points": 26
       },
       {
@@ -862,8 +862,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 35.8,
+        "ownPct": 36,
         "points": 27
+      },
+      {
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "ownPct": 35.6,
+        "points": 41
       },
       {
         "id": 45,
@@ -876,23 +886,13 @@
         "points": 16
       },
       {
-        "id": 501,
-        "name": "Ousmane Dembélé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "ownPct": 35.3,
-        "points": 41
-      },
-      {
         "id": 1088,
         "name": "Marc Cucurella",
         "nation": "Spain",
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 33.3,
+        "ownPct": 33.6,
         "points": 37
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 30.3,
+        "ownPct": 30.2,
         "points": 38
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 30,
+        "ownPct": 29.9,
         "points": 15
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 26,
+        "ownPct": 26.2,
         "points": 22
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 15.2,
+        "ownPct": 15.3,
         "points": 20
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 13.6,
+        "ownPct": 13.7,
         "points": 35
       },
       {
@@ -1012,7 +1012,7 @@
         "nationAbbr": "USA",
         "group": "D",
         "pos": "DEF",
-        "ownPct": 11.9,
+        "ownPct": 12,
         "points": 32
       },
       {
@@ -1022,7 +1022,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 11.7,
+        "ownPct": 11.9,
         "points": 31
       },
       {

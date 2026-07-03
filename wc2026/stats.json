@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-03T14:28:16+00:00",
+    "generatedAt": "2026-07-03T16:42:27+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 491,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 65.7,
+        "ownPct": 65.8,
         "points": 50
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 40.8,
+        "ownPct": 40.9,
         "points": 36
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 40,
+        "ownPct": 39.9,
         "points": 14
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 36.2,
+        "ownPct": 36.3,
         "points": 27
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 29.8,
+        "ownPct": 29.7,
         "points": 15
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 26.4,
+        "ownPct": 26.5,
         "points": 22
       },
       {
@@ -942,18 +942,8 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 18.3,
+        "ownPct": 18.4,
         "points": 21
-      },
-      {
-        "id": 477,
-        "name": "Jordan Pickford",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "GK",
-        "ownPct": 17,
-        "points": 18
       },
       {
         "id": 248,
@@ -964,6 +954,16 @@
         "pos": "DEF",
         "ownPct": 16.9,
         "points": 24
+      },
+      {
+        "id": 477,
+        "name": "Jordan Pickford",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "GK",
+        "ownPct": 16.9,
+        "points": 18
       },
       {
         "id": 256,
@@ -1012,7 +1012,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 12.2,
+        "ownPct": 12.3,
         "points": 31
       },
       {

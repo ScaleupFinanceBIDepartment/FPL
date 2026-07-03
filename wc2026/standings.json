@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-07-03T19:42:41+00:00",
+  "fetchedAt": "2026-07-03T22:12:47+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -81,8 +81,8 @@
       "rank": 11,
       "managerName": "Doktor Svin",
       "teamName": "",
-      "points": 269,
-      "lastRoundPoints": 28
+      "points": 270,
+      "lastRoundPoints": 29
     },
     {
       "rank": 12,

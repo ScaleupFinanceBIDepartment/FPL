@@ -5,15 +5,25 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-03T22:12:46+00:00",
+    "generatedAt": "2026-07-04T03:55:50+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 491,
+    "playerCount": 413,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 87,
-    "note": "87 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 88,
+    "note": "88 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
+      {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "goals": 7,
+        "assists": 0
+      },
       {
         "id": 500,
         "name": "Kylian Mbappé",
@@ -23,16 +33,6 @@
         "pos": "FWD",
         "goals": 6,
         "assists": 2
-      },
-      {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "goals": 6,
-        "assists": 0
       },
       {
         "id": 468,
@@ -519,6 +519,17 @@
     ],
     "topPoints": [
       {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "points": 50,
+        "avg": 12.5,
+        "form": 10.3
+      },
+      {
         "id": 500,
         "name": "Kylian Mbappé",
         "nation": "France",
@@ -528,17 +539,6 @@
         "points": 50,
         "avg": 12.5,
         "form": 12
-      },
-      {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "points": 41,
-        "avg": 10.3,
-        "form": 7.3
       },
       {
         "id": 501,
@@ -662,6 +662,17 @@
         "form": 7.7
       },
       {
+        "id": 248,
+        "name": "Daniel Muñoz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
+        "points": 31,
+        "avg": 7.8,
+        "form": 7.3
+      },
+      {
         "id": 792,
         "name": "Ismael Saibari",
         "nation": "Morocco",
@@ -728,6 +739,28 @@
         "form": 9.3
       },
       {
+        "id": 1318,
+        "name": "Lisandro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
+        "points": 29,
+        "avg": 9.7,
+        "form": 9.7
+      },
+      {
+        "id": 250,
+        "name": "Dávinson Sánchez",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
+        "points": 29,
+        "avg": 7.3,
+        "form": 9
+      },
+      {
         "id": 1526,
         "name": "Leandro Trossard",
         "nation": "Belgium",
@@ -750,48 +783,15 @@
         "form": 9
       },
       {
-        "id": 742,
-        "name": "Jesús Gallardo",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
+        "id": 249,
+        "name": "Jhon Lucumí",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
         "pos": "DEF",
         "points": 28,
         "avg": 7,
-        "form": 6.3
-      },
-      {
-        "id": 757,
-        "name": "Raúl Rangel",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "GK",
-        "points": 28,
-        "avg": 7,
-        "form": 7
-      },
-      {
-        "id": 1089,
-        "name": "Pau Cubarsí",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "points": 28,
-        "avg": 7,
-        "form": 7
-      },
-      {
-        "id": 1099,
-        "name": "Unai Simón",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "GK",
-        "points": 28,
-        "avg": 7,
-        "form": 7
+        "form": 8.7
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 65.9,
+        "ownPct": 66.1,
         "points": 50
       },
       {
@@ -812,8 +812,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 51.1,
-        "points": 41
+        "ownPct": 51.3,
+        "points": 50
       },
       {
         "id": 173,
@@ -832,7 +832,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 40.9,
+        "ownPct": 41.1,
         "points": 36
       },
       {
@@ -842,18 +842,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 39.8,
+        "ownPct": 39.6,
         "points": 14
-      },
-      {
-        "id": 916,
-        "name": "Nuno Mendes",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "DEF",
-        "ownPct": 37.1,
-        "points": 26
       },
       {
         "id": 517,
@@ -862,8 +852,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 36.5,
+        "ownPct": 37,
         "points": 27
+      },
+      {
+        "id": 916,
+        "name": "Nuno Mendes",
+        "nation": "Portugal",
+        "nationAbbr": "POR",
+        "group": "K",
+        "pos": "DEF",
+        "ownPct": 37,
+        "points": 26
       },
       {
         "id": 501,
@@ -872,7 +872,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 36.1,
+        "ownPct": 36.4,
         "points": 41
       },
       {
@@ -883,7 +883,7 @@
         "group": "J",
         "pos": "GK",
         "ownPct": 35.5,
-        "points": 17
+        "points": 18
       },
       {
         "id": 1088,
@@ -892,7 +892,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 34.1,
+        "ownPct": 34.5,
         "points": 37
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 30.1,
+        "ownPct": 30,
         "points": 38
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 29.6,
+        "ownPct": 29.4,
         "points": 15
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 26.7,
+        "ownPct": 27.1,
         "points": 22
       },
       {
@@ -952,8 +952,8 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 16.9,
-        "points": 24
+        "ownPct": 17,
+        "points": 31
       },
       {
         "id": 477,
@@ -972,8 +972,8 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 15.7,
-        "points": 17
+        "ownPct": 15.6,
+        "points": 20
       },
       {
         "id": 1320,
@@ -983,7 +983,7 @@
         "group": "J",
         "pos": "DEF",
         "ownPct": 15.4,
-        "points": 21
+        "points": 22
       },
       {
         "id": 1086,
@@ -996,24 +996,24 @@
         "points": 35
       },
       {
-        "id": 1429,
-        "name": "William Saliba",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 12.6,
-        "points": 16
-      },
-      {
         "id": 792,
         "name": "Ismael Saibari",
         "nation": "Morocco",
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 12.5,
+        "ownPct": 13.1,
         "points": 31
+      },
+      {
+        "id": 1429,
+        "name": "William Saliba",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 12.7,
+        "points": 16
       },
       {
         "id": 2031,
@@ -1022,7 +1022,7 @@
         "nationAbbr": "USA",
         "group": "D",
         "pos": "DEF",
-        "ownPct": 12.3,
+        "ownPct": 12.5,
         "points": 32
       },
       {

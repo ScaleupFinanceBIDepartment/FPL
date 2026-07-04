@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-04T08:48:33+00:00",
+    "generatedAt": "2026-07-04T10:58:20+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 414,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 66.9,
+        "ownPct": 67.3,
         "points": 50
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 51.8,
+        "ownPct": 52.1,
         "points": 50
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 43.4,
+        "ownPct": 43.5,
         "points": 37
       },
       {
@@ -832,18 +832,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 41.5,
+        "ownPct": 41.7,
         "points": 36
-      },
-      {
-        "id": 1092,
-        "name": "Lamine Yamal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "MID",
-        "ownPct": 38.8,
-        "points": 14
       },
       {
         "id": 517,
@@ -852,8 +842,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 38.5,
+        "ownPct": 39.4,
         "points": 27
+      },
+      {
+        "id": 1092,
+        "name": "Lamine Yamal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "ownPct": 38.3,
+        "points": 14
       },
       {
         "id": 501,
@@ -862,7 +862,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 37.5,
+        "ownPct": 38,
         "points": 41
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 36.4,
+        "ownPct": 36.1,
         "points": 26
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 35.5,
+        "ownPct": 36,
         "points": 37
       },
       {
@@ -902,18 +902,8 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 29.5,
+        "ownPct": 29.3,
         "points": 38
-      },
-      {
-        "id": 939,
-        "name": "Bruno Fernandes",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "MID",
-        "ownPct": 28.8,
-        "points": 15
       },
       {
         "id": 2012,
@@ -922,8 +912,18 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 28.5,
+        "ownPct": 29.3,
         "points": 22
+      },
+      {
+        "id": 939,
+        "name": "Bruno Fernandes",
+        "nation": "Portugal",
+        "nationAbbr": "POR",
+        "group": "K",
+        "pos": "MID",
+        "ownPct": 28.5,
+        "points": 15
       },
       {
         "id": 491,
@@ -932,7 +932,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 24.6,
+        "ownPct": 24.3,
         "points": 27
       },
       {
@@ -952,7 +952,17 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 17.6,
+        "ownPct": 18,
+        "points": 31
+      },
+      {
+        "id": 792,
+        "name": "Ismael Saibari",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 16.5,
         "points": 31
       },
       {
@@ -962,7 +972,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 16.6,
+        "ownPct": 16.4,
         "points": 18
       },
       {
@@ -986,16 +996,6 @@
         "points": 22
       },
       {
-        "id": 792,
-        "name": "Ismael Saibari",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 15.3,
-        "points": 31
-      },
-      {
         "id": 1086,
         "name": "Aymeric Laporte",
         "nation": "Spain",
@@ -1012,7 +1012,7 @@
         "nationAbbr": "USA",
         "group": "D",
         "pos": "DEF",
-        "ownPct": 13,
+        "ownPct": 13.3,
         "points": 32
       },
       {
@@ -1022,7 +1022,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 12.9,
+        "ownPct": 13.1,
         "points": 16
       },
       {
@@ -1032,18 +1032,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 11.5,
+        "ownPct": 12.1,
         "points": 23
       },
       {
-        "id": 457,
-        "name": "Nico O'Reilly",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
+        "id": 1318,
+        "name": "Lisandro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
         "pos": "DEF",
-        "ownPct": 11.5,
-        "points": 11
+        "ownPct": 12,
+        "points": 29
       }
     ]
   }

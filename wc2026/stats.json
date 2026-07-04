@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-04T16:11:57+00:00",
+    "generatedAt": "2026-07-04T19:33:24+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 414,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 88,
-    "note": "88 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 89,
+    "note": "89 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -215,6 +215,16 @@
         "assists": 1
       },
       {
+        "id": 2023,
+        "name": "Soufiane Rahimi",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "FWD",
+        "goals": 2,
+        "assists": 1
+      },
+      {
         "id": 137,
         "name": "Youri Tielemans",
         "nation": "Belgium",
@@ -253,16 +263,6 @@
         "pos": "MID",
         "goals": 2,
         "assists": 0
-      },
-      {
-        "id": 748,
-        "name": "Raúl Jiménez",
-        "nation": "Mexico",
-        "nationAbbr": "MEX",
-        "group": "A",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
       }
     ],
     "topAssists": [
@@ -281,6 +281,16 @@
         "name": "Bruno Guimarães",
         "nation": "Brazil",
         "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "assists": 4,
+        "goals": 0
+      },
+      {
+        "id": 2020,
+        "name": "Brahim Díaz",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
         "assists": 4,
@@ -377,6 +387,16 @@
         "goals": 1
       },
       {
+        "id": 2012,
+        "name": "Achraf Hakimi",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "DEF",
+        "assists": 2,
+        "goals": 1
+      },
+      {
         "id": 469,
         "name": "Bukayo Saka",
         "nation": "England",
@@ -413,16 +433,6 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "assists": 2,
-        "goals": 0
-      },
-      {
-        "id": 2020,
-        "name": "Brahim Díaz",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
         "assists": 2,
         "goals": 0
       },
@@ -502,16 +512,6 @@
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 2
-      },
-      {
-        "id": 1526,
-        "name": "Leandro Trossard",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
         "pos": "MID",
         "assists": 1,
         "goals": 2
@@ -662,6 +662,17 @@
         "form": 7.7
       },
       {
+        "id": 792,
+        "name": "Ismael Saibari",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "points": 32,
+        "avg": 6.4,
+        "form": 3.7
+      },
+      {
         "id": 248,
         "name": "Daniel Muñoz",
         "nation": "Colombia",
@@ -671,17 +682,6 @@
         "points": 31,
         "avg": 7.8,
         "form": 7.3
-      },
-      {
-        "id": 792,
-        "name": "Ismael Saibari",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "points": 31,
-        "avg": 7.8,
-        "form": 7
       },
       {
         "id": 1158,
@@ -717,6 +717,39 @@
         "form": 7.7
       },
       {
+        "id": 226,
+        "name": "Jonathan David",
+        "nation": "Canada",
+        "nationAbbr": "CAN",
+        "group": "B",
+        "pos": "FWD",
+        "points": 31,
+        "avg": 6.2,
+        "form": 1.7
+      },
+      {
+        "id": 2012,
+        "name": "Achraf Hakimi",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "DEF",
+        "points": 31,
+        "avg": 6.2,
+        "form": 7.3
+      },
+      {
+        "id": 2020,
+        "name": "Brahim Díaz",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "points": 31,
+        "avg": 6.2,
+        "form": 5.3
+      },
+      {
         "id": 743,
         "name": "Jorge Sánchez",
         "nation": "Mexico",
@@ -726,17 +759,6 @@
         "points": 30,
         "avg": 10,
         "form": 10
-      },
-      {
-        "id": 226,
-        "name": "Jonathan David",
-        "nation": "Canada",
-        "nationAbbr": "CAN",
-        "group": "B",
-        "pos": "FWD",
-        "points": 30,
-        "avg": 7.5,
-        "form": 9.3
       },
       {
         "id": 1318,
@@ -770,28 +792,6 @@
         "points": 29,
         "avg": 7.3,
         "form": 9
-      },
-      {
-        "id": 174,
-        "name": "Matheus Cunha",
-        "nation": "Brazil",
-        "nationAbbr": "BRA",
-        "group": "C",
-        "pos": "FWD",
-        "points": 28,
-        "avg": 7,
-        "form": 9
-      },
-      {
-        "id": 249,
-        "name": "Jhon Lucumí",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "DEF",
-        "points": 28,
-        "avg": 7,
-        "form": 8.7
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 68.4,
+        "ownPct": 68.7,
         "points": 50
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 52.9,
+        "ownPct": 53.1,
         "points": 50
       },
       {
@@ -822,18 +822,8 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 43.8,
+        "ownPct": 43.9,
         "points": 37
-      },
-      {
-        "id": 468,
-        "name": "Harry Kane",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "FWD",
-        "ownPct": 42.2,
-        "points": 36
       },
       {
         "id": 517,
@@ -842,8 +832,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 42.1,
+        "ownPct": 43,
         "points": 27
+      },
+      {
+        "id": 468,
+        "name": "Harry Kane",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "FWD",
+        "ownPct": 42.3,
+        "points": 36
       },
       {
         "id": 501,
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 39.7,
+        "ownPct": 40.2,
         "points": 41
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 37.3,
+        "ownPct": 37.6,
         "points": 37
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 36.7,
+        "ownPct": 36,
         "points": 14
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 35.2,
+        "ownPct": 35,
         "points": 26
       },
       {
@@ -902,8 +902,8 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 31.9,
-        "points": 22
+        "ownPct": 33.1,
+        "points": 31
       },
       {
         "id": 855,
@@ -912,7 +912,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 28.5,
+        "ownPct": 28.3,
         "points": 38
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 27.6,
+        "ownPct": 27.3,
         "points": 15
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 23.3,
+        "ownPct": 22.9,
         "points": 27
       },
       {
@@ -942,8 +942,8 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 20.4,
-        "points": 31
+        "ownPct": 22.1,
+        "points": 32
       },
       {
         "id": 248,
@@ -952,7 +952,7 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 19.1,
+        "ownPct": 19.4,
         "points": 31
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 15.9,
+        "ownPct": 15.7,
         "points": 18
       },
       {
@@ -982,18 +982,8 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "MID",
-        "ownPct": 15.6,
+        "ownPct": 15.5,
         "points": 20
-      },
-      {
-        "id": 1320,
-        "name": "Facundo Medina",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "DEF",
-        "ownPct": 15.2,
-        "points": 22
       },
       {
         "id": 1318,
@@ -1002,18 +992,18 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 14.2,
+        "ownPct": 15,
         "points": 29
       },
       {
-        "id": 2031,
-        "name": "Sergiño Dest",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
+        "id": 1320,
+        "name": "Facundo Medina",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
         "pos": "DEF",
-        "ownPct": 14.1,
-        "points": 32
+        "ownPct": 15,
+        "points": 22
       },
       {
         "id": 506,
@@ -1022,8 +1012,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 14,
+        "ownPct": 14.7,
         "points": 23
+      },
+      {
+        "id": 2031,
+        "name": "Sergiño Dest",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "DEF",
+        "ownPct": 14.3,
+        "points": 32
       },
       {
         "id": 1086,
@@ -1042,7 +1042,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.5,
+        "ownPct": 13.6,
         "points": 16
       }
     ]

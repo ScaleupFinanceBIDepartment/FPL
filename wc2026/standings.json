@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-07-04T16:11:57+00:00",
+  "fetchedAt": "2026-07-04T19:33:24+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -11,113 +11,113 @@
       "rank": 1,
       "managerName": "HC WIN",
       "teamName": "",
-      "points": 381,
-      "lastRoundPoints": 116
+      "points": 398,
+      "lastRoundPoints": 17
     },
     {
       "rank": 2,
       "managerName": "DanishNorseman",
       "teamName": "",
       "points": 380,
-      "lastRoundPoints": 105
+      "lastRoundPoints": 0
     },
     {
       "rank": 3,
       "managerName": "VikingPlaymaker",
       "teamName": "",
       "points": 372,
-      "lastRoundPoints": 112
+      "lastRoundPoints": 0
     },
     {
       "rank": 4,
       "managerName": "Anders Zaar",
       "teamName": "",
       "points": 321,
-      "lastRoundPoints": 64
+      "lastRoundPoints": 0
     },
     {
       "rank": 5,
       "managerName": "Sec United",
       "teamName": "",
       "points": 314,
-      "lastRoundPoints": 83
+      "lastRoundPoints": 0
     },
     {
       "rank": 6,
-      "managerName": "ESI1994",
+      "managerName": "Testtesttest",
       "teamName": "",
-      "points": 302,
-      "lastRoundPoints": 86
+      "points": 301,
+      "lastRoundPoints": 9
     },
     {
       "rank": 7,
-      "managerName": "Testtesttest",
+      "managerName": "Don-O",
       "teamName": "",
-      "points": 292,
-      "lastRoundPoints": 89
+      "points": 295,
+      "lastRoundPoints": 9
     },
     {
       "rank": 8,
-      "managerName": "Doktor Svin",
+      "managerName": "ESI1994",
       "teamName": "",
-      "points": 291,
-      "lastRoundPoints": 50
+      "points": 293,
+      "lastRoundPoints": -9
     },
     {
       "rank": 9,
-      "managerName": "Don-O",
+      "managerName": "Doktor Svin",
       "teamName": "",
-      "points": 286,
-      "lastRoundPoints": 66
+      "points": 291,
+      "lastRoundPoints": 0
     },
     {
       "rank": 10,
-      "managerName": "HvemkanAnnika",
+      "managerName": "irs97",
       "teamName": "",
-      "points": 285,
-      "lastRoundPoints": 59
+      "points": 289,
+      "lastRoundPoints": 9
     },
     {
       "rank": 11,
-      "managerName": "irs97",
+      "managerName": "HvemkanAnnika",
       "teamName": "",
-      "points": 280,
-      "lastRoundPoints": 43
+      "points": 285,
+      "lastRoundPoints": 0
     },
     {
       "rank": 12,
-      "managerName": "Hedge Fund Hooligans",
+      "managerName": "rehpotsirhc",
       "teamName": "",
-      "points": 275,
-      "lastRoundPoints": 79
+      "points": 276,
+      "lastRoundPoints": 2
     },
     {
       "rank": 13,
-      "managerName": "rehpotsirhc",
+      "managerName": "Hedge Fund Hooligans",
       "teamName": "",
-      "points": 274,
-      "lastRoundPoints": 78
+      "points": 275,
+      "lastRoundPoints": 0
     },
     {
       "rank": 14,
       "managerName": "Lukasworm",
       "teamName": "",
       "points": 251,
-      "lastRoundPoints": 63
+      "lastRoundPoints": 0
     },
     {
       "rank": 15,
       "managerName": "Aaquist",
       "teamName": "",
       "points": 229,
-      "lastRoundPoints": 65
+      "lastRoundPoints": 0
     },
     {
       "rank": 16,
       "managerName": "Carroev",
       "teamName": "",
       "points": 204,
-      "lastRoundPoints": 76
+      "lastRoundPoints": 0
     }
   ]
 }

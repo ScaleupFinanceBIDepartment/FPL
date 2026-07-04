@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-04T10:58:20+00:00",
+    "generatedAt": "2026-07-04T13:53:19+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 414,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 67.3,
+        "ownPct": 67.8,
         "points": 50
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 52.1,
+        "ownPct": 52.4,
         "points": 50
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 43.5,
+        "ownPct": 43.6,
         "points": 37
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 41.7,
+        "ownPct": 41.9,
         "points": 36
       },
       {
@@ -842,18 +842,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 39.4,
+        "ownPct": 40.6,
         "points": 27
-      },
-      {
-        "id": 1092,
-        "name": "Lamine Yamal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "MID",
-        "ownPct": 38.3,
-        "points": 14
       },
       {
         "id": 501,
@@ -862,18 +852,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 38,
+        "ownPct": 38.8,
         "points": 41
       },
       {
-        "id": 916,
-        "name": "Nuno Mendes",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "DEF",
-        "ownPct": 36.1,
-        "points": 26
+        "id": 1092,
+        "name": "Lamine Yamal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "ownPct": 37.6,
+        "points": 14
       },
       {
         "id": 1088,
@@ -882,8 +872,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 36,
+        "ownPct": 36.6,
         "points": 37
+      },
+      {
+        "id": 916,
+        "name": "Nuno Mendes",
+        "nation": "Portugal",
+        "nationAbbr": "POR",
+        "group": "K",
+        "pos": "DEF",
+        "ownPct": 35.7,
+        "points": 26
       },
       {
         "id": 45,
@@ -896,24 +896,24 @@
         "points": 18
       },
       {
-        "id": 855,
-        "name": "Erling Haaland",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "FWD",
-        "ownPct": 29.3,
-        "points": 38
-      },
-      {
         "id": 2012,
         "name": "Achraf Hakimi",
         "nation": "Morocco",
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 29.3,
+        "ownPct": 30.4,
         "points": 22
+      },
+      {
+        "id": 855,
+        "name": "Erling Haaland",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "FWD",
+        "ownPct": 28.9,
+        "points": 38
       },
       {
         "id": 939,
@@ -922,7 +922,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 28.5,
+        "ownPct": 28.1,
         "points": 15
       },
       {
@@ -932,8 +932,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 24.3,
+        "ownPct": 23.9,
         "points": 27
+      },
+      {
+        "id": 248,
+        "name": "Daniel Muñoz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
+        "ownPct": 18.5,
+        "points": 31
       },
       {
         "id": 164,
@@ -946,23 +956,13 @@
         "points": 21
       },
       {
-        "id": 248,
-        "name": "Daniel Muñoz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "DEF",
-        "ownPct": 18,
-        "points": 31
-      },
-      {
         "id": 792,
         "name": "Ismael Saibari",
         "nation": "Morocco",
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 16.5,
+        "ownPct": 18.2,
         "points": 31
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 16.4,
+        "ownPct": 16.2,
         "points": 18
       },
       {
@@ -1012,7 +1012,7 @@
         "nationAbbr": "USA",
         "group": "D",
         "pos": "DEF",
-        "ownPct": 13.3,
+        "ownPct": 13.7,
         "points": 32
       },
       {
@@ -1022,18 +1022,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.1,
+        "ownPct": 13.2,
         "points": 16
-      },
-      {
-        "id": 506,
-        "name": "Mike Maignan",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "GK",
-        "ownPct": 12.1,
-        "points": 23
       },
       {
         "id": 1318,
@@ -1042,8 +1032,18 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 12,
+        "ownPct": 13,
         "points": 29
+      },
+      {
+        "id": 506,
+        "name": "Mike Maignan",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "GK",
+        "ownPct": 13,
+        "points": 23
       }
     ]
   }

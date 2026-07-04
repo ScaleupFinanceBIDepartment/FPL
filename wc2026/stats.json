@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-04T03:55:50+00:00",
+    "generatedAt": "2026-07-04T08:48:33+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 413,
+    "playerCount": 414,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 88,
     "note": "88 kampe spillet — mål, assists og point er live."
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 66.1,
+        "ownPct": 66.9,
         "points": 50
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 51.3,
+        "ownPct": 51.8,
         "points": 50
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 43.2,
+        "ownPct": 43.4,
         "points": 37
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 41.1,
+        "ownPct": 41.5,
         "points": 36
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 39.6,
+        "ownPct": 38.8,
         "points": 14
       },
       {
@@ -852,18 +852,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 37,
+        "ownPct": 38.5,
         "points": 27
-      },
-      {
-        "id": 916,
-        "name": "Nuno Mendes",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "DEF",
-        "ownPct": 37,
-        "points": 26
       },
       {
         "id": 501,
@@ -872,8 +862,28 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 36.4,
+        "ownPct": 37.5,
         "points": 41
+      },
+      {
+        "id": 916,
+        "name": "Nuno Mendes",
+        "nation": "Portugal",
+        "nationAbbr": "POR",
+        "group": "K",
+        "pos": "DEF",
+        "ownPct": 36.4,
+        "points": 26
+      },
+      {
+        "id": 1088,
+        "name": "Marc Cucurella",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 35.5,
+        "points": 37
       },
       {
         "id": 45,
@@ -886,23 +896,13 @@
         "points": 18
       },
       {
-        "id": 1088,
-        "name": "Marc Cucurella",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 34.5,
-        "points": 37
-      },
-      {
         "id": 855,
         "name": "Erling Haaland",
         "nation": "Norway",
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 30,
+        "ownPct": 29.5,
         "points": 38
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "MID",
-        "ownPct": 29.4,
+        "ownPct": 28.8,
         "points": 15
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 27.1,
+        "ownPct": 28.5,
         "points": 22
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 25.1,
+        "ownPct": 24.6,
         "points": 27
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 17,
+        "ownPct": 17.6,
         "points": 31
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 16.9,
+        "ownPct": 16.6,
         "points": 18
       },
       {
@@ -986,34 +986,24 @@
         "points": 22
       },
       {
-        "id": 1086,
-        "name": "Aymeric Laporte",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 13.8,
-        "points": 35
-      },
-      {
         "id": 792,
         "name": "Ismael Saibari",
         "nation": "Morocco",
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 13.1,
+        "ownPct": 15.3,
         "points": 31
       },
       {
-        "id": 1429,
-        "name": "William Saliba",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
+        "id": 1086,
+        "name": "Aymeric Laporte",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
         "pos": "DEF",
-        "ownPct": 12.7,
-        "points": 16
+        "ownPct": 13.9,
+        "points": 35
       },
       {
         "id": 2031,
@@ -1022,8 +1012,28 @@
         "nationAbbr": "USA",
         "group": "D",
         "pos": "DEF",
-        "ownPct": 12.5,
+        "ownPct": 13,
         "points": 32
+      },
+      {
+        "id": 1429,
+        "name": "William Saliba",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 12.9,
+        "points": 16
+      },
+      {
+        "id": 506,
+        "name": "Mike Maignan",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "GK",
+        "ownPct": 11.5,
+        "points": 23
       },
       {
         "id": 457,
@@ -1032,18 +1042,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 11.7,
+        "ownPct": 11.5,
         "points": 11
-      },
-      {
-        "id": 1099,
-        "name": "Unai Simón",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "GK",
-        "ownPct": 10.7,
-        "points": 28
       }
     ]
   }

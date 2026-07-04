@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-07-04T03:55:50+00:00",
+  "fetchedAt": "2026-07-04T08:48:33+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -39,8 +39,8 @@
       "rank": 5,
       "managerName": "Sec United",
       "teamName": "",
-      "points": 310,
-      "lastRoundPoints": 79
+      "points": 314,
+      "lastRoundPoints": 83
     },
     {
       "rank": 6,
@@ -60,8 +60,8 @@
       "rank": 8,
       "managerName": "Doktor Svin",
       "teamName": "",
-      "points": 290,
-      "lastRoundPoints": 49
+      "points": 291,
+      "lastRoundPoints": 50
     },
     {
       "rank": 9,
@@ -116,8 +116,8 @@
       "rank": 16,
       "managerName": "Carroev",
       "teamName": "",
-      "points": 203,
-      "lastRoundPoints": 75
+      "points": 204,
+      "lastRoundPoints": 76
     }
   ]
 }

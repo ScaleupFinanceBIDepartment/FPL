@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-04T19:33:24+00:00",
+    "generatedAt": "2026-07-04T22:06:48+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 414,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 89,
-    "note": "89 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 90,
+    "note": "90 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -519,6 +519,17 @@
     ],
     "topPoints": [
       {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "points": 51,
+        "avg": 10.2,
+        "form": 8
+      },
+      {
         "id": 38,
         "name": "Lionel Messi",
         "nation": "Argentina",
@@ -530,26 +541,15 @@
         "form": 10.3
       },
       {
-        "id": 500,
-        "name": "Kylian Mbappé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "FWD",
-        "points": 50,
-        "avg": 12.5,
-        "form": 12
-      },
-      {
         "id": 501,
         "name": "Ousmane Dembélé",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "points": 41,
-        "avg": 10.3,
-        "form": 12.7
+        "points": 42,
+        "avg": 8.4,
+        "form": 9
       },
       {
         "id": 855,
@@ -802,8 +802,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 68.7,
-        "points": 50
+        "ownPct": 68.8,
+        "points": 51
       },
       {
         "id": 38,
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 53.1,
+        "ownPct": 53.2,
         "points": 50
       },
       {
@@ -832,8 +832,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 43,
-        "points": 27
+        "ownPct": 43.1,
+        "points": 28
       },
       {
         "id": 468,
@@ -852,8 +852,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 40.2,
-        "points": 41
+        "ownPct": 40.3,
+        "points": 42
       },
       {
         "id": 1088,
@@ -862,7 +862,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 37.6,
+        "ownPct": 37.7,
         "points": 37
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "POR",
         "group": "K",
         "pos": "DEF",
-        "ownPct": 35,
+        "ownPct": 34.9,
         "points": 26
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 22.1,
+        "ownPct": 22,
         "points": 32
       },
       {
@@ -1013,7 +1013,7 @@
         "group": "I",
         "pos": "GK",
         "ownPct": 14.7,
-        "points": 23
+        "points": 24
       },
       {
         "id": 2031,
@@ -1043,7 +1043,7 @@
         "group": "I",
         "pos": "DEF",
         "ownPct": 13.6,
-        "points": 16
+        "points": 17
       }
     ]
   }

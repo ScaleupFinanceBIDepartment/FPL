@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-05T16:16:12+00:00",
+    "generatedAt": "2026-07-05T19:38:34+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 414,
+    "playerCount": 415,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 90,
     "note": "90 kampe spillet — mål, assists og point er live."
@@ -135,6 +135,16 @@
         "assists": 0
       },
       {
+        "id": 1267,
+        "name": "Folarin Balogun",
+        "nation": "USA",
+        "nationAbbr": "USA",
+        "group": "D",
+        "pos": "FWD",
+        "goals": 3,
+        "assists": 0
+      },
+      {
         "id": 1573,
         "name": "Cristiano Ronaldo",
         "nation": "Portugal",
@@ -251,16 +261,6 @@
         "nationAbbr": "COL",
         "group": "K",
         "pos": "DEF",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 435,
-        "name": "Emam Ashour",
-        "nation": "Egypt",
-        "nationAbbr": "EGY",
-        "group": "G",
-        "pos": "MID",
         "goals": 2,
         "assists": 0
       }
@@ -872,7 +872,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 36,
+        "ownPct": 35.9,
         "points": 14
       },
       {

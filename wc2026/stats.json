@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-05T19:38:34+00:00",
+    "generatedAt": "2026-07-05T22:09:53+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 415,
+    "playerCount": 364,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 90,
-    "note": "90 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 91,
+    "note": "91 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -35,21 +35,21 @@
         "assists": 0
       },
       {
-        "id": 468,
-        "name": "Harry Kane",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "FWD",
-        "goals": 5,
-        "assists": 0
-      },
-      {
         "id": 855,
         "name": "Erling Haaland",
         "nation": "Norway",
         "nationAbbr": "NOR",
         "group": "I",
+        "pos": "FWD",
+        "goals": 7,
+        "assists": 0
+      },
+      {
+        "id": 468,
+        "name": "Harry Kane",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
         "pos": "FWD",
         "goals": 5,
         "assists": 0
@@ -110,16 +110,6 @@
         "nation": "Brazil",
         "nationAbbr": "BRA",
         "group": "C",
-        "pos": "FWD",
-        "goals": 3,
-        "assists": 0
-      },
-      {
-        "id": 226,
-        "name": "Jonathan David",
-        "nation": "Canada",
-        "nationAbbr": "CAN",
-        "group": "B",
         "pos": "FWD",
         "goals": 3,
         "assists": 0
@@ -245,22 +235,32 @@
         "assists": 0
       },
       {
-        "id": 227,
-        "name": "Cyle Larin",
-        "nation": "Canada",
-        "nationAbbr": "CAN",
-        "group": "B",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
         "id": 248,
         "name": "Daniel Muñoz",
         "nation": "Colombia",
         "nationAbbr": "COL",
         "group": "K",
         "pos": "DEF",
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "id": 435,
+        "name": "Emam Ashour",
+        "nation": "Egypt",
+        "nationAbbr": "EGY",
+        "group": "G",
+        "pos": "MID",
+        "goals": 2,
+        "assists": 0
+      },
+      {
+        "id": 748,
+        "name": "Raúl Jiménez",
+        "nation": "Mexico",
+        "nationAbbr": "MEX",
+        "group": "A",
+        "pos": "FWD",
         "goals": 2,
         "assists": 0
       }
@@ -302,6 +302,16 @@
         "nation": "Mexico",
         "nationAbbr": "MEX",
         "group": "A",
+        "pos": "FWD",
+        "assists": 3,
+        "goals": 0
+      },
+      {
+        "id": 857,
+        "name": "Andreas Schjelderup",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
         "pos": "FWD",
         "assists": 3,
         "goals": 0
@@ -355,26 +365,6 @@
         "pos": "FWD",
         "assists": 2,
         "goals": 2
-      },
-      {
-        "id": 241,
-        "name": "Nathan Saliba",
-        "nation": "Canada",
-        "nationAbbr": "CAN",
-        "group": "B",
-        "pos": "MID",
-        "assists": 2,
-        "goals": 1
-      },
-      {
-        "id": 912,
-        "name": "Julio Enciso",
-        "nation": "Paraguay",
-        "nationAbbr": "PAR",
-        "group": "D",
-        "pos": "MID",
-        "assists": 2,
-        "goals": 1
       },
       {
         "id": 1597,
@@ -515,6 +505,16 @@
         "pos": "MID",
         "assists": 1,
         "goals": 2
+      },
+      {
+        "id": 1526,
+        "name": "Leandro Trossard",
+        "nation": "Belgium",
+        "nationAbbr": "BEL",
+        "group": "G",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 2
       }
     ],
     "topPoints": [
@@ -528,6 +528,17 @@
         "points": 59,
         "avg": 11.8,
         "form": 10.7
+      },
+      {
+        "id": 855,
+        "name": "Erling Haaland",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "FWD",
+        "points": 51,
+        "avg": 12.8,
+        "form": 11.3
       },
       {
         "id": 38,
@@ -552,26 +563,15 @@
         "form": 9.7
       },
       {
-        "id": 855,
-        "name": "Erling Haaland",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "FWD",
-        "points": 38,
-        "avg": 12.7,
-        "form": 12.7
-      },
-      {
         "id": 173,
         "name": "Vinícius Júnior",
         "nation": "Brazil",
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "points": 37,
-        "avg": 9.3,
-        "form": 9.7
+        "points": 39,
+        "avg": 7.8,
+        "form": 6.3
       },
       {
         "id": 1088,
@@ -616,6 +616,17 @@
         "points": 35,
         "avg": 8.8,
         "form": 11.3
+      },
+      {
+        "id": 1361,
+        "name": "Bruno Guimarães",
+        "nation": "Brazil",
+        "nationAbbr": "BRA",
+        "group": "C",
+        "pos": "MID",
+        "points": 34,
+        "avg": 6.8,
+        "form": 7.3
       },
       {
         "id": 750,
@@ -706,26 +717,15 @@
         "form": 8
       },
       {
-        "id": 1361,
-        "name": "Bruno Guimarães",
+        "id": 174,
+        "name": "Matheus Cunha",
         "nation": "Brazil",
         "nationAbbr": "BRA",
         "group": "C",
-        "pos": "MID",
-        "points": 31,
-        "avg": 7.8,
-        "form": 7.7
-      },
-      {
-        "id": 226,
-        "name": "Jonathan David",
-        "nation": "Canada",
-        "nationAbbr": "CAN",
-        "group": "B",
         "pos": "FWD",
         "points": 31,
         "avg": 6.2,
-        "form": 1.7
+        "form": 5
       },
       {
         "id": 2012,
@@ -772,17 +772,6 @@
         "form": 7
       },
       {
-        "id": 912,
-        "name": "Julio Enciso",
-        "nation": "Paraguay",
-        "nationAbbr": "PAR",
-        "group": "D",
-        "pos": "MID",
-        "points": 30,
-        "avg": 6,
-        "form": 5
-      },
-      {
         "id": 1318,
         "name": "Lisandro Martínez",
         "nation": "Argentina",
@@ -792,6 +781,17 @@
         "points": 29,
         "avg": 9.7,
         "form": 9.7
+      },
+      {
+        "id": 250,
+        "name": "Dávinson Sánchez",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
+        "points": 29,
+        "avg": 7.3,
+        "form": 9
       }
     ],
     "mostSelected": [
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 53.2,
+        "ownPct": 53.3,
         "points": 50
       },
       {
@@ -822,8 +822,8 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 43.9,
-        "points": 37
+        "ownPct": 43.8,
+        "points": 39
       },
       {
         "id": 517,
@@ -832,7 +832,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 43.1,
+        "ownPct": 43.2,
         "points": 29
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 40.3,
+        "ownPct": 40.4,
         "points": 44
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 37.8,
+        "ownPct": 37.9,
         "points": 37
       },
       {
@@ -913,7 +913,7 @@
         "group": "I",
         "pos": "FWD",
         "ownPct": 28.3,
-        "points": 38
+        "points": 51
       },
       {
         "id": 939,
@@ -962,8 +962,8 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 18.5,
-        "points": 21
+        "ownPct": 18.4,
+        "points": 22
       },
       {
         "id": 477,
@@ -1002,7 +1002,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 15,
+        "ownPct": 15.1,
         "points": 22
       },
       {

@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-06T04:22:52+00:00",
+    "generatedAt": "2026-07-06T10:57:15+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 364,
     "tournamentStart": "2026-06-11",
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 43.3,
+        "ownPct": 43.4,
         "points": 29
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "MID",
-        "ownPct": 43.1,
+        "ownPct": 42.5,
         "points": 39
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 40.6,
+        "ownPct": 40.7,
         "points": 44
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 38,
+        "ownPct": 38.2,
         "points": 37
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 28.4,
+        "ownPct": 28.5,
         "points": 51
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 23.3,
+        "ownPct": 23.7,
         "points": 42
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "BRA",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 18.2,
+        "ownPct": 18,
         "points": 22
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 15.7,
+        "ownPct": 15.8,
         "points": 20
       },
       {
@@ -992,8 +992,18 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 15.2,
+        "ownPct": 15.3,
         "points": 29
+      },
+      {
+        "id": 506,
+        "name": "Mike Maignan",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "GK",
+        "ownPct": 15.1,
+        "points": 30
       },
       {
         "id": 1320,
@@ -1004,16 +1014,6 @@
         "pos": "DEF",
         "ownPct": 15.1,
         "points": 22
-      },
-      {
-        "id": 506,
-        "name": "Mike Maignan",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "GK",
-        "ownPct": 15,
-        "points": 30
       },
       {
         "id": 2031,
@@ -1042,7 +1042,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.6,
+        "ownPct": 13.7,
         "points": 23
       }
     ]

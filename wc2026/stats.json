@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-06T15:52:20+00:00",
+    "generatedAt": "2026-07-06T20:09:29+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 311,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 92,
-    "note": "92 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 93,
+    "note": "93 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -591,9 +591,9 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "points": 37,
-        "avg": 9.3,
-        "form": 10
+        "points": 38,
+        "avg": 7.6,
+        "form": 7
       },
       {
         "id": 1086,
@@ -602,9 +602,9 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "points": 35,
-        "avg": 8.8,
-        "form": 8.7
+        "points": 36,
+        "avg": 7.2,
+        "form": 5
       },
       {
         "id": 1133,
@@ -624,9 +624,9 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "points": 33,
-        "avg": 8.3,
-        "form": 10.3
+        "points": 34,
+        "avg": 6.8,
+        "form": 5.7
       },
       {
         "id": 1149,
@@ -783,15 +783,15 @@
         "form": 4.7
       },
       {
-        "id": 1431,
-        "name": "Bradley Barcola",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
+        "id": 1089,
+        "name": "Pau Cubarsí",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
         "points": 29,
         "avg": 5.8,
-        "form": 5.7
+        "form": 5
       }
     ],
     "mostSelected": [
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 43.5,
+        "ownPct": 43.6,
         "points": 29
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 40.8,
+        "ownPct": 40.9,
         "points": 44
       },
       {
@@ -852,8 +852,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 38.2,
-        "points": 37
+        "ownPct": 38.3,
+        "points": 38
       },
       {
         "id": 1092,
@@ -863,7 +863,7 @@
         "group": "H",
         "pos": "MID",
         "ownPct": 36,
-        "points": 14
+        "points": 16
       },
       {
         "id": 45,
@@ -883,7 +883,7 @@
         "group": "K",
         "pos": "DEF",
         "ownPct": 34.9,
-        "points": 26
+        "points": 27
       },
       {
         "id": 2012,
@@ -913,7 +913,7 @@
         "group": "K",
         "pos": "MID",
         "ownPct": 27.2,
-        "points": 15
+        "points": 16
       },
       {
         "id": 491,
@@ -922,7 +922,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 24,
+        "ownPct": 24.2,
         "points": 42
       },
       {
@@ -956,6 +956,16 @@
         "points": 20
       },
       {
+        "id": 1318,
+        "name": "Lisandro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
+        "ownPct": 15.5,
+        "points": 29
+      },
+      {
         "id": 256,
         "name": "Luis Díaz",
         "nation": "Colombia",
@@ -966,23 +976,13 @@
         "points": 20
       },
       {
-        "id": 1318,
-        "name": "Lisandro Martínez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "DEF",
-        "ownPct": 15.4,
-        "points": 29
-      },
-      {
         "id": 506,
         "name": "Mike Maignan",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 15.1,
+        "ownPct": 15.2,
         "points": 30
       },
       {
@@ -1012,8 +1012,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 14.1,
-        "points": 35
+        "ownPct": 14.2,
+        "points": 36
       },
       {
         "id": 1429,
@@ -1032,8 +1032,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 12.4,
-        "points": 33
+        "ownPct": 12.5,
+        "points": 34
       },
       {
         "id": 1133,
@@ -1042,7 +1042,7 @@
         "nationAbbr": "SUI",
         "group": "B",
         "pos": "MID",
-        "ownPct": 11,
+        "ownPct": 11.1,
         "points": 35
       }
     ]

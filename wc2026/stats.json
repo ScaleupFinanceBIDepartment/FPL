@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-07T04:11:48+00:00",
+    "generatedAt": "2026-07-07T09:57:46+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 311,
+    "playerCount": 259,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 94,
     "note": "94 kampe spillet — mål, assists og point er live."
@@ -115,26 +115,6 @@
         "assists": 0
       },
       {
-        "id": 1267,
-        "name": "Folarin Balogun",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "FWD",
-        "goals": 3,
-        "assists": 0
-      },
-      {
-        "id": 1573,
-        "name": "Cristiano Ronaldo",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "FWD",
-        "goals": 3,
-        "assists": 0
-      },
-      {
         "id": 1149,
         "name": "Breel Embolo",
         "nation": "Switzerland",
@@ -180,16 +160,6 @@
         "nation": "Switzerland",
         "nationAbbr": "SUI",
         "group": "B",
-        "pos": "MID",
-        "goals": 2,
-        "assists": 1
-      },
-      {
-        "id": 1254,
-        "name": "Malik Tillman",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
         "pos": "MID",
         "goals": 2,
         "assists": 1
@@ -263,6 +233,36 @@
         "pos": "MID",
         "goals": 1,
         "assists": 2
+      },
+      {
+        "id": 1597,
+        "name": "Mohamed Salah",
+        "nation": "Egypt",
+        "nationAbbr": "EGY",
+        "group": "G",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "id": 2012,
+        "name": "Achraf Hakimi",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "DEF",
+        "goals": 1,
+        "assists": 2
+      },
+      {
+        "id": 256,
+        "name": "Luis Díaz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 1
       }
     ],
     "topAssists": [
@@ -507,11 +507,11 @@
         "goals": 2
       },
       {
-        "id": 1254,
-        "name": "Malik Tillman",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
+        "id": 1431,
+        "name": "Bradley Barcola",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
         "pos": "MID",
         "assists": 1,
         "goals": 2
@@ -651,17 +651,6 @@
         "form": 7
       },
       {
-        "id": 1254,
-        "name": "Malik Tillman",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "MID",
-        "points": 35,
-        "avg": 7,
-        "form": 8
-      },
-      {
         "id": 1526,
         "name": "Leandro Trossard",
         "nation": "Belgium",
@@ -684,17 +673,6 @@
         "form": 8
       },
       {
-        "id": 1267,
-        "name": "Folarin Balogun",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "FWD",
-        "points": 33,
-        "avg": 8.3,
-        "form": 6
-      },
-      {
         "id": 1085,
         "name": "Pedro Porro",
         "nation": "Spain",
@@ -712,17 +690,6 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "points": 32,
-        "avg": 6.4,
-        "form": 3.7
-      },
-      {
-        "id": 2031,
-        "name": "Sergiño Dest",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "DEF",
         "points": 32,
         "avg": 6.4,
         "form": 3.7
@@ -792,6 +759,39 @@
         "points": 30,
         "avg": 6,
         "form": 7
+      },
+      {
+        "id": 1318,
+        "name": "Lisandro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
+        "points": 29,
+        "avg": 9.7,
+        "form": 9.7
+      },
+      {
+        "id": 250,
+        "name": "Dávinson Sánchez",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
+        "points": 29,
+        "avg": 7.3,
+        "form": 9
+      },
+      {
+        "id": 2016,
+        "name": "Issa Diop",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "DEF",
+        "points": 29,
+        "avg": 7.3,
+        "form": 9
       }
     ],
     "mostSelected": [
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 43.8,
+        "ownPct": 43.9,
         "points": 29
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 41.1,
+        "ownPct": 41.2,
         "points": 44
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 38.8,
+        "ownPct": 39.1,
         "points": 44
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 36,
+        "ownPct": 36.1,
         "points": 18
       },
       {
@@ -874,16 +874,6 @@
         "pos": "GK",
         "ownPct": 35.7,
         "points": 18
-      },
-      {
-        "id": 916,
-        "name": "Nuno Mendes",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "DEF",
-        "ownPct": 34.3,
-        "points": 27
       },
       {
         "id": 2012,
@@ -902,18 +892,8 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 28.8,
+        "ownPct": 28.9,
         "points": 51
-      },
-      {
-        "id": 939,
-        "name": "Bruno Fernandes",
-        "nation": "Portugal",
-        "nationAbbr": "POR",
-        "group": "K",
-        "pos": "MID",
-        "ownPct": 26.9,
-        "points": 17
       },
       {
         "id": 491,
@@ -922,7 +902,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 24.9,
+        "ownPct": 25.4,
         "points": 42
       },
       {
@@ -932,7 +912,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 21.8,
+        "ownPct": 21.7,
         "points": 32
       },
       {
@@ -946,6 +926,16 @@
         "points": 31
       },
       {
+        "id": 1318,
+        "name": "Lisandro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
+        "ownPct": 15.9,
+        "points": 29
+      },
+      {
         "id": 477,
         "name": "Jordan Pickford",
         "nation": "England",
@@ -954,16 +944,6 @@
         "pos": "GK",
         "ownPct": 15.9,
         "points": 20
-      },
-      {
-        "id": 1318,
-        "name": "Lisandro Martínez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "DEF",
-        "ownPct": 15.7,
-        "points": 29
       },
       {
         "id": 256,
@@ -992,7 +972,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 15.1,
+        "ownPct": 15.2,
         "points": 22
       },
       {
@@ -1002,18 +982,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 14.4,
+        "ownPct": 14.6,
         "points": 42
-      },
-      {
-        "id": 2031,
-        "name": "Sergiño Dest",
-        "nation": "USA",
-        "nationAbbr": "USA",
-        "group": "D",
-        "pos": "DEF",
-        "ownPct": 14.4,
-        "points": 32
       },
       {
         "id": 1429,
@@ -1032,7 +1002,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 12.5,
+        "ownPct": 12.6,
         "points": 35
       },
       {
@@ -1042,8 +1012,38 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 11.2,
+        "ownPct": 11.4,
         "points": 35
+      },
+      {
+        "id": 1133,
+        "name": "Johan Manzambi",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "ownPct": 11.1,
+        "points": 35
+      },
+      {
+        "id": 457,
+        "name": "Nico O'Reilly",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "DEF",
+        "ownPct": 10.6,
+        "points": 11
+      },
+      {
+        "id": 494,
+        "name": "Dayot Upamecano",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 9.9,
+        "points": 27
       }
     ]
   }

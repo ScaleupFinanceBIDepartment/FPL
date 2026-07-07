@@ -5,15 +5,25 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-07T15:08:19+00:00",
+    "generatedAt": "2026-07-07T20:08:38+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 259,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 94,
-    "note": "94 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 96,
+    "note": "96 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
+      {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "goals": 8,
+        "assists": 1
+      },
       {
         "id": 500,
         "name": "Kylian Mbappé",
@@ -23,16 +33,6 @@
         "pos": "FWD",
         "goals": 7,
         "assists": 2
-      },
-      {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "goals": 7,
-        "assists": 0
       },
       {
         "id": 855,
@@ -175,6 +175,16 @@
         "assists": 1
       },
       {
+        "id": 1594,
+        "name": "Mostafa Zico",
+        "nation": "Egypt",
+        "nationAbbr": "EGY",
+        "group": "G",
+        "pos": "MID",
+        "goals": 2,
+        "assists": 1
+      },
+      {
         "id": 2023,
         "name": "Soufiane Rahimi",
         "nation": "Morocco",
@@ -253,16 +263,6 @@
         "pos": "DEF",
         "goals": 1,
         "assists": 2
-      },
-      {
-        "id": 256,
-        "name": "Luis Díaz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "MID",
-        "goals": 1,
-        "assists": 1
       }
     ],
     "topAssists": [
@@ -437,6 +437,16 @@
         "goals": 0
       },
       {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 8
+      },
+      {
         "id": 468,
         "name": "Harry Kane",
         "nation": "England",
@@ -505,19 +515,20 @@
         "pos": "MID",
         "assists": 1,
         "goals": 2
-      },
-      {
-        "id": 1431,
-        "name": "Bradley Barcola",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 2
       }
     ],
     "topPoints": [
+      {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "points": 61,
+        "avg": 12.2,
+        "form": 9.3
+      },
       {
         "id": 500,
         "name": "Kylian Mbappé",
@@ -539,17 +550,6 @@
         "points": 51,
         "avg": 12.8,
         "form": 11.3
-      },
-      {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "points": 50,
-        "avg": 12.5,
-        "form": 10.3
       },
       {
         "id": 468,
@@ -651,6 +651,17 @@
         "form": 7
       },
       {
+        "id": 1149,
+        "name": "Breel Embolo",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "FWD",
+        "points": 34,
+        "avg": 6.8,
+        "form": 6
+      },
+      {
         "id": 1526,
         "name": "Leandro Trossard",
         "nation": "Belgium",
@@ -660,17 +671,6 @@
         "points": 34,
         "avg": 6.8,
         "form": 9.7
-      },
-      {
-        "id": 1149,
-        "name": "Breel Embolo",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "FWD",
-        "points": 33,
-        "avg": 8.3,
-        "form": 8
       },
       {
         "id": 1085,
@@ -684,6 +684,17 @@
         "form": 10.7
       },
       {
+        "id": 248,
+        "name": "Daniel Muñoz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
+        "points": 32,
+        "avg": 6.4,
+        "form": 3
+      },
+      {
         "id": 792,
         "name": "Ismael Saibari",
         "nation": "Morocco",
@@ -695,17 +706,6 @@
         "form": 3.7
       },
       {
-        "id": 248,
-        "name": "Daniel Muñoz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "DEF",
-        "points": 31,
-        "avg": 7.8,
-        "form": 7.3
-      },
-      {
         "id": 1158,
         "name": "Rubén Vargas",
         "nation": "Switzerland",
@@ -715,6 +715,17 @@
         "points": 31,
         "avg": 7.8,
         "form": 9.3
+      },
+      {
+        "id": 1594,
+        "name": "Mostafa Zico",
+        "nation": "Egypt",
+        "nationAbbr": "EGY",
+        "group": "G",
+        "pos": "MID",
+        "points": 31,
+        "avg": 6.2,
+        "form": 5
       },
       {
         "id": 2012,
@@ -739,6 +750,17 @@
         "form": 5.3
       },
       {
+        "id": 1318,
+        "name": "Lisandro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
+        "points": 30,
+        "avg": 7.5,
+        "form": 7
+      },
+      {
         "id": 124,
         "name": "Romelu Lukaku",
         "nation": "Belgium",
@@ -750,6 +772,17 @@
         "form": 9.3
       },
       {
+        "id": 250,
+        "name": "Dávinson Sánchez",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
+        "points": 30,
+        "avg": 6,
+        "form": 6.3
+      },
+      {
         "id": 506,
         "name": "Mike Maignan",
         "nation": "France",
@@ -759,39 +792,6 @@
         "points": 30,
         "avg": 6,
         "form": 7
-      },
-      {
-        "id": 1318,
-        "name": "Lisandro Martínez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "DEF",
-        "points": 29,
-        "avg": 9.7,
-        "form": 9.7
-      },
-      {
-        "id": 250,
-        "name": "Dávinson Sánchez",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "DEF",
-        "points": 29,
-        "avg": 7.3,
-        "form": 9
-      },
-      {
-        "id": 2016,
-        "name": "Issa Diop",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "DEF",
-        "points": 29,
-        "avg": 7.3,
-        "form": 9
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 69.2,
+        "ownPct": 69.3,
         "points": 59
       },
       {
@@ -813,7 +813,7 @@
         "group": "J",
         "pos": "FWD",
         "ownPct": 53.6,
-        "points": 50
+        "points": 61
       },
       {
         "id": 517,
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 44,
+        "ownPct": 44.3,
         "points": 29
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 42.6,
+        "ownPct": 42.8,
         "points": 45
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 41.4,
+        "ownPct": 41.6,
         "points": 44
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 39.4,
+        "ownPct": 40.1,
         "points": 44
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 36.1,
+        "ownPct": 36.2,
         "points": 18
       },
       {
@@ -872,8 +872,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 35.7,
-        "points": 18
+        "ownPct": 35.6,
+        "points": 19
       },
       {
         "id": 2012,
@@ -892,7 +892,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 29,
+        "ownPct": 29.3,
         "points": 51
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 25.8,
+        "ownPct": 26.8,
         "points": 42
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 21.6,
+        "ownPct": 21.4,
         "points": 32
       },
       {
@@ -923,7 +923,7 @@
         "group": "K",
         "pos": "DEF",
         "ownPct": 19.6,
-        "points": 31
+        "points": 32
       },
       {
         "id": 1318,
@@ -932,8 +932,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 16,
-        "points": 29
+        "ownPct": 16.4,
+        "points": 30
       },
       {
         "id": 477,
@@ -942,17 +942,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 15.9,
-        "points": 20
-      },
-      {
-        "id": 256,
-        "name": "Luis Díaz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "MID",
-        "ownPct": 15.6,
+        "ownPct": 16,
         "points": 20
       },
       {
@@ -962,18 +952,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 15.5,
+        "ownPct": 15.7,
         "points": 30
       },
       {
-        "id": 1320,
-        "name": "Facundo Medina",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "DEF",
-        "ownPct": 15.2,
-        "points": 22
+        "id": 256,
+        "name": "Luis Díaz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "MID",
+        "ownPct": 15.6,
+        "points": 21
       },
       {
         "id": 1086,
@@ -982,8 +972,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 14.8,
+        "ownPct": 15.2,
         "points": 42
+      },
+      {
+        "id": 1320,
+        "name": "Facundo Medina",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
+        "ownPct": 15.1,
+        "points": 23
       },
       {
         "id": 1429,
@@ -992,7 +992,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.9,
+        "ownPct": 14,
         "points": 23
       },
       {
@@ -1002,7 +1002,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 12.6,
+        "ownPct": 12.7,
         "points": 35
       },
       {
@@ -1012,7 +1012,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 11.6,
+        "ownPct": 12.1,
         "points": 35
       },
       {
@@ -1032,7 +1032,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 10.6,
+        "ownPct": 10.7,
         "points": 11
       },
       {
@@ -1042,7 +1042,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 10,
+        "ownPct": 10.2,
         "points": 27
       }
     ]

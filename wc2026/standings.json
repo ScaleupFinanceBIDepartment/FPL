@@ -3,44 +3,44 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-07-07T20:08:38+00:00",
+  "fetchedAt": "2026-07-07T22:18:50+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
     {
       "rank": 1,
+      "managerName": "HC WIN",
+      "teamName": "",
+      "points": 468,
+      "lastRoundPoints": 87
+    },
+    {
+      "rank": 2,
       "managerName": "VikingPlaymaker",
       "teamName": "",
       "points": 462,
       "lastRoundPoints": 90
     },
     {
-      "rank": 2,
-      "managerName": "HC WIN",
-      "teamName": "",
-      "points": 461,
-      "lastRoundPoints": 80
-    },
-    {
       "rank": 3,
       "managerName": "DanishNorseman",
       "teamName": "",
-      "points": 441,
-      "lastRoundPoints": 61
+      "points": 448,
+      "lastRoundPoints": 68
     },
     {
       "rank": 4,
+      "managerName": "Sec United",
+      "teamName": "",
+      "points": 375,
+      "lastRoundPoints": 61
+    },
+    {
+      "rank": 5,
       "managerName": "ESI1994",
       "teamName": "",
       "points": 372,
       "lastRoundPoints": 70
-    },
-    {
-      "rank": 5,
-      "managerName": "Sec United",
-      "teamName": "",
-      "points": 372,
-      "lastRoundPoints": 58
     },
     {
       "rank": 6,
@@ -81,15 +81,15 @@
       "rank": 11,
       "managerName": "irs97",
       "teamName": "",
-      "points": 324,
-      "lastRoundPoints": 44
+      "points": 327,
+      "lastRoundPoints": 47
     },
     {
       "rank": 12,
       "managerName": "Doktor Svin",
       "teamName": "",
-      "points": 324,
-      "lastRoundPoints": 33
+      "points": 326,
+      "lastRoundPoints": 35
     },
     {
       "rank": 13,
@@ -109,8 +109,8 @@
       "rank": 15,
       "managerName": "Lukasworm",
       "teamName": "",
-      "points": 291,
-      "lastRoundPoints": 40
+      "points": 300,
+      "lastRoundPoints": 49
     },
     {
       "rank": 16,

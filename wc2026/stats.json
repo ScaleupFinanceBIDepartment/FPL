@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-07T20:08:38+00:00",
+    "generatedAt": "2026-07-07T22:18:49+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 259,
     "tournamentStart": "2026-06-11",
@@ -607,6 +607,39 @@
         "form": 7
       },
       {
+        "id": 248,
+        "name": "Daniel Muñoz",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
+        "points": 38,
+        "avg": 7.6,
+        "form": 5
+      },
+      {
+        "id": 249,
+        "name": "Jhon Lucumí",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
+        "points": 37,
+        "avg": 7.4,
+        "form": 9
+      },
+      {
+        "id": 250,
+        "name": "Dávinson Sánchez",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "DEF",
+        "points": 37,
+        "avg": 7.4,
+        "form": 8.7
+      },
+      {
         "id": 1133,
         "name": "Johan Manzambi",
         "nation": "Switzerland",
@@ -657,9 +690,20 @@
         "nationAbbr": "SUI",
         "group": "B",
         "pos": "FWD",
+        "points": 35,
+        "avg": 7,
+        "form": 6.3
+      },
+      {
+        "id": 262,
+        "name": "Camilo Vargas",
+        "nation": "Colombia",
+        "nationAbbr": "COL",
+        "group": "K",
+        "pos": "GK",
         "points": 34,
         "avg": 6.8,
-        "form": 6
+        "form": 8.3
       },
       {
         "id": 1526,
@@ -684,17 +728,6 @@
         "form": 10.7
       },
       {
-        "id": 248,
-        "name": "Daniel Muñoz",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "DEF",
-        "points": 32,
-        "avg": 6.4,
-        "form": 3
-      },
-      {
         "id": 792,
         "name": "Ismael Saibari",
         "nation": "Morocco",
@@ -706,6 +739,17 @@
         "form": 3.7
       },
       {
+        "id": 1142,
+        "name": "Ricardo Rodríguez",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "DEF",
+        "points": 31,
+        "avg": 6.2,
+        "form": 6.7
+      },
+      {
         "id": 1158,
         "name": "Rubén Vargas",
         "nation": "Switzerland",
@@ -713,8 +757,8 @@
         "group": "B",
         "pos": "MID",
         "points": 31,
-        "avg": 7.8,
-        "form": 9.3
+        "avg": 6.2,
+        "form": 4.3
       },
       {
         "id": 1594,
@@ -748,50 +792,6 @@
         "points": 31,
         "avg": 6.2,
         "form": 5.3
-      },
-      {
-        "id": 1318,
-        "name": "Lisandro Martínez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "DEF",
-        "points": 30,
-        "avg": 7.5,
-        "form": 7
-      },
-      {
-        "id": 124,
-        "name": "Romelu Lukaku",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "FWD",
-        "points": 30,
-        "avg": 6,
-        "form": 9.3
-      },
-      {
-        "id": 250,
-        "name": "Dávinson Sánchez",
-        "nation": "Colombia",
-        "nationAbbr": "COL",
-        "group": "K",
-        "pos": "DEF",
-        "points": 30,
-        "avg": 6,
-        "form": 6.3
-      },
-      {
-        "id": 506,
-        "name": "Mike Maignan",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "GK",
-        "points": 30,
-        "avg": 6,
-        "form": 7
       }
     ],
     "mostSelected": [
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 53.6,
+        "ownPct": 53.7,
         "points": 61
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 44.3,
+        "ownPct": 44.5,
         "points": 29
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 41.6,
+        "ownPct": 41.8,
         "points": 44
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 40.1,
+        "ownPct": 40.3,
         "points": 44
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 36.2,
+        "ownPct": 36.3,
         "points": 18
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 29.3,
+        "ownPct": 29.4,
         "points": 51
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 26.8,
+        "ownPct": 27.2,
         "points": 42
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 21.4,
+        "ownPct": 21.3,
         "points": 32
       },
       {
@@ -923,7 +923,7 @@
         "group": "K",
         "pos": "DEF",
         "ownPct": 19.6,
-        "points": 32
+        "points": 38
       },
       {
         "id": 1318,
@@ -932,7 +932,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 16.4,
+        "ownPct": 16.5,
         "points": 30
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 15.7,
+        "ownPct": 15.8,
         "points": 30
       },
       {
@@ -963,7 +963,7 @@
         "group": "K",
         "pos": "MID",
         "ownPct": 15.6,
-        "points": 21
+        "points": 23
       },
       {
         "id": 1086,
@@ -972,7 +972,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 15.2,
+        "ownPct": 15.3,
         "points": 42
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14,
+        "ownPct": 14.1,
         "points": 23
       },
       {
@@ -1002,7 +1002,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 12.7,
+        "ownPct": 12.8,
         "points": 35
       },
       {
@@ -1012,7 +1012,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 12.1,
+        "ownPct": 12.3,
         "points": 35
       },
       {
@@ -1042,7 +1042,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 10.2,
+        "ownPct": 10.3,
         "points": 27
       }
     ]

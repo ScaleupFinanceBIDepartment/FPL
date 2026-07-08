@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-08T16:46:44+00:00",
+    "generatedAt": "2026-07-08T19:48:50+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 206,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 69.8,
+        "ownPct": 69.9,
         "points": 59
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 54.4,
+        "ownPct": 54.5,
         "points": 61
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 46.1,
+        "ownPct": 46.4,
         "points": 29
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 44,
+        "ownPct": 44.6,
         "points": 44
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 43.5,
+        "ownPct": 43.7,
         "points": 45
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 43.2,
+        "ownPct": 43.4,
         "points": 44
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 37.1,
+        "ownPct": 37.2,
         "points": 18
       },
       {
@@ -872,8 +872,18 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 35.8,
+        "ownPct": 35.9,
         "points": 19
+      },
+      {
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "ownPct": 34.1,
+        "points": 42
       },
       {
         "id": 2012,
@@ -886,23 +896,13 @@
         "points": 31
       },
       {
-        "id": 491,
-        "name": "Jude Bellingham",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "ownPct": 33.2,
-        "points": 42
-      },
-      {
         "id": 855,
         "name": "Erling Haaland",
         "nation": "Norway",
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 30.6,
+        "ownPct": 30.7,
         "points": 51
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 19.8,
+        "ownPct": 20.3,
         "points": 30
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 19.3,
+        "ownPct": 19,
         "points": 32
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 17.5,
+        "ownPct": 17.8,
         "points": 42
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 17.1,
+        "ownPct": 17.3,
         "points": 30
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 15.3,
+        "ownPct": 15.8,
         "points": 35
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14.6,
+        "ownPct": 14.7,
         "points": 23
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 13.3,
+        "ownPct": 13.4,
         "points": 35
       },
       {
@@ -1002,8 +1002,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 11.8,
+        "ownPct": 12,
         "points": 27
+      },
+      {
+        "id": 1089,
+        "name": "Pau Cubarsí",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 11.6,
+        "points": 35
       },
       {
         "id": 457,
@@ -1014,16 +1024,6 @@
         "pos": "DEF",
         "ownPct": 11.3,
         "points": 11
-      },
-      {
-        "id": 1089,
-        "name": "Pau Cubarsí",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 11.2,
-        "points": 35
       },
       {
         "id": 1133,
@@ -1042,7 +1042,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 10.3,
+        "ownPct": 10.4,
         "points": 25
       }
     ]

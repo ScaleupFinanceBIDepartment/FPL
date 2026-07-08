@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-08T03:36:46+00:00",
+    "generatedAt": "2026-07-08T08:41:45+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 207,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 69.4,
+        "ownPct": 69.6,
         "points": 59
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 53.9,
+        "ownPct": 54.1,
         "points": 61
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 44.9,
+        "ownPct": 45.4,
         "points": 29
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 43,
+        "ownPct": 43.2,
         "points": 45
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 42.1,
+        "ownPct": 42.5,
         "points": 44
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 41.5,
+        "ownPct": 42.5,
         "points": 44
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 36.5,
+        "ownPct": 36.7,
         "points": 18
       },
       {
@@ -882,18 +882,8 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 33.5,
+        "ownPct": 33.6,
         "points": 31
-      },
-      {
-        "id": 855,
-        "name": "Erling Haaland",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "FWD",
-        "ownPct": 29.8,
-        "points": 51
       },
       {
         "id": 491,
@@ -902,8 +892,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 29,
+        "ownPct": 30.7,
         "points": 42
+      },
+      {
+        "id": 855,
+        "name": "Erling Haaland",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "FWD",
+        "ownPct": 30.1,
+        "points": 51
       },
       {
         "id": 792,
@@ -912,7 +912,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 20.6,
+        "ownPct": 20.2,
         "points": 32
       },
       {
@@ -922,8 +922,18 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 17.5,
+        "ownPct": 18.4,
         "points": 30
+      },
+      {
+        "id": 1086,
+        "name": "Aymeric Laporte",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 16.6,
+        "points": 42
       },
       {
         "id": 506,
@@ -932,7 +942,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 16.2,
+        "ownPct": 16.6,
         "points": 30
       },
       {
@@ -942,18 +952,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 16.2,
+        "ownPct": 16.3,
         "points": 20
-      },
-      {
-        "id": 1086,
-        "name": "Aymeric Laporte",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 16,
-        "points": 42
       },
       {
         "id": 1320,
@@ -972,7 +972,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14.2,
+        "ownPct": 14.4,
         "points": 23
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 13.3,
+        "ownPct": 14.1,
         "points": 35
       },
       {
@@ -992,8 +992,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 13,
+        "ownPct": 13.1,
         "points": 35
+      },
+      {
+        "id": 494,
+        "name": "Dayot Upamecano",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 11.2,
+        "points": 27
       },
       {
         "id": 1133,
@@ -1012,18 +1022,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 10.9,
+        "ownPct": 11,
         "points": 11
       },
       {
-        "id": 494,
-        "name": "Dayot Upamecano",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
+        "id": 1089,
+        "name": "Pau Cubarsí",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
         "pos": "DEF",
-        "ownPct": 10.8,
-        "points": 27
+        "ownPct": 10,
+        "points": 35
       },
       {
         "id": 1430,
@@ -1032,18 +1042,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 9.7,
+        "ownPct": 9.9,
         "points": 25
-      },
-      {
-        "id": 1522,
-        "name": "Thibaut Courtois",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "GK",
-        "ownPct": 9.5,
-        "points": 16
       }
     ]
   }

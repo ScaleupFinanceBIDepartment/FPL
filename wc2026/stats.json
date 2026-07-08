@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-08T08:41:45+00:00",
+    "generatedAt": "2026-07-08T11:10:50+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 207,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 69.6,
+        "ownPct": 69.7,
         "points": 59
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 54.1,
+        "ownPct": 54.2,
         "points": 61
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 45.4,
+        "ownPct": 45.7,
         "points": 29
       },
       {
@@ -832,18 +832,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 43.2,
+        "ownPct": 43.4,
         "points": 45
-      },
-      {
-        "id": 501,
-        "name": "Ousmane Dembélé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "ownPct": 42.5,
-        "points": 44
       },
       {
         "id": 1088,
@@ -852,7 +842,17 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 42.5,
+        "ownPct": 43.1,
+        "points": 44
+      },
+      {
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "ownPct": 42.8,
         "points": 44
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 36.7,
+        "ownPct": 36.9,
         "points": 18
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 35.7,
+        "ownPct": 35.8,
         "points": 19
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 30.7,
+        "ownPct": 31.7,
         "points": 42
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 30.1,
+        "ownPct": 30.3,
         "points": 51
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "MID",
-        "ownPct": 20.2,
+        "ownPct": 19.8,
         "points": 32
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 18.4,
+        "ownPct": 19,
         "points": 30
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 16.6,
+        "ownPct": 17,
         "points": 42
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 16.6,
+        "ownPct": 16.8,
         "points": 30
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 16.3,
+        "ownPct": 16.4,
         "points": 20
       },
       {
@@ -966,24 +966,24 @@
         "points": 23
       },
       {
-        "id": 1429,
-        "name": "William Saliba",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 14.4,
-        "points": 23
-      },
-      {
         "id": 1099,
         "name": "Unai Simón",
         "nation": "Spain",
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 14.1,
+        "ownPct": 14.6,
         "points": 35
+      },
+      {
+        "id": 1429,
+        "name": "William Saliba",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 14.5,
+        "points": 23
       },
       {
         "id": 1094,
@@ -992,7 +992,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 13.1,
+        "ownPct": 13.2,
         "points": 35
       },
       {
@@ -1002,18 +1002,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 11.2,
+        "ownPct": 11.4,
         "points": 27
-      },
-      {
-        "id": 1133,
-        "name": "Johan Manzambi",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "ownPct": 11,
-        "points": 35
       },
       {
         "id": 457,
@@ -1022,8 +1012,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 11,
+        "ownPct": 11.1,
         "points": 11
+      },
+      {
+        "id": 1133,
+        "name": "Johan Manzambi",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "ownPct": 10.9,
+        "points": 35
       },
       {
         "id": 1089,
@@ -1032,7 +1032,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 10,
+        "ownPct": 10.5,
         "points": 35
       },
       {
@@ -1042,7 +1042,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 9.9,
+        "ownPct": 10.1,
         "points": 25
       }
     ]

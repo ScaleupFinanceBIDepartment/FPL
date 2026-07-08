@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-08T14:34:23+00:00",
+    "generatedAt": "2026-07-08T16:46:44+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 207,
+    "playerCount": 206,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 96,
     "note": "96 kampe spillet — mål, assists og point er live."
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 69.7,
+        "ownPct": 69.8,
         "points": 59
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 54.3,
+        "ownPct": 54.4,
         "points": 61
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 46,
+        "ownPct": 46.1,
         "points": 29
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 43.7,
+        "ownPct": 44,
         "points": 44
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 43,
+        "ownPct": 43.2,
         "points": 44
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 37,
+        "ownPct": 37.1,
         "points": 18
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 32.6,
+        "ownPct": 33.2,
         "points": 42
       },
       {
@@ -902,18 +902,8 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 30.5,
+        "ownPct": 30.6,
         "points": 51
-      },
-      {
-        "id": 792,
-        "name": "Ismael Saibari",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 19.5,
-        "points": 32
       },
       {
         "id": 1318,
@@ -922,8 +912,18 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 19.5,
+        "ownPct": 19.8,
         "points": 30
+      },
+      {
+        "id": 792,
+        "name": "Ismael Saibari",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 19.3,
+        "points": 32
       },
       {
         "id": 1086,
@@ -932,7 +932,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 17.3,
+        "ownPct": 17.5,
         "points": 42
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 17,
+        "ownPct": 17.1,
         "points": 30
       },
       {
@@ -952,8 +952,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 16.4,
+        "ownPct": 16.5,
         "points": 20
+      },
+      {
+        "id": 1099,
+        "name": "Unai Simón",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "GK",
+        "ownPct": 15.3,
+        "points": 35
       },
       {
         "id": 1320,
@@ -964,16 +974,6 @@
         "pos": "DEF",
         "ownPct": 15.2,
         "points": 23
-      },
-      {
-        "id": 1099,
-        "name": "Unai Simón",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "GK",
-        "ownPct": 15.1,
-        "points": 35
       },
       {
         "id": 1429,
@@ -1002,7 +1002,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 11.6,
+        "ownPct": 11.8,
         "points": 27
       },
       {
@@ -1012,7 +1012,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 11.2,
+        "ownPct": 11.3,
         "points": 11
       },
       {
@@ -1022,7 +1022,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 10.9,
+        "ownPct": 11.2,
         "points": 35
       },
       {
@@ -1042,7 +1042,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 10.2,
+        "ownPct": 10.3,
         "points": 25
       }
     ]

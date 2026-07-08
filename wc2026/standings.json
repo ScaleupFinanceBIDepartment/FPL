@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-07-07T22:18:50+00:00",
+  "fetchedAt": "2026-07-08T03:36:47+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -30,24 +30,24 @@
     },
     {
       "rank": 4,
+      "managerName": "ESI1994",
+      "teamName": "",
+      "points": 379,
+      "lastRoundPoints": 77
+    },
+    {
+      "rank": 5,
+      "managerName": "Anders Zaar",
+      "teamName": "",
+      "points": 379,
+      "lastRoundPoints": 58
+    },
+    {
+      "rank": 6,
       "managerName": "Sec United",
       "teamName": "",
       "points": 375,
       "lastRoundPoints": 61
-    },
-    {
-      "rank": 5,
-      "managerName": "ESI1994",
-      "teamName": "",
-      "points": 372,
-      "lastRoundPoints": 70
-    },
-    {
-      "rank": 6,
-      "managerName": "Anders Zaar",
-      "teamName": "",
-      "points": 361,
-      "lastRoundPoints": 40
     },
     {
       "rank": 7,
@@ -74,8 +74,8 @@
       "rank": 10,
       "managerName": "HvemkanAnnika",
       "teamName": "",
-      "points": 332,
-      "lastRoundPoints": 47
+      "points": 334,
+      "lastRoundPoints": 49
     },
     {
       "rank": 11,

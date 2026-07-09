@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-09T15:30:24+00:00",
+    "generatedAt": "2026-07-09T19:59:21+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 206,
+    "playerCount": 205,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 96,
     "note": "96 kampe spillet — mål, assists og point er live."
@@ -103,16 +103,6 @@
         "pos": "FWD",
         "goals": 3,
         "assists": 1
-      },
-      {
-        "id": 792,
-        "name": "Ismael Saibari",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "goals": 3,
-        "assists": 0
       },
       {
         "id": 1149,
@@ -260,6 +250,16 @@
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 128,
+        "name": "Alexis Saelemaekers",
+        "nation": "Belgium",
+        "nationAbbr": "BEL",
+        "group": "G",
         "pos": "MID",
         "goals": 1,
         "assists": 0
@@ -684,17 +684,6 @@
         "form": 10.7
       },
       {
-        "id": 792,
-        "name": "Ismael Saibari",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "points": 32,
-        "avg": 6.4,
-        "form": 3.7
-      },
-      {
         "id": 1158,
         "name": "Rubén Vargas",
         "nation": "Switzerland",
@@ -792,6 +781,17 @@
         "points": 29,
         "avg": 5.8,
         "form": 4.7
+      },
+      {
+        "id": 1431,
+        "name": "Bradley Barcola",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "points": 29,
+        "avg": 5.8,
+        "form": 5.7
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 70.2,
+        "ownPct": 70.4,
         "points": 59
       },
       {
@@ -812,18 +812,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 55,
+        "ownPct": 55.3,
         "points": 61
-      },
-      {
-        "id": 517,
-        "name": "Michael Olise",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "ownPct": 47.4,
-        "points": 29
       },
       {
         "id": 1088,
@@ -832,8 +822,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 47.1,
+        "ownPct": 48.5,
         "points": 44
+      },
+      {
+        "id": 517,
+        "name": "Michael Olise",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "ownPct": 48.1,
+        "points": 29
       },
       {
         "id": 501,
@@ -842,7 +842,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 44.3,
+        "ownPct": 44.8,
         "points": 44
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 44.2,
+        "ownPct": 44.4,
         "points": 45
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 38.3,
+        "ownPct": 40.8,
         "points": 42
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 38,
+        "ownPct": 38.4,
         "points": 18
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 36.1,
+        "ownPct": 36.3,
         "points": 19
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 33.8,
+        "ownPct": 33.9,
         "points": 31
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 31.5,
+        "ownPct": 31.9,
         "points": 51
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 22.4,
+        "ownPct": 23.5,
         "points": 30
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 19.1,
+        "ownPct": 19.8,
         "points": 42
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 18.2,
+        "ownPct": 18.8,
         "points": 30
       },
       {
@@ -942,18 +942,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 17.7,
+        "ownPct": 18.7,
         "points": 35
-      },
-      {
-        "id": 792,
-        "name": "Ismael Saibari",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 16.8,
-        "points": 32
       },
       {
         "id": 477,
@@ -962,8 +952,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 16.8,
+        "ownPct": 17,
         "points": 20
+      },
+      {
+        "id": 1429,
+        "name": "William Saliba",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 15.3,
+        "points": 23
       },
       {
         "id": 1320,
@@ -976,14 +976,14 @@
         "points": 23
       },
       {
-        "id": 1429,
-        "name": "William Saliba",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
+        "id": 1089,
+        "name": "Pau Cubarsí",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
         "pos": "DEF",
-        "ownPct": 15.1,
-        "points": 23
+        "ownPct": 14.4,
+        "points": 35
       },
       {
         "id": 1094,
@@ -992,17 +992,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 13.9,
-        "points": 35
-      },
-      {
-        "id": 1089,
-        "name": "Pau Cubarsí",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 13.3,
+        "ownPct": 14.1,
         "points": 35
       },
       {
@@ -1012,7 +1002,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13,
+        "ownPct": 13.5,
         "points": 27
       },
       {
@@ -1022,7 +1012,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 11.8,
+        "ownPct": 12.1,
         "points": 11
       },
       {
@@ -1032,7 +1022,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 11.1,
+        "ownPct": 11.5,
         "points": 25
       },
       {
@@ -1042,8 +1032,18 @@
         "nationAbbr": "SUI",
         "group": "B",
         "pos": "MID",
-        "ownPct": 10.7,
+        "ownPct": 10.5,
         "points": 35
+      },
+      {
+        "id": 1085,
+        "name": "Pedro Porro",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 10,
+        "points": 32
       }
     ]
   }

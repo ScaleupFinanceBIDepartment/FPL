@@ -5,15 +5,25 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-09T19:59:21+00:00",
+    "generatedAt": "2026-07-09T22:40:32+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 205,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 96,
-    "note": "96 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 97,
+    "note": "97 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
+      {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "goals": 8,
+        "assists": 3
+      },
       {
         "id": 38,
         "name": "Lionel Messi",
@@ -23,16 +33,6 @@
         "pos": "FWD",
         "goals": 8,
         "assists": 1
-      },
-      {
-        "id": 500,
-        "name": "Kylian Mbappé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "FWD",
-        "goals": 7,
-        "assists": 2
       },
       {
         "id": 855,
@@ -61,7 +61,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "goals": 4,
+        "goals": 5,
         "assists": 2
       },
       {
@@ -205,6 +205,16 @@
         "assists": 2
       },
       {
+        "id": 505,
+        "name": "Désiré Doué",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 1
+      },
+      {
         "id": 1082,
         "name": "Álex Baena",
         "nation": "Spain",
@@ -253,16 +263,6 @@
         "pos": "MID",
         "goals": 1,
         "assists": 0
-      },
-      {
-        "id": 128,
-        "name": "Alexis Saelemaekers",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "MID",
-        "goals": 1,
-        "assists": 0
       }
     ],
     "topAssists": [
@@ -285,6 +285,16 @@
         "pos": "MID",
         "assists": 4,
         "goals": 0
+      },
+      {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "assists": 3,
+        "goals": 8
       },
       {
         "id": 469,
@@ -317,16 +327,6 @@
         "goals": 0
       },
       {
-        "id": 500,
-        "name": "Kylian Mbappé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "FWD",
-        "assists": 2,
-        "goals": 7
-      },
-      {
         "id": 501,
         "name": "Ousmane Dembélé",
         "nation": "France",
@@ -334,7 +334,7 @@
         "group": "I",
         "pos": "MID",
         "assists": 2,
-        "goals": 4
+        "goals": 5
       },
       {
         "id": 1133,
@@ -519,6 +519,17 @@
     ],
     "topPoints": [
       {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "points": 72,
+        "avg": 12,
+        "form": 12
+      },
+      {
         "id": 38,
         "name": "Lionel Messi",
         "nation": "Argentina",
@@ -530,15 +541,15 @@
         "form": 9.3
       },
       {
-        "id": 500,
-        "name": "Kylian Mbappé",
+        "id": 501,
+        "name": "Ousmane Dembélé",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
-        "pos": "FWD",
-        "points": 59,
-        "avg": 11.8,
-        "form": 10.7
+        "pos": "MID",
+        "points": 54,
+        "avg": 9,
+        "form": 6.3
       },
       {
         "id": 855,
@@ -561,17 +572,6 @@
         "points": 45,
         "avg": 9,
         "form": 10
-      },
-      {
-        "id": 501,
-        "name": "Ousmane Dembélé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "points": 44,
-        "avg": 8.8,
-        "form": 9.7
       },
       {
         "id": 1088,
@@ -605,6 +605,17 @@
         "points": 42,
         "avg": 8.4,
         "form": 7
+      },
+      {
+        "id": 506,
+        "name": "Mike Maignan",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "GK",
+        "points": 37,
+        "avg": 6.2,
+        "form": 7.3
       },
       {
         "id": 1133,
@@ -662,6 +673,17 @@
         "form": 6.3
       },
       {
+        "id": 498,
+        "name": "Lucas Digne",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "points": 34,
+        "avg": 8.5,
+        "form": 8.3
+      },
+      {
         "id": 1526,
         "name": "Leandro Trossard",
         "nation": "Belgium",
@@ -671,6 +693,28 @@
         "points": 34,
         "avg": 6.8,
         "form": 9.7
+      },
+      {
+        "id": 494,
+        "name": "Dayot Upamecano",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "points": 34,
+        "avg": 5.7,
+        "form": 7
+      },
+      {
+        "id": 2020,
+        "name": "Brahim Díaz",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "points": 33,
+        "avg": 5.5,
+        "form": 5.3
       },
       {
         "id": 1085,
@@ -695,6 +739,39 @@
         "form": 4.7
       },
       {
+        "id": 517,
+        "name": "Michael Olise",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "points": 32,
+        "avg": 5.3,
+        "form": 5
+      },
+      {
+        "id": 1430,
+        "name": "Jules Koundé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "points": 32,
+        "avg": 5.3,
+        "form": 7
+      },
+      {
+        "id": 2012,
+        "name": "Achraf Hakimi",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "DEF",
+        "points": 32,
+        "avg": 5.3,
+        "form": 4
+      },
+      {
         "id": 1142,
         "name": "Ricardo Rodríguez",
         "nation": "Switzerland",
@@ -706,28 +783,6 @@
         "form": 6.7
       },
       {
-        "id": 2012,
-        "name": "Achraf Hakimi",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "DEF",
-        "points": 31,
-        "avg": 6.2,
-        "form": 7.3
-      },
-      {
-        "id": 2020,
-        "name": "Brahim Díaz",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "points": 31,
-        "avg": 6.2,
-        "form": 5.3
-      },
-      {
         "id": 1318,
         "name": "Lisandro Martínez",
         "nation": "Argentina",
@@ -737,61 +792,6 @@
         "points": 30,
         "avg": 7.5,
         "form": 7
-      },
-      {
-        "id": 124,
-        "name": "Romelu Lukaku",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "FWD",
-        "points": 30,
-        "avg": 6,
-        "form": 9.3
-      },
-      {
-        "id": 506,
-        "name": "Mike Maignan",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "GK",
-        "points": 30,
-        "avg": 6,
-        "form": 7
-      },
-      {
-        "id": 2016,
-        "name": "Issa Diop",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "DEF",
-        "points": 29,
-        "avg": 7.3,
-        "form": 9
-      },
-      {
-        "id": 517,
-        "name": "Michael Olise",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "points": 29,
-        "avg": 5.8,
-        "form": 4.7
-      },
-      {
-        "id": 1431,
-        "name": "Bradley Barcola",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "points": 29,
-        "avg": 5.8,
-        "form": 5.7
       }
     ],
     "mostSelected": [
@@ -803,7 +803,7 @@
         "group": "I",
         "pos": "FWD",
         "ownPct": 70.4,
-        "points": 59
+        "points": 72
       },
       {
         "id": 38,
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 55.3,
+        "ownPct": 55.4,
         "points": 61
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 48.5,
+        "ownPct": 49.3,
         "points": 44
       },
       {
@@ -832,8 +832,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 48.1,
-        "points": 29
+        "ownPct": 48.4,
+        "points": 32
       },
       {
         "id": 501,
@@ -842,8 +842,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 44.8,
-        "points": 44
+        "ownPct": 45.1,
+        "points": 54
       },
       {
         "id": 468,
@@ -852,7 +852,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 44.4,
+        "ownPct": 44.6,
         "points": 45
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 40.8,
+        "ownPct": 42.3,
         "points": 42
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 38.4,
+        "ownPct": 38.7,
         "points": 18
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 36.3,
+        "ownPct": 36.4,
         "points": 19
       },
       {
@@ -892,8 +892,8 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 33.9,
-        "points": 31
+        "ownPct": 33.7,
+        "points": 32
       },
       {
         "id": 855,
@@ -902,7 +902,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 31.9,
+        "ownPct": 32.1,
         "points": 51
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 23.5,
+        "ownPct": 24.2,
         "points": 30
       },
       {
@@ -922,18 +922,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 19.8,
+        "ownPct": 20.1,
         "points": 42
-      },
-      {
-        "id": 506,
-        "name": "Mike Maignan",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "GK",
-        "ownPct": 18.8,
-        "points": 30
       },
       {
         "id": 1099,
@@ -942,8 +932,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 18.7,
+        "ownPct": 19.3,
         "points": 35
+      },
+      {
+        "id": 506,
+        "name": "Mike Maignan",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "GK",
+        "ownPct": 19.1,
+        "points": 37
       },
       {
         "id": 477,
@@ -952,7 +952,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 17,
+        "ownPct": 17.1,
         "points": 20
       },
       {
@@ -962,8 +962,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 15.3,
-        "points": 23
+        "ownPct": 15.4,
+        "points": 30
       },
       {
         "id": 1320,
@@ -972,7 +972,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 15.2,
+        "ownPct": 15.1,
         "points": 23
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 14.4,
+        "ownPct": 15,
         "points": 35
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 14.1,
+        "ownPct": 14.4,
         "points": 35
       },
       {
@@ -1002,8 +1002,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.5,
-        "points": 27
+        "ownPct": 13.8,
+        "points": 34
       },
       {
         "id": 457,
@@ -1012,7 +1012,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 12.1,
+        "ownPct": 12.3,
         "points": 11
       },
       {
@@ -1022,18 +1022,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 11.5,
-        "points": 25
-      },
-      {
-        "id": 1133,
-        "name": "Johan Manzambi",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "ownPct": 10.5,
-        "points": 35
+        "ownPct": 11.8,
+        "points": 32
       },
       {
         "id": 1085,
@@ -1042,8 +1032,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 10,
+        "ownPct": 10.5,
         "points": 32
+      },
+      {
+        "id": 1133,
+        "name": "Johan Manzambi",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "ownPct": 10.3,
+        "points": 35
       }
     ]
   }

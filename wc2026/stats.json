@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-09T04:06:46+00:00",
+    "generatedAt": "2026-07-09T09:54:47+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 206,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 70,
+        "ownPct": 70.1,
         "points": 59
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 54.7,
+        "ownPct": 54.8,
         "points": 61
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 46.8,
+        "ownPct": 47,
         "points": 29
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 45.5,
+        "ownPct": 46,
         "points": 44
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 43.8,
+        "ownPct": 43.9,
         "points": 45
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 43.7,
+        "ownPct": 43.9,
         "points": 44
       },
       {
@@ -862,8 +862,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 37.5,
+        "ownPct": 37.6,
         "points": 18
+      },
+      {
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "ownPct": 36.4,
+        "points": 42
       },
       {
         "id": 45,
@@ -874,16 +884,6 @@
         "pos": "GK",
         "ownPct": 36,
         "points": 19
-      },
-      {
-        "id": 491,
-        "name": "Jude Bellingham",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "ownPct": 35.5,
-        "points": 42
       },
       {
         "id": 2012,
@@ -902,7 +902,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 31,
+        "ownPct": 31.2,
         "points": 51
       },
       {
@@ -912,18 +912,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 21,
+        "ownPct": 21.5,
         "points": 30
-      },
-      {
-        "id": 792,
-        "name": "Ismael Saibari",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 18.5,
-        "points": 32
       },
       {
         "id": 1086,
@@ -932,8 +922,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 18.3,
+        "ownPct": 18.6,
         "points": 42
+      },
+      {
+        "id": 792,
+        "name": "Ismael Saibari",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 18,
+        "points": 32
       },
       {
         "id": 506,
@@ -942,18 +942,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 17.6,
+        "ownPct": 17.8,
         "points": 30
-      },
-      {
-        "id": 477,
-        "name": "Jordan Pickford",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "GK",
-        "ownPct": 16.6,
-        "points": 20
       },
       {
         "id": 1099,
@@ -962,8 +952,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 16.4,
+        "ownPct": 16.8,
         "points": 35
+      },
+      {
+        "id": 477,
+        "name": "Jordan Pickford",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "GK",
+        "ownPct": 16.7,
+        "points": 20
       },
       {
         "id": 1320,
@@ -982,7 +982,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14.9,
+        "ownPct": 15,
         "points": 23
       },
       {
@@ -992,7 +992,17 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 13.6,
+        "ownPct": 13.7,
+        "points": 35
+      },
+      {
+        "id": 1089,
+        "name": "Pau Cubarsí",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 12.6,
         "points": 35
       },
       {
@@ -1002,18 +1012,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 12.4,
+        "ownPct": 12.6,
         "points": 27
-      },
-      {
-        "id": 1089,
-        "name": "Pau Cubarsí",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 12.2,
-        "points": 35
       },
       {
         "id": 457,
@@ -1022,7 +1022,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 11.5,
+        "ownPct": 11.6,
         "points": 11
       },
       {
@@ -1042,7 +1042,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 10.7,
+        "ownPct": 10.8,
         "points": 25
       }
     ]

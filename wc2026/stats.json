@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-09T09:54:47+00:00",
+    "generatedAt": "2026-07-09T15:30:24+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 206,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 70.1,
+        "ownPct": 70.2,
         "points": 59
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 54.8,
+        "ownPct": 55,
         "points": 61
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 47,
+        "ownPct": 47.4,
         "points": 29
       },
       {
@@ -832,7 +832,17 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 46,
+        "ownPct": 47.1,
+        "points": 44
+      },
+      {
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "ownPct": 44.3,
         "points": 44
       },
       {
@@ -842,28 +852,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 43.9,
+        "ownPct": 44.2,
         "points": 45
-      },
-      {
-        "id": 501,
-        "name": "Ousmane Dembélé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "ownPct": 43.9,
-        "points": 44
-      },
-      {
-        "id": 1092,
-        "name": "Lamine Yamal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "MID",
-        "ownPct": 37.6,
-        "points": 18
       },
       {
         "id": 491,
@@ -872,8 +862,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 36.4,
+        "ownPct": 38.3,
         "points": 42
+      },
+      {
+        "id": 1092,
+        "name": "Lamine Yamal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "ownPct": 38,
+        "points": 18
       },
       {
         "id": 45,
@@ -882,7 +882,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 36,
+        "ownPct": 36.1,
         "points": 19
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 31.2,
+        "ownPct": 31.5,
         "points": 51
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 21.5,
+        "ownPct": 22.4,
         "points": 30
       },
       {
@@ -922,18 +922,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 18.6,
+        "ownPct": 19.1,
         "points": 42
-      },
-      {
-        "id": 792,
-        "name": "Ismael Saibari",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "ownPct": 18,
-        "points": 32
       },
       {
         "id": 506,
@@ -942,7 +932,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 17.8,
+        "ownPct": 18.2,
         "points": 30
       },
       {
@@ -952,8 +942,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 16.8,
+        "ownPct": 17.7,
         "points": 35
+      },
+      {
+        "id": 792,
+        "name": "Ismael Saibari",
+        "nation": "Morocco",
+        "nationAbbr": "MAR",
+        "group": "C",
+        "pos": "MID",
+        "ownPct": 16.8,
+        "points": 32
       },
       {
         "id": 477,
@@ -962,7 +962,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 16.7,
+        "ownPct": 16.8,
         "points": 20
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 15.3,
+        "ownPct": 15.2,
         "points": 23
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 15,
+        "ownPct": 15.1,
         "points": 23
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 13.7,
+        "ownPct": 13.9,
         "points": 35
       },
       {
@@ -1002,7 +1002,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 12.6,
+        "ownPct": 13.3,
         "points": 35
       },
       {
@@ -1012,7 +1012,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 12.6,
+        "ownPct": 13,
         "points": 27
       },
       {
@@ -1022,18 +1022,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 11.6,
+        "ownPct": 11.8,
         "points": 11
-      },
-      {
-        "id": 1133,
-        "name": "Johan Manzambi",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "ownPct": 10.8,
-        "points": 35
       },
       {
         "id": 1430,
@@ -1042,8 +1032,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 10.8,
+        "ownPct": 11.1,
         "points": 25
+      },
+      {
+        "id": 1133,
+        "name": "Johan Manzambi",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "ownPct": 10.7,
+        "points": 35
       }
     ]
   }

@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-10T04:06:31+00:00",
+    "generatedAt": "2026-07-10T09:50:20+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 205,
     "tournamentStart": "2026-06-11",
@@ -842,7 +842,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 45.1,
+        "ownPct": 45.2,
         "points": 54
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "MAR",
         "group": "C",
         "pos": "DEF",
-        "ownPct": 33.6,
+        "ownPct": 33.5,
         "points": 32
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 19.1,
+        "ownPct": 19.2,
         "points": 37
       },
       {
@@ -966,6 +966,16 @@
         "points": 30
       },
       {
+        "id": 1089,
+        "name": "Pau Cubarsí",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 15.1,
+        "points": 35
+      },
+      {
         "id": 1320,
         "name": "Facundo Medina",
         "nation": "Argentina",
@@ -974,16 +984,6 @@
         "pos": "DEF",
         "ownPct": 15.1,
         "points": 23
-      },
-      {
-        "id": 1089,
-        "name": "Pau Cubarsí",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 15,
-        "points": 35
       },
       {
         "id": 1094,

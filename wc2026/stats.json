@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-11T13:46:44+00:00",
+    "generatedAt": "2026-07-11T16:03:17+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 154,
     "tournamentStart": "2026-06-11",
@@ -812,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 55.4,
+        "ownPct": 55.5,
         "points": 61
       },
       {

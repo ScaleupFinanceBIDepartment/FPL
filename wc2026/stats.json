@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-11T19:19:52+00:00",
+    "generatedAt": "2026-07-11T21:59:34+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 154,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 98,
-    "note": "98 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 99,
+    "note": "99 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -71,7 +71,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "goals": 4,
+        "goals": 5,
         "assists": 1
       },
       {
@@ -133,6 +133,16 @@
         "pos": "MID",
         "goals": 2,
         "assists": 0
+      },
+      {
+        "id": 857,
+        "name": "Andreas Schjelderup",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "FWD",
+        "goals": 1,
+        "assists": 3
       },
       {
         "id": 505,
@@ -253,16 +263,6 @@
         "pos": "MID",
         "goals": 1,
         "assists": 0
-      },
-      {
-        "id": 1135,
-        "name": "Granit Xhaka",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "goals": 1,
-        "assists": 0
       }
     ],
     "topAssists": [
@@ -277,6 +277,16 @@
         "goals": 0
       },
       {
+        "id": 1684,
+        "name": "Martin Ødegaard",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "MID",
+        "assists": 4,
+        "goals": 0
+      },
+      {
         "id": 500,
         "name": "Kylian Mbappé",
         "nation": "France",
@@ -285,6 +295,16 @@
         "pos": "FWD",
         "assists": 3,
         "goals": 8
+      },
+      {
+        "id": 857,
+        "name": "Andreas Schjelderup",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "FWD",
+        "assists": 3,
+        "goals": 1
       },
       {
         "id": 469,
@@ -297,21 +317,11 @@
         "goals": 0
       },
       {
-        "id": 857,
-        "name": "Andreas Schjelderup",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "FWD",
-        "assists": 3,
-        "goals": 0
-      },
-      {
-        "id": 1684,
-        "name": "Martin Ødegaard",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
+        "id": 474,
+        "name": "Anthony Gordon",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
         "pos": "MID",
         "assists": 3,
         "goals": 0
@@ -345,16 +355,6 @@
         "pos": "FWD",
         "assists": 2,
         "goals": 2
-      },
-      {
-        "id": 474,
-        "name": "Anthony Gordon",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "assists": 2,
-        "goals": 0
       },
       {
         "id": 845,
@@ -404,7 +404,7 @@
         "group": "L",
         "pos": "MID",
         "assists": 1,
-        "goals": 4
+        "goals": 5
       },
       {
         "id": 1094,
@@ -558,9 +558,31 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "points": 51,
-        "avg": 12.8,
-        "form": 11.3
+        "points": 52,
+        "avg": 10.4,
+        "form": 7.3
+      },
+      {
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "points": 49,
+        "avg": 8.2,
+        "form": 7.7
+      },
+      {
+        "id": 468,
+        "name": "Harry Kane",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "FWD",
+        "points": 46,
+        "avg": 7.7,
+        "form": 7.7
       },
       {
         "id": 1088,
@@ -574,17 +596,6 @@
         "form": 7.3
       },
       {
-        "id": 468,
-        "name": "Harry Kane",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "FWD",
-        "points": 45,
-        "avg": 9,
-        "form": 10
-      },
-      {
         "id": 1086,
         "name": "Aymeric Laporte",
         "nation": "Spain",
@@ -594,17 +605,6 @@
         "points": 43,
         "avg": 7.2,
         "form": 5
-      },
-      {
-        "id": 491,
-        "name": "Jude Bellingham",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "points": 42,
-        "avg": 8.4,
-        "form": 10
       },
       {
         "id": 1089,
@@ -822,7 +822,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 49.5,
+        "ownPct": 49.6,
         "points": 46
       },
       {
@@ -853,7 +853,7 @@
         "group": "L",
         "pos": "FWD",
         "ownPct": 44.6,
-        "points": 45
+        "points": 46
       },
       {
         "id": 491,
@@ -863,7 +863,7 @@
         "group": "L",
         "pos": "MID",
         "ownPct": 42.6,
-        "points": 42
+        "points": 49
       },
       {
         "id": 1092,
@@ -893,7 +893,7 @@
         "group": "I",
         "pos": "FWD",
         "ownPct": 32.2,
-        "points": 51
+        "points": 52
       },
       {
         "id": 1318,
@@ -943,7 +943,7 @@
         "group": "L",
         "pos": "GK",
         "ownPct": 17.1,
-        "points": 20
+        "points": 21
       },
       {
         "id": 1429,
@@ -992,7 +992,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14.2,
+        "ownPct": 14.3,
         "points": 34
       },
       {
@@ -1003,7 +1003,7 @@
         "group": "L",
         "pos": "DEF",
         "ownPct": 12.3,
-        "points": 11
+        "points": 12
       },
       {
         "id": 1430,
@@ -1042,7 +1042,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 9.8,
+        "ownPct": 9.9,
         "points": 22
       }
     ]

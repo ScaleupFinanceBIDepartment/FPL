@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-11T08:08:29+00:00",
+    "generatedAt": "2026-07-11T10:22:17+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 205,
+    "playerCount": 154,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 98,
     "note": "98 kampe spillet — mål, assists og point er live."
@@ -95,42 +95,12 @@
         "assists": 2
       },
       {
-        "id": 124,
-        "name": "Romelu Lukaku",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "FWD",
-        "goals": 3,
-        "assists": 1
-      },
-      {
-        "id": 129,
-        "name": "Charles De Ketelaere",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "MID",
-        "goals": 3,
-        "assists": 1
-      },
-      {
         "id": 1149,
         "name": "Breel Embolo",
         "nation": "Switzerland",
         "nationAbbr": "SUI",
         "group": "B",
         "pos": "FWD",
-        "goals": 2,
-        "assists": 2
-      },
-      {
-        "id": 1526,
-        "name": "Leandro Trossard",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "MID",
         "goals": 2,
         "assists": 2
       },
@@ -155,26 +125,6 @@
         "assists": 1
       },
       {
-        "id": 2023,
-        "name": "Soufiane Rahimi",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 1
-      },
-      {
-        "id": 137,
-        "name": "Youri Tielemans",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "MID",
-        "goals": 2,
-        "assists": 0
-      },
-      {
         "id": 1997,
         "name": "Mikel Merino",
         "nation": "Spain",
@@ -183,36 +133,6 @@
         "pos": "MID",
         "goals": 2,
         "assists": 0
-      },
-      {
-        "id": 2021,
-        "name": "Azzedine Ounahi",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "goals": 2,
-        "assists": 0
-      },
-      {
-        "id": 1524,
-        "name": "Hans Vanaken",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "MID",
-        "goals": 1,
-        "assists": 2
-      },
-      {
-        "id": 2012,
-        "name": "Achraf Hakimi",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "DEF",
-        "goals": 1,
-        "assists": 2
       },
       {
         "id": 505,
@@ -263,6 +183,86 @@
         "pos": "DEF",
         "goals": 1,
         "assists": 0
+      },
+      {
+        "id": 57,
+        "name": "Enzo Fernández",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 471,
+        "name": "Marcus Rashford",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 848,
+        "name": "Marcus Pedersen",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "DEF",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 849,
+        "name": "Leo Østigård",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "DEF",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 863,
+        "name": "Antonio Nusa",
+        "nation": "Norway",
+        "nationAbbr": "NOR",
+        "group": "I",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 1085,
+        "name": "Pedro Porro",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 1092,
+        "name": "Lamine Yamal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 1135,
+        "name": "Granit Xhaka",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
       }
     ],
     "topAssists": [
@@ -274,16 +274,6 @@
         "group": "I",
         "pos": "MID",
         "assists": 5,
-        "goals": 0
-      },
-      {
-        "id": 2020,
-        "name": "Brahim Díaz",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "assists": 4,
         "goals": 0
       },
       {
@@ -357,46 +347,6 @@
         "goals": 2
       },
       {
-        "id": 1526,
-        "name": "Leandro Trossard",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "MID",
-        "assists": 2,
-        "goals": 2
-      },
-      {
-        "id": 1524,
-        "name": "Hans Vanaken",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "MID",
-        "assists": 2,
-        "goals": 1
-      },
-      {
-        "id": 2012,
-        "name": "Achraf Hakimi",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "DEF",
-        "assists": 2,
-        "goals": 1
-      },
-      {
-        "id": 135,
-        "name": "Nicolas Raskin",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "MID",
-        "assists": 2,
-        "goals": 0
-      },
-      {
         "id": 474,
         "name": "Anthony Gordon",
         "nation": "England",
@@ -467,26 +417,6 @@
         "goals": 4
       },
       {
-        "id": 124,
-        "name": "Romelu Lukaku",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 3
-      },
-      {
-        "id": 129,
-        "name": "Charles De Ketelaere",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 3
-      },
-      {
         "id": 1158,
         "name": "Rubén Vargas",
         "nation": "Switzerland",
@@ -507,14 +437,84 @@
         "goals": 2
       },
       {
-        "id": 2023,
-        "name": "Soufiane Rahimi",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
+        "id": 505,
+        "name": "Désiré Doué",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 1
+      },
+      {
+        "id": 1082,
+        "name": "Álex Baena",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 1
+      },
+      {
+        "id": 1318,
+        "name": "Lisandro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
+        "assists": 1,
+        "goals": 1
+      },
+      {
+        "id": 1338,
+        "name": "Lautaro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
         "pos": "FWD",
         "assists": 1,
-        "goals": 2
+        "goals": 1
+      },
+      {
+        "id": 42,
+        "name": "Nico González",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 50,
+        "name": "Rodrigo De Paul",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 56,
+        "name": "Alexis Mac Allister",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 486,
+        "name": "Elliot Anderson",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
       }
     ],
     "topPoints": [
@@ -651,17 +651,6 @@
         "form": 5.3
       },
       {
-        "id": 1526,
-        "name": "Leandro Trossard",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "MID",
-        "points": 36,
-        "avg": 6,
-        "form": 4.7
-      },
-      {
         "id": 1133,
         "name": "Johan Manzambi",
         "nation": "Switzerland",
@@ -706,17 +695,6 @@
         "form": 9
       },
       {
-        "id": 129,
-        "name": "Charles De Ketelaere",
-        "nation": "Belgium",
-        "nationAbbr": "BEL",
-        "group": "G",
-        "pos": "MID",
-        "points": 34,
-        "avg": 6.8,
-        "form": 10
-      },
-      {
         "id": 494,
         "name": "Dayot Upamecano",
         "nation": "France",
@@ -726,17 +704,6 @@
         "points": 34,
         "avg": 5.7,
         "form": 7
-      },
-      {
-        "id": 2020,
-        "name": "Brahim Díaz",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "MID",
-        "points": 33,
-        "avg": 5.5,
-        "form": 5.3
       },
       {
         "id": 1158,
@@ -772,17 +739,6 @@
         "form": 7
       },
       {
-        "id": 2012,
-        "name": "Achraf Hakimi",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "DEF",
-        "points": 32,
-        "avg": 5.3,
-        "form": 4
-      },
-      {
         "id": 1142,
         "name": "Ricardo Rodríguez",
         "nation": "Switzerland",
@@ -792,6 +748,50 @@
         "points": 31,
         "avg": 6.2,
         "form": 6.7
+      },
+      {
+        "id": 1318,
+        "name": "Lisandro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
+        "points": 30,
+        "avg": 7.5,
+        "form": 7
+      },
+      {
+        "id": 1429,
+        "name": "William Saliba",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "points": 30,
+        "avg": 6,
+        "form": 7
+      },
+      {
+        "id": 1431,
+        "name": "Bradley Barcola",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "points": 30,
+        "avg": 5,
+        "form": 4.7
+      },
+      {
+        "id": 1153,
+        "name": "Gregor Kobel",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "GK",
+        "points": 28,
+        "avg": 5.6,
+        "form": 7.7
       }
     ],
     "mostSelected": [
@@ -862,7 +862,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 42.5,
+        "ownPct": 42.6,
         "points": 42
       },
       {
@@ -884,16 +884,6 @@
         "pos": "GK",
         "ownPct": 36.5,
         "points": 19
-      },
-      {
-        "id": 2012,
-        "name": "Achraf Hakimi",
-        "nation": "Morocco",
-        "nationAbbr": "MAR",
-        "group": "C",
-        "pos": "DEF",
-        "ownPct": 33.1,
-        "points": 32
       },
       {
         "id": 855,
@@ -926,6 +916,16 @@
         "points": 43
       },
       {
+        "id": 506,
+        "name": "Mike Maignan",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "GK",
+        "ownPct": 19.4,
+        "points": 37
+      },
+      {
         "id": 1099,
         "name": "Unai Simón",
         "nation": "Spain",
@@ -933,16 +933,6 @@
         "group": "H",
         "pos": "GK",
         "ownPct": 19.4,
-        "points": 37
-      },
-      {
-        "id": 506,
-        "name": "Mike Maignan",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "GK",
-        "ownPct": 19.3,
         "points": 37
       },
       {
@@ -1044,6 +1034,16 @@
         "pos": "MID",
         "ownPct": 10.3,
         "points": 35
+      },
+      {
+        "id": 28,
+        "name": "Cristian Romero",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
+        "ownPct": 9.8,
+        "points": 22
       }
     ]
   }

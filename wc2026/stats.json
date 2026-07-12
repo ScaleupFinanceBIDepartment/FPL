@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-12T08:29:20+00:00",
+    "generatedAt": "2026-07-12T10:39:55+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 102,
     "tournamentStart": "2026-06-11",
@@ -762,7 +762,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 70.8,
+        "ownPct": 71,
         "points": 72
       },
       {
@@ -772,7 +772,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 55.7,
+        "ownPct": 55.8,
         "points": 66
       },
       {
@@ -792,7 +792,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 48.7,
+        "ownPct": 48.8,
         "points": 32
       },
       {
@@ -802,7 +802,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 46,
+        "ownPct": 46.5,
         "points": 48
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 45.8,
+        "ownPct": 46,
         "points": 54
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 43.5,
+        "ownPct": 43.9,
         "points": 56
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 38.5,
+        "ownPct": 38.4,
         "points": 20
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 36.4,
+        "ownPct": 36.3,
         "points": 22
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 24.9,
+        "ownPct": 25.1,
         "points": 32
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 20.5,
+        "ownPct": 21,
         "points": 37
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 20.2,
+        "ownPct": 20.1,
         "points": 43
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 19.3,
+        "ownPct": 19.2,
         "points": 37
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 17.7,
+        "ownPct": 18,
         "points": 23
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 16,
+        "ownPct": 16.1,
         "points": 30
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 15.6,
+        "ownPct": 15.7,
         "points": 39
       },
       {
@@ -922,18 +922,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 15.3,
+        "ownPct": 15.7,
         "points": 34
-      },
-      {
-        "id": 1320,
-        "name": "Facundo Medina",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "DEF",
-        "ownPct": 15,
-        "points": 23
       },
       {
         "id": 1094,
@@ -942,8 +932,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 14.8,
+        "ownPct": 15,
         "points": 37
+      },
+      {
+        "id": 1320,
+        "name": "Facundo Medina",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
+        "ownPct": 14.9,
+        "points": 23
       },
       {
         "id": 457,
@@ -952,7 +952,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 12.7,
+        "ownPct": 12.9,
         "points": 13
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 12.4,
+        "ownPct": 12.6,
         "points": 32
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "MID",
-        "ownPct": 11,
+        "ownPct": 11.7,
         "points": 34
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 10.7,
+        "ownPct": 10.8,
         "points": 34
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 10.1,
+        "ownPct": 10.3,
         "points": 24
       },
       {
@@ -1002,7 +1002,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 9,
+        "ownPct": 9.3,
         "points": 26
       }
     ]

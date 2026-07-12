@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-07-12T03:47:12+00:00",
+  "fetchedAt": "2026-07-12T08:29:20+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -58,17 +58,17 @@
     },
     {
       "rank": 8,
+      "managerName": "rehpotsirhc",
+      "teamName": "",
+      "points": 409,
+      "lastRoundPoints": 88
+    },
+    {
+      "rank": 9,
       "managerName": "Anders Zaar",
       "teamName": "",
       "points": 406,
       "lastRoundPoints": 27
-    },
-    {
-      "rank": 9,
-      "managerName": "rehpotsirhc",
-      "teamName": "",
-      "points": 405,
-      "lastRoundPoints": 84
     },
     {
       "rank": 10,
@@ -102,8 +102,8 @@
       "rank": 14,
       "managerName": "irs97",
       "teamName": "",
-      "points": 352,
-      "lastRoundPoints": 25
+      "points": 353,
+      "lastRoundPoints": 26
     },
     {
       "rank": 15,

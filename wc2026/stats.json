@@ -5,9 +5,9 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-12T03:47:11+00:00",
+    "generatedAt": "2026-07-12T08:29:20+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
-    "playerCount": 154,
+    "playerCount": 102,
     "tournamentStart": "2026-06-11",
     "matchesPlayed": 100,
     "note": "100 kampe spillet — mål, assists og point er live."
@@ -33,16 +33,6 @@
         "pos": "FWD",
         "goals": 8,
         "assists": 2
-      },
-      {
-        "id": 855,
-        "name": "Erling Haaland",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "FWD",
-        "goals": 7,
-        "assists": 0
       },
       {
         "id": 468,
@@ -85,36 +75,6 @@
         "assists": 1
       },
       {
-        "id": 1133,
-        "name": "Johan Manzambi",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "goals": 3,
-        "assists": 2
-      },
-      {
-        "id": 1149,
-        "name": "Breel Embolo",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 2
-      },
-      {
-        "id": 1158,
-        "name": "Rubén Vargas",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "goals": 2,
-        "assists": 1
-      },
-      {
         "id": 1338,
         "name": "Lautaro Martínez",
         "nation": "Argentina",
@@ -135,16 +95,6 @@
         "assists": 1
       },
       {
-        "id": 1151,
-        "name": "Dan Ndoye",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "FWD",
-        "goals": 2,
-        "assists": 0
-      },
-      {
         "id": 1997,
         "name": "Mikel Merino",
         "nation": "Spain",
@@ -153,16 +103,6 @@
         "pos": "MID",
         "goals": 2,
         "assists": 0
-      },
-      {
-        "id": 857,
-        "name": "Andreas Schjelderup",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "FWD",
-        "goals": 1,
-        "assists": 3
       },
       {
         "id": 56,
@@ -245,22 +185,42 @@
         "assists": 0
       },
       {
-        "id": 848,
-        "name": "Marcus Pedersen",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
+        "id": 1085,
+        "name": "Pedro Porro",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
         "pos": "DEF",
         "goals": 1,
         "assists": 0
       },
       {
-        "id": 849,
-        "name": "Leo Østigård",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "DEF",
+        "id": 1092,
+        "name": "Lamine Yamal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 1326,
+        "name": "Giovani Lo Celso",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 1998,
+        "name": "Fabián Ruiz",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
         "goals": 1,
         "assists": 0
       }
@@ -277,16 +237,6 @@
         "goals": 0
       },
       {
-        "id": 1684,
-        "name": "Martin Ødegaard",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "MID",
-        "assists": 4,
-        "goals": 0
-      },
-      {
         "id": 500,
         "name": "Kylian Mbappé",
         "nation": "France",
@@ -295,16 +245,6 @@
         "pos": "FWD",
         "assists": 3,
         "goals": 8
-      },
-      {
-        "id": 857,
-        "name": "Andreas Schjelderup",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "FWD",
-        "assists": 3,
-        "goals": 1
       },
       {
         "id": 469,
@@ -347,36 +287,6 @@
         "goals": 5
       },
       {
-        "id": 1133,
-        "name": "Johan Manzambi",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "assists": 2,
-        "goals": 3
-      },
-      {
-        "id": 1149,
-        "name": "Breel Embolo",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "FWD",
-        "assists": 2,
-        "goals": 2
-      },
-      {
-        "id": 845,
-        "name": "Patrick Berg",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "MID",
-        "assists": 2,
-        "goals": 0
-      },
-      {
         "id": 1088,
         "name": "Marc Cucurella",
         "nation": "Spain",
@@ -415,16 +325,6 @@
         "pos": "FWD",
         "assists": 1,
         "goals": 4
-      },
-      {
-        "id": 1158,
-        "name": "Rubén Vargas",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 2
       },
       {
         "id": 1338,
@@ -515,6 +415,66 @@
         "pos": "MID",
         "assists": 1,
         "goals": 0
+      },
+      {
+        "id": 486,
+        "name": "Elliot Anderson",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 488,
+        "name": "Declan Rice",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 510,
+        "name": "Adrien Rabiot",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 515,
+        "name": "Aurélien Tchouaméni",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 1086,
+        "name": "Aymeric Laporte",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "assists": 1,
+        "goals": 0
+      },
+      {
+        "id": 1093,
+        "name": "Ferran Torres",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 0
       }
     ],
     "topPoints": [
@@ -563,17 +523,6 @@
         "form": 6.3
       },
       {
-        "id": 855,
-        "name": "Erling Haaland",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "FWD",
-        "points": 53,
-        "avg": 10.6,
-        "form": 7.7
-      },
-      {
         "id": 468,
         "name": "Harry Kane",
         "nation": "England",
@@ -618,17 +567,6 @@
         "form": 6
       },
       {
-        "id": 1142,
-        "name": "Ricardo Rodríguez",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "DEF",
-        "points": 38,
-        "avg": 6.3,
-        "form": 8.3
-      },
-      {
         "id": 506,
         "name": "Mike Maignan",
         "nation": "France",
@@ -660,28 +598,6 @@
         "points": 37,
         "avg": 6.2,
         "form": 5.3
-      },
-      {
-        "id": 1133,
-        "name": "Johan Manzambi",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "points": 35,
-        "avg": 8.8,
-        "form": 11.3
-      },
-      {
-        "id": 1149,
-        "name": "Breel Embolo",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "FWD",
-        "points": 35,
-        "avg": 5.8,
-        "form": 3.7
       },
       {
         "id": 498,
@@ -750,17 +666,6 @@
         "form": 5
       },
       {
-        "id": 1158,
-        "name": "Rubén Vargas",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "points": 32,
-        "avg": 5.3,
-        "form": 1.3
-      },
-      {
         "id": 1430,
         "name": "Jules Koundé",
         "nation": "France",
@@ -792,6 +697,61 @@
         "points": 30,
         "avg": 5,
         "form": 4.7
+      },
+      {
+        "id": 1338,
+        "name": "Lautaro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "points": 27,
+        "avg": 4.5,
+        "form": 4.3
+      },
+      {
+        "id": 474,
+        "name": "Anthony Gordon",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "points": 26,
+        "avg": 5.2,
+        "form": 7
+      },
+      {
+        "id": 1082,
+        "name": "Álex Baena",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "points": 26,
+        "avg": 5.2,
+        "form": 4.3
+      },
+      {
+        "id": 505,
+        "name": "Désiré Doué",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "points": 26,
+        "avg": 4.3,
+        "form": 4
+      },
+      {
+        "id": 469,
+        "name": "Bukayo Saka",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "points": 25,
+        "avg": 4.2,
+        "form": 4
       }
     ],
     "mostSelected": [
@@ -802,7 +762,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 70.6,
+        "ownPct": 70.8,
         "points": 72
       },
       {
@@ -812,7 +772,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 55.5,
+        "ownPct": 55.7,
         "points": 66
       },
       {
@@ -822,7 +782,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 49.6,
+        "ownPct": 49.7,
         "points": 46
       },
       {
@@ -832,18 +792,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 48.6,
+        "ownPct": 48.7,
         "points": 32
-      },
-      {
-        "id": 501,
-        "name": "Ousmane Dembélé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "ownPct": 45.4,
-        "points": 54
       },
       {
         "id": 468,
@@ -852,8 +802,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 45,
+        "ownPct": 46,
         "points": 48
+      },
+      {
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "ownPct": 45.8,
+        "points": 54
       },
       {
         "id": 491,
@@ -862,7 +822,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 42.8,
+        "ownPct": 43.5,
         "points": 56
       },
       {
@@ -872,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 38.7,
+        "ownPct": 38.5,
         "points": 20
       },
       {
@@ -882,18 +842,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 36.5,
+        "ownPct": 36.4,
         "points": 22
-      },
-      {
-        "id": 855,
-        "name": "Erling Haaland",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "FWD",
-        "ownPct": 31.6,
-        "points": 53
       },
       {
         "id": 1318,
@@ -902,18 +852,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 24.5,
+        "ownPct": 24.9,
         "points": 32
-      },
-      {
-        "id": 1086,
-        "name": "Aymeric Laporte",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 20.3,
-        "points": 43
       },
       {
         "id": 506,
@@ -922,8 +862,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 19.6,
+        "ownPct": 20.5,
         "points": 37
+      },
+      {
+        "id": 1086,
+        "name": "Aymeric Laporte",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 20.2,
+        "points": 43
       },
       {
         "id": 1099,
@@ -932,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 19.4,
+        "ownPct": 19.3,
         "points": 37
       },
       {
@@ -942,7 +892,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 17.2,
+        "ownPct": 17.7,
         "points": 23
       },
       {
@@ -952,7 +902,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 15.7,
+        "ownPct": 16,
         "points": 30
       },
       {
@@ -962,8 +912,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 15.3,
+        "ownPct": 15.6,
         "points": 39
+      },
+      {
+        "id": 494,
+        "name": "Dayot Upamecano",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 15.3,
+        "points": 34
       },
       {
         "id": 1320,
@@ -972,7 +932,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 15.2,
+        "ownPct": 15,
         "points": 23
       },
       {
@@ -982,18 +942,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 14.5,
+        "ownPct": 14.8,
         "points": 37
-      },
-      {
-        "id": 494,
-        "name": "Dayot Upamecano",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 14.4,
-        "points": 34
       },
       {
         "id": 457,
@@ -1002,7 +952,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 12.4,
+        "ownPct": 12.7,
         "points": 13
       },
       {
@@ -1012,8 +962,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 12.1,
+        "ownPct": 12.4,
         "points": 32
+      },
+      {
+        "id": 56,
+        "name": "Alexis Mac Allister",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "ownPct": 11,
+        "points": 34
       },
       {
         "id": 1085,
@@ -1026,24 +986,24 @@
         "points": 34
       },
       {
-        "id": 1133,
-        "name": "Johan Manzambi",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
-        "ownPct": 10.3,
-        "points": 35
-      },
-      {
         "id": 28,
         "name": "Cristian Romero",
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 9.9,
+        "ownPct": 10.1,
         "points": 24
+      },
+      {
+        "id": 1082,
+        "name": "Álex Baena",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "ownPct": 9,
+        "points": 26
       }
     ]
   }

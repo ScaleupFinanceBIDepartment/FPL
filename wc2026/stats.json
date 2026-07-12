@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-11T21:59:34+00:00",
+    "generatedAt": "2026-07-12T03:47:11+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 154,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 99,
-    "note": "99 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 100,
+    "note": "100 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -32,7 +32,7 @@
         "group": "J",
         "pos": "FWD",
         "goals": 8,
-        "assists": 1
+        "assists": 2
       },
       {
         "id": 855,
@@ -55,6 +55,16 @@
         "assists": 1
       },
       {
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "goals": 6,
+        "assists": 1
+      },
+      {
         "id": 501,
         "name": "Ousmane Dembélé",
         "nation": "France",
@@ -63,16 +73,6 @@
         "pos": "MID",
         "goals": 5,
         "assists": 2
-      },
-      {
-        "id": 491,
-        "name": "Jude Bellingham",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "goals": 5,
-        "assists": 1
       },
       {
         "id": 1094,
@@ -115,6 +115,16 @@
         "assists": 1
       },
       {
+        "id": 1338,
+        "name": "Lautaro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "goals": 2,
+        "assists": 1
+      },
+      {
         "id": 1431,
         "name": "Bradley Barcola",
         "nation": "France",
@@ -123,6 +133,16 @@
         "pos": "MID",
         "goals": 2,
         "assists": 1
+      },
+      {
+        "id": 1151,
+        "name": "Dan Ndoye",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "FWD",
+        "goals": 2,
+        "assists": 0
       },
       {
         "id": 1997,
@@ -143,6 +163,16 @@
         "pos": "FWD",
         "goals": 1,
         "assists": 3
+      },
+      {
+        "id": 56,
+        "name": "Alexis Mac Allister",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 1
       },
       {
         "id": 505,
@@ -175,22 +205,22 @@
         "assists": 1
       },
       {
-        "id": 1338,
-        "name": "Lautaro Martínez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "goals": 1,
-        "assists": 1
-      },
-      {
         "id": 28,
         "name": "Cristian Romero",
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
+        "goals": 1,
+        "assists": 0
+      },
+      {
+        "id": 39,
+        "name": "Julián Alvarez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
         "goals": 1,
         "assists": 0
       },
@@ -231,36 +261,6 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "DEF",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 863,
-        "name": "Antonio Nusa",
-        "nation": "Norway",
-        "nationAbbr": "NOR",
-        "group": "I",
-        "pos": "MID",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 1085,
-        "name": "Pedro Porro",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 1092,
-        "name": "Lamine Yamal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "MID",
         "goals": 1,
         "assists": 0
       }
@@ -327,6 +327,16 @@
         "goals": 0
       },
       {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "assists": 2,
+        "goals": 8
+      },
+      {
         "id": 501,
         "name": "Ousmane Dembélé",
         "nation": "France",
@@ -377,16 +387,6 @@
         "goals": 0
       },
       {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 8
-      },
-      {
         "id": 468,
         "name": "Harry Kane",
         "nation": "England",
@@ -404,7 +404,7 @@
         "group": "L",
         "pos": "MID",
         "assists": 1,
-        "goals": 5
+        "goals": 6
       },
       {
         "id": 1094,
@@ -427,6 +427,16 @@
         "goals": 2
       },
       {
+        "id": 1338,
+        "name": "Lautaro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 2
+      },
+      {
         "id": 1431,
         "name": "Bradley Barcola",
         "nation": "France",
@@ -435,6 +445,16 @@
         "pos": "MID",
         "assists": 1,
         "goals": 2
+      },
+      {
+        "id": 56,
+        "name": "Alexis Mac Allister",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 1
       },
       {
         "id": 505,
@@ -467,16 +487,6 @@
         "goals": 1
       },
       {
-        "id": 1338,
-        "name": "Lautaro Martínez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 1
-      },
-      {
         "id": 42,
         "name": "Nico González",
         "nation": "Argentina",
@@ -487,31 +497,21 @@
         "goals": 0
       },
       {
+        "id": 43,
+        "name": "José Manuel López",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "assists": 1,
+        "goals": 0
+      },
+      {
         "id": 50,
         "name": "Rodrigo De Paul",
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 56,
-        "name": "Alexis Mac Allister",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 486,
-        "name": "Elliot Anderson",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
         "pos": "MID",
         "assists": 1,
         "goals": 0
@@ -536,9 +536,20 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "points": 61,
-        "avg": 12.2,
-        "form": 9.3
+        "points": 66,
+        "avg": 11,
+        "form": 8.7
+      },
+      {
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "points": 56,
+        "avg": 9.3,
+        "form": 10
       },
       {
         "id": 501,
@@ -558,19 +569,8 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "points": 52,
-        "avg": 10.4,
-        "form": 7.3
-      },
-      {
-        "id": 491,
-        "name": "Jude Bellingham",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "points": 49,
-        "avg": 8.2,
+        "points": 53,
+        "avg": 10.6,
         "form": 7.7
       },
       {
@@ -580,9 +580,9 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "points": 46,
-        "avg": 7.7,
-        "form": 7.7
+        "points": 48,
+        "avg": 8,
+        "form": 8.3
       },
       {
         "id": 1088,
@@ -616,6 +616,17 @@
         "points": 39,
         "avg": 6.5,
         "form": 6
+      },
+      {
+        "id": 1142,
+        "name": "Ricardo Rodríguez",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "DEF",
+        "points": 38,
+        "avg": 6.3,
+        "form": 8.3
       },
       {
         "id": 506,
@@ -669,8 +680,8 @@
         "group": "B",
         "pos": "FWD",
         "points": 35,
-        "avg": 7,
-        "form": 6.3
+        "avg": 5.8,
+        "form": 3.7
       },
       {
         "id": 498,
@@ -695,6 +706,17 @@
         "form": 9
       },
       {
+        "id": 56,
+        "name": "Alexis Mac Allister",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "points": 34,
+        "avg": 5.7,
+        "form": 6.7
+      },
+      {
         "id": 494,
         "name": "Dayot Upamecano",
         "nation": "France",
@@ -706,12 +728,12 @@
         "form": 7
       },
       {
-        "id": 1158,
-        "name": "Rubén Vargas",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "MID",
+        "id": 1318,
+        "name": "Lisandro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
         "points": 32,
         "avg": 6.4,
         "form": 4.7
@@ -728,6 +750,17 @@
         "form": 5
       },
       {
+        "id": 1158,
+        "name": "Rubén Vargas",
+        "nation": "Switzerland",
+        "nationAbbr": "SUI",
+        "group": "B",
+        "pos": "MID",
+        "points": 32,
+        "avg": 5.3,
+        "form": 1.3
+      },
+      {
         "id": 1430,
         "name": "Jules Koundé",
         "nation": "France",
@@ -736,28 +769,6 @@
         "pos": "DEF",
         "points": 32,
         "avg": 5.3,
-        "form": 7
-      },
-      {
-        "id": 1142,
-        "name": "Ricardo Rodríguez",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "DEF",
-        "points": 31,
-        "avg": 6.2,
-        "form": 6.7
-      },
-      {
-        "id": 1318,
-        "name": "Lisandro Martínez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "DEF",
-        "points": 30,
-        "avg": 7.5,
         "form": 7
       },
       {
@@ -781,17 +792,6 @@
         "points": 30,
         "avg": 5,
         "form": 4.7
-      },
-      {
-        "id": 1153,
-        "name": "Gregor Kobel",
-        "nation": "Switzerland",
-        "nationAbbr": "SUI",
-        "group": "B",
-        "pos": "GK",
-        "points": 28,
-        "avg": 5.6,
-        "form": 7.7
       }
     ],
     "mostSelected": [
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 70.5,
+        "ownPct": 70.6,
         "points": 72
       },
       {
@@ -813,7 +813,7 @@
         "group": "J",
         "pos": "FWD",
         "ownPct": 55.5,
-        "points": 61
+        "points": 66
       },
       {
         "id": 1088,
@@ -832,7 +832,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 48.5,
+        "ownPct": 48.6,
         "points": 32
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 45.3,
+        "ownPct": 45.4,
         "points": 54
       },
       {
@@ -852,8 +852,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 44.6,
-        "points": 46
+        "ownPct": 45,
+        "points": 48
       },
       {
         "id": 491,
@@ -862,8 +862,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 42.6,
-        "points": 49
+        "ownPct": 42.8,
+        "points": 56
       },
       {
         "id": 1092,
@@ -883,7 +883,7 @@
         "group": "J",
         "pos": "GK",
         "ownPct": 36.5,
-        "points": 19
+        "points": 22
       },
       {
         "id": 855,
@@ -892,8 +892,8 @@
         "nationAbbr": "NOR",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 32.2,
-        "points": 52
+        "ownPct": 31.6,
+        "points": 53
       },
       {
         "id": 1318,
@@ -902,8 +902,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 24.4,
-        "points": 30
+        "ownPct": 24.5,
+        "points": 32
       },
       {
         "id": 1086,
@@ -922,7 +922,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 19.4,
+        "ownPct": 19.6,
         "points": 37
       },
       {
@@ -942,8 +942,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 17.1,
-        "points": 21
+        "ownPct": 17.2,
+        "points": 23
       },
       {
         "id": 1429,
@@ -952,7 +952,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 15.6,
+        "ownPct": 15.7,
         "points": 30
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 15.2,
+        "ownPct": 15.3,
         "points": 39
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 14.4,
+        "ownPct": 14.5,
         "points": 37
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14.3,
+        "ownPct": 14.4,
         "points": 34
       },
       {
@@ -1002,8 +1002,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 12.3,
-        "points": 12
+        "ownPct": 12.4,
+        "points": 13
       },
       {
         "id": 1430,
@@ -1012,7 +1012,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 12,
+        "ownPct": 12.1,
         "points": 32
       },
       {
@@ -1022,7 +1022,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 10.6,
+        "ownPct": 10.7,
         "points": 34
       },
       {
@@ -1043,7 +1043,7 @@
         "group": "J",
         "pos": "DEF",
         "ownPct": 9.9,
-        "points": 22
+        "points": 24
       }
     ]
   }

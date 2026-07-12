@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-12T19:18:36+00:00",
+    "generatedAt": "2026-07-12T22:02:03+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 102,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 47.7,
+        "ownPct": 47.9,
         "points": 48
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 46.4,
+        "ownPct": 46.5,
         "points": 54
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 44.9,
+        "ownPct": 45,
         "points": 56
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 22.3,
+        "ownPct": 22.4,
         "points": 37
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 18.7,
+        "ownPct": 18.8,
         "points": 23
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 16.7,
+        "ownPct": 16.9,
         "points": 34
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 16.5,
+        "ownPct": 16.6,
         "points": 30
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 14.8,
+        "ownPct": 14.7,
         "points": 23
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "MID",
-        "ownPct": 13.4,
+        "ownPct": 13.6,
         "points": 34
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 13.3,
+        "ownPct": 13.4,
         "points": 13
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13,
+        "ownPct": 13.1,
         "points": 32
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 10.8,
+        "ownPct": 10.9,
         "points": 34
       },
       {
@@ -1002,7 +1002,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 10,
+        "ownPct": 10.2,
         "points": 34
       }
     ]

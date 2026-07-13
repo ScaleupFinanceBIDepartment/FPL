@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-13T09:44:28+00:00",
+    "generatedAt": "2026-07-13T14:54:33+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 102,
     "tournamentStart": "2026-06-11",
@@ -762,7 +762,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 71.5,
+        "ownPct": 71.6,
         "points": 72
       },
       {
@@ -782,7 +782,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 49.9,
+        "ownPct": 50,
         "points": 46
       },
       {
@@ -792,7 +792,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 49.1,
+        "ownPct": 49.2,
         "points": 32
       },
       {
@@ -802,7 +802,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 48.5,
+        "ownPct": 48.8,
         "points": 48
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 46.7,
+        "ownPct": 46.8,
         "points": 54
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 45.5,
+        "ownPct": 45.8,
         "points": 56
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 37.9,
+        "ownPct": 37.8,
         "points": 20
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 36,
+        "ownPct": 35.9,
         "points": 22
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 26,
+        "ownPct": 26.1,
         "points": 32
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 23,
+        "ownPct": 23.4,
         "points": 37
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 19.1,
+        "ownPct": 19.3,
         "points": 23
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 17.4,
+        "ownPct": 17.7,
         "points": 34
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 16.8,
+        "ownPct": 16.9,
         "points": 30
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 16.3,
+        "ownPct": 16.4,
         "points": 39
       },
       {
@@ -932,18 +932,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 15.6,
+        "ownPct": 15.7,
         "points": 37
-      },
-      {
-        "id": 1320,
-        "name": "Facundo Medina",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "DEF",
-        "ownPct": 14.7,
-        "points": 23
       },
       {
         "id": 56,
@@ -952,8 +942,18 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "MID",
-        "ownPct": 14.3,
+        "ownPct": 14.8,
         "points": 34
+      },
+      {
+        "id": 1320,
+        "name": "Facundo Medina",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
+        "ownPct": 14.6,
+        "points": 23
       },
       {
         "id": 457,
@@ -962,7 +962,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 13.6,
+        "ownPct": 13.8,
         "points": 13
       },
       {
@@ -972,8 +972,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.3,
+        "ownPct": 13.4,
         "points": 32
+      },
+      {
+        "id": 498,
+        "name": "Lucas Digne",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 11.1,
+        "points": 34
       },
       {
         "id": 1085,
@@ -986,23 +996,13 @@
         "points": 34
       },
       {
-        "id": 498,
-        "name": "Lucas Digne",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 10.7,
-        "points": 34
-      },
-      {
         "id": 28,
         "name": "Cristian Romero",
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 10.7,
+        "ownPct": 10.8,
         "points": 24
       }
     ]

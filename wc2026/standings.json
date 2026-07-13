@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-07-13T14:54:34+00:00",
+  "fetchedAt": "2026-07-13T17:20:17+00:00",
   "status": "ok",
   "message": "Stilling hentet.",
   "entries": [
@@ -67,15 +67,15 @@
       "rank": 9,
       "managerName": "Anders Zaar",
       "teamName": "",
-      "points": 406,
-      "lastRoundPoints": 27
+      "points": 408,
+      "lastRoundPoints": 29
     },
     {
       "rank": 10,
       "managerName": "Hedge Fund Hooligans",
       "teamName": "",
-      "points": 380,
-      "lastRoundPoints": 34
+      "points": 381,
+      "lastRoundPoints": 35
     },
     {
       "rank": 11,
@@ -88,8 +88,8 @@
       "rank": 12,
       "managerName": "HvemkanAnnika",
       "teamName": "",
-      "points": 364,
-      "lastRoundPoints": 30
+      "points": 371,
+      "lastRoundPoints": 37
     },
     {
       "rank": 13,

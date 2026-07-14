@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-14T03:23:13+00:00",
+    "generatedAt": "2026-07-14T08:24:06+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 102,
     "tournamentStart": "2026-06-11",
@@ -762,7 +762,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 71.7,
+        "ownPct": 71.8,
         "points": 72
       },
       {
@@ -792,7 +792,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 49.6,
+        "ownPct": 49.9,
         "points": 48
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 47.1,
+        "ownPct": 47.2,
         "points": 54
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 46.4,
+        "ownPct": 46.6,
         "points": 56
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 37.6,
+        "ownPct": 37.5,
         "points": 20
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 26.5,
+        "ownPct": 26.6,
         "points": 32
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 24.3,
+        "ownPct": 24.6,
         "points": 37
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 19.8,
+        "ownPct": 20,
         "points": 23
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 19.7,
+        "ownPct": 19.6,
         "points": 43
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 18.3,
+        "ownPct": 18.5,
         "points": 34
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 17.1,
+        "ownPct": 17.2,
         "points": 30
       },
       {
@@ -926,24 +926,24 @@
         "points": 39
       },
       {
-        "id": 1094,
-        "name": "Mikel Oyarzabal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "FWD",
-        "ownPct": 15.9,
-        "points": 37
-      },
-      {
         "id": 56,
         "name": "Alexis Mac Allister",
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "MID",
-        "ownPct": 15.8,
+        "ownPct": 16.2,
         "points": 34
+      },
+      {
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "FWD",
+        "ownPct": 16,
+        "points": 37
       },
       {
         "id": 1320,
@@ -952,7 +952,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 14.5,
+        "ownPct": 14.4,
         "points": 23
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 14.2,
+        "ownPct": 14.3,
         "points": 13
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.7,
+        "ownPct": 13.8,
         "points": 32
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 12,
+        "ownPct": 12.3,
         "points": 34
       },
       {
@@ -1002,7 +1002,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 10.9,
+        "ownPct": 11,
         "points": 24
       }
     ]

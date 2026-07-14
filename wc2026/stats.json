@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-14T16:23:00+00:00",
+    "generatedAt": "2026-07-14T19:39:24+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 102,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 100,
-    "note": "100 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 101,
+    "note": "101 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -71,7 +71,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "goals": 4,
+        "goals": 5,
         "assists": 1
       },
       {
@@ -324,7 +324,7 @@
         "group": "H",
         "pos": "FWD",
         "assists": 1,
-        "goals": 4
+        "goals": 5
       },
       {
         "id": 1338,
@@ -485,9 +485,9 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "points": 72,
-        "avg": 12,
-        "form": 12
+        "points": 73,
+        "avg": 10.4,
+        "form": 7.7
       },
       {
         "id": 38,
@@ -518,9 +518,9 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "points": 54,
-        "avg": 9,
-        "form": 6.3
+        "points": 55,
+        "avg": 7.9,
+        "form": 4.7
       },
       {
         "id": 468,
@@ -541,8 +541,8 @@
         "group": "H",
         "pos": "DEF",
         "points": 46,
-        "avg": 7.7,
-        "form": 7.3
+        "avg": 6.6,
+        "form": 3
       },
       {
         "id": 1086,
@@ -551,31 +551,9 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "points": 43,
-        "avg": 7.2,
-        "form": 5
-      },
-      {
-        "id": 1089,
-        "name": "Pau Cubarsí",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "points": 39,
-        "avg": 6.5,
-        "form": 6
-      },
-      {
-        "id": 506,
-        "name": "Mike Maignan",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "GK",
-        "points": 37,
-        "avg": 6.2,
-        "form": 7.3
+        "points": 44,
+        "avg": 6.3,
+        "form": 3
       },
       {
         "id": 1094,
@@ -584,9 +562,31 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "points": 37,
-        "avg": 6.2,
-        "form": 6
+        "points": 43,
+        "avg": 6.1,
+        "form": 3.3
+      },
+      {
+        "id": 1089,
+        "name": "Pau Cubarsí",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "points": 40,
+        "avg": 5.7,
+        "form": 4
+      },
+      {
+        "id": 506,
+        "name": "Mike Maignan",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "GK",
+        "points": 38,
+        "avg": 5.4,
+        "form": 5
       },
       {
         "id": 1099,
@@ -595,9 +595,31 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "points": 37,
-        "avg": 6.2,
-        "form": 5.3
+        "points": 38,
+        "avg": 5.4,
+        "form": 3.3
+      },
+      {
+        "id": 1085,
+        "name": "Pedro Porro",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "points": 35,
+        "avg": 7,
+        "form": 4
+      },
+      {
+        "id": 494,
+        "name": "Dayot Upamecano",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "points": 35,
+        "avg": 5,
+        "form": 5
       },
       {
         "id": 498,
@@ -607,19 +629,8 @@
         "group": "I",
         "pos": "DEF",
         "points": 34,
-        "avg": 8.5,
-        "form": 8.3
-      },
-      {
-        "id": 1085,
-        "name": "Pedro Porro",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "points": 34,
-        "avg": 8.5,
-        "form": 9
+        "avg": 6.8,
+        "form": 5.3
       },
       {
         "id": 56,
@@ -633,15 +644,26 @@
         "form": 6.7
       },
       {
-        "id": 494,
-        "name": "Dayot Upamecano",
+        "id": 517,
+        "name": "Michael Olise",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "points": 33,
+        "avg": 4.7,
+        "form": 2
+      },
+      {
+        "id": 1430,
+        "name": "Jules Koundé",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "points": 34,
-        "avg": 5.7,
-        "form": 7
+        "points": 33,
+        "avg": 4.7,
+        "form": 5
       },
       {
         "id": 1318,
@@ -655,37 +677,15 @@
         "form": 4.7
       },
       {
-        "id": 517,
-        "name": "Michael Olise",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "points": 32,
-        "avg": 5.3,
-        "form": 5
-      },
-      {
-        "id": 1430,
-        "name": "Jules Koundé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "points": 32,
-        "avg": 5.3,
-        "form": 7
-      },
-      {
         "id": 1429,
         "name": "William Saliba",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "points": 30,
-        "avg": 6,
-        "form": 7
+        "points": 31,
+        "avg": 5.2,
+        "form": 5
       },
       {
         "id": 1431,
@@ -694,9 +694,20 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "points": 30,
-        "avg": 5,
-        "form": 4.7
+        "points": 31,
+        "avg": 4.4,
+        "form": 1.3
+      },
+      {
+        "id": 1082,
+        "name": "Álex Baena",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "points": 27,
+        "avg": 4.5,
+        "form": 2
       },
       {
         "id": 1338,
@@ -719,17 +730,6 @@
         "points": 26,
         "avg": 5.2,
         "form": 7
-      },
-      {
-        "id": 1082,
-        "name": "Álex Baena",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "MID",
-        "points": 26,
-        "avg": 5.2,
-        "form": 4.3
       },
       {
         "id": 505,
@@ -762,8 +762,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 72,
-        "points": 72
+        "ownPct": 72.2,
+        "points": 73
       },
       {
         "id": 38,
@@ -772,7 +772,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 56.3,
+        "ownPct": 56.1,
         "points": 66
       },
       {
@@ -782,7 +782,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 50.9,
+        "ownPct": 52.3,
         "points": 48
       },
       {
@@ -792,7 +792,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 50.1,
+        "ownPct": 50,
         "points": 46
       },
       {
@@ -802,18 +802,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 49.3,
-        "points": 32
-      },
-      {
-        "id": 501,
-        "name": "Ousmane Dembélé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "ownPct": 47.5,
-        "points": 54
+        "ownPct": 49.2,
+        "points": 33
       },
       {
         "id": 491,
@@ -822,8 +812,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 47.4,
+        "ownPct": 48.5,
         "points": 56
+      },
+      {
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "ownPct": 47.8,
+        "points": 55
       },
       {
         "id": 1092,
@@ -832,8 +832,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 37.2,
-        "points": 20
+        "ownPct": 36.6,
+        "points": 23
       },
       {
         "id": 45,
@@ -842,18 +842,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 35.3,
+        "ownPct": 34.4,
         "points": 22
-      },
-      {
-        "id": 1318,
-        "name": "Lisandro Martínez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "DEF",
-        "ownPct": 26.9,
-        "points": 32
       },
       {
         "id": 506,
@@ -862,8 +852,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 25.7,
-        "points": 37
+        "ownPct": 27.6,
+        "points": 38
+      },
+      {
+        "id": 1318,
+        "name": "Lisandro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
+        "ownPct": 27.2,
+        "points": 32
       },
       {
         "id": 477,
@@ -872,18 +872,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 20.8,
+        "ownPct": 22.2,
         "points": 23
-      },
-      {
-        "id": 1086,
-        "name": "Aymeric Laporte",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 19.4,
-        "points": 43
       },
       {
         "id": 494,
@@ -892,7 +882,27 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 19.2,
+        "ownPct": 20,
+        "points": 35
+      },
+      {
+        "id": 1086,
+        "name": "Aymeric Laporte",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 19.1,
+        "points": 44
+      },
+      {
+        "id": 56,
+        "name": "Alexis Mac Allister",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "ownPct": 19.1,
         "points": 34
       },
       {
@@ -902,8 +912,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 18.5,
-        "points": 37
+        "ownPct": 18.1,
+        "points": 38
       },
       {
         "id": 1429,
@@ -912,18 +922,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 17.5,
-        "points": 30
-      },
-      {
-        "id": 56,
-        "name": "Alexis Mac Allister",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "MID",
-        "ownPct": 17.4,
-        "points": 34
+        "ownPct": 17.8,
+        "points": 31
       },
       {
         "id": 1089,
@@ -933,7 +933,7 @@
         "group": "H",
         "pos": "DEF",
         "ownPct": 16.8,
-        "points": 39
+        "points": 40
       },
       {
         "id": 1094,
@@ -942,8 +942,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 16.2,
-        "points": 37
+        "ownPct": 16.5,
+        "points": 43
       },
       {
         "id": 457,
@@ -952,28 +952,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 15,
+        "ownPct": 16.3,
         "points": 13
-      },
-      {
-        "id": 1430,
-        "name": "Jules Koundé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 14.1,
-        "points": 32
-      },
-      {
-        "id": 1320,
-        "name": "Facundo Medina",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "DEF",
-        "ownPct": 14,
-        "points": 23
       },
       {
         "id": 498,
@@ -982,8 +962,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.5,
+        "ownPct": 15.8,
         "points": 34
+      },
+      {
+        "id": 1430,
+        "name": "Jules Koundé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 14.7,
+        "points": 33
       },
       {
         "id": 474,
@@ -992,18 +982,28 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 11.7,
+        "ownPct": 13.2,
         "points": 26
       },
       {
-        "id": 28,
-        "name": "Cristian Romero",
+        "id": 1320,
+        "name": "Facundo Medina",
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 11.2,
-        "points": 24
+        "ownPct": 13,
+        "points": 23
+      },
+      {
+        "id": 1082,
+        "name": "Álex Baena",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "ownPct": 11.8,
+        "points": 27
       }
     ]
   }

@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-14T19:39:24+00:00",
+    "generatedAt": "2026-07-14T22:08:15+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 102,
     "tournamentStart": "2026-06-11",
@@ -95,6 +95,16 @@
         "assists": 1
       },
       {
+        "id": 1085,
+        "name": "Pedro Porro",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "goals": 2,
+        "assists": 0
+      },
+      {
         "id": 1997,
         "name": "Mikel Merino",
         "nation": "Spain",
@@ -181,16 +191,6 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "goals": 1,
-        "assists": 0
-      },
-      {
-        "id": 1085,
-        "name": "Pedro Porro",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
         "goals": 1,
         "assists": 0
       },
@@ -293,6 +293,16 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
+        "assists": 2,
+        "goals": 0
+      },
+      {
+        "id": 1105,
+        "name": "Dani Olmo",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
         "assists": 2,
         "goals": 0
       },
@@ -465,16 +475,6 @@
         "pos": "DEF",
         "assists": 1,
         "goals": 0
-      },
-      {
-        "id": 1093,
-        "name": "Ferran Torres",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 0
       }
     ],
     "topPoints": [
@@ -518,9 +518,42 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "points": 55,
-        "avg": 7.9,
-        "form": 4.7
+        "points": 56,
+        "avg": 8,
+        "form": 5
+      },
+      {
+        "id": 1088,
+        "name": "Marc Cucurella",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "points": 52,
+        "avg": 7.4,
+        "form": 5
+      },
+      {
+        "id": 1086,
+        "name": "Aymeric Laporte",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "points": 50,
+        "avg": 7.1,
+        "form": 5
+      },
+      {
+        "id": 1085,
+        "name": "Pedro Porro",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "points": 48,
+        "avg": 9.6,
+        "form": 8.3
       },
       {
         "id": 468,
@@ -534,26 +567,26 @@
         "form": 8.3
       },
       {
-        "id": 1088,
-        "name": "Marc Cucurella",
+        "id": 1089,
+        "name": "Pau Cubarsí",
         "nation": "Spain",
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
         "points": 46,
         "avg": 6.6,
-        "form": 3
+        "form": 6
       },
       {
-        "id": 1086,
-        "name": "Aymeric Laporte",
+        "id": 1099,
+        "name": "Unai Simón",
         "nation": "Spain",
         "nationAbbr": "ESP",
         "group": "H",
-        "pos": "DEF",
-        "points": 44,
-        "avg": 6.3,
-        "form": 3
+        "pos": "GK",
+        "points": 45,
+        "avg": 6.4,
+        "form": 5.7
       },
       {
         "id": 1094,
@@ -562,20 +595,9 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "points": 43,
-        "avg": 6.1,
-        "form": 3.3
-      },
-      {
-        "id": 1089,
-        "name": "Pau Cubarsí",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "points": 40,
-        "avg": 5.7,
-        "form": 4
+        "points": 44,
+        "avg": 6.3,
+        "form": 3.7
       },
       {
         "id": 506,
@@ -589,28 +611,6 @@
         "form": 5
       },
       {
-        "id": 1099,
-        "name": "Unai Simón",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "GK",
-        "points": 38,
-        "avg": 5.4,
-        "form": 3.3
-      },
-      {
-        "id": 1085,
-        "name": "Pedro Porro",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "points": 35,
-        "avg": 7,
-        "form": 4
-      },
-      {
         "id": 494,
         "name": "Dayot Upamecano",
         "nation": "France",
@@ -620,6 +620,17 @@
         "points": 35,
         "avg": 5,
         "form": 5
+      },
+      {
+        "id": 517,
+        "name": "Michael Olise",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "points": 35,
+        "avg": 5,
+        "form": 2.7
       },
       {
         "id": 498,
@@ -642,17 +653,6 @@
         "points": 34,
         "avg": 5.7,
         "form": 6.7
-      },
-      {
-        "id": 517,
-        "name": "Michael Olise",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "points": 33,
-        "avg": 4.7,
-        "form": 2
       },
       {
         "id": 1430,
@@ -699,15 +699,26 @@
         "form": 1.3
       },
       {
+        "id": 1105,
+        "name": "Dani Olmo",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "points": 30,
+        "avg": 4.3,
+        "form": 5.3
+      },
+      {
         "id": 1082,
         "name": "Álex Baena",
         "nation": "Spain",
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "points": 27,
-        "avg": 4.5,
-        "form": 2
+        "points": 29,
+        "avg": 4.8,
+        "form": 2.7
       },
       {
         "id": 1338,
@@ -721,6 +732,17 @@
         "form": 4.3
       },
       {
+        "id": 505,
+        "name": "Désiré Doué",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "points": 27,
+        "avg": 3.9,
+        "form": 4
+      },
+      {
         "id": 474,
         "name": "Anthony Gordon",
         "nation": "England",
@@ -730,28 +752,6 @@
         "points": 26,
         "avg": 5.2,
         "form": 7
-      },
-      {
-        "id": 505,
-        "name": "Désiré Doué",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "points": 26,
-        "avg": 4.3,
-        "form": 4
-      },
-      {
-        "id": 469,
-        "name": "Bukayo Saka",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "points": 25,
-        "avg": 4.2,
-        "form": 4
       }
     ],
     "mostSelected": [
@@ -762,7 +762,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 72.2,
+        "ownPct": 71.8,
         "points": 73
       },
       {
@@ -772,7 +772,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 56.1,
+        "ownPct": 56.2,
         "points": 66
       },
       {
@@ -793,7 +793,7 @@
         "group": "H",
         "pos": "DEF",
         "ownPct": 50,
-        "points": 46
+        "points": 52
       },
       {
         "id": 517,
@@ -802,8 +802,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 49.2,
-        "points": 33
+        "ownPct": 49,
+        "points": 35
       },
       {
         "id": 491,
@@ -822,8 +822,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 47.8,
-        "points": 55
+        "ownPct": 47.4,
+        "points": 56
       },
       {
         "id": 1092,
@@ -832,8 +832,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 36.6,
-        "points": 23
+        "ownPct": 36.9,
+        "points": 25
       },
       {
         "id": 45,
@@ -842,7 +842,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 34.4,
+        "ownPct": 34.5,
         "points": 22
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 27.6,
+        "ownPct": 27.4,
         "points": 38
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 27.2,
+        "ownPct": 27.3,
         "points": 32
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 22.2,
+        "ownPct": 22.3,
         "points": 23
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 20,
+        "ownPct": 19.9,
         "points": 35
       },
       {
@@ -892,8 +892,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 19.1,
-        "points": 44
+        "ownPct": 19.2,
+        "points": 50
       },
       {
         "id": 56,
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "MID",
-        "ownPct": 19.1,
+        "ownPct": 19.2,
         "points": 34
       },
       {
@@ -912,8 +912,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 18.1,
-        "points": 38
+        "ownPct": 18.3,
+        "points": 45
       },
       {
         "id": 1429,
@@ -922,7 +922,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 17.8,
+        "ownPct": 17.7,
         "points": 31
       },
       {
@@ -932,8 +932,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 16.8,
-        "points": 40
+        "ownPct": 16.9,
+        "points": 46
       },
       {
         "id": 1094,
@@ -942,8 +942,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 16.5,
-        "points": 43
+        "ownPct": 16.8,
+        "points": 44
       },
       {
         "id": 457,
@@ -962,7 +962,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 15.8,
+        "ownPct": 15.7,
         "points": 34
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14.7,
+        "ownPct": 14.6,
         "points": 33
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 13.2,
+        "ownPct": 13.3,
         "points": 26
       },
       {
@@ -1002,8 +1002,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 11.8,
-        "points": 27
+        "ownPct": 11.9,
+        "points": 29
       }
     ]
   }

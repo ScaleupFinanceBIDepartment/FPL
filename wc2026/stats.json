@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-14T10:54:04+00:00",
+    "generatedAt": "2026-07-14T14:06:41+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 102,
     "tournamentStart": "2026-06-11",
@@ -762,7 +762,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 71.8,
+        "ownPct": 71.9,
         "points": 72
       },
       {
@@ -772,7 +772,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 56.2,
+        "ownPct": 56.3,
         "points": 66
       },
       {
@@ -782,7 +782,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 50.1,
+        "ownPct": 50.5,
         "points": 48
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 47.3,
+        "ownPct": 47.4,
         "points": 54
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 46.8,
+        "ownPct": 47.1,
         "points": 56
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 37.4,
+        "ownPct": 37.3,
         "points": 20
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 35.6,
+        "ownPct": 35.4,
         "points": 22
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 26.6,
+        "ownPct": 26.8,
         "points": 32
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 24.8,
+        "ownPct": 25.3,
         "points": 37
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 20.2,
+        "ownPct": 20.5,
         "points": 23
       },
       {
@@ -882,18 +882,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 19.6,
+        "ownPct": 19.5,
         "points": 43
-      },
-      {
-        "id": 1099,
-        "name": "Unai Simón",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "GK",
-        "ownPct": 18.6,
-        "points": 37
       },
       {
         "id": 494,
@@ -902,8 +892,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 18.6,
+        "ownPct": 18.9,
         "points": 34
+      },
+      {
+        "id": 1099,
+        "name": "Unai Simón",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "GK",
+        "ownPct": 18.5,
+        "points": 37
       },
       {
         "id": 1429,
@@ -912,8 +912,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 17.2,
+        "ownPct": 17.4,
         "points": 30
+      },
+      {
+        "id": 56,
+        "name": "Alexis Mac Allister",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "ownPct": 17,
+        "points": 34
       },
       {
         "id": 1089,
@@ -926,23 +936,13 @@
         "points": 39
       },
       {
-        "id": 56,
-        "name": "Alexis Mac Allister",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "MID",
-        "ownPct": 16.4,
-        "points": 34
-      },
-      {
         "id": 1094,
         "name": "Mikel Oyarzabal",
         "nation": "Spain",
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 16,
+        "ownPct": 16.1,
         "points": 37
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 14.4,
+        "ownPct": 14.8,
         "points": 13
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 14.3,
+        "ownPct": 14.2,
         "points": 23
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.8,
+        "ownPct": 14,
         "points": 32
       },
       {
@@ -982,18 +982,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 12.5,
+        "ownPct": 13.1,
         "points": 34
       },
       {
-        "id": 1085,
-        "name": "Pedro Porro",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 11,
-        "points": 34
+        "id": 474,
+        "name": "Anthony Gordon",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "ownPct": 11.3,
+        "points": 26
       },
       {
         "id": 28,
@@ -1002,7 +1002,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 11,
+        "ownPct": 11.1,
         "points": 24
       }
     ]

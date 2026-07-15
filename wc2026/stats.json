@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-15T16:40:34+00:00",
+    "generatedAt": "2026-07-15T19:25:45+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 102,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 101,
-    "note": "101 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 102,
+    "note": "102 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -496,9 +496,9 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "points": 66,
-        "avg": 11,
-        "form": 8.7
+        "points": 67,
+        "avg": 9.6,
+        "form": 5.7
       },
       {
         "id": 491,
@@ -507,8 +507,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "points": 56,
-        "avg": 9.3,
+        "points": 57,
+        "avg": 8.1,
         "form": 10
       },
       {
@@ -545,6 +545,17 @@
         "form": 5
       },
       {
+        "id": 468,
+        "name": "Harry Kane",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "FWD",
+        "points": 49,
+        "avg": 7,
+        "form": 4.3
+      },
+      {
         "id": 1085,
         "name": "Pedro Porro",
         "nation": "Spain",
@@ -553,17 +564,6 @@
         "pos": "DEF",
         "points": 48,
         "avg": 9.6,
-        "form": 8.3
-      },
-      {
-        "id": 468,
-        "name": "Harry Kane",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "FWD",
-        "points": 48,
-        "avg": 8,
         "form": 8.3
       },
       {
@@ -611,6 +611,17 @@
         "form": 5
       },
       {
+        "id": 56,
+        "name": "Alexis Mac Allister",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "points": 35,
+        "avg": 5,
+        "form": 4.3
+      },
+      {
         "id": 494,
         "name": "Dayot Upamecano",
         "nation": "France",
@@ -644,15 +655,15 @@
         "form": 5.3
       },
       {
-        "id": 56,
-        "name": "Alexis Mac Allister",
+        "id": 1318,
+        "name": "Lisandro Martínez",
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
-        "pos": "MID",
-        "points": 34,
-        "avg": 5.7,
-        "form": 6.7
+        "pos": "DEF",
+        "points": 33,
+        "avg": 5.5,
+        "form": 1.3
       },
       {
         "id": 1430,
@@ -664,17 +675,6 @@
         "points": 33,
         "avg": 4.7,
         "form": 5
-      },
-      {
-        "id": 1318,
-        "name": "Lisandro Martínez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "DEF",
-        "points": 32,
-        "avg": 6.4,
-        "form": 4.7
       },
       {
         "id": 1429,
@@ -721,6 +721,17 @@
         "form": 2.7
       },
       {
+        "id": 474,
+        "name": "Anthony Gordon",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "points": 27,
+        "avg": 4.5,
+        "form": 4.3
+      },
+      {
         "id": 1338,
         "name": "Lautaro Martínez",
         "nation": "Argentina",
@@ -741,17 +752,6 @@
         "points": 27,
         "avg": 3.9,
         "form": 4
-      },
-      {
-        "id": 474,
-        "name": "Anthony Gordon",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "points": 26,
-        "avg": 5.2,
-        "form": 7
       }
     ],
     "mostSelected": [
@@ -773,7 +773,7 @@
         "group": "J",
         "pos": "FWD",
         "ownPct": 56.2,
-        "points": 66
+        "points": 67
       },
       {
         "id": 468,
@@ -783,7 +783,7 @@
         "group": "L",
         "pos": "FWD",
         "ownPct": 52.4,
-        "points": 48
+        "points": 49
       },
       {
         "id": 1088,
@@ -803,7 +803,7 @@
         "group": "L",
         "pos": "MID",
         "ownPct": 48.6,
-        "points": 56
+        "points": 57
       },
       {
         "id": 517,
@@ -812,7 +812,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 48.6,
+        "ownPct": 48.5,
         "points": 35
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 46.9,
+        "ownPct": 46.8,
         "points": 56
       },
       {
@@ -843,7 +843,7 @@
         "group": "J",
         "pos": "GK",
         "ownPct": 34.5,
-        "points": 22
+        "points": 23
       },
       {
         "id": 1318,
@@ -853,7 +853,7 @@
         "group": "J",
         "pos": "DEF",
         "ownPct": 27.3,
-        "points": 32
+        "points": 33
       },
       {
         "id": 506,
@@ -873,7 +873,7 @@
         "group": "L",
         "pos": "GK",
         "ownPct": 22.3,
-        "points": 23
+        "points": 24
       },
       {
         "id": 494,
@@ -903,7 +903,7 @@
         "group": "J",
         "pos": "MID",
         "ownPct": 19.3,
-        "points": 34
+        "points": 35
       },
       {
         "id": 1099,
@@ -912,7 +912,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 18.6,
+        "ownPct": 18.7,
         "points": 45
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 17.3,
+        "ownPct": 17.4,
         "points": 44
       },
       {
@@ -983,7 +983,7 @@
         "group": "L",
         "pos": "MID",
         "ownPct": 13.4,
-        "points": 26
+        "points": 27
       },
       {
         "id": 1320,

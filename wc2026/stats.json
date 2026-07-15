@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-15T14:03:27+00:00",
+    "generatedAt": "2026-07-15T16:40:34+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 102,
     "tournamentStart": "2026-06-11",
@@ -762,7 +762,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 71.2,
+        "ownPct": 71.1,
         "points": 73
       },
       {
@@ -792,8 +792,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 50.1,
+        "ownPct": 50.2,
         "points": 52
+      },
+      {
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "ownPct": 48.6,
+        "points": 56
       },
       {
         "id": 517,
@@ -804,16 +814,6 @@
         "pos": "MID",
         "ownPct": 48.6,
         "points": 35
-      },
-      {
-        "id": 491,
-        "name": "Jude Bellingham",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "ownPct": 48.5,
-        "points": 56
       },
       {
         "id": 501,
@@ -882,7 +882,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 19.7,
+        "ownPct": 19.6,
         "points": 35
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 15.6,
+        "ownPct": 15.5,
         "points": 34
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14.5,
+        "ownPct": 14.4,
         "points": 33
       },
       {

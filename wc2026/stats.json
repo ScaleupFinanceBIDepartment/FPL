@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-15T19:25:45+00:00",
+    "generatedAt": "2026-07-15T22:09:56+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 102,
     "tournamentStart": "2026-06-11",
@@ -15,6 +15,16 @@
   "leaderboards": {
     "topScorers": [
       {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "goals": 8,
+        "assists": 4
+      },
+      {
         "id": 500,
         "name": "Kylian Mbappé",
         "nation": "France",
@@ -23,16 +33,6 @@
         "pos": "FWD",
         "goals": 8,
         "assists": 3
-      },
-      {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "goals": 8,
-        "assists": 2
       },
       {
         "id": 468,
@@ -81,7 +81,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "goals": 2,
+        "goals": 3,
         "assists": 1
       },
       {
@@ -93,6 +93,16 @@
         "pos": "MID",
         "goals": 2,
         "assists": 1
+      },
+      {
+        "id": 57,
+        "name": "Enzo Fernández",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "goals": 2,
+        "assists": 0
       },
       {
         "id": 1085,
@@ -113,6 +123,16 @@
         "pos": "MID",
         "goals": 2,
         "assists": 0
+      },
+      {
+        "id": 474,
+        "name": "Anthony Gordon",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 3
       },
       {
         "id": 56,
@@ -175,16 +195,6 @@
         "assists": 0
       },
       {
-        "id": 57,
-        "name": "Enzo Fernández",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "MID",
-        "goals": 1,
-        "assists": 0
-      },
-      {
         "id": 471,
         "name": "Marcus Rashford",
         "nation": "England",
@@ -237,6 +247,16 @@
         "goals": 0
       },
       {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "assists": 4,
+        "goals": 8
+      },
+      {
         "id": 500,
         "name": "Kylian Mbappé",
         "nation": "France",
@@ -247,6 +267,16 @@
         "goals": 8
       },
       {
+        "id": 474,
+        "name": "Anthony Gordon",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "assists": 3,
+        "goals": 1
+      },
+      {
         "id": 469,
         "name": "Bukayo Saka",
         "nation": "England",
@@ -255,26 +285,6 @@
         "pos": "MID",
         "assists": 3,
         "goals": 0
-      },
-      {
-        "id": 474,
-        "name": "Anthony Gordon",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "assists": 3,
-        "goals": 0
-      },
-      {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "assists": 2,
-        "goals": 8
       },
       {
         "id": 501,
@@ -344,7 +354,7 @@
         "group": "J",
         "pos": "FWD",
         "assists": 1,
-        "goals": 2
+        "goals": 3
       },
       {
         "id": 1431,
@@ -427,6 +437,16 @@
         "goals": 0
       },
       {
+        "id": 475,
+        "name": "Morgan Rogers",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 0
+      },
+      {
         "id": 486,
         "name": "Elliot Anderson",
         "nation": "England",
@@ -465,19 +485,20 @@
         "pos": "MID",
         "assists": 1,
         "goals": 0
-      },
-      {
-        "id": 1086,
-        "name": "Aymeric Laporte",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "assists": 1,
-        "goals": 0
       }
     ],
     "topPoints": [
+      {
+        "id": 38,
+        "name": "Lionel Messi",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "points": 74,
+        "avg": 10.6,
+        "form": 8
+      },
       {
         "id": 500,
         "name": "Kylian Mbappé",
@@ -490,26 +511,15 @@
         "form": 7.7
       },
       {
-        "id": 38,
-        "name": "Lionel Messi",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "points": 67,
-        "avg": 9.6,
-        "form": 5.7
-      },
-      {
         "id": 491,
         "name": "Jude Bellingham",
         "nation": "England",
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "points": 57,
-        "avg": 8.1,
-        "form": 10
+        "points": 58,
+        "avg": 8.3,
+        "form": 10.3
       },
       {
         "id": 501,
@@ -534,6 +544,17 @@
         "form": 5
       },
       {
+        "id": 468,
+        "name": "Harry Kane",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "FWD",
+        "points": 50,
+        "avg": 7.1,
+        "form": 4.7
+      },
+      {
         "id": 1086,
         "name": "Aymeric Laporte",
         "nation": "Spain",
@@ -543,17 +564,6 @@
         "points": 50,
         "avg": 7.1,
         "form": 5
-      },
-      {
-        "id": 468,
-        "name": "Harry Kane",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "FWD",
-        "points": 49,
-        "avg": 7,
-        "form": 4.3
       },
       {
         "id": 1085,
@@ -617,9 +627,20 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "MID",
+        "points": 36,
+        "avg": 5.1,
+        "form": 4.7
+      },
+      {
+        "id": 474,
+        "name": "Anthony Gordon",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
         "points": 35,
-        "avg": 5,
-        "form": 4.3
+        "avg": 5.8,
+        "form": 7
       },
       {
         "id": 494,
@@ -642,6 +663,17 @@
         "points": 35,
         "avg": 5,
         "form": 2.7
+      },
+      {
+        "id": 1338,
+        "name": "Lautaro Martínez",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "FWD",
+        "points": 35,
+        "avg": 5,
+        "form": 6.3
       },
       {
         "id": 498,
@@ -710,6 +742,17 @@
         "form": 5.3
       },
       {
+        "id": 57,
+        "name": "Enzo Fernández",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "points": 29,
+        "avg": 4.8,
+        "form": 6.7
+      },
+      {
         "id": 1082,
         "name": "Álex Baena",
         "nation": "Spain",
@@ -719,39 +762,6 @@
         "points": 29,
         "avg": 4.8,
         "form": 2.7
-      },
-      {
-        "id": 474,
-        "name": "Anthony Gordon",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "points": 27,
-        "avg": 4.5,
-        "form": 4.3
-      },
-      {
-        "id": 1338,
-        "name": "Lautaro Martínez",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "FWD",
-        "points": 27,
-        "avg": 4.5,
-        "form": 4.3
-      },
-      {
-        "id": 505,
-        "name": "Désiré Doué",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "points": 27,
-        "avg": 3.9,
-        "form": 4
       }
     ],
     "mostSelected": [
@@ -762,7 +772,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 71.1,
+        "ownPct": 69.5,
         "points": 73
       },
       {
@@ -772,8 +782,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 56.2,
-        "points": 67
+        "ownPct": 56.4,
+        "points": 74
       },
       {
         "id": 468,
@@ -782,8 +792,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 52.4,
-        "points": 49
+        "ownPct": 50.9,
+        "points": 50
       },
       {
         "id": 1088,
@@ -792,18 +802,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 50.2,
+        "ownPct": 50.4,
         "points": 52
-      },
-      {
-        "id": 491,
-        "name": "Jude Bellingham",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "ownPct": 48.6,
-        "points": 57
       },
       {
         "id": 517,
@@ -812,8 +812,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 48.5,
+        "ownPct": 47.3,
         "points": 35
+      },
+      {
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "ownPct": 47,
+        "points": 58
       },
       {
         "id": 501,
@@ -822,7 +832,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 46.8,
+        "ownPct": 45.4,
         "points": 56
       },
       {
@@ -832,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 37.2,
+        "ownPct": 38.3,
         "points": 25
       },
       {
@@ -842,8 +852,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 34.5,
-        "points": 23
+        "ownPct": 34.7,
+        "points": 24
       },
       {
         "id": 1318,
@@ -852,7 +862,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 27.3,
+        "ownPct": 27.6,
         "points": 33
       },
       {
@@ -862,7 +872,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 27.2,
+        "ownPct": 26.5,
         "points": 38
       },
       {
@@ -872,28 +882,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 22.3,
-        "points": 24
-      },
-      {
-        "id": 494,
-        "name": "Dayot Upamecano",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 19.6,
-        "points": 35
-      },
-      {
-        "id": 1086,
-        "name": "Aymeric Laporte",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 19.4,
-        "points": 50
+        "ownPct": 22,
+        "points": 25
       },
       {
         "id": 56,
@@ -902,8 +892,18 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "MID",
-        "ownPct": 19.3,
-        "points": 35
+        "ownPct": 20.1,
+        "points": 36
+      },
+      {
+        "id": 1086,
+        "name": "Aymeric Laporte",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 20,
+        "points": 50
       },
       {
         "id": 1099,
@@ -912,18 +912,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 18.7,
+        "ownPct": 19.6,
         "points": 45
       },
       {
-        "id": 1429,
-        "name": "William Saliba",
+        "id": 494,
+        "name": "Dayot Upamecano",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 17.5,
-        "points": 31
+        "ownPct": 19,
+        "points": 35
       },
       {
         "id": 1094,
@@ -932,7 +932,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 17.4,
+        "ownPct": 18.8,
         "points": 44
       },
       {
@@ -942,8 +942,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 17.1,
+        "ownPct": 17.5,
         "points": 46
+      },
+      {
+        "id": 1429,
+        "name": "William Saliba",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 17.1,
+        "points": 31
       },
       {
         "id": 457,
@@ -952,7 +962,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 16.3,
+        "ownPct": 16.1,
         "points": 13
       },
       {
@@ -962,7 +972,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 15.5,
+        "ownPct": 15.1,
         "points": 34
       },
       {
@@ -972,7 +982,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14.4,
+        "ownPct": 14.1,
         "points": 33
       },
       {
@@ -982,8 +992,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 13.4,
-        "points": 27
+        "ownPct": 13,
+        "points": 35
+      },
+      {
+        "id": 1085,
+        "name": "Pedro Porro",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 12.9,
+        "points": 48
       },
       {
         "id": 1320,
@@ -992,18 +1012,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 13,
+        "ownPct": 12.9,
         "points": 23
-      },
-      {
-        "id": 1082,
-        "name": "Álex Baena",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "MID",
-        "ownPct": 12,
-        "points": 29
       }
     ]
   }

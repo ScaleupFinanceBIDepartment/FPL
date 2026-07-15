@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-15T03:23:37+00:00",
+    "generatedAt": "2026-07-15T08:30:22+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 102,
     "tournamentStart": "2026-06-11",
@@ -762,7 +762,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 71.5,
+        "ownPct": 71.4,
         "points": 73
       },
       {
@@ -782,7 +782,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 52.3,
+        "ownPct": 52.4,
         "points": 48
       },
       {
@@ -802,7 +802,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 48.8,
+        "ownPct": 48.7,
         "points": 35
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 47.2,
+        "ownPct": 47.1,
         "points": 56
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 37,
+        "ownPct": 37.1,
         "points": 25
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 19.8,
+        "ownPct": 19.7,
         "points": 35
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "MID",
-        "ownPct": 19.2,
+        "ownPct": 19.3,
         "points": 34
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 18.4,
+        "ownPct": 18.5,
         "points": 45
       },
       {
@@ -926,6 +926,16 @@
         "points": 31
       },
       {
+        "id": 1094,
+        "name": "Mikel Oyarzabal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "FWD",
+        "ownPct": 17.2,
+        "points": 44
+      },
+      {
         "id": 1089,
         "name": "Pau Cubarsí",
         "nation": "Spain",
@@ -934,16 +944,6 @@
         "pos": "DEF",
         "ownPct": 17,
         "points": 46
-      },
-      {
-        "id": 1094,
-        "name": "Mikel Oyarzabal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "FWD",
-        "ownPct": 17,
-        "points": 44
       },
       {
         "id": 457,

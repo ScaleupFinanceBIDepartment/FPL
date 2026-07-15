@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-15T08:30:22+00:00",
+    "generatedAt": "2026-07-15T10:59:40+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 102,
     "tournamentStart": "2026-06-11",
@@ -762,7 +762,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 71.4,
+        "ownPct": 71.3,
         "points": 73
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 47.1,
+        "ownPct": 47,
         "points": 56
       },
       {
@@ -846,16 +846,6 @@
         "points": 22
       },
       {
-        "id": 506,
-        "name": "Mike Maignan",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "GK",
-        "ownPct": 27.3,
-        "points": 38
-      },
-      {
         "id": 1318,
         "name": "Lisandro Martínez",
         "nation": "Argentina",
@@ -864,6 +854,16 @@
         "pos": "DEF",
         "ownPct": 27.3,
         "points": 32
+      },
+      {
+        "id": 506,
+        "name": "Mike Maignan",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "GK",
+        "ownPct": 27.2,
+        "points": 38
       },
       {
         "id": 477,
@@ -982,7 +982,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 13.3,
+        "ownPct": 13.4,
         "points": 26
       },
       {

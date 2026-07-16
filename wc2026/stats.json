@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-16T08:27:49+00:00",
+    "generatedAt": "2026-07-16T11:07:03+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 103,
     "tournamentStart": "2026-06-11",
@@ -772,7 +772,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 68.5,
+        "ownPct": 68.3,
         "points": 73
       },
       {
@@ -792,7 +792,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 50.7,
+        "ownPct": 50.8,
         "points": 52
       },
       {
@@ -802,7 +802,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 49.4,
+        "ownPct": 48.9,
         "points": 50
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 46.1,
+        "ownPct": 45.8,
         "points": 35
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 45.7,
+        "ownPct": 45.4,
         "points": 58
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 44.2,
+        "ownPct": 43.8,
         "points": 56
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 39.4,
+        "ownPct": 39.7,
         "points": 25
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 26.2,
+        "ownPct": 26.1,
         "points": 38
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 21.6,
+        "ownPct": 21.5,
         "points": 25
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 20.8,
+        "ownPct": 21.2,
         "points": 45
       },
       {
@@ -902,18 +902,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "MID",
-        "ownPct": 20.8,
+        "ownPct": 21,
         "points": 36
-      },
-      {
-        "id": 1086,
-        "name": "Aymeric Laporte",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 20.5,
-        "points": 50
       },
       {
         "id": 1094,
@@ -922,8 +912,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 20.4,
+        "ownPct": 20.8,
         "points": 44
+      },
+      {
+        "id": 1086,
+        "name": "Aymeric Laporte",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 20.7,
+        "points": 50
       },
       {
         "id": 494,
@@ -932,7 +932,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 18.6,
+        "ownPct": 18.5,
         "points": 35
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 18.1,
+        "ownPct": 18.3,
         "points": 46
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 16.5,
+        "ownPct": 16.4,
         "points": 31
       },
       {
@@ -962,18 +962,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 15.7,
+        "ownPct": 15.5,
         "points": 13
-      },
-      {
-        "id": 498,
-        "name": "Lucas Digne",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 14.5,
-        "points": 34
       },
       {
         "id": 1085,
@@ -982,8 +972,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 14.3,
+        "ownPct": 14.8,
         "points": 48
+      },
+      {
+        "id": 498,
+        "name": "Lucas Digne",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 14.3,
+        "points": 34
       },
       {
         "id": 1430,
@@ -992,7 +992,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.9,
+        "ownPct": 13.8,
         "points": 33
       },
       {
@@ -1006,14 +1006,14 @@
         "points": 35
       },
       {
-        "id": 1320,
-        "name": "Facundo Medina",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "DEF",
-        "ownPct": 12.6,
-        "points": 23
+        "id": 1082,
+        "name": "Álex Baena",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "ownPct": 12.5,
+        "points": 29
       }
     ]
   }

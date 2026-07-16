@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-16T14:14:58+00:00",
+    "generatedAt": "2026-07-16T16:36:54+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 103,
     "tournamentStart": "2026-06-11",
@@ -772,7 +772,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 68.1,
+        "ownPct": 68,
         "points": 73
       },
       {
@@ -792,7 +792,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 50.9,
+        "ownPct": 51,
         "points": 52
       },
       {
@@ -802,7 +802,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 48.6,
+        "ownPct": 48.4,
         "points": 50
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 45.5,
+        "ownPct": 45.4,
         "points": 35
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 45.1,
+        "ownPct": 45,
         "points": 58
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 43.6,
+        "ownPct": 43.4,
         "points": 56
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 40,
+        "ownPct": 40.1,
         "points": 25
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 34.7,
+        "ownPct": 34.6,
         "points": 24
       },
       {
@@ -882,28 +882,8 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 21.5,
+        "ownPct": 21.7,
         "points": 45
-      },
-      {
-        "id": 477,
-        "name": "Jordan Pickford",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "GK",
-        "ownPct": 21.4,
-        "points": 25
-      },
-      {
-        "id": 56,
-        "name": "Alexis Mac Allister",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "MID",
-        "ownPct": 21.2,
-        "points": 36
       },
       {
         "id": 1094,
@@ -912,8 +892,28 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 21.1,
+        "ownPct": 21.3,
         "points": 44
+      },
+      {
+        "id": 56,
+        "name": "Alexis Mac Allister",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "ownPct": 21.3,
+        "points": 36
+      },
+      {
+        "id": 477,
+        "name": "Jordan Pickford",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "GK",
+        "ownPct": 21.3,
+        "points": 25
       },
       {
         "id": 1086,
@@ -932,7 +932,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 18.4,
+        "ownPct": 18.5,
         "points": 46
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 15.1,
+        "ownPct": 15.3,
         "points": 48
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14.2,
+        "ownPct": 14.1,
         "points": 34
       },
       {
@@ -992,7 +992,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.8,
+        "ownPct": 13.7,
         "points": 33
       },
       {

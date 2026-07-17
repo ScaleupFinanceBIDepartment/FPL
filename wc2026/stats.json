@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-17T19:22:39+00:00",
+    "generatedAt": "2026-07-17T22:01:28+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 103,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 47.1,
+        "ownPct": 47,
         "points": 50
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 44.5,
+        "ownPct": 44.4,
         "points": 35
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 44.2,
+        "ownPct": 44.1,
         "points": 58
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 42.6,
+        "ownPct": 42.5,
         "points": 56
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 41,
+        "ownPct": 41.1,
         "points": 25
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 22.9,
+        "ownPct": 23,
         "points": 45
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 22.7,
+        "ownPct": 22.8,
         "points": 44
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 21,
+        "ownPct": 20.9,
         "points": 25
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 16.7,
+        "ownPct": 16.8,
         "points": 48
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 15.7,
+        "ownPct": 15.6,
         "points": 31
       },
       {
@@ -976,16 +976,6 @@
         "points": 13
       },
       {
-        "id": 498,
-        "name": "Lucas Digne",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 13.6,
-        "points": 34
-      },
-      {
         "id": 1430,
         "name": "Jules Koundé",
         "nation": "France",
@@ -994,6 +984,16 @@
         "pos": "DEF",
         "ownPct": 13.6,
         "points": 33
+      },
+      {
+        "id": 498,
+        "name": "Lucas Digne",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 13.5,
+        "points": 34
       },
       {
         "id": 1082,
@@ -1012,7 +1012,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 12.7,
+        "ownPct": 12.8,
         "points": 25
       }
     ]

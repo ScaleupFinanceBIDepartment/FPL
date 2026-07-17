@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-16T22:11:40+00:00",
+    "generatedAt": "2026-07-17T03:31:07+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 103,
     "tournamentStart": "2026-06-11",
@@ -772,7 +772,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 67.9,
+        "ownPct": 67.8,
         "points": 73
       },
       {
@@ -802,7 +802,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 48,
+        "ownPct": 47.8,
         "points": 50
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 45.1,
+        "ownPct": 45,
         "points": 35
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 44.7,
+        "ownPct": 44.6,
         "points": 58
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 40.4,
+        "ownPct": 40.5,
         "points": 25
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 22.1,
+        "ownPct": 22.2,
         "points": 45
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 21.8,
+        "ownPct": 21.9,
         "points": 44
       },
       {
@@ -902,8 +902,18 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "MID",
-        "ownPct": 21.4,
+        "ownPct": 21.5,
         "points": 36
+      },
+      {
+        "id": 1086,
+        "name": "Aymeric Laporte",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 21.2,
+        "points": 50
       },
       {
         "id": 477,
@@ -914,16 +924,6 @@
         "pos": "GK",
         "ownPct": 21.2,
         "points": 25
-      },
-      {
-        "id": 1086,
-        "name": "Aymeric Laporte",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 21.1,
-        "points": 50
       },
       {
         "id": 1089,
@@ -962,7 +962,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 15.7,
+        "ownPct": 15.9,
         "points": 48
       },
       {
@@ -982,7 +982,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14,
+        "ownPct": 13.9,
         "points": 34
       },
       {
@@ -996,16 +996,6 @@
         "points": 33
       },
       {
-        "id": 474,
-        "name": "Anthony Gordon",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "ownPct": 12.7,
-        "points": 35
-      },
-      {
         "id": 1082,
         "name": "Álex Baena",
         "nation": "Spain",
@@ -1014,6 +1004,16 @@
         "pos": "MID",
         "ownPct": 12.7,
         "points": 29
+      },
+      {
+        "id": 474,
+        "name": "Anthony Gordon",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "ownPct": 12.6,
+        "points": 35
       }
     ]
   }

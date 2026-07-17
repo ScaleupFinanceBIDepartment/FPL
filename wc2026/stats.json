@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-17T03:31:07+00:00",
+    "generatedAt": "2026-07-17T08:23:59+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 103,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 47.8,
+        "ownPct": 47.7,
         "points": 50
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 45,
+        "ownPct": 44.9,
         "points": 35
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 44.6,
+        "ownPct": 44.5,
         "points": 58
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 43.1,
+        "ownPct": 43,
         "points": 56
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 40.5,
+        "ownPct": 40.6,
         "points": 25
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 34.6,
+        "ownPct": 34.5,
         "points": 24
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 27.9,
+        "ownPct": 28,
         "points": 33
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 22.2,
+        "ownPct": 22.3,
         "points": 45
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 21.9,
+        "ownPct": 22.1,
         "points": 44
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "MID",
-        "ownPct": 21.5,
+        "ownPct": 21.6,
         "points": 36
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 21.2,
+        "ownPct": 21.1,
         "points": 25
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 18.7,
+        "ownPct": 18.8,
         "points": 46
       },
       {
@@ -946,24 +946,24 @@
         "points": 35
       },
       {
-        "id": 1429,
-        "name": "William Saliba",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 16,
-        "points": 31
-      },
-      {
         "id": 1085,
         "name": "Pedro Porro",
         "nation": "Spain",
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 15.9,
+        "ownPct": 16.1,
         "points": 48
+      },
+      {
+        "id": 1429,
+        "name": "William Saliba",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 15.9,
+        "points": 31
       },
       {
         "id": 457,
@@ -972,7 +972,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 15.2,
+        "ownPct": 15.1,
         "points": 13
       },
       {

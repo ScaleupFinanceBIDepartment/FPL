@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-18T13:41:22+00:00",
+    "generatedAt": "2026-07-18T16:04:16+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 103,
     "tournamentStart": "2026-06-11",
@@ -782,7 +782,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 57.1,
+        "ownPct": 57.2,
         "points": 74
       },
       {
@@ -792,7 +792,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 51.5,
+        "ownPct": 51.6,
         "points": 52
       },
       {
@@ -802,18 +802,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 46.1,
+        "ownPct": 45.8,
         "points": 50
-      },
-      {
-        "id": 517,
-        "name": "Michael Olise",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "ownPct": 43.8,
-        "points": 35
       },
       {
         "id": 491,
@@ -822,18 +812,18 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 43.7,
+        "ownPct": 43.6,
         "points": 58
       },
       {
-        "id": 501,
-        "name": "Ousmane Dembélé",
+        "id": 517,
+        "name": "Michael Olise",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 41.9,
-        "points": 56
+        "ownPct": 43.6,
+        "points": 35
       },
       {
         "id": 1092,
@@ -842,8 +832,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 41.8,
+        "ownPct": 42,
         "points": 25
+      },
+      {
+        "id": 501,
+        "name": "Ousmane Dembélé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "ownPct": 41.7,
+        "points": 56
       },
       {
         "id": 45,
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 34.1,
+        "ownPct": 34,
         "points": 24
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 24,
+        "ownPct": 24.3,
         "points": 45
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 23.7,
+        "ownPct": 24,
         "points": 44
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 21.9,
+        "ownPct": 22,
         "points": 50
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 20.6,
+        "ownPct": 20.5,
         "points": 25
       },
       {
@@ -932,8 +932,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 19.5,
+        "ownPct": 19.6,
         "points": 46
+      },
+      {
+        "id": 1085,
+        "name": "Pedro Porro",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "DEF",
+        "ownPct": 18.2,
+        "points": 48
       },
       {
         "id": 494,
@@ -946,23 +956,13 @@
         "points": 35
       },
       {
-        "id": 1085,
-        "name": "Pedro Porro",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "DEF",
-        "ownPct": 17.9,
-        "points": 48
-      },
-      {
         "id": 1429,
         "name": "William Saliba",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 15.3,
+        "ownPct": 15.2,
         "points": 31
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 14.5,
+        "ownPct": 14.4,
         "points": 13
       },
       {
@@ -986,24 +986,24 @@
         "points": 33
       },
       {
-        "id": 498,
-        "name": "Lucas Digne",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 13,
-        "points": 34
-      },
-      {
         "id": 28,
         "name": "Cristian Romero",
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 12.9,
+        "ownPct": 13,
         "points": 25
+      },
+      {
+        "id": 498,
+        "name": "Lucas Digne",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 12.9,
+        "points": 34
       },
       {
         "id": 1082,
@@ -1012,7 +1012,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 12.8,
+        "ownPct": 12.9,
         "points": 29
       }
     ]

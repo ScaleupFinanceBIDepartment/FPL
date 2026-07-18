@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-18T03:21:06+00:00",
+    "generatedAt": "2026-07-18T08:04:49+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 103,
     "tournamentStart": "2026-06-11",
@@ -802,7 +802,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 46.8,
+        "ownPct": 46.5,
         "points": 50
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 44.3,
+        "ownPct": 44.1,
         "points": 35
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 42.3,
+        "ownPct": 42.2,
         "points": 56
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 41.3,
+        "ownPct": 41.4,
         "points": 25
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 34.3,
+        "ownPct": 34.2,
         "points": 24
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 23.2,
+        "ownPct": 23.5,
         "points": 45
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 23,
+        "ownPct": 23.2,
         "points": 44
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 21.6,
+        "ownPct": 21.7,
         "points": 50
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 20.9,
+        "ownPct": 20.8,
         "points": 25
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 19.2,
+        "ownPct": 19.3,
         "points": 46
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 17.1,
+        "ownPct": 17.3,
         "points": 48
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 15.6,
+        "ownPct": 15.5,
         "points": 31
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 14.8,
+        "ownPct": 14.7,
         "points": 13
       },
       {
@@ -992,8 +992,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.4,
+        "ownPct": 13.3,
         "points": 34
+      },
+      {
+        "id": 28,
+        "name": "Cristian Romero",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "DEF",
+        "ownPct": 12.9,
+        "points": 25
       },
       {
         "id": 1082,
@@ -1004,16 +1014,6 @@
         "pos": "MID",
         "ownPct": 12.8,
         "points": 29
-      },
-      {
-        "id": 28,
-        "name": "Cristian Romero",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "DEF",
-        "ownPct": 12.8,
-        "points": 25
       }
     ]
   }

@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-18T16:04:16+00:00",
+    "generatedAt": "2026-07-18T19:18:14+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 103,
     "tournamentStart": "2026-06-11",
@@ -792,7 +792,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 51.6,
+        "ownPct": 51.8,
         "points": 52
       },
       {
@@ -802,7 +802,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 45.8,
+        "ownPct": 45.2,
         "points": 50
       },
       {
@@ -812,7 +812,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 43.6,
+        "ownPct": 43.4,
         "points": 58
       },
       {
@@ -822,7 +822,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 43.6,
+        "ownPct": 43,
         "points": 35
       },
       {
@@ -832,7 +832,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 42,
+        "ownPct": 42.5,
         "points": 25
       },
       {
@@ -842,7 +842,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 41.7,
+        "ownPct": 41.2,
         "points": 56
       },
       {
@@ -852,7 +852,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 34,
+        "ownPct": 33.7,
         "points": 24
       },
       {
@@ -862,7 +862,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 28,
+        "ownPct": 27.9,
         "points": 33
       },
       {
@@ -872,7 +872,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 25.9,
+        "ownPct": 26,
         "points": 38
       },
       {
@@ -882,7 +882,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "GK",
-        "ownPct": 24.3,
+        "ownPct": 25,
         "points": 45
       },
       {
@@ -892,7 +892,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 24,
+        "ownPct": 24.7,
         "points": 44
       },
       {
@@ -902,7 +902,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "MID",
-        "ownPct": 22.1,
+        "ownPct": 22.3,
         "points": 36
       },
       {
@@ -912,7 +912,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 22,
+        "ownPct": 22.2,
         "points": 50
       },
       {
@@ -922,7 +922,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "GK",
-        "ownPct": 20.5,
+        "ownPct": 20.3,
         "points": 25
       },
       {
@@ -932,7 +932,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 19.6,
+        "ownPct": 20,
         "points": 46
       },
       {
@@ -942,7 +942,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 18.2,
+        "ownPct": 19,
         "points": 48
       },
       {
@@ -952,7 +952,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 18,
+        "ownPct": 17.9,
         "points": 35
       },
       {
@@ -962,7 +962,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 15.2,
+        "ownPct": 14.9,
         "points": 31
       },
       {
@@ -972,7 +972,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "DEF",
-        "ownPct": 14.4,
+        "ownPct": 14.2,
         "points": 13
       },
       {
@@ -982,8 +982,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 13.5,
+        "ownPct": 13.4,
         "points": 33
+      },
+      {
+        "id": 1105,
+        "name": "Dani Olmo",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "ownPct": 13.2,
+        "points": 30
       },
       {
         "id": 28,
@@ -992,18 +1002,8 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 13,
+        "ownPct": 13.1,
         "points": 25
-      },
-      {
-        "id": 498,
-        "name": "Lucas Digne",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 12.9,
-        "points": 34
       },
       {
         "id": 1082,

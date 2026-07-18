@@ -5,12 +5,12 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-18T19:18:14+00:00",
+    "generatedAt": "2026-07-18T21:59:33+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 103,
     "tournamentStart": "2026-06-11",
-    "matchesPlayed": 102,
-    "note": "102 kampe spillet — mål, assists og point er live."
+    "matchesPlayed": 103,
+    "note": "103 kampe spillet — mål, assists og point er live."
   },
   "leaderboards": {
     "topScorers": [
@@ -85,6 +85,16 @@
         "assists": 1
       },
       {
+        "id": 469,
+        "name": "Bukayo Saka",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "goals": 2,
+        "assists": 3
+      },
+      {
         "id": 1431,
         "name": "Bradley Barcola",
         "nation": "France",
@@ -135,11 +145,31 @@
         "assists": 3
       },
       {
+        "id": 488,
+        "name": "Declan Rice",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 2
+      },
+      {
         "id": 56,
         "name": "Alexis Mac Allister",
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
+        "pos": "MID",
+        "goals": 1,
+        "assists": 1
+      },
+      {
+        "id": 471,
+        "name": "Marcus Rashford",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
         "pos": "MID",
         "goals": 1,
         "assists": 1
@@ -195,12 +225,12 @@
         "assists": 0
       },
       {
-        "id": 471,
-        "name": "Marcus Rashford",
+        "id": 463,
+        "name": "Ezri Konsa",
         "nation": "England",
         "nationAbbr": "ENG",
         "group": "L",
-        "pos": "MID",
+        "pos": "DEF",
         "goals": 1,
         "assists": 0
       },
@@ -267,6 +297,16 @@
         "goals": 8
       },
       {
+        "id": 469,
+        "name": "Bukayo Saka",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "assists": 3,
+        "goals": 2
+      },
+      {
         "id": 474,
         "name": "Anthony Gordon",
         "nation": "England",
@@ -277,16 +317,6 @@
         "goals": 1
       },
       {
-        "id": 469,
-        "name": "Bukayo Saka",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "assists": 3,
-        "goals": 0
-      },
-      {
         "id": 501,
         "name": "Ousmane Dembélé",
         "nation": "France",
@@ -295,6 +325,16 @@
         "pos": "MID",
         "assists": 2,
         "goals": 5
+      },
+      {
+        "id": 488,
+        "name": "Declan Rice",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "assists": 2,
+        "goals": 1
       },
       {
         "id": 1088,
@@ -372,6 +412,16 @@
         "nation": "Argentina",
         "nationAbbr": "ARG",
         "group": "J",
+        "pos": "MID",
+        "assists": 1,
+        "goals": 1
+      },
+      {
+        "id": 471,
+        "name": "Marcus Rashford",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
         "pos": "MID",
         "assists": 1,
         "goals": 1
@@ -457,28 +507,8 @@
         "goals": 0
       },
       {
-        "id": 488,
-        "name": "Declan Rice",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
         "id": 510,
         "name": "Adrien Rabiot",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "assists": 1,
-        "goals": 0
-      },
-      {
-        "id": 515,
-        "name": "Aurélien Tchouaméni",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
@@ -506,9 +536,9 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "points": 73,
-        "avg": 10.4,
-        "form": 7.7
+        "points": 74,
+        "avg": 9.3,
+        "form": 5
       },
       {
         "id": 491,
@@ -610,15 +640,26 @@
         "form": 3.7
       },
       {
-        "id": 506,
-        "name": "Mike Maignan",
+        "id": 469,
+        "name": "Bukayo Saka",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "points": 38,
+        "avg": 5.4,
+        "form": 8
+      },
+      {
+        "id": 517,
+        "name": "Michael Olise",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
-        "pos": "GK",
-        "points": 38,
-        "avg": 5.4,
-        "form": 5
+        "pos": "MID",
+        "points": 37,
+        "avg": 4.6,
+        "form": 2.7
       },
       {
         "id": 56,
@@ -630,6 +671,17 @@
         "points": 36,
         "avg": 5.1,
         "form": 4.7
+      },
+      {
+        "id": 506,
+        "name": "Mike Maignan",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "GK",
+        "points": 36,
+        "avg": 4.5,
+        "form": 2
       },
       {
         "id": 474,
@@ -652,17 +704,6 @@
         "points": 35,
         "avg": 5,
         "form": 5
-      },
-      {
-        "id": 517,
-        "name": "Michael Olise",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "points": 35,
-        "avg": 5,
-        "form": 2.7
       },
       {
         "id": 1338,
@@ -709,6 +750,17 @@
         "form": 5
       },
       {
+        "id": 463,
+        "name": "Ezri Konsa",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "DEF",
+        "points": 32,
+        "avg": 4,
+        "form": 3.3
+      },
+      {
         "id": 1429,
         "name": "William Saliba",
         "nation": "France",
@@ -740,28 +792,6 @@
         "points": 30,
         "avg": 4.3,
         "form": 5.3
-      },
-      {
-        "id": 57,
-        "name": "Enzo Fernández",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "MID",
-        "points": 29,
-        "avg": 4.8,
-        "form": 6.7
-      },
-      {
-        "id": 1082,
-        "name": "Álex Baena",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "MID",
-        "points": 29,
-        "avg": 4.8,
-        "form": 2.7
       }
     ],
     "mostSelected": [
@@ -772,8 +802,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "FWD",
-        "ownPct": 67.5,
-        "points": 73
+        "ownPct": 67.6,
+        "points": 74
       },
       {
         "id": 38,
@@ -782,7 +812,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "FWD",
-        "ownPct": 57.2,
+        "ownPct": 57.4,
         "points": 74
       },
       {
@@ -792,8 +822,28 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 51.8,
+        "ownPct": 52,
         "points": 52
+      },
+      {
+        "id": 1092,
+        "name": "Lamine Yamal",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "MID",
+        "ownPct": 43.6,
+        "points": 25
+      },
+      {
+        "id": 517,
+        "name": "Michael Olise",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "ownPct": 43.5,
+        "points": 37
       },
       {
         "id": 468,
@@ -802,7 +852,7 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "FWD",
-        "ownPct": 45.2,
+        "ownPct": 43.1,
         "points": 50
       },
       {
@@ -812,28 +862,8 @@
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "ownPct": 43.4,
+        "ownPct": 40.9,
         "points": 58
-      },
-      {
-        "id": 517,
-        "name": "Michael Olise",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "ownPct": 43,
-        "points": 35
-      },
-      {
-        "id": 1092,
-        "name": "Lamine Yamal",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "MID",
-        "ownPct": 42.5,
-        "points": 25
       },
       {
         "id": 501,
@@ -842,7 +872,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "ownPct": 41.2,
+        "ownPct": 39.2,
         "points": 56
       },
       {
@@ -852,7 +882,7 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "GK",
-        "ownPct": 33.7,
+        "ownPct": 33.4,
         "points": 24
       },
       {
@@ -872,18 +902,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "GK",
-        "ownPct": 26,
-        "points": 38
-      },
-      {
-        "id": 1099,
-        "name": "Unai Simón",
-        "nation": "Spain",
-        "nationAbbr": "ESP",
-        "group": "H",
-        "pos": "GK",
-        "ownPct": 25,
-        "points": 45
+        "ownPct": 26.5,
+        "points": 36
       },
       {
         "id": 1094,
@@ -892,18 +912,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "FWD",
-        "ownPct": 24.7,
+        "ownPct": 26.2,
         "points": 44
       },
       {
-        "id": 56,
-        "name": "Alexis Mac Allister",
-        "nation": "Argentina",
-        "nationAbbr": "ARG",
-        "group": "J",
-        "pos": "MID",
-        "ownPct": 22.3,
-        "points": 36
+        "id": 1099,
+        "name": "Unai Simón",
+        "nation": "Spain",
+        "nationAbbr": "ESP",
+        "group": "H",
+        "pos": "GK",
+        "ownPct": 25.8,
+        "points": 45
       },
       {
         "id": 1086,
@@ -912,18 +932,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 22.2,
+        "ownPct": 22.6,
         "points": 50
       },
       {
-        "id": 477,
-        "name": "Jordan Pickford",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "GK",
-        "ownPct": 20.3,
-        "points": 25
+        "id": 56,
+        "name": "Alexis Mac Allister",
+        "nation": "Argentina",
+        "nationAbbr": "ARG",
+        "group": "J",
+        "pos": "MID",
+        "ownPct": 22.5,
+        "points": 36
       },
       {
         "id": 1089,
@@ -932,7 +952,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 20,
+        "ownPct": 20.3,
         "points": 46
       },
       {
@@ -942,8 +962,18 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "DEF",
-        "ownPct": 19,
+        "ownPct": 20.2,
         "points": 48
+      },
+      {
+        "id": 477,
+        "name": "Jordan Pickford",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "GK",
+        "ownPct": 19.5,
+        "points": 25
       },
       {
         "id": 494,
@@ -952,7 +982,7 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 17.9,
+        "ownPct": 17,
         "points": 35
       },
       {
@@ -962,28 +992,8 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "DEF",
-        "ownPct": 14.9,
+        "ownPct": 14.6,
         "points": 31
-      },
-      {
-        "id": 457,
-        "name": "Nico O'Reilly",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "DEF",
-        "ownPct": 14.2,
-        "points": 13
-      },
-      {
-        "id": 1430,
-        "name": "Jules Koundé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "ownPct": 13.4,
-        "points": 33
       },
       {
         "id": 1105,
@@ -992,7 +1002,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 13.2,
+        "ownPct": 14,
         "points": 30
       },
       {
@@ -1002,8 +1012,28 @@
         "nationAbbr": "ARG",
         "group": "J",
         "pos": "DEF",
-        "ownPct": 13.1,
+        "ownPct": 13.3,
         "points": 25
+      },
+      {
+        "id": 457,
+        "name": "Nico O'Reilly",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "DEF",
+        "ownPct": 13.2,
+        "points": 13
+      },
+      {
+        "id": 1430,
+        "name": "Jules Koundé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "ownPct": 12.7,
+        "points": 33
       },
       {
         "id": 1082,
@@ -1012,7 +1042,7 @@
         "nationAbbr": "ESP",
         "group": "H",
         "pos": "MID",
-        "ownPct": 12.9,
+        "ownPct": 12.7,
         "points": 29
       }
     ]

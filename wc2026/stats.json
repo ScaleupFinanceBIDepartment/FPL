@@ -5,7 +5,7 @@
       "name": "SuF",
       "joinCode": "2SPXEBAF"
     },
-    "generatedAt": "2026-07-18T21:59:33+00:00",
+    "generatedAt": "2026-07-19T03:42:07+00:00",
     "dataSource": "https://play.fifa.com/json/fantasy/*",
     "playerCount": 103,
     "tournamentStart": "2026-06-11",
@@ -14,6 +14,16 @@
   },
   "leaderboards": {
     "topScorers": [
+      {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "goals": 10,
+        "assists": 4
+      },
       {
         "id": 38,
         "name": "Lionel Messi",
@@ -25,14 +35,24 @@
         "assists": 4
       },
       {
-        "id": 500,
-        "name": "Kylian Mbappé",
+        "id": 491,
+        "name": "Jude Bellingham",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "goals": 7,
+        "assists": 1
+      },
+      {
+        "id": 501,
+        "name": "Ousmane Dembélé",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
-        "pos": "FWD",
-        "goals": 8,
-        "assists": 3
+        "pos": "MID",
+        "goals": 6,
+        "assists": 2
       },
       {
         "id": 468,
@@ -45,26 +65,6 @@
         "assists": 1
       },
       {
-        "id": 491,
-        "name": "Jude Bellingham",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "goals": 6,
-        "assists": 1
-      },
-      {
-        "id": 501,
-        "name": "Ousmane Dembélé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "goals": 5,
-        "assists": 2
-      },
-      {
         "id": 1094,
         "name": "Mikel Oyarzabal",
         "nation": "Spain",
@@ -73,6 +73,16 @@
         "pos": "FWD",
         "goals": 5,
         "assists": 1
+      },
+      {
+        "id": 469,
+        "name": "Bukayo Saka",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "goals": 3,
+        "assists": 3
       },
       {
         "id": 1338,
@@ -85,23 +95,13 @@
         "assists": 1
       },
       {
-        "id": 469,
-        "name": "Bukayo Saka",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "goals": 2,
-        "assists": 3
-      },
-      {
         "id": 1431,
         "name": "Bradley Barcola",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "goals": 2,
+        "goals": 3,
         "assists": 1
       },
       {
@@ -273,8 +273,18 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "assists": 5,
+        "assists": 7,
         "goals": 0
+      },
+      {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "assists": 4,
+        "goals": 10
       },
       {
         "id": 38,
@@ -287,16 +297,6 @@
         "goals": 8
       },
       {
-        "id": 500,
-        "name": "Kylian Mbappé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "FWD",
-        "assists": 3,
-        "goals": 8
-      },
-      {
         "id": 469,
         "name": "Bukayo Saka",
         "nation": "England",
@@ -304,7 +304,7 @@
         "group": "L",
         "pos": "MID",
         "assists": 3,
-        "goals": 2
+        "goals": 3
       },
       {
         "id": 474,
@@ -324,7 +324,7 @@
         "group": "I",
         "pos": "MID",
         "assists": 2,
-        "goals": 5
+        "goals": 6
       },
       {
         "id": 488,
@@ -357,22 +357,22 @@
         "goals": 0
       },
       {
-        "id": 468,
-        "name": "Harry Kane",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "FWD",
-        "assists": 1,
-        "goals": 6
-      },
-      {
         "id": 491,
         "name": "Jude Bellingham",
         "nation": "England",
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
+        "assists": 1,
+        "goals": 7
+      },
+      {
+        "id": 468,
+        "name": "Harry Kane",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "FWD",
         "assists": 1,
         "goals": 6
       },
@@ -404,7 +404,7 @@
         "group": "I",
         "pos": "MID",
         "assists": 1,
-        "goals": 2
+        "goals": 3
       },
       {
         "id": 56,
@@ -507,17 +507,28 @@
         "goals": 0
       },
       {
-        "id": 510,
-        "name": "Adrien Rabiot",
+        "id": 494,
+        "name": "Dayot Upamecano",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
-        "pos": "MID",
+        "pos": "DEF",
         "assists": 1,
         "goals": 0
       }
     ],
     "topPoints": [
+      {
+        "id": 500,
+        "name": "Kylian Mbappé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "FWD",
+        "points": 90,
+        "avg": 11.3,
+        "form": 10.3
+      },
       {
         "id": 38,
         "name": "Lionel Messi",
@@ -530,26 +541,15 @@
         "form": 8
       },
       {
-        "id": 500,
-        "name": "Kylian Mbappé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "FWD",
-        "points": 74,
-        "avg": 9.3,
-        "form": 5
-      },
-      {
         "id": 491,
         "name": "Jude Bellingham",
         "nation": "England",
         "nationAbbr": "ENG",
         "group": "L",
         "pos": "MID",
-        "points": 58,
-        "avg": 8.3,
-        "form": 10.3
+        "points": 65,
+        "avg": 8.1,
+        "form": 7.7
       },
       {
         "id": 501,
@@ -558,9 +558,9 @@
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "points": 56,
-        "avg": 8,
-        "form": 5
+        "points": 63,
+        "avg": 7.9,
+        "form": 6.3
       },
       {
         "id": 1088,
@@ -607,6 +607,17 @@
         "form": 8.3
       },
       {
+        "id": 469,
+        "name": "Bukayo Saka",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "MID",
+        "points": 46,
+        "avg": 6.6,
+        "form": 10.7
+      },
+      {
         "id": 1089,
         "name": "Pau Cubarsí",
         "nation": "Spain",
@@ -629,6 +640,17 @@
         "form": 5.7
       },
       {
+        "id": 517,
+        "name": "Michael Olise",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "MID",
+        "points": 45,
+        "avg": 5.6,
+        "form": 5.3
+      },
+      {
         "id": 1094,
         "name": "Mikel Oyarzabal",
         "nation": "Spain",
@@ -640,26 +662,26 @@
         "form": 3.7
       },
       {
-        "id": 469,
-        "name": "Bukayo Saka",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "MID",
-        "points": 38,
-        "avg": 5.4,
-        "form": 8
-      },
-      {
-        "id": 517,
-        "name": "Michael Olise",
+        "id": 1431,
+        "name": "Bradley Barcola",
         "nation": "France",
         "nationAbbr": "FRA",
         "group": "I",
         "pos": "MID",
-        "points": 37,
-        "avg": 4.6,
-        "form": 2.7
+        "points": 40,
+        "avg": 5,
+        "form": 3.7
+      },
+      {
+        "id": 494,
+        "name": "Dayot Upamecano",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "points": 38,
+        "avg": 4.8,
+        "form": 3.7
       },
       {
         "id": 56,
@@ -695,17 +717,6 @@
         "form": 7
       },
       {
-        "id": 494,
-        "name": "Dayot Upamecano",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "points": 35,
-        "avg": 5,
-        "form": 5
-      },
-      {
         "id": 1338,
         "name": "Lautaro Martínez",
         "nation": "Argentina",
@@ -724,8 +735,19 @@
         "group": "I",
         "pos": "DEF",
         "points": 34,
-        "avg": 6.8,
-        "form": 5.3
+        "avg": 5.7,
+        "form": 2.3
+      },
+      {
+        "id": 1430,
+        "name": "Jules Koundé",
+        "nation": "France",
+        "nationAbbr": "FRA",
+        "group": "I",
+        "pos": "DEF",
+        "points": 34,
+        "avg": 4.3,
+        "form": 3
       },
       {
         "id": 1318,
@@ -739,28 +761,6 @@
         "form": 1.3
       },
       {
-        "id": 1430,
-        "name": "Jules Koundé",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "DEF",
-        "points": 33,
-        "avg": 4.7,
-        "form": 5
-      },
-      {
-        "id": 463,
-        "name": "Ezri Konsa",
-        "nation": "England",
-        "nationAbbr": "ENG",
-        "group": "L",
-        "pos": "DEF",
-        "points": 32,
-        "avg": 4,
-        "form": 3.3
-      },
-      {
         "id": 1429,
         "name": "William Saliba",
         "nation": "France",
@@ -772,17 +772,6 @@
         "form": 5
       },
       {
-        "id": 1431,
-        "name": "Bradley Barcola",
-        "nation": "France",
-        "nationAbbr": "FRA",
-        "group": "I",
-        "pos": "MID",
-        "points": 31,
-        "avg": 4.4,
-        "form": 1.3
-      },
-      {
         "id": 1105,
         "name": "Dani Olmo",
         "nation": "Spain",
@@ -792,6 +781,17 @@
         "points": 30,
         "avg": 4.3,
         "form": 5.3
+      },
+      {
+        "id": 463,
+        "name": "Ezri Konsa",
+        "nation": "England",
+        "nationAbbr": "ENG",
+        "group": "L",
+        "pos": "DEF",
+        "points": 30,
+        "avg": 3.8,
+        "form": 2.7
       }
     ],
     "mostSelected": [
@@ -803,7 +803,7 @@
         "group": "I",
         "pos": "FWD",
         "ownPct": 67.6,
-        "points": 74
+        "points": 90
       },
       {
         "id": 38,
@@ -843,7 +843,7 @@
         "group": "I",
         "pos": "MID",
         "ownPct": 43.5,
-        "points": 37
+        "points": 45
       },
       {
         "id": 468,
@@ -863,7 +863,7 @@
         "group": "L",
         "pos": "MID",
         "ownPct": 40.9,
-        "points": 58
+        "points": 65
       },
       {
         "id": 501,
@@ -873,7 +873,7 @@
         "group": "I",
         "pos": "MID",
         "ownPct": 39.2,
-        "points": 56
+        "points": 63
       },
       {
         "id": 45,
@@ -983,7 +983,7 @@
         "group": "I",
         "pos": "DEF",
         "ownPct": 17,
-        "points": 35
+        "points": 38
       },
       {
         "id": 1429,
@@ -1033,7 +1033,7 @@
         "group": "I",
         "pos": "DEF",
         "ownPct": 12.7,
-        "points": 33
+        "points": 34
       },
       {
         "id": 1082,

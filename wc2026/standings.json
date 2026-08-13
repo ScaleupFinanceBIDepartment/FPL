@@ -3,9 +3,9 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-08-13T07:47:02+00:00",
-  "status": "ok",
-  "message": "Stilling hentet.",
+  "fetchedAt": "2026-08-13T10:17:35+00:00",
+  "status": "error",
+  "message": "Kunne ikke hente stilling: cookie auth HTTP 404. Forny FIFA_COOKIE eller tjek bot-login.",
   "entries": [
     {
       "rank": 1,

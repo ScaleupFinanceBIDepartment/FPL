@@ -3,7 +3,7 @@
     "id": 128462,
     "name": "SuF"
   },
-  "fetchedAt": "2026-08-18T21:32:30+00:00",
+  "fetchedAt": "2026-08-19T01:47:12+00:00",
   "status": "error",
   "message": "Kunne ikke hente stilling: cookie auth HTTP 404. Forny FIFA_COOKIE eller tjek bot-login.",
   "entries": [
